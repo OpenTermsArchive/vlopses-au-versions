@@ -266,7 +266,7 @@ Port, download or delete your information
 
 [Delete your information or account](https://privacycenter.instagram.com/policy/?annotations[0]=6.ex.2-DeleteYourInformationOr)
 
-You can learn more about how privacy works on [Facebook](https://privacycenter.instagram.com/) and on [Instagram](https://help.instagram.com/196883487377501?ref=dp), and in the [Facebook Help Center](https://www.facebook.com/help/). If you have questions about this policy, you can [contact us](https://www.facebook.com/help/contact/507739850846588) as described below. In some countries, you may also be able to contact the Data Protection Officer for Meta Platforms, Inc., and depending on your jurisdiction, you may also contact your local Data Protection Authority (“DPA”) directly.
+You can learn more about how privacy works on [Facebook](https://privacycenter.instagram.com/) and on [Instagram](https://help.instagram.com/196883487377501?ref=dp), and in the [Facebook Help Center](https://www.facebook.com/help/). If you have questions about this policy, you can [contact us](https://www.facebook.com/help/contact/507739850846588) as described below. In some countries, you may also be able to contact the Data Protection Officer for Meta Platforms, Inc., and depending on your jurisdiction, you may also [contact](https://facebook.com/legal/1026190748293197) your local Data Protection Authority (“DPA”) directly.
 
 How long do we keep your information?
 
