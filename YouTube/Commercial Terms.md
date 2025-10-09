@@ -1,9 +1,9 @@
 YouTube Paid Service Terms of Service
 =====================================
 
-#### Effective as of September 26, 2025 ([view previous version](https://www.youtube.com/t/terms_paidservice?archive=20240701-en))
+#### September 26, 2025 నుండి అమలులో ఉంది ([మునుపటి వెర్షన్‌ని చూడండి](https://www.youtube.com/t/terms_paidservice?archive=20240701-en))
 
-#### View the Terms of Service in other languages: [English](https://www.youtube.com/t/terms_paidservice?hl=en&override_hl=1)
+#### सेवा की शर्तें अन्य भाषाओं में देखें: [English](https://www.youtube.com/t/terms_paidservice?hl=en&override_hl=1)
 
 Welcome to YouTube Paid Services!
 
