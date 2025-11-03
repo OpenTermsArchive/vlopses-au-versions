@@ -55,15 +55,15 @@ The difference between copyright and trademark
 Copyright and Posting Content on Instagram
 ------------------------------------------
 
-How to make sure that content you post to Instagram or Threads doesn't violate copyright law
+How to make sure content you post to Instagram or Threads doesn't violate copyright law
 
 What are fair use and other exceptions to copyright?
 
 Can I still violate another person's copyright on Instagram or Threads if I didn't intend to infringe?
 
-What to do if content that you posted on Instagram or Threads is removed because it was reported for intellectual property infringement
+What to do if content you posted on Instagram or Threads gets removed because it was reported for intellectual property infringement
 
-What happens if you repeatedly post content on Instagram or Threads that violates someone else's intellectual property rights
+What happens if you repeatedly post content on Instagram or Threads that violates someone else’s intellectual property rights
 
 How Instagram and Threads process United States Digital Millennium Copyright Act (DMCA) counter-notifications
 
@@ -74,11 +74,11 @@ Report copyright infringement on Instagram or Threads
 
 What to consider before submitting an intellectual property infringement report to Instagram or Threads
 
-Can I report an infringement of someone else's intellectual property on Instagram or Threads?
+Can I report an infringement of someone else’s intellectual property on Instagram or Threads?
 
 How to contact Threads or Instagram's Digital Millennium Copyright Act (DMCA) designated agent
 
-Information that you need to include in a copyright report to Instagram or Threads
+Information you need to include in a copyright report to Instagram or Threads
 
 Instagram or Threads removed content as a result of your copyright report. What information is sent to the person who posted that content
 
@@ -884,9 +884,9 @@ How to appeal the removal of content on Instagram or Threads for copyright reaso
 
 If your content was removed because of a copyright report, you can submit an appeal or a DMCA counter-notification. You received instructions in the message we sent you.
 
-*   If we have informed you that content you posted was removed under the notice and counter-notice procedures of the United States Digital Millennium Copyright Act (DMCA), you may be able to file a DMCA counter-notification. Learn more about [DMCA counter-notifications](https://l.facebook.com/l.php?u=https%3A%2F%2Fhelp.instagram.com%2F697328657009330%3Fhelpref%3Dfaq_content).
+*   If we have informed you that content you've posted was removed under the notice and counter-notice procedures of the United States Digital Millennium Copyright Act (DMCA), you may be able to file a DMCA counter-notification. Learn more about [DMCA counter-notifications](https://l.facebook.com/l.php?u=https%3A%2F%2Fhelp.instagram.com%2F697328657009330%3Fhelpref%3Dfaq_content).
 
-*   If your content was removed because of a copyright report submitted outside the DMCA procedures, you can submit an appeal. Instructions about how to submit an appeal are included in the message we have sent you. If your account has been disabled, you can submit an appeal by logging into your account and following the on-screen instructions.
+*   If your content was removed because of a copyright report submitted outside the DMCA procedures, you can submit an appeal. Instructions about how to submit an appeal are included in the message that we have sent you. If your account has been disabled, you can submit an appeal by logging in to your account and following the on-screen instructions.
 *   Once we are in receipt of a valid and adequately substantiated appeal, we will review it expeditiously. Appeals can often be resolved quickly when our requests for further information are responded to promptly, where the content in question is not infringing and does not violate our Terms of Service or Community Standards, or where the initial report was a mistake. Appeal decisions can take longer in circumstances where additional review or analysis by our teams is required.
 
 If you are uncertain whether you should file an appeal or a DMCA counter-notification, you may want to seek legal advice. Please note that if your content was removed for reasons unrelated to a copyright report, you may not receive a response from us.
