@@ -410,6 +410,8 @@ _Age, Parental and Guardian Consent._ If you are below 16 years old or under gua
 
 If you do not have consent from your parent(s) or legal guardian(s) and your parent(s) or legal guardian(s) is not willing to open the account under their name, you must cease accessing the Platform if you are not at least 16 years of age.
 
+Nothing in this Privacy Policy shall be construed as a waiver or limitation to statutory consumer rights that cannot be contractually limited under applicable laws.
+
 ### **Other Jurisdictions**
 
 In jurisdictions where the national or official language is not English, the version of the TikTok Privacy Policy in your local language may set out additional terms specific to your jurisdiction. Please also refer to the version of this Privacy Policy in your local language for further information.
