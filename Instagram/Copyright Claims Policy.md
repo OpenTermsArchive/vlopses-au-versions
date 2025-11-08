@@ -117,24 +117,24 @@ The difference between copyright and trademark
 Trademark and Posting Content on Instagram
 ------------------------------------------
 
-How to make sure the content you post to Instagram or Threads don't violate trademark law
+How to make sure that the content you post to Instagram or Threads don't violate trademark law
 
-Content I posted on Instagram or Threads was removed because it was reported for intellectual property infringement. What are my next steps?
+Content that I posted on Instagram or Threads was removed because it was reported for intellectual property infringement. What are my next steps?
 
-What happens if you repeatedly post content on Instagram or Threads that violates someone else’s intellectual property rights
+What happens if you repeatedly post content on Instagram or Threads that violates someone else's intellectual property rights
 
 Reporting Trademark Infringement on Instagram
 ---------------------------------------------
 
 How to report trademark infringement on Instagram or Threads
 
-Can I report an infringement of someone else’s intellectual property on Instagram or Threads?
+Can I report an infringement of someone else's intellectual property on Instagram or Threads?
 
 How to report a username on Instagram or Threads for infringing my trademark
 
 What to consider before submitting an intellectual property infringement report to Instagram or Threads
 
-Information you need to include in a trademark report on Instagram or Threads
+Information that you need to include in a trademark report on Instagram or Threads
 
 What happens when you submit a trademark report to Instagram or Threads
 
@@ -884,9 +884,9 @@ How to appeal the removal of content on Instagram or Threads for copyright reaso
 
 If your content was removed because of a copyright report, you can submit an appeal or a DMCA counter-notification. You received instructions in the message we sent you.
 
-*   If we have informed you that content you've posted was removed under the notice and counter-notice procedures of the United States Digital Millennium Copyright Act (DMCA), you may be able to file a DMCA counter-notification. Learn more about [DMCA counter-notifications](https://l.facebook.com/l.php?u=https%3A%2F%2Fhelp.instagram.com%2F697328657009330%3Fhelpref%3Dfaq_content).
+*   If we have informed you that content you posted was removed under the notice and counter-notice procedures of the United States Digital Millennium Copyright Act (DMCA), you may be able to file a DMCA counter-notification. Learn more about [DMCA counter-notifications](https://l.facebook.com/l.php?u=https%3A%2F%2Fhelp.instagram.com%2F697328657009330%3Fhelpref%3Dfaq_content).
 
-*   If your content was removed because of a copyright report submitted outside the DMCA procedures, you can submit an appeal. Instructions about how to submit an appeal are included in the message that we have sent you. If your account has been disabled, you can submit an appeal by logging in to your account and following the on-screen instructions.
+*   If your content was removed because of a copyright report submitted outside the DMCA procedures, you can submit an appeal. Instructions about how to submit an appeal are included in the message we have sent you. If your account has been disabled, you can submit an appeal by logging into your account and following the on-screen instructions.
 *   Once we are in receipt of a valid and adequately substantiated appeal, we will review it expeditiously. Appeals can often be resolved quickly when our requests for further information are responded to promptly, where the content in question is not infringing and does not violate our Terms of Service or Community Standards, or where the initial report was a mistake. Appeal decisions can take longer in circumstances where additional review or analysis by our teams is required.
 
 If you are uncertain whether you should file an appeal or a DMCA counter-notification, you may want to seek legal advice. Please note that if your content was removed for reasons unrelated to a copyright report, you may not receive a response from us.
