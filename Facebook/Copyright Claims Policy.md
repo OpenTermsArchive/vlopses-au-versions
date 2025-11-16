@@ -271,14 +271,14 @@ Related Articles
 - - -
 
 *   [Policies](https://www.facebook.com/help/463972400461409/?helpref=breadcrumb)
-*   [Intellectual Property](https://www.facebook.com/help/399224883474207/?helpref=breadcrumb)
+*   [Intellectual property](https://www.facebook.com/help/399224883474207/?helpref=breadcrumb)
 
 How long does trademark protection last?
 ========================================
 
-Trademark rights may last indefinitely, but only if the trademark owner continues to use the trademark in commerce to identify their products or services. If a trademark owner stops using the trademark, or if it isn’t used properly, they might lose their trademark rights.
+Trademark rights may last indefinitely, but only if the trademark owner continues to use the trademark in commerce to identify their products or services. If a trademark owner stops using the trademark, or if it isn't used properly, they might lose their trademark rights.
 
-For trademarks that are registered with the United States Patent and Trademark Office (USPTO), registrations must be renewed periodically. For trademarks that are registered with the European Union Intellectual Property Office (EUIPO), registration lasts for 10 years and may be renewed indefinitely. The laws in other jurisdictions may vary.
+For trademarks that are registered with the United States Patent and Trademark Office (USPTO), registrations must be renewed periodically. For trademarks that are registered with the European Union Intellectual Property Office (EUIPO), registration lasts for ten years and may be renewed indefinitely. The laws in other jurisdictions may vary.
 
 Related Articles
 ----------------
@@ -291,7 +291,7 @@ Related Articles
 
 [Trademark](https://www.facebook.com/help/507663689427413/?helpref=related_articles)
 
-[What’s the difference between copyright and trademark?](https://www.facebook.com/help/339026683156879/?helpref=related_articles)
+[What's the difference between copyright and trademark?](https://www.facebook.com/help/339026683156879/?helpref=related_articles)
 
 Related Articles
 
@@ -303,7 +303,7 @@ Related Articles
 
 [Trademark](https://www.facebook.com/help/507663689427413/?helpref=related_articles)
 
-[What’s the difference between copyright and trademark?](https://www.facebook.com/help/339026683156879/?helpref=related_articles)
+[What's the difference between copyright and trademark?](https://www.facebook.com/help/339026683156879/?helpref=related_articles)
 
 - - -
 
@@ -390,16 +390,16 @@ Related Articles
 - - -
 
 *   [Policies](https://www.facebook.com/help/463972400461409/?helpref=breadcrumb)
-*   [Intellectual Property](https://www.facebook.com/help/399224883474207/?helpref=breadcrumb)
+*   [Intellectual property](https://www.facebook.com/help/399224883474207/?helpref=breadcrumb)
 
-What’s the difference between copyright and trademark?
+What's the difference between copyright and trademark?
 ======================================================
 
-The law in most countries recognizes copyrights as well as trademarks. Copyright law and trademark law serve two different purposes.
+The law in most countries recognises copyrights as well as trademarks. Copyright law and trademark law serve two different purposes.
 
-[Copyright](https://www.facebook.com/help/116772962146447?helpref=faq_content) is meant to foster creativity and to provide incentives to create original works of authorship for the benefit of the public. Copyright protects original works like photos, videos, movies and music. It’s also important to note that, in the U.S., the Digital Millennium Copyright Act (DMCA) applies only to copyrights and doesn’t apply to trademarks.
+[Copyright](https://www.facebook.com/help/116772962146447?helpref=faq_content) is meant to foster creativity and to provide incentives to create original works of authorship for the benefit of the public. Copyright protects original works such as photos, videos, films and music. It's also important to note that, in the US, the Digital Millennium Copyright Act (DMCA) applies only to copyrights and doesn't apply to trademarks.
 
-[Trademark](https://www.facebook.com/help/1378807958858854?helpref=faq_content) law is meant to prevent consumer harm because it prohibits someone other than the rights owner from using a trademark (for example, a brand’s logo) in a way that may confuse consumers. Trademark law protects brand names, slogans, logos or other symbols that help consumers identify the source of goods or services.
+[Trademark](https://www.facebook.com/help/1378807958858854?helpref=faq_content) law is meant to prevent consumer harm because it prohibits someone other than the rights owner from using a trademark (e.g. a brand's logo) in a way that may confuse consumers. Trademark law protects brand names, slogans, logos or other symbols that help consumers identify the source of goods or services.
 
 Related Articles
 ----------------
@@ -408,11 +408,11 @@ Related Articles
 
 [What is trademark infringement?](https://www.facebook.com/help/349534658401968/?helpref=related_articles)
 
-[What are fair use and other exceptions to copyright](https://www.facebook.com/help/337995452911154/?helpref=related_articles)
+[What are fair use and other exceptions to copyright?](https://www.facebook.com/help/337995452911154/?helpref=related_articles)
 
 [Does a trademark need to be registered to be protected?](https://www.facebook.com/help/1430594943641002/?helpref=related_articles)
 
-[What is copyright and what does it protect?](https://www.facebook.com/help/116772962146447/?helpref=related_articles)
+[How long does trademark protection last?](https://www.facebook.com/help/1823502941230538/?helpref=related_articles)
 
 Related Articles
 
@@ -420,11 +420,11 @@ Related Articles
 
 [What is trademark infringement?](https://www.facebook.com/help/349534658401968/?helpref=related_articles)
 
-[What are fair use and other exceptions to copyright](https://www.facebook.com/help/337995452911154/?helpref=related_articles)
+[What are fair use and other exceptions to copyright?](https://www.facebook.com/help/337995452911154/?helpref=related_articles)
 
 [Does a trademark need to be registered to be protected?](https://www.facebook.com/help/1430594943641002/?helpref=related_articles)
 
-[What is copyright and what does it protect?](https://www.facebook.com/help/116772962146447/?helpref=related_articles)
+[How long does trademark protection last?](https://www.facebook.com/help/1823502941230538/?helpref=related_articles)
 
 - - -
 
@@ -842,27 +842,27 @@ Related Articles
 - - -
 
 *   [Policies](https://www.facebook.com/help/463972400461409/?helpref=breadcrumb)
-*   [Intellectual Property](https://www.facebook.com/help/399224883474207/?helpref=breadcrumb)
+*   [Intellectual property](https://www.facebook.com/help/399224883474207/?helpref=breadcrumb)
 
 Report an advertisement for intellectual property infringement on Facebook
 ==========================================================================
 
 If you own a registered trademark, you may be eligible to use Brand Rights Protection. This tool allows you to identify trademark violations, counterfeit products and copyright infringement across Meta technologies such as Facebook and Instagram. Learn more about [Brand Rights Protection](https://www.facebook.com/business/help/828925381043253?helpref=faq_content), including how to apply.
 
-If you don’t have access to Brand Rights Protection, and you believe content on Facebook is infringing your intellectual property rights, you can report it to us through one of the following forms:
+If you don't have access to Brand Rights Protection, and you believe that content on Facebook is infringing your intellectual property rights, you can report it to us through one of the following forms:
 
 *   [Copyright](https://www.facebook.com/help/ipreporting/report/copyright)
 *   [Trademark](https://www.facebook.com/help/ipreporting/report/trademark)
 *   [Counterfeit](https://www.facebook.com/help/ipreporting/report/counterfeit)
 
-If you use business manager, you can also [report intellectual property infringement](https://business.facebook.com/help/ipreporting). If not, you can use the [Intellectual Property Reporting Center](https://www.facebook.com/help/ipreporting).
+If you use business manager, you can also [report intellectual property infringement](https://business.facebook.com/help/ipreporting). If not, you can use the [Intellectual Property Reporting Centre](https://www.facebook.com/help/ipreporting).
 
-Reported content will be reviewed by our IP operations team. If you submit a report, please include a direct link to the ad. If you don’t have a direct link to the ad, you can attach a screenshot to your report.
+Reported content will be reviewed by our IP operations team. If you submit a report, please include a direct link to the ad. If you don't have a direct link to the ad, you can attach a screenshot to your report.
 
 Report an advertisement on Facebook
 -----------------------------------
 
-1.  Click ![](https://static.xx.fbcdn.net/assets/?set=che_icons&name=comet-threedot-desktop&density=1) **Options** next to the ad you want to report.
+1.  Click ![](https://static.xx.fbcdn.net/assets/?set=che_icons&name=comet-threedot-desktop&density=1) **Options** next to the ad that you want to report.
 2.  Click **Report ad** and follow the on-screen instructions.
 
 Related Articles
@@ -876,7 +876,7 @@ Related Articles
 
 [Retract an intellectual property report that you've submitted to Facebook](https://www.facebook.com/help/1206218382801108/?helpref=related_articles)
 
-[Can I report an infringement of someone else’s intellectual property on Facebook?](https://www.facebook.com/help/401678573192627/?helpref=related_articles)
+[Can I report an infringement of someone else's intellectual property on Facebook?](https://www.facebook.com/help/401678573192627/?helpref=related_articles)
 
 Related Articles
 
@@ -888,7 +888,7 @@ Related Articles
 
 [Retract an intellectual property report that you've submitted to Facebook](https://www.facebook.com/help/1206218382801108/?helpref=related_articles)
 
-[Can I report an infringement of someone else’s intellectual property on Facebook?](https://www.facebook.com/help/401678573192627/?helpref=related_articles)
+[Can I report an infringement of someone else's intellectual property on Facebook?](https://www.facebook.com/help/401678573192627/?helpref=related_articles)
 
 - - -
 
@@ -1121,29 +1121,29 @@ What tools does Facebook provide to help me enforce my intellectual property rig
 - - -
 
 *   [Policies](https://www.facebook.com/help/463972400461409/?helpref=breadcrumb)
-*   [Intellectual Property](https://www.facebook.com/help/399224883474207/?helpref=breadcrumb)
+*   [Intellectual property](https://www.facebook.com/help/399224883474207/?helpref=breadcrumb)
 
 What is copyright and what does it protect?
 ===========================================
 
-In most countries, copyright is a legal right that protects original works of authorship. Typically, if you create an original work, you have a copyright from the moment you create it.
+In most countries, copyright is a legal right that protects original works of authorship. Typically, if you create an original work, you have a copyright from the moment that you create it.
 
 Copyright covers a wide variety of types of works, including:
 
-*   Visual or audiovisual works: videos, movies, TV shows and broadcasts, video games, paintings, photographs
+*   Visual or audiovisual works: videos, films, TV shows and broadcasts, video games, paintings, photographs
 *   Audio works: songs, musical compositions, sound recordings, spoken word recordings
 *   Literary works: books, plays, manuscripts, articles, musical scores
 
-Please note, only an original work is eligible for copyright protection. To be original enough for copyright protection, a work needs to be created by the author themselves and have some minimal amount of creativity.
+Please note that only an original work is eligible for copyright protection. To be original enough for copyright protection, a work needs to be created by the author themselves and have some minimal amount of creativity.
 
-Generally, names, titles, slogans or short phrases aren't considered to be original enough to qualify for copyright protection. For example, the symbol “+” is likely not subject to copyright, but a painting full of shapes and colors arranged in a unique pattern is likely protected by copyright.
+Generally, names, titles, slogans or short phrases aren't considered to be original enough to qualify for copyright protection. For example, the symbol "+" is not likely to be subject to copyright, but a painting full of shapes and colours arranged in a unique pattern is likely to be protected by copyright.
 
-Copyright generally doesn’t protect facts or ideas, but it may protect the original words or images that express a fact or idea. This means that you may be able to express the same idea or fact as another author, as long as you don’t copy that author’s way of expressing that idea or fact. For example, a playwright may not be able to copyright the idea of a man waking up to repeat the same day over and over again, but the script for a play or movie expressing that idea could be subject to copyright.
+Copyright generally doesn't protect facts or ideas, but it may protect the original words or images that express a fact or idea. This means that you may be able to express the same idea or fact as another author, as long as you don't copy that author's way of expressing that idea or fact. For example, a playwright may not be able to copyright the idea of a man waking up to repeat the same day over and over again, but the script for a play or movie expressing that idea could be subject to copyright.
 
 Related Articles
 ----------------
 
-[What are fair use and other exceptions to copyright](https://www.facebook.com/help/337995452911154/?helpref=related_articles)
+[What are fair use and other exceptions to copyright?](https://www.facebook.com/help/337995452911154/?helpref=related_articles)
 
 [What rights do I have as a copyright owner?](https://www.facebook.com/help/1388077314536976/?helpref=related_articles)
 
@@ -1151,11 +1151,11 @@ Related Articles
 
 [Where can I learn more about copyright?](https://www.facebook.com/help/1796523567227660/?helpref=related_articles)
 
-[What’s the difference between copyright and trademark?](https://www.facebook.com/help/339026683156879/?helpref=related_articles)
+[Copyright](https://www.facebook.com/help/1020633957973118/?helpref=related_articles)
 
 Related Articles
 
-[What are fair use and other exceptions to copyright](https://www.facebook.com/help/337995452911154/?helpref=related_articles)
+[What are fair use and other exceptions to copyright?](https://www.facebook.com/help/337995452911154/?helpref=related_articles)
 
 [What rights do I have as a copyright owner?](https://www.facebook.com/help/1388077314536976/?helpref=related_articles)
 
@@ -1163,7 +1163,7 @@ Related Articles
 
 [Where can I learn more about copyright?](https://www.facebook.com/help/1796523567227660/?helpref=related_articles)
 
-[What’s the difference between copyright and trademark?](https://www.facebook.com/help/339026683156879/?helpref=related_articles)
+[Copyright](https://www.facebook.com/help/1020633957973118/?helpref=related_articles)
 
 - - -
 
