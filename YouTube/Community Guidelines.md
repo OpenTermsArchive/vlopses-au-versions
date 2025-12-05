@@ -698,8 +698,6 @@ If you find content that violates this policy, report it. If you believe that a 
 
 Instructions for reporting violations of our Community Guidelines [are available here](https://support.google.com/youtube/answer/2802027). If you've found multiple videos or comments that you would like to report, you can [report the channel](https://support.google.com/youtube/answer/2802027).
 
-In some cases, we may make exceptions for content with [educational, documentary, scientific, or artistic context](https://support.google.com/youtube/answer/6345162), including content that is in the public’s interest.
-
 What this policy means for you
 ------------------------------
 
@@ -765,7 +763,7 @@ To protect minors on YouTube, content that doesn’t violate our policies but de
 **Note:**
 
 *   We may also apply stricter display standards to comments, posts, and live chat messages on channels owned by minors or associated with content depicting or uploaded by minors.
-*   Live streams with minors under 16 who are not visibly accompanied by an adult may be removed or have their live chat disabled. Channels not in compliance with this policy may temporarily or permanently lose their ability to live stream or access to other features.
+*   Live streams with minors under 16 who are not visibly accompanied by an adult may be removed or have their live chat disabled. Channels not in compliance with this policy may temporarily or permanently lose their ability to live stream or access to other features. 
 
 **How to protect minors in your content**
 
