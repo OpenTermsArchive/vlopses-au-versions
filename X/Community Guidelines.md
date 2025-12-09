@@ -3327,79 +3327,156 @@ Australia Online Safety Information
 
 ### Information from X
 
-X's purpose is to serve the public conversation. Violence, harassment and other similar types of behaviour discourage people from expressing themselves, and ultimately diminish the value of global public conversation. 
+X's purpose is to serve the public conversation. Violence, harassment and other similar types of behaviour discourage people from expressing themselves, and ultimately diminish the value of global public conversation.
 
-Our [Rules](https://help.x.com/en/rules-and-policies/x-rules) are to ensure all people can participate in the public conversation freely and safely. We encourage you to review our [Rules and policies](https://help.x.com/en/rules-and-policies). We have a [range of enforcement options](https://help.x.com/en/rules-and-policies/enforcement-options), which we take to reduce the risk of harm to our users, in a proportionate manner. Users can also appeal account suspensions if they believe we made an error. They can do this through the platform interface or by [filing a report](https://help.x.com/en/forms/account-access/appeals.html).
+Our [Rules](https://help.x.com/rules-and-policies/x-rules) are to ensure all people can participate in the public conversation freely and safely. We encourage you to review our [Rules and policies](https://help.x.com/rules-and-policies). We have a [range of enforcement options](https://help.x.com/rules-and-policies/enforcement-options), which we take to reduce the risk of harm to our users, in a proportionate manner. Users can also appeal account suspensions if they believe we made an error. They can do this through the platform interface or by [filing a report](https://help.x.com/forms/account-access/appeals.html).
 
-X is a place to share ideas and information, connect with your communities, and see the world around you. In order to protect the very best parts of that experience, we provide tools designed to help you control what you see and what others can see about you, so that you can express yourself on X with confidence and to make sure your experience using the X platform is safe and secure. Please refer to: [https://help.x.com/en/safety-and-security/control-your-x-experience](https://help.x.com/en/safety-and-security/control-your-x-experience) for further information.
+X is a place to share ideas and information, connect with your communities, and see the world around you. In order to protect the very best parts of that experience, we provide tools designed to help you control what you see and what others can see about you, so that you can express yourself on X with confidence and to make sure your experience using the X platform is safe and secure. Please refer to [https://help.x.com/en/safety-and-security/control-your-x-experience](https://help.x.com/en/safety-and-security/control-your-x-experience) for further information.
 
-We suggest staying informed about [account safety and security](https://help.x.com/en/safety-and-security), safeguarding your privacy, avoiding spam and scams, and consider [controlling what you see](https://help.x.com/en/safety-and-security/control-your-x-experience). Our Help Center provides answers to the most [common questions](https://help.twitter.com/en); but if you need account support, submitting a [support form](http://support.x.com/forms) ensures your request is routed to the appropriate team. 
+We suggest staying informed about [account safety and security](https://help.x.com/safety-and-security), safeguarding your privacy, avoiding spam and scams, and consider [controlling what you see](https://help.x.com/safety-and-security/control-your-x-experience). Our Help Center provides answers to the most [common questions](https://help.x.com/); but if you need account support, submitting a [support form](https://help.x.com/forms) ensures your request is routed to the appropriate team.
 
-**Information for Parents and Carers and young Australian children**  
+### Minimum age to use an X account in Australia
 
-X, as a service, is not primarily for children, but anyone above the age of 13 can sign up for the service. We recognise that minors are a more vulnerable group by virtue of their age. The [X Rules](https://help.x.com/en/rules-and-policies/x-rules) enable minors to participate in the public conversation freely and safely, and minors should rely on the X Rules (and report to X) in order to protect themselves.
+Starting 10 December 2025, you must be at least 16 years old to use an X account in Australia. This change is required by Australian law following amendments to the Online Safety Act 2021 to introduce a social media minimum age (“SMMA”).  The SMMA prevents age-restricted social media platforms, including X, from letting people under 16 create or keep an account. It's not our choice – it's what the Australian law requires.  For more details on the SMMA, refer to the eSafety Commissioner's resources available at [eSafety's Social Media Age Restrictions Hub](https://www.esafety.gov.au/about-us/industry-regulation/social-media-age-restrictions-hub). 
 
-For Australian children under the age of 16, who sign up for X, we have measures in place to make sure their experience using the platform is safe and secure. Here are some key safety and privacy features we have in place:  
+Below, we outline our age verification and estimation methods which are designed to be privacy-focused and user-friendly.
 
-*   X’s policies set the minimum age to use the service at 13. X automatically offboards anyone who does not meet our age requirements.  
-      
+### How do our age assurance methods work?
+
+Where X is legally required to do so, we take a multi-faceted age assurance approach to verify or estimate whether users are 16 or older. These are designed to be simple, private and secure. Here's what we do:
+
+#### Verification Using Existing Highly Reliable Signals
+
+Where these exist with regard to a user, we may start by assessing certain highly reliable signals in order to verify a user’s age. Such signals include:
+
+*   **Self-attested age:** If a user previously indicated their age. 
     
-*   Accounts belonging to known minors  (between 13 and 18 years old) will be defaulted to “Protected posts”. This means that known minors will receive a request when new people want to follow them (which they can approve or deny), that their posts will only be visible to their followers, and that their posts will only be searchable by them and their followers (i.e. they will not appear in public searches). Furthermore, once these accounts enter a date of birth that makes them under the age of 18, they will be stopped from re-entering a new date of birth.   
-      
+*   **ID verification**: If a user previously completed X’s [ID verification](https://help.x.com/rules-and-policies/verification-policy) process.
     
-*   Accounts belonging to known minors will be [restricted to receiving DMs](https://help.x.com/en/using-x/direct-messages#receive) from accounts they follow by default.  
-      
+*   **Legacy verified public figures:** If a user was verified according to our [Legacy Verified policy](https://help.x.com/managing-your-account/legacy-verification-policy).
     
-*   X applies restrictions to its [recommender system](https://help.x.com/rules-and-policies/recommendations) by making certain categories of potentially harmful content ineligible for inclusion.  
-      
+*   **Account creation date:** If an account was created in 2014 or earlier.
     
-*   While X permits certain types of sensitive media - including consensually produced and shared adult pornography, we restrict known minors from [accessing such media](https://help.x.com/en/rules-and-policies/notices-on-x).   
-      
+*   **Grey Badged accounts:** The grey checkmark indicates that an account represents a government/multilateral organization or official.
     
-*   Users can block accounts instantly if they do not want those accounts' posts. Users can also mute an account if they don't want to see their posts, but don't want to unfollow the account.  
-      
+*   **Gold Badged accounts:** The gold checkmark indicates that the account is an official organization account through Premium Business. 
     
-*   Users can choose who will be able to reply to their posts when posted. The default position is that everyone can reply but options are available to turn off all replies or only allow the accounts mentioned in the post to reply. A user can also change who can reply to their posts, or turn off replies, after the post has been posted.   
-      
+
+Where these signals exist, we may use them to determine whether that user is above or below a certain age, for example, 16 or over, without requiring further action from them. 
+
+#### Estimation Methods Without Further User Involvement
+
+Where we do not have the signals from the above verification methods, we may also use the following additional methods, where available, to estimate or verify that a user is under or over 18 based on information that X already has access to: 
+
+*   **Email address-based estimation:** Users’ email addresses will be used to estimate their age.
+
+#### User Involved Verification Options
+
+Users whose age X has not been able to estimate or verify in accordance with any of the other methods, including new accounts on X, can submit a government-issued ID, which will be used to verify their age by artificial intelligence systems. 
+
+#### What info we collect and how we handle it
+
+When we check your age, we might collect things like your ID details. We only use this to confirm your age and apply the right settings to your account. Data collected in this regard shall be destroyed within 31 days.
+
+**Important Note:**
+
+**Privacy and data handling:** X prioritizes your privacy. Your information is stored securely with strong protections in place and third party providers will also be bound by strict data protection standards. If some or all of the information we request is not provided, we may not be able to provide you with the services you requested, or to correctly verify your age to ensure you can access an X account. For further details on our data retention practices and privacy policies, please refer to our privacy centre [here](https://privacy.x.com/). To make a privacy complaint to the Office of the Australian Information Commissioner, please go to the OAIC website [here](https://www.oaic.gov.au/privacy/privacy-complaints/lodge-a-privacy-complaint-with-us).   
+
+#### What happens if we determine you are under 16
+
+If a user is determined to be under 16 through one of our age assurance methods, the user won't be able to use an X account until they are 16 or over and receive a notice to verify their age.  
+
+Users can download their X data at any time. Please refer [here](https://help.x.com/managing-your-account/accessing-your-x-data) for further information.
+
+Affected accounts can submit a request to access their information [here](https://help.x.com/forms/privacy/request-account-info)[.](https://help.twitter.com/forms/privacy)
+
+Requests can also be addressed to the contacts listed under the “[How To Contact Us” section of our Privacy Policy](https://x.com/privacy#chapter10).
+
+We also suggest you [cancel](https://help.x.com/using-x/subscriptions#item1) any [subscriptions](https://help.x.com/using-x/subscriptions#what-are-subs) including subscriptions to [X Premium](https://help.x.com/using-x/x-premium#tbcancel) or any of X’s other subscription offerings. 
+
+#### How can you appeal an age assurance decision
+
+If you believe we’ve incorrectly estimated your age as under 16 pursuant to one of the age assurance methods X has in place, or if you wish to reinstate your account once you are 16 or over, you can follow the instructions to ID verify your age within the account lockout notice. 
+
+#### Watch out for scams
+
+Be careful of fake messages or sites that look like they're from X asking for your information as these could be scams. Always use official X channels and never share sensitive information unless you're sure it's us.
+
+#### Reporting suspected underage accounts
+
+X allows users to report other users who they believe are under the age of 16. Any end-user in Australia (regardless of whether they have an account or are logged in) can report an account that they suspect is being used by a minor under the age of 16 by submitting a report [here](https://help.x.com/forms/safety-and-sensitive-content/underage-user).
+
+#### Get more help
+
+For extra support on online safety and the social media minimum age rules, visit the website of the eSafety Commissioner at [https://www.esafety.gov.au/parents/social-media-age-restrictions](https://www.esafety.gov.au/parents/social-media-age-restrictions). You can also get help and support from:  
+  
+[Beyond Blue](https://www.beyondblue.org.au/) – 1300 22 4636  
+[Kids Helpline](https://kidshelpline.com.au/) – 1800 55 1800  
+[Headspace](https://headspace.org.au/) – 1800 650 890  
+[Lifeline](https://www.lifeline.org.au/) – 13 11 14
+
+If you need help with your X account, contact us through the app or our support pages.
+
+### Information for Parents and Carers and young Australian children
+
+X, as a service, is not primarily for children, but anyone in Australia above the age of 16 can sign up for the service. We recognise that minors are a more vulnerable group by virtue of their age. The [X Rules](https://help.x.com/rules-and-policies/x-rules) enable minors to participate in the public conversation freely and safely, and minors should rely on the X Rules (and report to X) in order to protect themselves.
+
+For Australian children under the age of 18, who sign up for X, we have measures in place to make sure their experience using the platform is safe and secure. Here are some key safety and privacy features we have in place: 
+
+*   Due to our legal obligations under Australian law, the minimum age to use the service in Australia is 16. X automatically offboards anyone who does not meet our age requirements.
     
-*   X allows users to report other users who they believe are under the age of 13. X has set up a dedicated [reporting form](https://help.x.com/en/forms/safety-and-sensitive-content/underage-user) to permit any user to report an account that they suspect is being used by a minor under the age of 13.  
-      
+*   Accounts belonging to known minors between 16 and 18 years old will be defaulted to “Protected posts”. This means that known minors will receive a request when new people want to follow them (which they can approve or deny), that their posts will only be visible to their followers, and that their posts will only be searchable by them and their followers (i.e. they will not appear in public searches). Furthermore, once these accounts enter a date of birth that makes them under the age of 18, they will be stopped from re-entering a new date of birth. 
     
-*   X has a [policy](https://help.x.com/en/rules-and-policies/glorifying-self-harm) prohibiting users from promoting or encouraging suicide or self-harm. When someone searches for terms associated with suicide or self harm, the top search result is a notification encouraging them to reach out for help.   
-      
+*   Accounts belonging to known minors will be [restricted to receiving DMs](https://help.x.com/using-x/direct-messages#receive) from accounts they follow by default.
+    
+*   X applies restrictions to its [recommender system](https://help.x.com/rules-and-policies/recommendations) by making certain categories of potentially harmful content ineligible for inclusion.
+    
+*   While X permits certain types of sensitive media - including consensually produced and shared adult pornography, we restrict known minors from [accessing such media](https://help.x.com/rules-and-policies/notices-on-x). 
+    
+*   Users can block accounts instantly if they do not want those accounts' posts. Users can also mute an account if they don't want to see their posts, but don't want to unfollow the account.
+    
+*   Users can choose who will be able to reply to their posts when posted. The default position is that everyone can reply but options are available to turn off all replies or only allow the accounts mentioned in the post to reply. A user can also change who can reply to their posts, or turn off replies, after the post has been posted.
+    
+*   X has a [policy](https://help.x.com/rules-and-policies/glorifying-self-harm) prohibiting users from promoting or encouraging suicide or self-harm. When someone searches for terms associated with suicide or self harm, the top search result is a notification encouraging them to reach out for help. 
     
 *   X also prohibits knowingly marketing or advertising certain products and services to minors as detailed in the following policy: [Prohibited advertising content for minors](https://business.x.com/en/help/ads-policies/ads-content-policies/prohibited-content-for-minors). This policy applies to monetization on X and X’s paid advertising products, and advertisements containing age-inappropriate content will be tagged as “not family safe” and will be restricted from being shown to users under the age of 21. If an account does not have a date of birth associated with it, X infers the user’s age based on their interactions with the site.
+    
 
 Being the target of online abuse is not easy. And at X, we understand that just because the abuse is happening online, doesn’t make it any less real. You can find the following resources to keep your child’s account and experience on X safe, secure and welcoming:
 
-*   [Staying safe on X](https://help.x.com/en/forms/safety-and-sensitive-content/underage-user/x) 
+*   [Staying safe on X](https://help.x.com/forms/safety-and-sensitive-content/underage-user/x)
+    
 *   [How to protect your personal information](https://help.x.com/safety-and-security/x-privacy-settings)
+    
+*   [General information on safety and security related to your X account](https://help.x.com/safety-and-security) 
+    
+*   [Information on what content is permitted, prohibited and/or restricted under our Rules](https://help.x.com/rules-and-policies)
+    
+*   [How to report violation of X’s Rules](https://help.x.com/rules-and-policies/x-report-violation)
+    
+*   [About parental consent on X](https://help.x.com/using-x/parental-consent)
+    
+*   [X account restoration](https://help.x.com/managing-your-account/account-restoration)
+    
 
-*   [General information on safety and security related to your X account](https://help.x.com/en/safety-and-security) 
-    
-*   [Information on what content is permitted, prohibited and/or restricted under our Rules](https://help.x.com/en/rules-and-policies)
-    
-*   [How to report violation of X’s Rules](https://help.x.com/en/rules-and-policies/x-report-violation)
-    
-*   [About parental consent on X](https://help.x.com/en/using-x/parental-consent)
-    
-*   [X account restoration](https://help.x.com/en/managing-your-account/account-restoration)
-    
-
-**Online Safety in Australia - Industry codes & standards**
+### Online Safety in Australia - Industry codes & standards
 
 The [Consolidated Industry Codes of Practice for the Online Industry Head Terms](https://www.esafety.gov.au/sites/default/files/2023-09/Consolidated-Industry-Codes-of-Practice-Head-Terms-12-September-23.pdf) and the [Social Media Services Online Safety Code](https://www.esafety.gov.au/sites/default/files/2023-06/Schedule-1%E2%80%93Social-Media-Services-Online-Safety-Code-%28Class-1A-and-Class-1B-Material%29.pdf) apply to X as a provider of a social media service, available to Australian end-users. 
 
 The purpose of the Social Media Services Online Safety Code is to establish appropriate safeguards for the Australian community in relation to certain types of seriously harmful material, namely:
 
 *   Child sexual exploitation material (i.e. material that shows or describes the sexual exploitation or abuse of children);
+    
 *   Pro-terror material (i.e. material that advocates the doing of a terrorist act other than as part of public discussion, debate or as entertainment or satire);
+    
 *   Crime and violence material (i.e. material that promotes, incites or instructs in matters of crime or violence, including sexual violence, as well as material depicting excessively gory content, violent accidents, serious physical harm, assault, bestiality or necrophilia); and
+    
 *   Drug-related material (i.e. material which promotes or incites drug-related illegal activities, such as selling, buying, or facilitating transactions of drugs and controlled substances, or which depicts, expresses, promotes or encourages the abusive use of proscribed drugs).
+    
 
 [Annexure A](https://www.esafety.gov.au/sites/default/files/2023-09/Consolidated-Industry-Codes-of-Practice-Head-Terms-12-September-23.pdf) of the Head Terms to the Consolidated Industry Codes of Practice for the Online Industry  further describes all of these types of seriously harmful material.
 
-**All such material is prohibited on X in Australia**
+#### All such material is prohibited on X in Australia
 
 You can report content in violation to X.
 
@@ -3409,7 +3486,7 @@ You can make a report or complaint about the types of material summarised above 
 
 **Reporting Non-Compliance with Australian Code**
 
-You can make a complaint about: a) X’s handling of reports of Illegal Content, which is accessible on X; or b) any other aspect of X’s compliance with the Code, by making a report to X through this form. 
+You can make a complaint about: a) X’s handling of reports of Illegal Content, which is accessible on X; or b) any other aspect of X’s compliance with the Code, by making a report to X through this [form](https://help.x.com/forms/australia-report/non-compliance). 
 
 **Reporting a Post, List or Direct Message**
 
@@ -3427,11 +3504,11 @@ Users can appeal an Illegal Content Decision if they believe we made an error. T
 
 **Withholding a post or account in a country**
 
-We may withhold access to certain content in a particular country if we receive a valid and properly scoped request from an authorized entity in that country. Read more about [country withheld content](https://help.x.com/rules-and-policies/tweet-withheld-by-country).
+We may withhold access to certain content in a particular country if we receive a valid and properly scoped request from an authorized entity in that country. Read more about [country withheld content](https://help.x.com/rules-and-policies/post-withheld-by-country).
 
-Note: If you are a member of law enforcement or government, please note that the most expeditious way to submit your request is through our Legal Request Submissions site ([https://t.co/lr](https://t.co/lr) or [https://legalrequests.x.com](https://legalrequests.x.com/)). Find more information in our [Guidelines for Law Enforcement](https://help.x.com/rules-and-policies/x-law-enforcement-support#:~:text=with%20applicable%20law.-,Private%20information%20requires%20a%20subpoena%20or%20court%20order,emergency%20request%2C%20as%20described%20below.). 
+**Note:** If you are a member of law enforcement or government, please note that the most expeditious way to submit your request is through our Legal Request Submissions site ([https://t.co/lr](https://t.co/lr) or [https://legalrequests.x.com](https://legalrequests.x.com/)). Find more information in our [Guidelines for Law Enforcement](https://help.x.com/rules-and-policies/x-law-enforcement-support#:~:text=with%20applicable%20law.-,Private%20information%20requires%20a%20subpoena%20or%20court%20order,emergency%20request%2C%20as%20described%20below.).
 
-**Information from the Australian eSafety Commissioner**  
+### Information from the Australian eSafety Commissioner
 
 The eSafety Commissioner (eSafety) was established in 2015 and is Australia's national independent regulator and educator for online safety. Its mandate is to ensure Australians have safer and more positive experiences online. You can learn more about the eSafety Commissioner at [https://www.esafety.gov.au](https://www.esafety.gov.au/). For further information on the role and functions of eSafety, please visit [https://www.esafety.gov.au/about-us/what-we-do](https://www.esafety.gov.au/about-us/what-we-do).  
 
@@ -3451,33 +3528,42 @@ The checklist set out by eSafety at [https://www.esafety.gov.au/report/what-you-
 
 **Illegal and restricted content** 
 
-eSafety also investigates reports from people and law enforcement agencies in Australia about illegal and restricted online content. Anyone of any age who lives in Australia can report illegal and restricted online content to eSafety. Please refer to [https://www.esafety.gov.au/report/what-you-can-report-to-esafety#illegal-and-restricted-online-content](https://www.esafety.gov.au/report/what-you-can-report-to-esafety#illegal-and-restricted-online-content) for further information.  
+eSafety also investigates reports from people and law enforcement agencies in Australia about illegal and restricted online content. Anyone of any age who lives in Australia can report illegal and restricted online content to eSafety. 
+
+Please refer to [https://www.esafety.gov.au/report/what-you-can-report-to-esafety#illegal-and-restricted-online-content](https://www.esafety.gov.au/report/what-you-can-report-to-esafety#illegal-and-restricted-online-content) for further information.  
 
 For further information, please visit [https://www.esafety.gov.au/report/what-you-can-report-to-esafety](https://www.esafety.gov.au/report/what-you-can-report-to-esafety). 
 
 If you would like to submit a complaint to the Australian eSafety Commissioner, you can do so at the following link, which also provides further guidance about how to report abuse or content to eSafety: [https://www.esafety.gov.au/report](https://www.esafety.gov.au/report). 
 
-The Australian eSafety Commissioner makes available safety tools and resources in order to help Australians have safer and more positive experiences online. Please review the following links for important safety information. Additionally, Australian end-users are able to contact third party services that may provide counseling and support. The links below include a link to a comprehensive list of third party counselling support services compiled by eSafety. 
+The Australian eSafety Commissioner makes available safety tools and resources in order to help Australians have safer and more positive experiences online. Please review the following links for important safety information. 
 
-[https://www.esafety.gov.au/parents](https://www.esafety.gov.au/parents)
+Additionally, Australian end-users are able to contact third party services that may provide counseling and support. 
 
-[https://www.esafety.gov.au/parents/resources](https://www.esafety.gov.au/parents/resources)
+The links below include a link to a comprehensive list of third party counselling support services compiled by eSafety. 
 
-[https://www.esafety.gov.au/educators](https://www.esafety.gov.au/educators)
-
-[https://www.esafety.gov.au/young-people](https://www.esafety.gov.au/young-people)
-
-[https://www.esafety.gov.au/women](https://www.esafety.gov.au/women)
-
-[https://www.esafety.gov.au/seniors](https://www.esafety.gov.au/seniors)
-
-[https://www.esafety.gov.au/diverse-groups](https://www.esafety.gov.au/diverse-groups)
-
-[https://www.esafety.gov.au/newsroom/whats-on](https://www.esafety.gov.au/newsroom/whats-on)
-
-[https://www.esafety.gov.au/key-issues/esafety-guide](https://www.esafety.gov.au/key-issues/esafety-guide)
-
-[https://www.esafety.gov.au/about-us/counselling-support-services](https://www.esafety.gov.au/about-us/counselling-support-services)
+*   [https://www.esafety.gov.au/parents](https://www.esafety.gov.au/parents)
+    
+*   [https://www.esafety.gov.au/parents/resources](https://www.esafety.gov.au/parents/resources)
+    
+*   [https://www.esafety.gov.au/parents/social-media-age-restrictions](https://www.esafety.gov.au/parents/social-media-age-restrictions)
+    
+*   [https://www.esafety.gov.au/educators](https://www.esafety.gov.au/educators)
+    
+*   [https://www.esafety.gov.au/young-people](https://www.esafety.gov.au/young-people)
+    
+*   [https://www.esafety.gov.au/women](https://www.esafety.gov.au/women)
+    
+*   [https://www.esafety.gov.au/seniors](https://www.esafety.gov.au/seniors)
+    
+*   [https://www.esafety.gov.au/diverse-groups](https://www.esafety.gov.au/diverse-groups)
+    
+*   [https://www.esafety.gov.au/newsroom/whats-on](https://www.esafety.gov.au/newsroom/whats-on)
+    
+*   [https://www.esafety.gov.au/key-issues/esafety-guide](https://www.esafety.gov.au/key-issues/esafety-guide)
+    
+*   [https://www.esafety.gov.au/about-us/counselling-support-services](https://www.esafety.gov.au/about-us/counselling-support-services)
+    
 
 #### Share this article
 
