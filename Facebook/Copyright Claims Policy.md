@@ -404,27 +404,27 @@ The law in most countries recognizes copyrights as well as trademarks. Copyright
 Related Articles
 ----------------
 
-[Are there any limits to trademark rights?](https://www.facebook.com/help/719682678205946/?helpref=related_articles)
-
 [What is trademark infringement?](https://www.facebook.com/help/349534658401968/?helpref=related_articles)
+
+[Are there any limits to trademark rights?](https://www.facebook.com/help/719682678205946/?helpref=related_articles)
 
 [What are fair use and other exceptions to copyright](https://www.facebook.com/help/337995452911154/?helpref=related_articles)
 
 [Does a trademark need to be registered to be protected?](https://www.facebook.com/help/1430594943641002/?helpref=related_articles)
 
-[What is copyright and what does it protect?](https://www.facebook.com/help/116772962146447/?helpref=related_articles)
+[How long does trademark protection last?](https://www.facebook.com/help/1823502941230538/?helpref=related_articles)
 
 Related Articles
 
-[Are there any limits to trademark rights?](https://www.facebook.com/help/719682678205946/?helpref=related_articles)
-
 [What is trademark infringement?](https://www.facebook.com/help/349534658401968/?helpref=related_articles)
+
+[Are there any limits to trademark rights?](https://www.facebook.com/help/719682678205946/?helpref=related_articles)
 
 [What are fair use and other exceptions to copyright](https://www.facebook.com/help/337995452911154/?helpref=related_articles)
 
 [Does a trademark need to be registered to be protected?](https://www.facebook.com/help/1430594943641002/?helpref=related_articles)
 
-[What is copyright and what does it protect?](https://www.facebook.com/help/116772962146447/?helpref=related_articles)
+[How long does trademark protection last?](https://www.facebook.com/help/1823502941230538/?helpref=related_articles)
 
 - - -
 
@@ -1392,9 +1392,9 @@ Related Articles
 
 [What rights do I have as a copyright owner?](https://www.facebook.com/help/1388077314536976/?helpref=related_articles)
 
-[How long does copyright protection last?](https://www.facebook.com/help/697921770376427/?helpref=related_articles)
+[Copyright](https://www.facebook.com/help/1020633957973118/?helpref=related_articles)
 
-[Where can I learn more about copyright?](https://www.facebook.com/help/1796523567227660/?helpref=related_articles)
+[How long does copyright protection last?](https://www.facebook.com/help/697921770376427/?helpref=related_articles)
 
 [What’s the difference between copyright and trademark?](https://www.facebook.com/help/339026683156879/?helpref=related_articles)
 
@@ -1404,9 +1404,9 @@ Related Articles
 
 [What rights do I have as a copyright owner?](https://www.facebook.com/help/1388077314536976/?helpref=related_articles)
 
-[How long does copyright protection last?](https://www.facebook.com/help/697921770376427/?helpref=related_articles)
+[Copyright](https://www.facebook.com/help/1020633957973118/?helpref=related_articles)
 
-[Where can I learn more about copyright?](https://www.facebook.com/help/1796523567227660/?helpref=related_articles)
+[How long does copyright protection last?](https://www.facebook.com/help/697921770376427/?helpref=related_articles)
 
 [What’s the difference between copyright and trademark?](https://www.facebook.com/help/339026683156879/?helpref=related_articles)
 
