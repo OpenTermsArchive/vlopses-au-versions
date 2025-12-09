@@ -276,15 +276,17 @@ Have any questions about the information here or wish to contact our Data Protec
 
 ### 
 
-Australia Privacy Notice
+**Australia Privacy Notice**
 
-**Effective: April 7, 2025**
+Effective: December 10, 2025
 
-We’ve created this notice specifically for users in Australia. Users in Australia have certain privacy rights as specified under Australian laws, including the Privacy Act 1988. Our Privacy Principles and the privacy controls we offer to all users are in line with these laws—this notice makes sure we cover the Australia-specific requirements. For example, all users can request a copy of their data, request deletion, and control their privacy settings in the app. For the full picture, check out our [Privacy Policy](https://values.snap.com/privacy/privacy-policy).
+We’ve created this notice specifically for users in Australia to explain how we handle personal information to comply with Australian laws, including the Privacy Act 1988 and the Social Media Minimum Age (“SMMA”) requirements of the Online Safety Act 2021.  
+
+Our Privacy Principles and the privacy controls we offer to all users are in line with these laws. For example, all users can request a copy of their data, request deletion, and control their privacy settings in the app. For all other rights and obligations, check out our [Privacy Policy](https://values.snap.com/privacy/privacy-policy).
 
 ### 
 
-Rights of Access, Deletion, Correction, and Portability
+**Rights of Access, Deletion, Correction, and Portability**
 
 You can exercise your rights of access and correction as described in the [Control Over Your Information](https://values.snap.com/privacy/privacy-policy#control-over-your-information) section of the Privacy Policy.
 
@@ -292,13 +294,40 @@ You can exercise your rights of access and correction as described in the [Contr
 
 International Data Transfers
 
-We may collect your personal information from, transfer it to, and store and process it in the United States and other countries outside of where you live. You can find more information on the categories of third parties we share information with [here](https://help.snapchat.com/hc/articles/7012351145364?lang=en-US).
+We may collect your personal information from, transfer it to, and store and process it in the United States and other countries outside of where you live. We take reasonable steps to ensure that overseas recipients do not breach Australian privacy laws in relation to your personal information. You can find more information on the categories of third parties we share information with [here](https://help.snapchat.com/hc/articles/7012351145364?lang=en-US).
+
+### 
+
+Age Verification in Accordance with the SMMA
+
+Under the SMMA, Australian users under 16 years of age must not hold accounts on certain services.
+
+We will take steps to assess whether you are based in Australia and under the age of 16, based on existing information we have of you. This includes your:
+
+*   birthday
+    
+*   IP address 
+    
+*   usage information (behavioral information about how you interact with Snapchat – for example, which Lenses you view and apply, your premium subscriptions, Stories you watch, and how often you interact with other Snapchatters) 
+    
+*   content information (information about content you create or provide, your engagement with the camera and creative tools, your interactions with My AI, and metadata – for example, information about the content itself like the date and time it was posted and who viewed it)
+    
+*   friending information, including the ages of your Snapchat friends.
+    
+
+If you are based in Australia, we may also require you to undertake additional age verification measures with our third-party provider, [k-ID](https://www.k-id.com/privacy-policy), to continue accessing Snapchat. For more information on these measures, please refer to our [Help page](https://help.snapchat.com/hc/articles/42550358600084-Account-Restrictions-for-Australia-Users?lang=en-US).
+
+To minimize the collection of personal information, Snap will only receive a binary “yes/no” result on whether you are above 16 and will use this result to provide you continued access to Snapchat if appropriate. If the result indicates that you are below 16, your account will be locked. We will not receive your facial scans, bank account details, or any other personal information you provide during the k-ID verification process. 
+
+We may update this notice to reflect changes to the applicable laws.
 
 ### 
 
 Complaints or Questions?
 
 We want you to know that you can submit any inquiries to our [privacy support team](https://help.snapchat.com/?lang=en-US) or Data Protection Officer at dpo \[at\] snap \[dot\] com.
+
+You may also contact the [Office of the Australian Information Commissioner (OAIC)](https://www.oaic.gov.au/) to make a privacy complaint.
 
 - - -
 
