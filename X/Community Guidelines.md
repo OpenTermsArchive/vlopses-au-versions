@@ -3337,7 +3337,7 @@ We suggest staying informed about [account safety and security](https://help.x.c
 
 ### Minimum age to use an X account in Australia
 
-Starting 10 December 2025, you must be at least 16 years old to use an X account in Australia. This change is required by Australian law following amendments to the Online Safety Act 2021 to introduce a social media minimum age (“SMMA”).  The SMMA prevents age-restricted social media platforms, including X, from letting people under 16 create or keep an account. It's not our choice – it's what the Australian law requires.  For more details on the SMMA, refer to the eSafety Commissioner's resources available at [eSafety's Social Media Age Restrictions Hub](https://www.esafety.gov.au/about-us/industry-regulation/social-media-age-restrictions-hub). 
+Starting 10 December 2025, you must be at least 16 years old to use an X account in Australia. This change is required by Australian law following amendments to the Online Safety Act 2021 to introduce a social media minimum age (“**SMMA**”). The SMMA prevents age-restricted social media platforms, including X, from letting people under 16 create or keep an account. It's not our choice – it's what the Australian law requires. For more details on the SMMA, refer to the eSafety Commissioner's resources available at [eSafety's Social Media Age Restrictions Hub](https://www.esafety.gov.au/about-us/industry-regulation/social-media-age-restrictions-hub). 
 
 Below, we outline our age verification and estimation methods which are designed to be privacy-focused and user-friendly.
 
@@ -3386,9 +3386,7 @@ When we check your age, we might collect things like your ID details. We only us
 
 If a user is determined to be under 16 through one of our age assurance methods, the user won't be able to use an X account until they are 16 or over and receive a notice to verify their age.  
 
-Users can download their X data at any time. Please refer [here](https://help.x.com/managing-your-account/accessing-your-x-data) for further information.
-
-Affected accounts can submit a request to access their information [here](https://help.x.com/forms/privacy/request-account-info)[.](https://help.twitter.com/forms/privacy)
+Affected accounts can submit a request to access their account data [here](https://help.x.com/forms/privacy/request-account-info).
 
 Requests can also be addressed to the contacts listed under the “[How To Contact Us” section of our Privacy Policy](https://x.com/privacy#chapter10).
 
