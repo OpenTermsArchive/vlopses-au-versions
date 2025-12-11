@@ -3372,7 +3372,12 @@ Where we do not have the signals from the above verification methods, we may als
 
 #### User Involved Verification Options
 
-Users whose age X has not been able to estimate or verify in accordance with any of the other methods, including new accounts on X, can submit a government-issued ID, which will be used to verify their age by artificial intelligence systems. 
+Users whose age X has not been able to estimate or verify in accordance with any of the other methods, including new accounts on X, are given a choice between two secure, privacy-respecting options to estimate or verify their age: 
+
+*   **Facial age estimation:** Users can upload a live selfie, which will be used to estimate their age by our artificial intelligence systems; or 
+    
+*   **ID verification:** Users can submit a government-issued ID, which will be used to verify their age by artificial intelligence systems. 
+    
 
 #### What info we collect and how we handle it
 
