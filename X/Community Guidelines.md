@@ -3399,7 +3399,7 @@ We also suggest you [cancel](https://help.x.com/using-x/subscriptions#item1) any
 
 #### How can you appeal an age assurance decision
 
-If you believe we’ve incorrectly estimated your age as under 16 pursuant to one of the age assurance methods X has in place, or if you wish to reinstate your account once you are 16 or over, you can follow the instructions to ID verify your age within the account lockout notice. 
+If you believe we’ve incorrectly estimated your age as under 16 pursuant to one of the age assurance methods X has in place, or if you wish to reinstate your account once you are 16 or over, you can follow the instructions to verify your age within the account lockout notice. 
 
 #### Watch out for scams
 
