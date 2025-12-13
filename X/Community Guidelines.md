@@ -3366,7 +3366,7 @@ Where these signals exist, we may use them to determine whether that user is abo
 
 #### Estimation Methods Without Further User Involvement
 
-Where we do not have the signals from the above verification methods, we may also use the following additional methods, where available, to estimate or verify that a user is under or over 18 based on information that X already has access to: 
+Where we do not have the signals from the above verification methods, we may also use the following additional methods, where available, to estimate or verify that a user is under or over 16 based on information that X already has access to: 
 
 *   **Email address-based estimation:** Users’ email addresses will be used to estimate their age.
 
