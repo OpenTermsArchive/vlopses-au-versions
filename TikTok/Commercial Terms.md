@@ -1,32 +1,4 @@
-About 2-step verification in TikTok Ads Manager
-===============================================
-
-Last updated: June 2025
-
-2-step verification is an additional security feature that enhances protection for your [TikTok for Business](https://ads.tiktok.com/business/en-US) account. When you set up 2-step verification, you will sign into your account using your password and a second verification step. 2-step verification is designed to provide an extra layer of security and to prevent unauthorized access to your TikTok for Business account, even if your password is compromised.
-
-  
-
-Verification methods
---------------------
-
-You can choose the following verification methods:
-
-*   Text Message (SMS) to the phone number associated with your account
-    
-*   Email
-    
-*   Third-party authentication app, such as Google Authenticator.
-    
-
-  
-
-### Learn more
-
-*   Learn [how to turn on 2-step verification in TikTok Ads Manager](https://ads.tiktok.com/help/article/how-to-turn-on-two-step-verification?aadvid=7498410907119222802&lang=en).
-    
-
-  
+Last updated: January 2026
 
 ![](https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tt4b_help_center/img/feedback-icon.a2a300e.svg)
 
