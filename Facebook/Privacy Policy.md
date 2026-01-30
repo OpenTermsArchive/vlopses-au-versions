@@ -233,7 +233,7 @@ We can take action according to our Community Standards against someone without 
 
 ### Advertising
 
-For example, you may also see ads for the [Meta Company Products](https://www.facebook.com/legal/meta-company-products?entry_point=POLICY_ANNOTATION%3A1.ex.41-InformationWeCollectIf) shown through [Meta Audience Network](https://www.facebook.com/help/119468292028768/?helpref=search&entry_point=POLICY_ANNOTATION%3A1.ex.41-InformationWeCollectIf) when you visit other apps if we can't recognise you as a registered user of the Meta Products.
+For example, you may also see ads for the [Meta Company Products](http://www.facebook.com/legal/meta-company-products?entry_point=POLICY_ANNOTATION%3A1.ex.41-InformationWeCollectIf) shown through [Meta Audience Network](https://www.facebook.com/help/119468292028768/?helpref=search&entry_point=POLICY_ANNOTATION%3A1.ex.41-InformationWeCollectIf) when you visit other apps if we can't recognise you as a registered user of the Meta Products.
 
 ### Performance
 
