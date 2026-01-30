@@ -17,7 +17,7 @@ Overview
 
 Effective from 1 January 2025
 
-Meta builds technologies and services that enable people to connect with each other, build communities and grow businesses. These Terms of Service (the "Terms") govern your access and use of Facebook, Messenger and the other products, websites, features, apps, services, technologies and software we offer (the [Meta Products](https://facebook.com/legal/meta-products) or Products), except where we expressly state that separate terms (and not these) apply. (For example, your use of Instagram is subject to the Instagram Terms of Use). These Products are provided to you by Meta Platforms, Inc. These Terms therefore constitute an agreement between you and Meta Platforms, Inc. If you do not agree to these Terms, then do not access or use Facebook or the other products and services covered by these Terms.
+Meta builds technologies and services that enable people to connect with each other, build communities and grow businesses. These Terms of Service (the "Terms") govern your access and use of Facebook, Messenger and the other products, websites, features, apps, services, technologies and software we offer (the [Meta Products](http://facebook.com/legal/meta-products) or Products), except where we expressly state that separate terms (and not these) apply. (For example, your use of Instagram is subject to the Instagram Terms of Use). These Products are provided to you by Meta Platforms, Inc. These Terms therefore constitute an agreement between you and Meta Platforms, Inc. If you do not agree to these Terms, then do not access or use Facebook or the other products and services covered by these Terms.
 
 These Terms (formerly known as the Statement of Rights and Responsibilities) make up the entire agreement between you and Meta Platforms, Inc. regarding your use of our Products. They supersede any prior agreements.
 
@@ -27,7 +27,7 @@ We don't sell your personal data to advertisers, and we don't share information 
 
 Our [Privacy Policy](https://www.facebook.com/privacy/policy/) explains how we collect and use your personal data to determine some of the ads that you see and provide all of the other services described below. You can also go to your [settings](https://www.facebook.com/settings) pages of the relevant Meta Product at any time to review the privacy choices that you have about how we use your data.
 
-[What Products do these Terms cover?](https://facebook.com/legal/meta-products)
+[What Products do these Terms cover?](http://facebook.com/legal/meta-products)
 
 [Return to top](#)
 
@@ -88,7 +88,7 @@ To operate our global services and enable you to connect with people around the 
 2\. How our services are funded
 ===============================
 
-Instead of paying to use Facebook and the other products and services we offer, by using the Meta Products covered by these Terms, you agree that we can show you personalised ads and other commercial and sponsored content that businesses and organisations pay us to promote on and off [Meta Company Products](https://facebook.com/legal/meta-products?entry_point=POLICY_SECTION%3Asection_2). We use your personal data, such as information about your activity and interests, to show you personalised ads and sponsored content that may be more relevant to you.
+Instead of paying to use Facebook and the other products and services we offer, by using the Meta Products covered by these Terms, you agree that we can show you personalised ads and other commercial and sponsored content that businesses and organisations pay us to promote on and off [Meta Company Products](http://facebook.com/legal/meta-products?entry_point=POLICY_SECTION%3Asection_2). We use your personal data, such as information about your activity and interests, to show you personalised ads and sponsored content that may be more relevant to you.
 
 Protecting people's privacy is central to how we've designed our personalised ads system. This means that we can show you relevant and useful ads without telling advertisers who you are. We don't sell your personal data. We allow advertisers to tell us things such as their business goal, and the kind of audience that they want to see their ads (for example, people between the ages of 18-35 who like cycling). We then show their ad to people who we think might be interested.
 
