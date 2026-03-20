@@ -309,35 +309,37 @@ CHANGE LOG
 
 Today
 
-Feb 8, 2024
+Mar 20, 2026
 
-Dec 29, 2023
+Feb 9, 2024
 
-Aug 29, 2023
+Dec 30, 2023
 
-Apr 27, 2023
+Aug 30, 2023
 
-Dec 23, 2021
+Apr 28, 2023
 
-Nov 24, 2021
+Dec 24, 2021
 
-Oct 15, 2021
+Nov 25, 2021
 
-Aug 26, 2021
+Oct 16, 2021
 
-Jun 23, 2021
+Aug 27, 2021
 
-Oct 22, 2020
+Jun 24, 2021
 
-Aug 27, 2020
+Oct 23, 2020
 
-Feb 27, 2020
+Aug 28, 2020
 
-Oct 10, 2019
+Feb 28, 2020
 
-Sep 27, 2019
+Oct 11, 2019
 
-Dec 28, 2018
+Sep 28, 2019
+
+Dec 29, 2018
 
 Policy Rationale
 
@@ -347,7 +349,7 @@ In an effort to prevent and disrupt real-world harm, we do not allow organizatio
 
 In addition, we do not allow content that glorifies, supports, or represents events that Meta designates as violating violent events - including terrorist attacks, hate events, multiple-victim violence or attempted multiple-victim violence, serial murders, or hate crimes. Nor do we allow (1) Glorification, Support, or Representation of the perpetrator(s) of such attacks; (2) perpetrator-generated content relating to such attacks; or (3) third-party imagery depicting the moment of such attacks on visible victims. We also remove content that Glorifies, Supports or Represents ideologies that promote hate, such as nazism and white supremacy.We remove unclear references to these designated events or ideologies.
 
-**Tier 2** includes Violent Non-State Actors that engage in violence against state or military actors in an armed conflict but do not intentionally target civilians. It also includes Violence Inducing Entities that are engaged in preparing or advocating for future violence but have not necessarily engaged in violence to date. These are also entities that may repeatedly engage in violations of our Hate Speech or Dangerous Organizations and Individuals policies on or off the platform. We remove Glorification, Material Support, and Representation of these entities, their leaders, founders or prominent members.
+**Tier 2** includes Violent Non-State Actors that engage in violence against state or military actors in an armed conflict but do not intentionally target civilians. It also includes Violence Inducing Entities that are engaged in preparing or advocating for future violence but have not necessarily engaged in violence to date. These are also entities that may repeatedly engage in violations of our Hateful Conduct or Dangerous Organizations and Individuals policies on or off the platform. We remove Glorification, Material Support, and Representation of these entities, their leaders, founders or prominent members.
 
 We recognize that users may share content that includes references to designated dangerous organizations and individuals in the context of social and political discourse. This includes content reporting on, neutrally discussing or condemning dangerous organizations and individuals or their activities.
 
@@ -536,27 +538,11 @@ Organizations and individuals designated by Meta as Violent Non-state Actors or 
 
 A Violence Inducing Entity (General) is a non-state actor that:
 
-*   Uses weapons as a part of their training, communication, or presence; and are structured or operate as unofficial military or security forces; AND
+*   Has as its stated goal or intended function to provide, through violence, an unsanctioned governmental enforcing function (such as, police, military, immigration) in place of, or in addition to, the government itself; or to disrupt through violence a governmental enforcing function;
     
-
-*   Coordinates in preparation for inter-community violence or civil war; OR
+*   Has engaged in a substantial step towards this stated goal on Meta’s platforms; and
     
-*   Advocates for violence against government officials or violent disruptions of civic events; OR
-    
-*   Engages in theft, vandalism, burglary or other damage to property; OR
-    
-*   Engages in mid-severity violence at civic events; OR
-    
-*   Promotes bringing weapons to a location when the stated intent is to intimidate people amid a protest
-    
-
-A **Violence Inducing Conspiracy Network** is a non-state actor that:
-
-*   Is identified by a name, mission statement, symbol, or shared lexicon; AND
-    
-*   Promotes unfounded theories that attempts to explain the ultimate causes of significant social and political problems, events and circumstances with claims of secret plots by two or more powerful actors; AND
-    
-*   Has explicitly advocated for or has been directly linked to a pattern of offline physical harm by adherents motivated by the desire to draw attention to or redress the supposed harms identified in the unfounded theories promoted by the network.
+*   Has engaged in multiple instances of threatening or inciting high-severity violence (online or offline);
     
 
 A **Hate Banned Entity** is a non-state actor that:
@@ -583,7 +569,7 @@ CHANGE LOG
 
 Today
 
-Jun 26, 2025
+Jun 27, 2025
 
 Feb 28, 2025
 
@@ -591,11 +577,11 @@ Dec 6, 2023
 
 Jan 27, 2023
 
-Sep 29, 2022
+Sep 30, 2022
 
-May 4, 2022
+May 5, 2022
 
-Apr 28, 2022
+Apr 29, 2022
 
 Feb 25, 2022
 
@@ -607,11 +593,11 @@ Jan 29, 2021
 
 Nov 19, 2020
 
-Sep 3, 2020
+Sep 4, 2020
 
-Aug 27, 2020
+Aug 28, 2020
 
-Jun 26, 2020
+Jun 27, 2020
 
 Dec 17, 2019
 
@@ -1767,7 +1753,7 @@ Jul 31, 2025
 
 Jul 17, 2025
 
-Dec 26, 2024
+Dec 27, 2024
 
 Oct 2, 2024
 
@@ -1775,17 +1761,17 @@ Jul 25, 2024
 
 Jul 8, 2024
 
-Jan 11, 2024
+Jan 12, 2024
 
-Dec 5, 2023
+Dec 6, 2023
 
 Aug 2, 2023
 
-Dec 22, 2022
+Dec 23, 2022
 
 Apr 28, 2022
 
-Nov 24, 2021
+Nov 25, 2021
 
 Oct 28, 2021
 
@@ -1793,13 +1779,13 @@ Aug 26, 2021
 
 May 4, 2021
 
-Jan 28, 2021
+Jan 29, 2021
 
-Nov 18, 2020
+Nov 19, 2020
 
 Jun 22, 2020
 
-Dec 28, 2018
+Dec 29, 2018
 
 Policy Rationale
 
@@ -2865,63 +2851,63 @@ CHANGE LOG
 
 Today
 
-Nov 25, 2025
+Nov 26, 2025
 
-Jun 26, 2025
+Jun 27, 2025
 
-May 14, 2025
+May 15, 2025
 
-Sep 27, 2024
+Sep 28, 2024
 
-Aug 29, 2024
+Aug 30, 2024
 
-Jun 26, 2024
+Jun 27, 2024
 
-Feb 29, 2024
+Mar 1, 2024
 
-Nov 29, 2023
+Nov 30, 2023
 
-Oct 17, 2023
+Oct 18, 2023
 
-May 25, 2023
+May 26, 2023
 
-Dec 22, 2022
+Dec 23, 2022
 
-Nov 23, 2022
+Nov 24, 2022
 
-Sep 29, 2022
+Sep 30, 2022
 
-Oct 28, 2020
+Oct 29, 2020
 
-Nov 18, 2020
+Nov 19, 2020
 
-Aug 27, 2020
+Aug 28, 2020
 
-Jun 22, 2020
+Jun 23, 2020
 
-May 28, 2020
+May 29, 2020
 
-Apr 30, 2020
+May 1, 2020
 
-Feb 27, 2020
+Feb 28, 2020
 
-Dec 16, 2019
+Dec 17, 2019
 
-Nov 30, 2019
+Dec 1, 2019
 
-Jul 30, 2019
+Jul 31, 2019
 
-Jul 1, 2019
+Jul 2, 2019
 
-Apr 26, 2019
+Apr 27, 2019
 
-Mar 20, 2019
+Mar 21, 2019
 
-Nov 30, 2018
+Dec 1, 2018
 
-Jul 27, 2018
+Jul 28, 2018
 
-May 25, 2018
+May 26, 2018
 
 Policy Rationale
 
@@ -3309,37 +3295,37 @@ CHANGE LOG
 
 Today
 
-May 14, 2025
+May 15, 2025
 
-Oct 2, 2024
+Oct 3, 2024
 
-Aug 29, 2024
+Aug 30, 2024
 
-Feb 29, 2024
+Mar 1, 2024
 
-Dec 5, 2023
+Dec 6, 2023
 
-Nov 23, 2022
+Nov 24, 2022
 
-Dec 23, 2021
+Dec 24, 2021
 
-Nov 24, 2021
+Nov 25, 2021
 
-Oct 28, 2021
+Oct 29, 2021
 
-Feb 25, 2021
+Feb 26, 2021
 
-Nov 18, 2020
+Nov 19, 2020
 
-May 28, 2020
+May 29, 2020
 
-Aug 26, 2019
+Aug 27, 2019
 
-Jul 30, 2019
+Jul 31, 2019
 
-Dec 28, 2018
+Dec 29, 2018
 
-Oct 15, 2018
+Oct 16, 2018
 
 Policy Rationale
 
@@ -3426,45 +3412,45 @@ CHANGE LOG
 
 Today
 
-Mar 27, 2025
+Mar 28, 2025
 
-Dec 26, 2024
+Dec 27, 2024
 
-Sep 25, 2024
+Sep 26, 2024
 
-Mar 28, 2024
+Mar 29, 2024
 
-Jan 25, 2024
+Jan 26, 2024
 
-Aug 31, 2023
+Sep 1, 2023
 
-Dec 22, 2022
+Dec 23, 2022
 
-Oct 27, 2022
+Oct 28, 2022
 
-Feb 24, 2022
+Feb 25, 2022
 
-Oct 28, 2021
+Oct 29, 2021
 
-Jul 29, 2021
+Jul 30, 2021
 
-Mar 25, 2021
+Mar 26, 2021
 
-Dec 17, 2020
+Dec 18, 2020
 
-Nov 18, 2020
+Nov 19, 2020
 
-May 28, 2020
+May 29, 2020
 
-Oct 25, 2019
+Oct 26, 2019
 
-Jul 1, 2019
+Jul 2, 2019
 
-Aug 31, 2018
+Sep 1, 2018
 
-Jul 27, 2018
+Jul 28, 2018
 
-Jun 29, 2018
+Jun 30, 2018
 
 Policy Rationale
 
