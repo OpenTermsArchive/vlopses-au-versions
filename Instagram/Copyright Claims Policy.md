@@ -191,6 +191,14 @@ What rights do I have as a copyright owner?
 
 Copy link
 
+What is copyright infringement?
+
+Can I grant permission?
+
+How to stop copying?
+
+I have a different question
+
 As a copyright owner, you have certain rights under the law. These include the right to stop others from copying or distributing your work, or from creating new works based on your work. Copyright infringement generally occurs when a person engages in one of these activities without the copyright owner’s permission.
 
 For example, when someone uploads your photo or video, they make a copy of that photo or video. The same is true if someone uses a song in the soundtrack to a video, even if they paid for a copy of that song on another service.
