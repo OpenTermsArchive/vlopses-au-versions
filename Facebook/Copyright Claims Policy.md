@@ -14,16 +14,6 @@ Intellectual property
 
 Copy link
 
-O que é direitos autorais?
-
-O que é marca registada?
-
-Denunciar violação de direitos autorais
-
-Denunciar violação de marca registada
-
-Tenho uma pergunta diferente
-
 Facebook is committed to helping people and organisations protect their intellectual property rights. The Facebook [Terms of Service](https://www.facebook.com/legal/terms) do not allow posting content that violates someone else's intellectual property rights, including copyright and trademark.
 
 Copyright
@@ -304,6 +294,14 @@ How long does trademark protection last?
 
 Copy link
 
+Perdre mes droits de marque
+
+Renouveler ma marque
+
+Droits de marque internationaux
+
+J'ai une question différente
+
 Trademark rights may last indefinitely, but only if the trademark owner continues to use the trademark in commerce to identify their products or services. If a trademark owner stops using the trademark, or if it isn't used properly, they might lose their trademark rights.
 
 For trademarks that are registered with the United States Patent and Trademark Office (USPTO), registrations must be renewed periodically. For trademarks that are registered with the European Union Intellectual Property Office (EUIPO), registration lasts for ten years and may be renewed indefinitely. The laws in other jurisdictions may vary.
@@ -445,6 +443,16 @@ What's the difference between copyright and trademark?
 
 Copy link
 
+What does copyright protect?
+
+What does trademark protect?
+
+Copyright infringement help
+
+Trademark infringement help
+
+I have a different question
+
 The law in most countries recognises copyrights as well as trademarks. Copyright law and trademark law serve two different purposes.
 
 [Copyright](https://www.facebook.com/help/116772962146447?helpref=faq_content) is meant to foster creativity and to provide incentives to create original works of authorship for the benefit of the public. Copyright protects original works such as photos, videos, films and music. It's also important to note that, in the US, the Digital Millennium Copyright Act (DMCA) applies only to copyrights and doesn't apply to trademarks.
@@ -584,16 +592,6 @@ Repeated intellectual property infringement on Facebook
 
 Copy link
 
-A minha conta foi desativada
-
-A minha Página foi removida
-
-O que é propriedade intelectual?
-
-O que acontece se eu continuar a publicar?
-
-Tenho uma pergunta diferente
-
 By using Facebook, you agree to our [Terms of Service](https://www.facebook.com/terms). Our terms prohibit people from taking any action on Facebook that infringes or violates someone else's intellectual property rights or otherwise violates the law.
 
 Learn more about [intellectual property and what it protects](https://www.facebook.com/help/399224883474207?helpref=faq_content).
@@ -717,6 +715,14 @@ Can I report an infringement of someone else's intellectual property on Facebook
 
 Copy link
 
+Can I report copyright infringement?
+
+Can I report trademark infringement?
+
+Report someone else's content
+
+I have a different question
+
 Only an intellectual property rights owner or their authorised representative may report a suspected infringement. If you believe that content on Facebook infringes someone else's copyright or trademark rights, you may want to let the rights owner know.
 
 Related articles
@@ -753,16 +759,6 @@ Can I report a Facebook username for infringing my trademark?
 =============================================================
 
 Copy link
-
-My trademark is infringed
-
-Report a username
-
-What is trademark infringement?
-
-Contact the user directly
-
-I have a different question
 
 [Usernames](https://www.facebook.com/help/105399436216001?helpref=faq_content) are generally claimed on a first-come, first-served basis. This means that you may see a Facebook Page or profile with a username that includes your trademark.
 
@@ -805,6 +801,16 @@ What you should consider before submitting a report of intellectual property inf
 
 Copy link
 
+What is fair use?
+
+What is copyright?
+
+What is a trademark?
+
+What are legal consequences?
+
+I have a different question
+
 Before you submit a report, please consider whether the content you want to report may be a permissible use of your [copyright](https://www.facebook.com/help/337995452911154?helpref=faq_content) or [trademark](https://www.facebook.com/help/719682678205946?helpref=faq_content). If you're not sure whether the content you're reporting infringes your intellectual property rights (e.g. because it may be a fair use), you may want to seek legal guidance.
 
 Please note that submitting a report of intellectual property infringement is a serious matter with potential legal consequences. Intentionally submitting misleading or otherwise fraudulent reports of copyright or trademark infringement may lead to Facebook taking action, including termination of your account.
@@ -845,16 +851,6 @@ What information do I need to include in a trademark report to Meta?
 ====================================================================
 
 Copy link
-
-What is a trademark report?
-
-Where do I submit a report?
-
-What if I'm not the owner?
-
-How long does it take?
-
-I have a different question
 
 The fastest and easiest way to submit a report of trademark infringement to us is to [contact Facebook](https://www.facebook.com/help/191999230901156?helpref=faq_content). Whether you submit your report through our online form or another method, Meta needs the following information to be able to process your report:
 
@@ -1024,16 +1020,6 @@ Report a third-party app on Facebook that you think infringes your intellectual 
 
 Copy link
 
-Report a third-party app
-
-App infringes my IP
-
-Contact app developer
-
-What is intellectual property?
-
-I have a different question
-
 Some apps you may find on Facebook are created and operated by third-party developers. Meta doesn't control the content made available through these apps.
 
 If you believe that an app developer isn't following the Facebook [Terms of Service](https://www.facebook.com/terms.php), we suggest contacting the developer directly with your concerns.
@@ -1072,14 +1058,6 @@ Retract an intellectual property report that you've submitted to Facebook
 =========================================================================
 
 Copy link
-
-Withdraw my IP report
-
-Cancel copyright report
-
-Retract trademark report
-
-I have a different question
 
 If you submitted an intellectual property report, but then reached an agreement with the person who posted the content, or if you reported content by mistake, you can withdraw your intellectual property report.
 
@@ -1359,16 +1337,6 @@ How do you know if you own the copyright in a work
 
 Copy link
 
-Who owns copyright?
-
-My work was copied
-
-Copyright for my photo
-
-I created work for employer
-
-I have a different question
-
 In general, the person who creates an original work owns the copyright. For example, if you create a painting, you are likely to own the copyright in that painting. Similarly, if you take a photo, you are likely to own the copyright in that photo.
 
 There may be situations where you might think you have a copyright in an original work, but you may not. For example:
@@ -1413,6 +1381,14 @@ What rights do I have as a copyright owner?
 ===========================================
 
 Copy link
+
+What are my copyright rights?
+
+My work was copied
+
+Stop someone using my work
+
+I have a different question
 
 As a copyright owner, you have certain rights under the law. These include the right to stop others from copying or distributing your work, or from creating new works based on your work. Copyright infringement generally occurs when a person engages in one of these activities without the copyright owner's permission.
 
@@ -1563,16 +1539,6 @@ What are fair use and other exceptions to copyright?
 
 Copy link
 
-What is fair use?
-
-Exceptions to copyright
-
-Is my use fair use?
-
-Seek legal advice
-
-I have a different question
-
 Laws across the globe recognise that strict application of copyright laws in certain cases may be unfair or may inappropriately stifle creativity or stop people from creating original works, which would harm the public. These laws allow people to use, under certain circumstances, someone else's copyrighted work. Common examples include use for the purpose of criticism, commentary, parody, satire, news reporting, teaching, education and research.
 
 The United States and some other countries follow the "fair use" doctrine, while other countries, including those in the European Union, provide other exceptions or limitations to copyright. These exceptions or limitations permit users to use copyrighted material where appropriate. You may want to seek legal advice if you have questions about the possibility to use someone else's copyrighted work within the limits set by the law.
@@ -1641,16 +1607,6 @@ Unintentional actions can still violate copyright on Facebook
 =============================================================
 
 Copy link
-
-My content was removed
-
-I got a copyright strike
-
-What is fair use?
-
-How to get permission?
-
-I have a different question
 
 It's possible to infringe someone else's copyright, even if you don't intend to do so. In most cases, you shouldn't use someone else's copyrighted work if you don't have permission. Posting content that facilitates copyright infringement through unauthorised devices or services is also not allowed on Facebook.
 
@@ -1773,6 +1729,16 @@ Facebook Lite App Help
 
 More
 
+Apelar remoção de conteúdo
+
+Contactar proprietário dos direitos
+
+Conteúdo removido por engano
+
+O que é uma contra-notificação DMCA?
+
+Tenho uma questão diferente
+
 When we receive a report from a rights owner claiming that content you posted on Facebook infringes their intellectual property rights, we may need to promptly remove that content from Facebook without contacting you first.
 
 If we remove content that you posted because of an intellectual property report submitted through our online form, you'll receive a notification from Meta that may include the name and email address of the rights owner who made the report and/or other details of the report. If you believe the content shouldn't have been removed, you can follow up with the rights owner directly to try to resolve the issue.
@@ -1867,6 +1833,14 @@ How do I report copyright infringement on Facebook?
 ===================================================
 
 Copy link
+
+Report copyright infringement form
+
+Contact designated agent
+
+Who can report copyright?
+
+I have a different question
 
 If you believe that content on Facebook is infringing on your copyright, you can take one or more of the following actions:
 
@@ -2077,6 +2051,16 @@ What happens when you submit a copyright report to Meta
 =======================================================
 
 Copy link
+
+Où est mon numéro de rapport?
+
+Contacter l'équipe d'assistance
+
+Faire appel à une décision
+
+Je n'ai pas reçu de message
+
+J'ai une question différente
 
 If you submit a [copyright report](https://www.facebook.com/help/325058084212425?helpref=faq_content) to us through our form or via email, you'll receive an automated message that contains information about your report, including a unique report number. You should save this number in case you need to contact us about your report.
 
