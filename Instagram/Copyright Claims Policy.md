@@ -191,14 +191,6 @@ What rights do I have as a copyright owner?
 
 Copy link
 
-What is copyright infringement?
-
-Can I grant permission?
-
-How to stop copying?
-
-I have a different question
-
 As a copyright owner, you have certain rights under the law. These include the right to stop others from copying or distributing your work, or from creating new works based on your work. Copyright infringement generally occurs when a person engages in one of these activities without the copyright owner’s permission.
 
 For example, when someone uploads your photo or video, they make a copy of that photo or video. The same is true if someone uses a song in the soundtrack to a video, even if they paid for a copy of that song on another service.
@@ -973,6 +965,16 @@ For any content that was removed based on U.S. trademark rights, we will include
 
 How to appeal the removal of content on Instagram or Threads for copyright reasons
 ==================================================================================
+
+Apelar remoção de conteúdo
+
+Contranotificação DMCA
+
+Conteúdo removido por engano
+
+Recurso para utilizadores italianos
+
+Tenho uma questão diferente
 
 If your content was removed because of a copyright report, you can submit an appeal or a DMCA counter-notification. You received instructions in the message we sent you.
 
