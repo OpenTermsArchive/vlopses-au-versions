@@ -1,7 +1,7 @@
 Terms of Service
 ================
 
-#### View the Terms of Service in other languages: [English](https://www.youtube.com/t/terms?hl=en&override_hl=1)
+#### सेवा अटी इतर भाषांमध्ये पहा: [English](https://www.youtube.com/t/terms?hl=en&override_hl=1)
 
 **What’s in these terms?**
 ==========================
