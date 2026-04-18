@@ -882,6 +882,14 @@ Information you need to include in a trademark report on Instagram or Threads
 
 Copy link
 
+What is a trademark report?
+
+Where do I find URLs?
+
+Who sees my report info?
+
+I have a different question
+
 The fastest and easiest way to submit a [report of trademark infringement](https://help.instagram.com/1921828231475726?helpref=faq_content) to us is to use our online form. Whether you submit your report through our online form or another method, Instagram and Threads needs the following information to be able to process your report:
 
 *   Your complete contact information (full name, mailing address, and phone number)\*.
