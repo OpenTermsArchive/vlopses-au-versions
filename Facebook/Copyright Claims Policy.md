@@ -1443,6 +1443,16 @@ How do you know if you own the copyright in a work
 
 Copy link
 
+Who owns copyright?
+
+My employer owns copyright?
+
+I appear in a photo
+
+Contact a copyright lawyer
+
+I have a different question
+
 In general, the person who creates an original work owns the copyright. For example, if you create a painting, you are likely to own the copyright in that painting. Similarly, if you take a photo, you are likely to own the copyright in that photo.
 
 There may be situations where you might think you have a copyright in an original work, but you may not. For example:
