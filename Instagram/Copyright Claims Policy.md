@@ -966,6 +966,16 @@ For any content that was removed based on U.S. trademark rights, we will include
 How to appeal the removal of content on Instagram or Threads for copyright reasons
 ==================================================================================
 
+Apelar retirada de contenido
+
+Notificación de DMCA
+
+Mi cuenta está inhabilitada
+
+¿Qué es AGCOM?
+
+I have a different question
+
 If your content was removed because of a copyright report, you can submit an appeal or a DMCA counter-notification. You received instructions in the message we sent you.
 
 *   If we have informed you that content you've posted was removed under the notice and counter-notice procedures of the United States Digital Millennium Copyright Act (DMCA), you may be able to file a DMCA counter-notification. Learn more about [DMCA counter-notifications](https://l.facebook.com/l.php?u=https%3A%2F%2Fhelp.instagram.com%2F697328657009330%3Fhelpref%3Dfaq_content).
