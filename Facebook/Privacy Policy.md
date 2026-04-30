@@ -2708,19 +2708,6 @@ Our AI responsibility efforts are propelled by a cross-disciplinary team whose m
 
 We're investing so much in this space because we believe that it provides benefits for people, creators and businesses around the world. That's why we're building AI at Meta and making models available through an open platform. To train effective models to unlock these advancements, a significant amount of information is needed. This is why we draw from publicly available and licensed sources, as well as information that people have shared on Meta Products, including interactions with AI at Meta features. We keep training data for as long as we need it on a case-by-case basis to ensure that an AI model is operating appropriately, safely and efficiently. We also may keep it to protect our or others' interests, or comply with legal obligations.
 
-Our legal bases for processing information
-------------------------------------------
-
-We are committed to being transparent about the legal bases that we use for processing information. We believe that use of this information is in the legitimate interests of Meta, our users and other people. Where applicable, we rely on an adequate legal basis to collect and process this data.
-
-Your right to object
---------------------
-
-You have rights related to how your information is used for AI at Meta.
-
-*   This includes the right to object to your interactions with AI at Meta features and the public information that you've shared on Meta Products being used to develop and improve AI at Meta. You can submit an objection request through your [Facebook](https://www.facebook.com/help/contact/6359191084165019?entry_point=POLICY_SECTION%3Agenai_body), [Instagram](https://lm.facebook.com/l.php?u=https%3A%2F%2Fhelp.instagram.com%2Fcontact%2F233964459562201%3Fentry_point%3DPOLICY_SECTION%253Agenai_body) or [Meta](https://lm.facebook.com/l.php?u=https%3A%2F%2Fauth.meta.com%2Fform%2F%3Fform_id%3D1195697011444585%26entry_point%3DPOLICY_SECTION%253Agenai_body) account. Your objection will be applied to the account that you're logged in to and any accounts that you've added to the same Accounts Centre. You can also submit an objection request through your WhatsApp account about your [messages with AIs on WhatsApp](https://www.facebook.com/help/contact/2503286619871400?entry_point=POLICY_SECTION%3Agenai_body) being used to develop and improve AI at Meta.
-*   Whether you use Meta Products or not, anyone can submit requests related to their personal information from third parties being used to develop and improve AI at Meta. [Learn more and submit requests here.](https://www.facebook.com/help/contact/510058597920541?entry_point=POLICY_SECTION%3Agenai_body)
-
-You may need to be logged in to your account to see the appropriate forms for your region. You can learn about your other rights for information that you've shared on Meta Products in our [Privacy Policy](https://www.facebook.com/privacy/policy?entry_point=POLICY_SECTION%3Agenai_body).
+Whether you use Meta Products or not, anyone can submit requests related to their personal information from third parties being used to develop and improve AI at Meta. [Learn more and submit requests here.](https://www.facebook.com/help/contact/1266025207620918?entry_point=POLICY_SECTION%3Agenai_body)
 
 We see many possibilities ahead for people, creators and businesses to use generative AI. We're excited to see this technology come this far but know that there's more to do in the future. Generative AI is a fast-moving space and we are committed to staying transparent as this technology evolves.
