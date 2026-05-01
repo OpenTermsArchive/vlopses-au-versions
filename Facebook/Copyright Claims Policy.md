@@ -638,14 +638,6 @@ Repeated intellectual property infringement on Facebook
 
 Copy link
 
-Mein Konto wurde deaktiviert
-
-Meine Seite wurde entfernt
-
-Was ist geistiges Eigentum?
-
-Ich habe eine andere Frage
-
 By using Facebook, you agree to our [Terms of Service](https://www.facebook.com/terms). Our terms prohibit people from taking any action on Facebook that infringes or violates someone else's intellectual property rights or otherwise violates the law.
 
 Learn more about [intellectual property and what it protects](https://www.facebook.com/help/399224883474207?helpref=faq_content).
@@ -1385,14 +1377,6 @@ What is copyright and what does it protect?
 ===========================================
 
 Copy link
-
-What does copyright protect?
-
-What is not protected?
-
-My content was copied
-
-I have a different question
 
 In most countries, copyright is a legal right that protects original works of authorship. Typically, if you create an original work, you have a copyright from the moment that you create it.
 
