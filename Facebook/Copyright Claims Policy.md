@@ -18,9 +18,9 @@ Report copyright violation
 
 Report trademark violation
 
-My content was removed
+What is copyright?
 
-What is intellectual property?
+What is a trademark?
 
 I have a different question
 
@@ -1304,13 +1304,11 @@ Related articles
 Copyright
 =========
 
-How to report copyright?
-
-My content was copied
+Report copyright infringement
 
 Protect my copyrighted work
 
-What is copyright infringement?
+What is copyright?
 
 I have a different question
 
@@ -1671,9 +1669,7 @@ What is fair use?
 
 What are copyright exceptions?
 
-Can I use copyrighted material?
-
-I need legal advice
+Fair use in the EU?
 
 I have a different question
 
@@ -2000,13 +1996,13 @@ How do I report copyright infringement on Facebook?
 
 Copy link
 
-Meld en krænkelse af ophavsret
+Report copyright infringement
 
-Kontakt den udpegede agent
+My copyright was infringed
 
-Send en besked til den, der har opslået indholdet
+Contact designated agent
 
-Jeg har et andet spørgsmål
+I have a different question
 
 If you believe that content on Facebook is infringing on your copyright, you can take one or more of the following actions:
 
