@@ -453,9 +453,9 @@ Related articles
 
 [How long does trademark protection last?](https://www.facebook.com/help/1823502941230538/?helpref=related_articles)
 
-[What are trademarks and what they protect](https://www.facebook.com/help/1378807958858854/?helpref=related_articles)
-
 [Does a trademark need to be registered to be protected?](https://www.facebook.com/help/1430594943641002/?helpref=related_articles)
+
+[What are trademarks and what they protect](https://www.facebook.com/help/1378807958858854/?helpref=related_articles)
 
 [What is the difference between a trademark registration and a business registration?](https://www.facebook.com/help/1378621128898663/?helpref=related_articles)
 
@@ -465,9 +465,9 @@ Related articles
 
 [How long does trademark protection last?](https://www.facebook.com/help/1823502941230538/?helpref=related_articles)
 
-[What are trademarks and what they protect](https://www.facebook.com/help/1378807958858854/?helpref=related_articles)
-
 [Does a trademark need to be registered to be protected?](https://www.facebook.com/help/1430594943641002/?helpref=related_articles)
+
+[What are trademarks and what they protect](https://www.facebook.com/help/1378807958858854/?helpref=related_articles)
 
 [What is the difference between a trademark registration and a business registration?](https://www.facebook.com/help/1378621128898663/?helpref=related_articles)
 
@@ -1104,11 +1104,11 @@ Copy link
 
 Report a third-party app
 
+Third-party app terms
+
 My intellectual property infringed
 
 Contact app developer
-
-How to report copyright
 
 I have a different question
 
@@ -1598,11 +1598,11 @@ How can I make sure that the content I post to Facebook doesn't violate copyrigh
 
 Copy link
 
-I have permission to use content
+What is copyright?
+
+Can I use content with permission?
 
 What is fair use?
-
-What is public domain content?
 
 I have a different question
 
@@ -1669,9 +1669,7 @@ What is fair use?
 
 What are copyright exceptions?
 
-Can I use copyrighted material?
-
-I need legal advice
+Fair use in the EU?
 
 I have a different question
 
@@ -1746,11 +1744,11 @@ Copy link
 
 What is copyright infringement?
 
-Can I use copyrighted content?
-
 What is fair use?
 
-How to report copyright infringement?
+Can I use content with credit?
+
+What if I bought the content?
 
 I have a different question
 
@@ -1998,13 +1996,13 @@ How do I report copyright infringement on Facebook?
 
 Copy link
 
-Report copyright infringement
+Meld en krænkelse af ophavsret
 
-My copyright was infringed
+Kontakt den udpegede agent
 
-Contact designated agent
+Send en besked til den, der har opslået indholdet
 
-I have a different question
+Jeg har et andet spørgsmål
 
 If you believe that content on Facebook is infringing on your copyright, you can take one or more of the following actions:
 
