@@ -14,13 +14,13 @@ Intellectual property
 
 Copy link
 
-Report copyright infringement
+Report copyright violation
 
-Report trademark infringement
+Report trademark violation
 
 What is copyright?
 
-What is a trademark?
+What is trademark?
 
 I have a different question
 
@@ -49,6 +49,16 @@ A trademark is a word, slogan, symbol or design (e.g. brand name, logo) that dis
 
 Trademark
 =========
+
+What is a trademark?
+
+Report trademark infringement
+
+My trademark is infringed
+
+What is Brand Rights Protection?
+
+I have a different question
 
 These articles provide information about trademarks. This includes what trademarks do and don't protect, how you can avoid infringing the trademarks of other people when posting to Facebook and how Facebook addresses reports of trademark infringement.
 
@@ -644,9 +654,9 @@ My account was disabled
 
 My Page was removed
 
-My Group was removed
+What is repeat infringer policy?
 
-What are feature limits?
+What are intellectual property rights?
 
 I have a different question
 
@@ -1310,13 +1320,11 @@ Related articles
 Copyright
 =========
 
-How to report copyright?
-
-My content was copied
+Report copyright infringement
 
 Protect my copyrighted work
 
-What is copyright infringement?
+What is copyright?
 
 I have a different question
 
@@ -1394,11 +1402,11 @@ What is copyright and what does it protect?
 
 Copy link
 
-What is copyright?
-
 What does copyright protect?
 
-What isn't protected by copyright?
+What is not protected?
+
+My content was copied
 
 I have a different question
 
@@ -1606,11 +1614,11 @@ How can I make sure that the content I post to Facebook doesn't violate copyrigh
 
 Copy link
 
-What is copyright?
-
-Can I use content with permission?
+I have permission to use content
 
 What is fair use?
+
+What is public domain content?
 
 I have a different question
 
@@ -1891,13 +1899,15 @@ Facebook Lite App Help
 
 More
 
-Appeal content removal
+Contenuto rimosso per copyright
 
-Contact rights owner
+Contestare rimozione contenuto
 
-DMCA counter-notification
+Contattare titolare dei diritti
 
-I have a different question
+Cosa sono le procedure DMCA?
+
+Ho un'altra domanda
 
 When we receive a report from a rights owner claiming that content you posted on Facebook infringes their intellectual property rights, we may need to promptly remove that content from Facebook without contacting you first.
 
@@ -2056,11 +2066,11 @@ How do I contact Meta's Digital Millennium Copyright Act (DMCA) designated agent
 
 Copy link
 
-Contact DMCA agent
-
-Report copyright infringement
-
 DMCA claim form
+
+DMCA contact details
+
+DMCA claim requirements
 
 I have a different question
 
