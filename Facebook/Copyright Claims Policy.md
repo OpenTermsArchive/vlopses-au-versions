@@ -14,13 +14,13 @@ Intellectual property
 
 Copy link
 
-Report copyright violation
+Report copyright infringement
 
-Report trademark violation
+Report trademark infringement
 
 What is copyright?
 
-What is trademark?
+What is a trademark?
 
 I have a different question
 
@@ -49,16 +49,6 @@ A trademark is a word, slogan, symbol or design (e.g. brand name, logo) that dis
 
 Trademark
 =========
-
-What is a trademark?
-
-Report trademark infringement
-
-My trademark is infringed
-
-What is Brand Rights Protection?
-
-I have a different question
 
 These articles provide information about trademarks. This includes what trademarks do and don't protect, how you can avoid infringing the trademarks of other people when posting to Facebook and how Facebook addresses reports of trademark infringement.
 
@@ -1320,11 +1310,11 @@ Related articles
 Copyright
 =========
 
+How do I protect my work?
+
 Report copyright infringement
 
-Protect my copyrighted work
-
-What is copyright?
+What is copyright law?
 
 I have a different question
 
@@ -1402,11 +1392,11 @@ What is copyright and what does it protect?
 
 Copy link
 
+What is copyright?
+
 What does copyright protect?
 
-What is not protected?
-
-My content was copied
+What isn't protected by copyright?
 
 I have a different question
 
@@ -1614,11 +1604,13 @@ How can I make sure that the content I post to Facebook doesn't violate copyrigh
 
 Copy link
 
-I have permission to use content
+My content was removed
 
 What is fair use?
 
-What is public domain content?
+How to get permission?
+
+What is public domain?
 
 I have a different question
 
@@ -1685,7 +1677,9 @@ What is fair use?
 
 What are copyright exceptions?
 
-Fair use in the EU?
+Can I use copyrighted material?
+
+I need legal advice
 
 I have a different question
 
@@ -1959,11 +1953,13 @@ How does Meta process United States Digital Millennium Copyright Act (DMCA) coun
 
 Copy link
 
-What is DMCA?
+What is a counter-notification?
 
 My content was removed
 
-File a counter-notification
+How long does restoration take?
+
+What is the Repeat Infringer policy?
 
 I have a different question
 
