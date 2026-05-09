@@ -20,7 +20,7 @@ Report trademark violation
 
 What is copyright?
 
-What is trademark?
+What is a trademark?
 
 I have a different question
 
@@ -49,6 +49,16 @@ A trademark is a word, slogan, symbol or design (e.g. brand name, logo) that dis
 
 Trademark
 =========
+
+What is a trademark?
+
+Report trademark infringement
+
+My trademark is infringed
+
+What is Brand Rights Protection?
+
+I have a different question
 
 These articles provide information about trademarks. This includes what trademarks do and don't protect, how you can avoid infringing the trademarks of other people when posting to Facebook and how Facebook addresses reports of trademark infringement.
 
@@ -426,11 +436,11 @@ Are there any limits to trademark rights?
 
 Copy link
 
-What is trademark infringement?
+What is nominative fair use?
+
+When is trademark use infringing?
 
 Limits to trademark rights?
-
-Use trademark without permission?
 
 I have a different question
 
@@ -1604,11 +1614,11 @@ How can I make sure that the content I post to Facebook doesn't violate copyrigh
 
 Copy link
 
-What is copyright?
-
-Can I use content with permission?
+I have permission to use content
 
 What is fair use?
+
+What is public domain content?
 
 I have a different question
 
@@ -1675,9 +1685,7 @@ What is fair use?
 
 What are copyright exceptions?
 
-Can I use copyrighted material?
-
-I need legal advice
+Fair use in the EU?
 
 I have a different question
 
@@ -1752,11 +1760,11 @@ Copy link
 
 What is copyright infringement?
 
+Can I use copyrighted content?
+
 What is fair use?
 
-Can I use content with credit?
-
-What if I bought the content?
+How to report copyright infringement?
 
 I have a different question
 
@@ -2006,13 +2014,13 @@ How do I report copyright infringement on Facebook?
 
 Copy link
 
-Report copyright infringement
+Meld en krænkelse af ophavsret
 
-My copyright was infringed
+Kontakt den udpegede agent
 
-Contact designated agent
+Send en besked til den, der har opslået indholdet
 
-I have a different question
+Jeg har et andet spørgsmål
 
 If you believe that content on Facebook is infringing on your copyright, you can take one or more of the following actions:
 
@@ -2060,11 +2068,11 @@ How do I contact Meta's Digital Millennium Copyright Act (DMCA) designated agent
 
 Copy link
 
+Contact DMCA agent
+
+Report copyright infringement
+
 DMCA claim form
-
-DMCA contact details
-
-DMCA claim requirements
 
 I have a different question
 
