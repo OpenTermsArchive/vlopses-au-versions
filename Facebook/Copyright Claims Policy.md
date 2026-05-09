@@ -14,13 +14,13 @@ Intellectual property
 
 Copy link
 
-Report copyright infringement
+Report copyright violation
 
-Report trademark infringement
+Report trademark violation
 
 What is copyright?
 
-What is a trademark?
+What is trademark?
 
 I have a different question
 
@@ -426,11 +426,11 @@ Are there any limits to trademark rights?
 
 Copy link
 
-What is nominative fair use?
-
-When is trademark use infringing?
+What is trademark infringement?
 
 Limits to trademark rights?
+
+Use trademark without permission?
 
 I have a different question
 
@@ -1310,11 +1310,11 @@ Related articles
 Copyright
 =========
 
-How do I protect my work?
-
 Report copyright infringement
 
-What is copyright law?
+Protect my copyrighted work
+
+What is copyright?
 
 I have a different question
 
@@ -1604,13 +1604,11 @@ How can I make sure that the content I post to Facebook doesn't violate copyrigh
 
 Copy link
 
-My content was removed
+What is copyright?
+
+Can I use content with permission?
 
 What is fair use?
-
-How to get permission?
-
-What is public domain?
 
 I have a different question
 
