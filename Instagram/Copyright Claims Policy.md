@@ -191,6 +191,16 @@ What rights do I have as a copyright owner?
 
 Copy link
 
+My work was copied
+
+Stop someone using my work
+
+What is copyright infringement?
+
+How to grant permission?
+
+I have a different question
+
 As a copyright owner, you have certain rights under the law. These include the right to stop others from copying or distributing your work, or from creating new works based on your work. Copyright infringement generally occurs when a person engages in one of these activities without the copyright owner’s permission.
 
 For example, when someone uploads your photo or video, they make a copy of that photo or video. The same is true if someone uses a song in the soundtrack to a video, even if they paid for a copy of that song on another service.
@@ -469,14 +479,6 @@ Information you need to include in a copyright report to Instagram or Threads
 =============================================================================
 
 Copy link
-
-My copyright report
-
-What info to include?
-
-Where to find URL?
-
-I have a different question
 
 The fastest and easiest way to submit a claim of copyright infringement to us is to use our [online form](https://help.instagram.com/contact/372592039493026). Whether you submit your report through our online form or another method, Instagram and Threads need the following information to be able to process your report:
 
@@ -780,14 +782,6 @@ Information you need to include in a copyright report to Instagram or Threads
 =============================================================================
 
 Copy link
-
-My copyright report
-
-What info to include?
-
-Where to find URL?
-
-I have a different question
 
 The fastest and easiest way to submit a claim of copyright infringement to us is to use our [online form](https://help.instagram.com/contact/372592039493026). Whether you submit your report through our online form or another method, Instagram and Threads need the following information to be able to process your report:
 
