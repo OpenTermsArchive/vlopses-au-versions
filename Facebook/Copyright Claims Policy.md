@@ -18,9 +18,9 @@ Report copyright violation
 
 Report trademark violation
 
-What is copyright?
+My content was removed
 
-What is a trademark?
+What is intellectual property?
 
 I have a different question
 
@@ -49,16 +49,6 @@ A trademark is a word, slogan, symbol or design (e.g. brand name, logo) that dis
 
 Trademark
 =========
-
-What is a trademark?
-
-Report trademark infringement
-
-My trademark is infringed
-
-What is Brand Rights Protection?
-
-I have a different question
 
 These articles provide information about trademarks. This includes what trademarks do and don't protect, how you can avoid infringing the trademarks of other people when posting to Facebook and how Facebook addresses reports of trademark infringement.
 
@@ -391,9 +381,11 @@ Copy link
 
 Report counterfeit goods
 
-What is trademark infringement?
+What is a counterfeit?
 
 Counterfeit sales on Facebook
+
+How to report counterfeits?
 
 I have a different question
 
@@ -1320,11 +1312,11 @@ Related articles
 Copyright
 =========
 
-Report copyright infringement
-
 Protect my copyrighted work
 
-What is copyright?
+Report copyright infringement
+
+What is Rights Manager?
 
 I have a different question
 
@@ -1402,11 +1394,11 @@ What is copyright and what does it protect?
 
 Copy link
 
-What is copyright?
-
 What does copyright protect?
 
-What isn't protected by copyright?
+What is not protected?
+
+My content was copied
 
 I have a different question
 
@@ -1614,11 +1606,13 @@ How can I make sure that the content I post to Facebook doesn't violate copyrigh
 
 Copy link
 
-I have permission to use content
+My content was removed
 
 What is fair use?
 
-What is public domain content?
+How to get permission?
+
+What is public domain?
 
 I have a different question
 
@@ -2068,11 +2062,11 @@ How do I contact Meta's Digital Millennium Copyright Act (DMCA) designated agent
 
 Copy link
 
-Contact DMCA agent
-
-Report copyright infringement
-
 DMCA claim form
+
+DMCA contact details
+
+DMCA claim requirements
 
 I have a different question
 
