@@ -18,9 +18,9 @@ Report copyright violation
 
 Report trademark violation
 
-My content was removed
+What is copyright?
 
-What is intellectual property?
+What is a trademark?
 
 I have a different question
 
@@ -381,11 +381,9 @@ Copy link
 
 Report counterfeit goods
 
-What is a counterfeit?
+What is trademark infringement?
 
 Counterfeit sales on Facebook
-
-How to report counterfeits?
 
 I have a different question
 
@@ -586,15 +584,13 @@ Content that I posted on Facebook was removed because it was reported for intell
 
 Copy link
 
-Apelar remoção de conteúdo
+Apelować usunięcie treści
 
-Conteúdo removido por engano
+Apelować raport o znak towarowy
 
-Contactar proprietário dos direitos
+Apelować raport o własność intelektualną
 
-O que é uma marca registada?
-
-Tenho uma questão diferente
+I have a different question
 
 When we receive a report from a rights owner claiming that content you posted on Facebook infringes their intellectual property rights, we may need to promptly remove that content from Facebook without contacting you first.
 
@@ -1047,13 +1043,11 @@ Report an advertisement for intellectual property infringement on Facebook
 
 Copy link
 
-Report a copyright infringement
+Report an ad for copyright
 
-Report a trademark infringement
+Report an ad for trademark
 
 Report a counterfeit ad
-
-How to use Brand Rights Protection
 
 I have a different question
 
@@ -1312,11 +1306,11 @@ Related articles
 Copyright
 =========
 
-Protect my copyrighted work
-
 Report copyright infringement
 
-What is Rights Manager?
+Protect my copyrighted work
+
+What is copyright?
 
 I have a different question
 
@@ -1394,11 +1388,11 @@ What is copyright and what does it protect?
 
 Copy link
 
+What is copyright?
+
 What does copyright protect?
 
-What is not protected?
-
-My content was copied
+What isn't protected by copyright?
 
 I have a different question
 
@@ -1679,7 +1673,9 @@ What is fair use?
 
 What are copyright exceptions?
 
-Fair use in the EU?
+Can I use copyrighted material?
+
+I need legal advice
 
 I have a different question
 
@@ -1814,13 +1810,11 @@ A video that I posted on Facebook was removed immediately. What happened, and wh
 
 Copy link
 
+My video was removed
+
 Why was my video removed?
 
-My video was removed for copyright
-
-I have rights to use content
-
-Check my notification settings
+Copyright email not received
 
 I have a different question
 
@@ -2008,13 +2002,13 @@ How do I report copyright infringement on Facebook?
 
 Copy link
 
-Meld en krænkelse af ophavsret
+Report copyright infringement
 
-Kontakt den udpegede agent
+My copyright was infringed
 
-Send en besked til den, der har opslået indholdet
+Contact designated agent
 
-Jeg har et andet spørgsmål
+I have a different question
 
 If you believe that content on Facebook is infringing on your copyright, you can take one or more of the following actions:
 
