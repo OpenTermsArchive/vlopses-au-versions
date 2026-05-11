@@ -20,7 +20,7 @@ Report trademark violation
 
 What is copyright?
 
-What is a trademark?
+What is trademark?
 
 I have a different question
 
@@ -532,11 +532,11 @@ How can I make sure that the content I post to Facebook doesn't violate trademar
 
 Copy link
 
-My content was removed
-
 What is trademark infringement?
 
-Seek legal advice
+My content was removed
+
+How to avoid trademark issues?
 
 I have a different question
 
@@ -584,11 +584,11 @@ Content that I posted on Facebook was removed because it was reported for intell
 
 Copy link
 
-Apelować usunięcie treści
+Appeal content removal
 
-Apelować raport o znak towarowy
+Appeal trademark report
 
-Apelować raport o własność intelektualną
+My content was removed
 
 I have a different question
 
@@ -1043,11 +1043,13 @@ Report an advertisement for intellectual property infringement on Facebook
 
 Copy link
 
-Report an ad for copyright
+Report a copyright infringement
 
-Report an ad for trademark
+Report a trademark infringement
 
 Report a counterfeit ad
+
+How to use Brand Rights Protection
 
 I have a different question
 
@@ -1600,13 +1602,13 @@ How can I make sure that the content I post to Facebook doesn't violate copyrigh
 
 Copy link
 
-My content was removed
-
 What is fair use?
 
-How to get permission?
+Get permission to post
 
-What is public domain?
+Content in public domain
+
+What is copyright?
 
 I have a different question
 
@@ -1673,9 +1675,7 @@ What is fair use?
 
 What are copyright exceptions?
 
-Can I use copyrighted material?
-
-I need legal advice
+Fair use in the EU?
 
 I have a different question
 
@@ -1750,11 +1750,11 @@ Copy link
 
 What is copyright infringement?
 
-Can I use copyrighted content?
-
 What is fair use?
 
-How to report copyright infringement?
+Can I use content with credit?
+
+What if I bought the content?
 
 I have a different question
 
@@ -1810,11 +1810,13 @@ A video that I posted on Facebook was removed immediately. What happened, and wh
 
 Copy link
 
-My video was removed
-
 Why was my video removed?
 
-Copyright email not received
+My video was removed for copyright
+
+I have rights to use content
+
+Check my notification settings
 
 I have a different question
 
@@ -2283,15 +2285,15 @@ What tools does Facebook provide to help me protect my intellectual property in 
 
 Copy link
 
-Còraichean Manaidsear
+Apply for Rights Manager
 
-Dìon susbaint
+Report copyright infringement
 
-Cuir a-steach airson ruigsinneachd
+Content protection for creators
 
-Dèan aithris air briseadh dlighe-sgrìobhaidh
+What are my enforcement options?
 
-Tha ceist eadar-dhealaichte agam
+I have a different question
 
 In addition to our other measures, including our online reporting forms and our repeat infringer policy, we use systems that flag content posted to Facebook that may contain copyrighted content owned by someone else. We provide tailored tooling specific to a content owner's demonstrated needs.
 
