@@ -50,6 +50,16 @@ A trademark is a word, slogan, symbol or design (e.g. brand name, logo) that dis
 Trademark
 =========
 
+What is a trademark?
+
+Report trademark infringement
+
+My trademark is infringed
+
+What is Brand Rights Protection?
+
+I have a different question
+
 These articles provide information about trademarks. This includes what trademarks do and don't protect, how you can avoid infringing the trademarks of other people when posting to Facebook and how Facebook addresses reports of trademark infringement.
 
 If you believe that someone is infringing your trademark, you can report it to us by [filling in this form](https://www.facebook.com/help/ipreporting/report/trademark). You can also apply to use [Brand Rights Protection](https://www.facebook.com/business/help/828925381043253), a tool that allows brands to identify and report content that misuses their intellectual property.
@@ -381,9 +391,11 @@ Copy link
 
 Report counterfeit goods
 
-What is trademark infringement?
+What is a counterfeit?
 
 Counterfeit sales on Facebook
+
+How to report counterfeits?
 
 I have a different question
 
@@ -532,11 +544,11 @@ How can I make sure that the content I post to Facebook doesn't violate trademar
 
 Copy link
 
-What is trademark infringement?
-
 My content was removed
 
-How to avoid trademark issues?
+What is trademark infringement?
+
+Seek legal advice
 
 I have a different question
 
@@ -584,13 +596,15 @@ Content that I posted on Facebook was removed because it was reported for intell
 
 Copy link
 
-Appeal content removal
+Apelar remoção de conteúdo
 
-Appeal trademark report
+Conteúdo removido por engano
 
-My content was removed
+Contactar proprietário dos direitos
 
-I have a different question
+O que é uma marca registada?
+
+Tenho uma questão diferente
 
 When we receive a report from a rights owner claiming that content you posted on Facebook infringes their intellectual property rights, we may need to promptly remove that content from Facebook without contacting you first.
 
@@ -818,9 +832,9 @@ Copy link
 
 Report a username
 
-My trademark was infringed
+My trademark is infringed
 
-Contact the user directly
+Contact the username owner
 
 I have a different question
 
@@ -1263,9 +1277,11 @@ Copy link
 
 Report intellectual property infringement
 
+My intellectual property was infringed
+
 Brand Rights Protection eligibility
 
-Apply for Brand Rights Protection
+What is Brand Rights Protection?
 
 I have a different question
 
@@ -1308,11 +1324,11 @@ Related articles
 Copyright
 =========
 
-Report copyright infringement
-
 Protect my copyrighted work
 
-What is copyright?
+Report copyright infringement
+
+What is Rights Manager?
 
 I have a different question
 
@@ -1602,13 +1618,13 @@ How can I make sure that the content I post to Facebook doesn't violate copyrigh
 
 Copy link
 
+My content was removed
+
 What is fair use?
 
-Get permission to post
+How to get permission?
 
-Content in public domain
-
-What is copyright?
+What is public domain?
 
 I have a different question
 
@@ -1675,7 +1691,9 @@ What is fair use?
 
 What are copyright exceptions?
 
-Fair use in the EU?
+Can I use copyrighted material?
+
+I need legal advice
 
 I have a different question
 
@@ -1750,11 +1768,11 @@ Copy link
 
 What is copyright infringement?
 
+Can I use copyrighted content?
+
 What is fair use?
 
-Can I use content with credit?
-
-What if I bought the content?
+How to report copyright infringement?
 
 I have a different question
 
@@ -2285,15 +2303,15 @@ What tools does Facebook provide to help me protect my intellectual property in 
 
 Copy link
 
-Apply for Rights Manager
+Còraichean Manaidsear
 
-Report copyright infringement
+Dìon susbaint
 
-Content protection for creators
+Cuir a-steach airson ruigsinneachd
 
-What are my enforcement options?
+Dèan aithris air briseadh dlighe-sgrìobhaidh
 
-I have a different question
+Tha ceist eadar-dhealaichte agam
 
 In addition to our other measures, including our online reporting forms and our repeat infringer policy, we use systems that flag content posted to Facebook that may contain copyrighted content owned by someone else. We provide tailored tooling specific to a content owner's demonstrated needs.
 
