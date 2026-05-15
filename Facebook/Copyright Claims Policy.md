@@ -54,9 +54,9 @@ What is a trademark?
 
 Report trademark infringement
 
-Apply for Brand Rights Protection
+My trademark is infringed
 
-What does trademark protect?
+What is Brand Rights Protection?
 
 I have a different question
 
@@ -242,13 +242,13 @@ Does a trademark need to be registered to be protected?
 
 Copy link
 
-Register a trademark in the UK
+How to register a trademark?
 
-Trademark rights without registration
+Trademark rights without registration?
 
-Difference between USPTO and EUIPO
+Register trademark outside US?
 
-How to protect my trademark?
+What is common law rights?
 
 I have a different question
 
@@ -391,11 +391,9 @@ Copy link
 
 Report counterfeit goods
 
-What is a counterfeit?
+What is trademark infringement?
 
 Counterfeit sales on Facebook
-
-How to report counterfeits?
 
 I have a different question
 
@@ -438,11 +436,11 @@ Are there any limits to trademark rights?
 
 Copy link
 
-What is nominative fair use?
-
-When is trademark use infringing?
+What is trademark infringement?
 
 Limits to trademark rights?
+
+Use trademark without permission?
 
 I have a different question
 
@@ -1169,13 +1167,11 @@ Retract an intellectual property report that you've submitted to Facebook
 
 Copy link
 
-Withdraw my IP report
+Retract my report
 
-Cancel copyright report
+Cancel my IP report
 
-Retract trademark report
-
-Why can't content be restored?
+Restore removed content
 
 I have a different question
 
@@ -1567,11 +1563,11 @@ How long does copyright protection last?
 
 Copy link
 
-What is public domain?
-
 When does copyright expire?
 
-Can I use public domain content?
+What is public domain?
+
+Copyright for my work
 
 I have a different question
 
@@ -2020,13 +2016,13 @@ How do I report copyright infringement on Facebook?
 
 Copy link
 
-Report copyright infringement
+Meld en krænkelse af ophavsret
 
-My copyright was infringed
+Kontakt den udpegede agent
 
-Contact designated agent
+Send en besked til den, der har opslået indholdet
 
-I have a different question
+Jeg har et andet spørgsmål
 
 If you believe that content on Facebook is infringing on your copyright, you can take one or more of the following actions:
 
