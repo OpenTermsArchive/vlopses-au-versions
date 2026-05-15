@@ -24,9 +24,9 @@ Please note that we will use your Content solely for the purpose of providing se
 
 TERMS & CONDITIONS
 
-SHEIN TERMS OF USE FOR AUSTRALIA
+  
 
-**Effective Date: September 23, 2025**
+**May 15, 2026**
 
 CONTENTS
 
@@ -56,7 +56,7 @@ CONTENTS
 
 A. 1. SCOPE.
 
-These Terms of Use ( **"Terms of Use"** ) apply to you if you are located in Australia, and constitute an agreement between you and the entities that jointly provide the Services (unless otherwise specified): (i) Wonderflow Support Pte. Ltd., 60 PAYA LEBAR ROAD, #08-53, PAYA LEBAR SQUARE, SINGAPORE 409051, and (ii) SHEIN Distribution Australia Pty Ltd., Level 3, 627 Chapel Street, South Yarra, VIC, 3141 (collectively referred to as the **"SHEIN", "we", "us"**, or **"our"**).
+These Terms of Use ( **"Terms of Use"** ) apply to you if you are located in Australia, and constitute an agreement between you and the entities that jointly provide the Services (unless otherwise specified): (i) Wonderflow Support Pte. Ltd., 60 PAYA LEBAR ROAD, #08-53, PAYA LEBAR SQUARE, SINGAPORE 409051, and (ii) SHEIN Distribution Australia Pty Ltd , ABN 38 653 503 023 (collectively referred to as the **"SHEIN", "we", "us"**, or **"our"**).
 
 If you reside in one country but order products to be shipped to another country, you may be redirected to the local site of the country to which products are shipped.
 
