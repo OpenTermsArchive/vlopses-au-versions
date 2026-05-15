@@ -151,6 +151,16 @@ What is copyright and what does it protect?
 
 Copy link
 
+What does copyright protect?
+
+What is not protected?
+
+Report copyright infringement
+
+My content was copied
+
+I have a different question
+
 In most countries, copyright is a legal right that protects original works of authorship. Typically, if you create an original work, you have a copyright from the moment you create it.
 
 Copyright covers a wide variety of types of works, including:
@@ -174,6 +184,14 @@ How do I know if I own the copyright in a work?
 
 Copy link
 
+Who owns copyright?
+
+What is an original work?
+
+Employer owns my work?
+
+I have a different question
+
 In general, the person who creates an original work owns the copyright. For example, if you create a painting, you likely own the copyright for that painting. Similarly, if you take a photo, you likely own the copyright for that photo.
 
 There may be situations where you might think you have a copyright in a creative work, but you may not. For example:
@@ -190,6 +208,16 @@ What rights do I have as a copyright owner?
 ===========================================
 
 Copy link
+
+My work was copied
+
+Stop someone using my work
+
+What is copyright infringement?
+
+How to grant permission?
+
+I have a different question
 
 As a copyright owner, you have certain rights under the law. These include the right to stop others from copying or distributing your work, or from creating new works based on your work. Copyright infringement generally occurs when a person engages in one of these activities without the copyright owner’s permission.
 
@@ -278,6 +306,14 @@ What are fair use and other exceptions to copyright?
 
 Copy link
 
+What is fair use?
+
+What are copyright exceptions?
+
+How do I use copyrighted work?
+
+I have a different question
+
 Laws across the globe recognize that strict application of copyright laws in certain cases may be unfair or may inappropriately stifle creativity or stop people from creating original works, which would harm the public. These laws allow people to use, under certain circumstances, someone else's copyrighted work. Common examples include use for the purpose of criticism, commentary, parody, satire, news reporting, teaching, education and research.
 
 The United States and some other countries follow the “fair use” doctrine, while other countries, including those in the European Union, provide other exceptions or limitations to copyright. These exceptions or limitations permit users to use copyrighted material where appropriate. You may want to seek legal advice if you have questions about the possibility to use someone else’s copyrighted work within the limits set by the law.
@@ -321,6 +357,16 @@ Can I still violate another person's copyright on Instagram or Threads if I didn
 
 Copy link
 
+What is copyright infringement?
+
+Can I use copyrighted content?
+
+What is fair use?
+
+How to report copyright infringement?
+
+I have a different question
+
 It's possible to infringe someone else's copyright, even if you don't intend to do so. In most cases, you shouldn’t use someone else’s copyrighted work if you don’t have permission.
 
 Keep in mind that your use of someone else’s content may infringe their copyright, even if you:
@@ -344,6 +390,16 @@ What to do if content you posted on Instagram or Threads gets removed because it
 
 Copy link
 
+My content was removed
+
+Appeal content removal
+
+Contact rights owner
+
+My content was removed for copyright
+
+I have a different question
+
 If we remove content you posted because of an intellectual property report submitted through our online form, you’ll receive a notification that may include the name and email address of the rights owner who made the report and/or other details of the report. If you believe the content shouldn't have been removed, you can follow up with the rights owner directly to try to resolve the issue.
 
 If your content was removed because of a copyright report, you can submit an appeal. Learn more about [our appeals process](https://www.facebook.com/help/instagram/1417735471763678?locale=en_US&helpref=faq_content) or [how to use music in your videos on Instagram or Threads.](https://www.facebook.com/help/instagram/629037417957828?helpref=faq_content)
@@ -354,6 +410,16 @@ What happens if you repeatedly post content on Instagram or Threads that violate
 =============================================================================================================================
 
 Copy link
+
+My account was disabled
+
+Appeal account disablement
+
+Avoid copyright infringement
+
+What is repeat infringer policy?
+
+I have a different question
 
 By using Instagram or Threads, you have agreed to our [Terms of Use](https://help.instagram.com/581066165581870?helpref=faq_content), which prohibit people from taking any action on Instagram or Threads that infringes or violates someone else's intellectual property rights or otherwise violates the law.
 
@@ -377,6 +443,16 @@ How Instagram and Threads process United States Digital Millennium Copyright Act
 
 Copy link
 
+My content was removed
+
+File a counter-notification
+
+Restore my content
+
+How long does it take?
+
+I have a different question
+
 Instagram and Threads comply with the notice-and-takedown procedures set out in section 512(c) of the United States Digital Millennium Copyright Act (DMCA), which applies to content reported and removed for violating U.S. copyrights.
 
 If your content is removed under the DMCA, you'll receive instructions about how to file a counter-notification in the messages we send you. You should only submit a counter-notification if the content was removed because of a mistake or misidentification. Please note that if your content was removed for reasons unrelated to a copyright report, you may not receive a response from us.
@@ -394,6 +470,16 @@ Report copyright infringement on Instagram or Threads
 =====================================================
 
 Copy link
+
+My copyright was infringed
+
+Report copyright for someone
+
+What is Brand Rights Protection?
+
+What is a DMCA agent?
+
+I have a different question
 
 If you believe content on Instagram or Threads is infringing your copyright, you can take one or more of the following actions:
 
@@ -469,6 +555,14 @@ Information you need to include in a copyright report to Instagram or Threads
 =============================================================================
 
 Copy link
+
+My copyright report
+
+What info to include?
+
+Where to find URL?
+
+I have a different question
 
 The fastest and easiest way to submit a claim of copyright infringement to us is to use our [online form](https://help.instagram.com/contact/372592039493026). Whether you submit your report through our online form or another method, Instagram and Threads need the following information to be able to process your report:
 
@@ -636,6 +730,14 @@ What is a counterfeit?
 
 Copy link
 
+What is a counterfeit good?
+
+Report counterfeit products
+
+Counterfeit on Threads
+
+I have a different question
+
 A counterfeit good is a knockoff or replica version of another company’s product. It usually copies the trademark (name or logo) and/or distinctive features of that other company’s product to imitate a genuine product. The manufacture, promotion or sale of a counterfeit good is a type of trademark infringement that is illegal in most countries, and is recognized as being harmful to consumers, trademark owners and honest sellers. Please note that counterfeit goods may be unlawful even if the seller explicitly says that the goods are counterfeit, or otherwise disclaims authenticity of the goods.
 
 If you believe content on Instagram or Threads is selling or promoting counterfeit goods, you can report it to us [by filling out this form](https://www.instagram.com/help/ipreporting/report/trademark/) or by using the [Brand Rights Protection tool](https://www.facebook.com/business/help/828925381043253?helpref=faq_content), which enables a rights holder to identify and report violating content for trademark, copyright, and counterfeit.
@@ -646,6 +748,14 @@ Are there any limits to trademark rights?
 =========================================
 
 Copy link
+
+What is nominative fair use?
+
+When is trademark use not infringing?
+
+Can I resell trademarked goods?
+
+I have a different question
 
 Not all uses of a trademark without permission of the trademark owner are necessarily an infringement of that trademark. The use of a trademark is only infringing if it’s likely to confuse people regarding the source, endorsement or affiliation of products or services. So, if a trademark is used in a way that is unlikely to cause consumer confusion, it’s generally not considered infringing.
 
@@ -679,6 +789,14 @@ How to make sure the content you post to Instagram or Threads don't violate trad
 
 Copy link
 
+My content violates trademark
+
+How to avoid trademark violation
+
+What is trademark infringement?
+
+I have a different question
+
 Under Instagram's [Terms of Use](https://help.instagram.com/478745558852511) and Meta's [Community Standards](https://transparency.meta.com/policies/community-standards) you can only post content to Instagram or Threads if it doesn't violate the intellectual property rights of another party, including trademarks. Please note that as an Instagram or Threads user, you are responsible for the content you post. If your content violates Threads or Instagram's policies or is reported to Instagram or Threads as infringing the intellectual property rights of another party, Instagram or Threads may remove that content.
 
 Before you post content, you might want to ask:
@@ -695,6 +813,16 @@ Content I posted on Instagram or Threads was removed because it was reported for
 
 Copy link
 
+My content was removed
+
+Appeal content removal
+
+Contact rights owner
+
+What is trademark infringement?
+
+I have a different question
+
 If we remove content you posted because of an intellectual property report submitted through our online form, you’ll receive a notification that may include the name and email address of the rights owner who made the report and/or other details of the report. If you believe the content shouldn't have been removed, you can follow up with the rights owner directly to try to resolve the issue.
 
 Appealing the removal of content
@@ -710,6 +838,16 @@ What happens if you repeatedly post content on Instagram or Threads that violate
 =============================================================================================================================
 
 Copy link
+
+My account was disabled
+
+Appeal account disablement
+
+Avoid copyright infringement
+
+What is repeat infringer policy?
+
+I have a different question
 
 By using Instagram or Threads, you have agreed to our [Terms of Use](https://help.instagram.com/581066165581870?helpref=faq_content), which prohibit people from taking any action on Instagram or Threads that infringes or violates someone else's intellectual property rights or otherwise violates the law.
 
@@ -732,6 +870,16 @@ How to report trademark infringement on Instagram or Threads
 ============================================================
 
 Copy link
+
+Report trademark on Threads
+
+My trademark was infringed
+
+Brand Rights Protection tool
+
+What are legal consequences?
+
+I have a different question
 
 Instagram and Threads can’t adjudicate disputes between third parties, and so we wouldn’t be in a position to act on trademark reports that require an in-depth trademark analysis or a real-world dispute outside of Instagram or Threads. In these situations, rather than contacting Instagram or Threads, you may want to reach out directly to the party that you believe is infringing your rights, or seek any resolution in court or by other judicial means.
 
@@ -759,6 +907,14 @@ How to report a username on Instagram or Threads for infringing my trademark
 
 Copy link
 
+Report a username
+
+My trademark is infringed
+
+What is trademark infringement?
+
+I have a different question
+
 [Usernames are](https://help.instagram.com/182492381886913/?helpref=faq_content) generally claimed on a first-come, first-served basis. This means that you may see an Instagram or Threads account that includes your trademark in its username. While there may be cases where this type of use can be reported for trademark infringement based on the context of its use, please note that not every use of your trademark in a username is necessarily a trademark infringement. The same word used in a different context may not violate your trademark. See [“What is trademark infringement?”](https://help.instagram.com/1904208239817294?helpref=faq_content) to learn more.
 
 If you believe that a username infringes your trademark rights, you may want to contact the responsible person and try to resolve your issue with them directly. If you’re sure you want to report a username on Instagram or Threads that you believe infringes your trademark, you can do so by [reporting it](https://help.instagram.com/1921828231475726?helpref=faq_content).
@@ -772,6 +928,14 @@ Information you need to include in a copyright report to Instagram or Threads
 =============================================================================
 
 Copy link
+
+My copyright report
+
+What info to include?
+
+Where to find URL?
+
+I have a different question
 
 The fastest and easiest way to submit a claim of copyright infringement to us is to use our [online form](https://help.instagram.com/contact/372592039493026). Whether you submit your report through our online form or another method, Instagram and Threads need the following information to be able to process your report:
 
@@ -820,6 +984,14 @@ Are there any limits to trademark rights?
 
 Copy link
 
+What is nominative fair use?
+
+When is trademark use not infringing?
+
+Can I resell trademarked goods?
+
+I have a different question
+
 Not all uses of a trademark without permission of the trademark owner are necessarily an infringement of that trademark. The use of a trademark is only infringing if it’s likely to confuse people regarding the source, endorsement or affiliation of products or services. So, if a trademark is used in a way that is unlikely to cause consumer confusion, it’s generally not considered infringing.
 
 Notably, simply referring to a trademark for the purpose of discussing the product or service offered probably won’t be an infringing use of the trademark, as long as that reference doesn’t use more of the trademark than is needed to make its point. In fact, you might need to use the trademark to describe or comment on a particular product or service. This is known as the doctrine of nominative fair use, and typically permits such uses as commentary, criticism, parody, reviews and, in some countries, comparative advertising.
@@ -838,6 +1010,14 @@ What are fair use and other exceptions to copyright?
 ====================================================
 
 Copy link
+
+What is fair use?
+
+What are copyright exceptions?
+
+How do I use copyrighted work?
+
+I have a different question
 
 Laws across the globe recognize that strict application of copyright laws in certain cases may be unfair or may inappropriately stifle creativity or stop people from creating original works, which would harm the public. These laws allow people to use, under certain circumstances, someone else's copyrighted work. Common examples include use for the purpose of criticism, commentary, parody, satire, news reporting, teaching, education and research.
 
@@ -882,6 +1062,16 @@ Information you need to include in a trademark report on Instagram or Threads
 
 Copy link
 
+What is a trademark report?
+
+What info do I need?
+
+How to find a URL?
+
+My trademark was infringed
+
+I have a different question
+
 The fastest and easiest way to submit a [report of trademark infringement](https://help.instagram.com/1921828231475726?helpref=faq_content) to us is to use our online form. Whether you submit your report through our online form or another method, Instagram and Threads needs the following information to be able to process your report:
 
 *   Your complete contact information (full name, mailing address, and phone number)\*.
@@ -911,6 +1101,14 @@ What happens when you submit a trademark report to Instagram or Threads
 =======================================================================
 
 Copy link
+
+Check my report status
+
+Respond to a report
+
+Information shared in report
+
+I have a different question
 
 If you [submitted a trademark report](https://help.instagram.com/1921828231475726?helpref=faq_content) to us through our online form or via email, you’ll receive an automated email that contains information about your report, including a unique report number. You should save this number in case you need to contact us about your report.
 
@@ -949,6 +1147,16 @@ Instagram or Threads removed content as a result of your trademark report. What 
 
 Copy link
 
+What information is shared?
+
+Who sees my information?
+
+Appeal content removal
+
+What is a trademark report?
+
+I have a different question
+
 When we receive [trademark infringement reports](https://help.instagram.com/1921828231475726?helpref=faq_content) and remove the reported content, we provide the reported user with the following information:
 
 *   Report number
@@ -965,6 +1173,16 @@ For any content that was removed based on U.S. trademark rights, we will include
 
 How to appeal the removal of content on Instagram or Threads for copyright reasons
 ==================================================================================
+
+Apelar retirada de conteúdo
+
+Contranotificação DMCA
+
+Conteúdo removido por engano
+
+Recurso para utilizadores italianos
+
+Tenho uma questão diferente
 
 If your content was removed because of a copyright report, you can submit an appeal or a DMCA counter-notification. You received instructions in the message we sent you.
 
