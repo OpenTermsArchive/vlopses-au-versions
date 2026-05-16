@@ -14,13 +14,13 @@ Intellectual property
 
 Copy link
 
-Report copyright infringement
+Report copyright violation
 
-Report trademark infringement
+Report trademark violation
 
 What is copyright?
 
-What is a trademark?
+What is trademark?
 
 I have a different question
 
@@ -230,13 +230,13 @@ How long does trademark protection last?
 
 Copy link
 
-How to renew trademark?
+How long do my rights last?
 
-What if I stop using trademark?
+Renew my trademark
 
-EUIPO trademark renewal
+What is USPTO?
 
-How long is trademark valid?
+What is EUIPO?
 
 I have a different question
 
@@ -756,13 +756,15 @@ If you own a registered trademark, you may be eligible to use Brand Rights Prote
 Copyright
 =========
 
-Protect my copyrighted work
+Rapportera upphovsrättsintrång
 
-Report copyright infringement
+Skydda mitt upphovsrättsskyddade verk
 
-What is Rights Manager?
+Vad är Rights Manager?
 
-I have a different question
+Vad händer om jag bryter mot upphovsrätten?
+
+Jag har en annan fråga
 
 These articles provide information about copyrights, including how you can protect your own copyrighted works and avoid infringing the copyrights of others. We also provide information about how Facebook addresses reported copyright infringement. If you believe that someone is using your copyrighted work without your permission, you can report it by [filling in this form](https://www.facebook.com/help/ipreporting/report/copyright).
 
@@ -998,7 +1000,9 @@ What is fair use?
 
 What are copyright exceptions?
 
-Fair use in the EU?
+Can I use copyrighted material?
+
+I need legal advice
 
 I have a different question
 
@@ -1048,11 +1052,11 @@ Copy link
 
 What is copyright infringement?
 
-Can I use copyrighted content?
-
 What is fair use?
 
-How to report copyright infringement?
+Can I use content with credit?
+
+What if I bought the content?
 
 I have a different question
 
@@ -1137,15 +1141,13 @@ Facebook Lite App Help
 
 More
 
-Contenuto rimosso per copyright
+My content was removed
 
-Contestare rimozione contenuto
+Appeal content removal
 
-Contattare titolare dei diritti
+DMCA counter-notification
 
-Cosa sono le procedure DMCA?
-
-Ho un'altra domanda
+I have a different question
 
 When we receive a report from a rights owner claiming that content you posted on Facebook infringes their intellectual property rights, we may need to promptly remove that content from Facebook without contacting you first.
 
