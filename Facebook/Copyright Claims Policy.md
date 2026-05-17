@@ -50,6 +50,16 @@ A trademark is a word, slogan, symbol or design (e.g. brand name, logo) that dis
 Trademark
 =========
 
+What is a trademark?
+
+Report trademark infringement
+
+Apply for Brand Rights Protection
+
+What does trademark protect?
+
+I have a different question
+
 These articles provide information about trademarks. This includes what trademarks do and don't protect, how you can avoid infringing the trademarks of other people when posting to Facebook and how Facebook addresses reports of trademark infringement.
 
 If you believe that someone is infringing your trademark, you can report it to us by [filling in this form](https://www.facebook.com/help/ipreporting/report/trademark). You can also apply to use [Brand Rights Protection](https://www.facebook.com/business/help/828925381043253), a tool that allows brands to identify and report content that misuses their intellectual property.
@@ -230,13 +240,13 @@ How long does trademark protection last?
 
 Copy link
 
-How long do my rights last?
+How to renew trademark?
 
-Renew my trademark
+What if I stop using trademark?
 
-What is USPTO?
+EUIPO trademark renewal
 
-What is EUIPO?
+How long is trademark valid?
 
 I have a different question
 
@@ -585,16 +595,6 @@ What happens when I submit a trademark report to Meta?
 ======================================================
 
 Copy link
-
-What is a report number?
-
-I need to provide more information
-
-Who sees my report details?
-
-How do I appeal a decision?
-
-I have a different question
 
 If you submitted a [trademark report](https://www.facebook.com/help/191999230901156?helpref=faq_content) to us through our online form or via email, you'll receive an automated message that contains information about your report, including a unique report number. You should save this number in case you need to contact us about your report.
 
@@ -1000,9 +1000,7 @@ What is fair use?
 
 What are copyright exceptions?
 
-Can I use copyrighted material?
-
-I need legal advice
+Fair use in the EU?
 
 I have a different question
 
@@ -1141,13 +1139,15 @@ Facebook Lite App Help
 
 More
 
-My content was removed
+Contenuto rimosso per copyright
 
-Appeal content removal
+Contestare rimozione contenuto
 
-DMCA counter-notification
+Contattare titolare dei diritti
 
-I have a different question
+Cosa sono le procedure DMCA?
+
+Ho un'altra domanda
 
 When we receive a report from a rights owner claiming that content you posted on Facebook infringes their intellectual property rights, we may need to promptly remove that content from Facebook without contacting you first.
 
