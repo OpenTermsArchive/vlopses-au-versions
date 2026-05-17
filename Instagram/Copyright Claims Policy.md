@@ -3,6 +3,16 @@ Intellectual Property
 
 Copy link
 
+Report copyright violation
+
+Report trademark violation
+
+What is copyright?
+
+What is a trademark?
+
+I have a different question
+
 About Intellectual Property
 ---------------------------
 
@@ -36,14 +46,6 @@ If your issue isn't related to Intellectual Property, please see one of the rela
 
 Copyright
 =========
-
-Report copyright infringement
-
-Protect my copyrighted work
-
-What is copyright?
-
-I have a different question
 
 These articles provide information about copyrights, including how you can protect your own copyrighted works and avoid infringing the copyrights of others. We also provide information about how Instagram and Threads address reported copyright infringement. If you believe someone is using your copyrighted work without your permission, you can report it to us by [filling out this form](https://www.instagram.com/help/ipreporting/report/copyright/).
 
@@ -100,6 +102,16 @@ Retract an intellectual property report that you've submitted to Instagram or Th
 
 Trademark
 =========
+
+Report trademark infringement
+
+What does trademark protect?
+
+Avoid trademark infringement
+
+My trademark was infringed
+
+I have a different question
 
 These articles provide information about trademarks. This includes what trademarks protect, how to avoid infringing the trademarks of others when posting to Instagram or Threads, and how Instagram or Threads address reported trademark infringement. If you believe someone is infringing on your trademark, you can report it to us by [filling out this form](https://www.instagram.com/help/ipreporting/report/trademark/).
 
@@ -721,9 +733,11 @@ Copy link
 
 Withdraw my IP report
 
-Cancel a copyright report
+Cancel intellectual property report
 
-Restore removed content
+Retraction form not working
+
+Restore my content
 
 I have a different question
 
@@ -858,11 +872,11 @@ What is a counterfeit?
 
 Copy link
 
-Report counterfeit goods
+What is a counterfeit good?
 
-What is trademark infringement?
+Report counterfeit products
 
-Brand Rights Protection tool
+Counterfeit on Threads
 
 I have a different question
 
@@ -1007,11 +1021,13 @@ How to report trademark infringement on Instagram or Threads
 
 Copy link
 
-Report copyright infringement
+Report trademark on Threads
 
-Report trademark infringement
+My trademark was infringed
 
-What is Brand Rights Protection?
+Brand Rights Protection tool
+
+What are legal consequences?
 
 I have a different question
 
@@ -1049,11 +1065,13 @@ How to report a username on Instagram or Threads for infringing my trademark
 
 Copy link
 
-Report a username
+Report trademark infringement
 
 My trademark is infringed
 
 What is trademark infringement?
+
+Contact account owner
 
 I have a different question
 
@@ -1252,11 +1270,13 @@ What happens when you submit a trademark report to Instagram or Threads
 
 Copy link
 
-Check my report status
+My trademark report number
 
-Respond to a report
+Respond to Instagram email
 
-Information shared in report
+Information shared with infringer
+
+How long does it take?
 
 I have a different question
 
@@ -1283,9 +1303,11 @@ Copy link
 
 Withdraw my IP report
 
-Cancel a copyright report
+Cancel intellectual property report
 
-Restore removed content
+Retraction form not working
+
+Restore my content
 
 I have a different question
 
