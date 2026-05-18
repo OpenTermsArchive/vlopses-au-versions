@@ -47,6 +47,16 @@ If your issue isn't related to Intellectual Property, please see one of the rela
 Copyright
 =========
 
+Report copyright infringement
+
+Protect my copyrighted work
+
+What is copyright?
+
+My content was removed
+
+I have a different question
+
 These articles provide information about copyrights, including how you can protect your own copyrighted works and avoid infringing the copyrights of others. We also provide information about how Instagram and Threads address reported copyright infringement. If you believe someone is using your copyrighted work without your permission, you can report it to us by [filling out this form](https://www.instagram.com/help/ipreporting/report/copyright/).
 
 Laws in different countries may vary. For more information on copyright law, you can visit the website of the [U.S. Copyright Office](https://www.copyright.gov/) or the [World Intellectual Property Organization (WIPO)](http://www.wipo.int/portal/en/index.html). Instagram and Threads can’t provide you with legal advice, so you may want to speak with an attorney if you have more questions about copyright.
@@ -286,13 +296,13 @@ The difference between copyright and trademark
 
 Copy link
 
-What is copyright?
+What does copyright protect?
 
-What is trademark?
-
-Copyright vs trademark
+What does trademark protect?
 
 Report copyright infringement
+
+Report trademark infringement
 
 I have a different question
 
@@ -309,9 +319,9 @@ How to make sure content you post to Instagram or Threads doesn't violate copyri
 
 Copy link
 
-My content was removed
+Avoid copyright infringement
 
-My content was copyrighted
+Post my own content
 
 What is fair use?
 
@@ -356,9 +366,9 @@ Copy link
 
 What is fair use?
 
-Fair use vs. copyright exceptions
+What are copyright exceptions?
 
-My content was removed
+How do I use copyrighted work?
 
 I have a different question
 
@@ -773,11 +783,11 @@ What is trademark infringement?
 
 Copy link
 
-What are limits to trademark rights?
+What is trademark infringement?
 
-When does trademark infringement occur?
+When does infringement occur?
 
-What is likelihood of confusion?
+Limits to trademark rights
 
 I have a different question
 
@@ -868,11 +878,11 @@ What is a counterfeit?
 
 Copy link
 
-Report counterfeit goods
+What is a counterfeit good?
 
-What is trademark infringement?
+Report counterfeit products
 
-Brand Rights Protection tool
+Counterfeit on Threads
 
 I have a different question
 
@@ -914,13 +924,13 @@ The difference between copyright and trademark
 
 Copy link
 
-What is copyright?
+What does copyright protect?
 
-What is trademark?
-
-Copyright vs trademark
+What does trademark protect?
 
 Report copyright infringement
+
+Report trademark infringement
 
 I have a different question
 
@@ -1175,9 +1185,9 @@ Copy link
 
 What is fair use?
 
-Fair use vs. copyright exceptions
+What are copyright exceptions?
 
-My content was removed
+How do I use copyrighted work?
 
 I have a different question
 
