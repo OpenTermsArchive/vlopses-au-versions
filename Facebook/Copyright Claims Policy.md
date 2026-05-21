@@ -1310,13 +1310,15 @@ Related articles
 Copyright
 =========
 
-Protect my copyrighted work
+Rapportera upphovsrättsintrång
 
-Report copyright infringement
+Skydda mitt upphovsrättsskyddade verk
 
-What is Rights Manager?
+Vad är Rights Manager?
 
-I have a different question
+Vad händer om jag bryter mot upphovsrätten?
+
+Jag har en annan fråga
 
 These articles provide information about copyrights, including how you can protect your own copyrighted works and avoid infringing the copyrights of others. We also provide information about how Facebook addresses reported copyright infringement. If you believe that someone is using your copyrighted work without your permission, you can report it by [filling in this form](https://www.facebook.com/help/ipreporting/report/copyright).
 
@@ -1604,13 +1606,13 @@ How can I make sure that the content I post to Facebook doesn't violate copyrigh
 
 Copy link
 
+My content was removed
+
 What is fair use?
 
-Get permission to post
+How to get permission?
 
-Content in public domain
-
-What is copyright?
+What is public domain?
 
 I have a different question
 
