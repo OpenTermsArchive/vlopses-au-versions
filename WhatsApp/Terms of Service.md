@@ -23,6 +23,8 @@ _If you live in the [](https://faq.whatsapp.com/523679699550284/), WhatsApp Irel
 
 _If you live in the [](https://faq.whatsapp.com/523679699550284/), WhatsApp LLC provides the Services to you under this [](https://www.whatsapp.com/legal/terms-of-service-uk)and ._
 
+_If you live in [Australia](https://www.whatsapp.com/legal/australia-user-provisions), these provisions supersede those in the below Terms and prevail over them_
+
 In order to provide our Services (as defined below) through our apps, services, features, software, or website, we need to obtain your agreement to our Terms of Service ("Terms").
 
 WhatsApp LLC ("WhatsApp," "our," "we," or "us") provides the services described below to you ("Services") unless you live in a country or territory in the European Economic Area (which includes the European Union) and any other included country or territory (collectively referred to as the "[European Region](https://faq.whatsapp.com/general/security-and-privacy/who-is-providing-your-whatsapp-services)").
