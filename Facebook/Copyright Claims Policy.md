@@ -426,11 +426,11 @@ Are there any limits to trademark rights?
 
 Copy link
 
-What is nominative fair use?
-
-When is trademark use infringing?
+What is trademark infringement?
 
 Limits to trademark rights?
+
+Use trademark without permission?
 
 I have a different question
 
@@ -777,7 +777,9 @@ Report copyright infringement
 
 Report trademark infringement
 
-Who can report infringement?
+Report someone else's IP
+
+How to report infringement
 
 I have a different question
 
@@ -1557,11 +1559,11 @@ How long does copyright protection last?
 
 Copy link
 
-When does copyright expire?
-
 What is public domain?
 
-Copyright for my work
+When does copyright expire?
+
+Can I use public domain content?
 
 I have a different question
 
@@ -2010,13 +2012,13 @@ How do I report copyright infringement on Facebook?
 
 Copy link
 
-Report copyright infringement
+Meld en krænkelse af ophavsret
 
-My copyright was infringed
+Kontakt den udpegede agent
 
-Contact designated agent
+Send en besked til den, der har opslået indholdet
 
-I have a different question
+Jeg har et andet spørgsmål
 
 If you believe that content on Facebook is infringing on your copyright, you can take one or more of the following actions:
 
@@ -2291,15 +2293,15 @@ What tools does Facebook provide to help me protect my intellectual property in 
 
 Copy link
 
-Còraichean Manaidsear
+Apply for Rights Manager
 
-Dìon susbaint
+Report copyright infringement
 
-Cuir a-steach airson ruigsinneachd
+Content protection for creators
 
-Dèan aithris air briseadh dlighe-sgrìobhaidh
+What are my enforcement options?
 
-Tha ceist eadar-dhealaichte agam
+I have a different question
 
 In addition to our other measures, including our online reporting forms and our repeat infringer policy, we use systems that flag content posted to Facebook that may contain copyrighted content owned by someone else. We provide tailored tooling specific to a content owner's demonstrated needs.
 
