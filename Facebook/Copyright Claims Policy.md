@@ -381,9 +381,11 @@ Copy link
 
 Report counterfeit goods
 
-What is trademark infringement?
+What is a counterfeit?
 
 Counterfeit sales on Facebook
+
+How to report counterfeits?
 
 I have a different question
 
@@ -426,11 +428,11 @@ Are there any limits to trademark rights?
 
 Copy link
 
-What is trademark infringement?
+What is nominative fair use?
+
+When is trademark use infringing?
 
 Limits to trademark rights?
-
-Use trademark without permission?
 
 I have a different question
 
@@ -777,9 +779,7 @@ Report copyright infringement
 
 Report trademark infringement
 
-Report someone else's IP
-
-How to report infringement
+Who can report infringement?
 
 I have a different question
 
@@ -1559,11 +1559,11 @@ How long does copyright protection last?
 
 Copy link
 
-What is public domain?
-
 When does copyright expire?
 
-Can I use public domain content?
+What is public domain?
+
+Copyright for my work
 
 I have a different question
 
@@ -1608,13 +1608,13 @@ How can I make sure that the content I post to Facebook doesn't violate copyrigh
 
 Copy link
 
-My content was removed
-
 What is fair use?
 
-How to get permission?
+Get permission to post
 
-What is public domain?
+Content in public domain
+
+What is copyright?
 
 I have a different question
 
@@ -1681,9 +1681,7 @@ What is fair use?
 
 What are copyright exceptions?
 
-Can I use copyrighted material?
-
-I need legal advice
+Fair use in the EU?
 
 I have a different question
 
@@ -2012,13 +2010,13 @@ How do I report copyright infringement on Facebook?
 
 Copy link
 
-Meld en krænkelse af ophavsret
+Report copyright infringement
 
-Kontakt den udpegede agent
+My copyright was infringed
 
-Send en besked til den, der har opslået indholdet
+Contact designated agent
 
-Jeg har et andet spørgsmål
+I have a different question
 
 If you believe that content on Facebook is infringing on your copyright, you can take one or more of the following actions:
 
@@ -2066,11 +2064,11 @@ How do I contact Meta's Digital Millennium Copyright Act (DMCA) designated agent
 
 Copy link
 
+Contact DMCA agent
+
+Report copyright infringement
+
 DMCA claim form
-
-DMCA contact details
-
-DMCA claim requirements
 
 I have a different question
 
@@ -2293,15 +2291,15 @@ What tools does Facebook provide to help me protect my intellectual property in 
 
 Copy link
 
-Apply for Rights Manager
+Còraichean Manaidsear
 
-Report copyright infringement
+Dìon susbaint
 
-Content protection for creators
+Cuir a-steach airson ruigsinneachd
 
-What are my enforcement options?
+Dèan aithris air briseadh dlighe-sgrìobhaidh
 
-I have a different question
+Tha ceist eadar-dhealaichte agam
 
 In addition to our other measures, including our online reporting forms and our repeat infringer policy, we use systems that flag content posted to Facebook that may contain copyrighted content owned by someone else. We provide tailored tooling specific to a content owner's demonstrated needs.
 
