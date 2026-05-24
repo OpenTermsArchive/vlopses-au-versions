@@ -285,7 +285,7 @@ Copy link
 
 What is a trademark?
 
-What is a business registration?
+What is business registration?
 
 Register a trademark in the EU
 
@@ -584,13 +584,15 @@ Content that I posted on Facebook was removed because it was reported for intell
 
 Copy link
 
-Apelować usunięcie treści
+Apelar remoção de conteúdo
 
-Apelować raport o znak towarowy
+Conteúdo removido por engano
 
-Apelować raport o własność intelektualną
+Contactar proprietário dos direitos
 
-I have a different question
+O que é uma marca registada?
+
+Tenho uma questão diferente
 
 When we receive a report from a rights owner claiming that content you posted on Facebook infringes their intellectual property rights, we may need to promptly remove that content from Facebook without contacting you first.
 
@@ -1602,13 +1604,13 @@ How can I make sure that the content I post to Facebook doesn't violate copyrigh
 
 Copy link
 
-My content was removed
-
 What is fair use?
 
-How to get permission?
+Get permission to post
 
-What is public domain?
+Content in public domain
+
+What is copyright?
 
 I have a different question
 
@@ -1750,11 +1752,11 @@ Copy link
 
 What is copyright infringement?
 
-Can I use copyrighted content?
-
 What is fair use?
 
-How to report copyright infringement?
+Can I use content with credit?
+
+What if I bought the content?
 
 I have a different question
 
