@@ -285,7 +285,7 @@ Copy link
 
 What is a trademark?
 
-What is business registration?
+What is a business registration?
 
 Register a trademark in the EU
 
@@ -330,13 +330,13 @@ How long does trademark protection last?
 
 Copy link
 
-How to renew trademark?
+How long do my rights last?
 
-What if I stop using trademark?
+Renew my trademark
 
-EUIPO trademark renewal
+What is USPTO?
 
-How long is trademark valid?
+What is EUIPO?
 
 I have a different question
 
@@ -1045,13 +1045,11 @@ Report an advertisement for intellectual property infringement on Facebook
 
 Copy link
 
-Report a copyright infringement
+Report an ad for copyright
 
-Report a trademark infringement
+Report an ad for trademark
 
 Report a counterfeit ad
-
-How to use Brand Rights Protection
 
 I have a different question
 
@@ -1310,13 +1308,15 @@ Related articles
 Copyright
 =========
 
-Protect my copyrighted work
+Rapportera upphovsrättsintrång
 
-Report copyright infringement
+Skydda mitt upphovsrättsskyddade verk
 
-What is Rights Manager?
+Vad är Rights Manager?
 
-I have a different question
+Vad händer om jag bryter mot upphovsrätten?
+
+Jag har en annan fråga
 
 These articles provide information about copyrights, including how you can protect your own copyrighted works and avoid infringing the copyrights of others. We also provide information about how Facebook addresses reported copyright infringement. If you believe that someone is using your copyrighted work without your permission, you can report it by [filling in this form](https://www.facebook.com/help/ipreporting/report/copyright).
 
@@ -1504,13 +1504,11 @@ What rights do I have as a copyright owner?
 
 Copy link
 
-What is copyright infringement?
+What are my copyright rights?
 
-My work was copied
+My content was copied
 
 Stop others using my work
-
-Grant permission to use work
 
 I have a different question
 
@@ -1604,13 +1602,13 @@ How can I make sure that the content I post to Facebook doesn't violate copyrigh
 
 Copy link
 
+My content was removed
+
 What is fair use?
 
-Get permission to post
+How to get permission?
 
-Content in public domain
-
-What is copyright?
+What is public domain?
 
 I have a different question
 
@@ -1677,7 +1675,9 @@ What is fair use?
 
 What are copyright exceptions?
 
-Fair use in the EU?
+Can I use copyrighted material?
+
+I need legal advice
 
 I have a different question
 
@@ -1752,11 +1752,11 @@ Copy link
 
 What is copyright infringement?
 
+Can I use copyrighted content?
+
 What is fair use?
 
-Can I use content with credit?
-
-What if I bought the content?
+How to report copyright infringement?
 
 I have a different question
 
@@ -1891,15 +1891,13 @@ Facebook Lite App Help
 
 More
 
-Contenuto rimosso per copyright
+My content was removed
 
-Contestare rimozione contenuto
+Appeal content removal
 
-Contattare titolare dei diritti
+DMCA counter-notification
 
-Cosa sono le procedure DMCA?
-
-Ho un'altra domanda
+I have a different question
 
 When we receive a report from a rights owner claiming that content you posted on Facebook infringes their intellectual property rights, we may need to promptly remove that content from Facebook without contacting you first.
 
@@ -2006,13 +2004,13 @@ How do I report copyright infringement on Facebook?
 
 Copy link
 
-Report copyright infringement
+Meld en krænkelse af ophavsret
 
-My copyright was infringed
+Kontakt den udpegede agent
 
-Contact designated agent
+Send en besked til den, der har opslået indholdet
 
-I have a different question
+Jeg har et andet spørgsmål
 
 If you believe that content on Facebook is infringing on your copyright, you can take one or more of the following actions:
 
