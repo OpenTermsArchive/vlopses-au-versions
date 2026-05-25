@@ -330,13 +330,13 @@ How long does trademark protection last?
 
 Copy link
 
-How long do my rights last?
+How to renew trademark?
 
-Renew my trademark
+What if I stop using trademark?
 
-What is USPTO?
+EUIPO trademark renewal
 
-What is EUIPO?
+How long is trademark valid?
 
 I have a different question
 
@@ -1045,11 +1045,13 @@ Report an advertisement for intellectual property infringement on Facebook
 
 Copy link
 
-Report an ad for copyright
+Report a copyright infringement
 
-Report an ad for trademark
+Report a trademark infringement
 
 Report a counterfeit ad
+
+How to use Brand Rights Protection
 
 I have a different question
 
@@ -1392,11 +1394,11 @@ What is copyright and what does it protect?
 
 Copy link
 
+What is copyright?
+
 What does copyright protect?
 
-What is not protected?
-
-My content was copied
+What isn't protected by copyright?
 
 I have a different question
 
@@ -1451,11 +1453,9 @@ Copy link
 
 Who owns copyright?
 
-My employer owns copyright?
+My original work
 
-I appear in a photo
-
-Contact a copyright lawyer
+Copyright for photos
 
 I have a different question
 
@@ -1504,11 +1504,13 @@ What rights do I have as a copyright owner?
 
 Copy link
 
-What are my copyright rights?
+What is copyright infringement?
 
-My content was copied
+My work was copied
 
 Stop others using my work
+
+Grant permission to use work
 
 I have a different question
 
@@ -1602,13 +1604,13 @@ How can I make sure that the content I post to Facebook doesn't violate copyrigh
 
 Copy link
 
-My content was removed
-
 What is fair use?
 
-How to get permission?
+Get permission to post
 
-What is public domain?
+Content in public domain
+
+What is copyright?
 
 I have a different question
 
@@ -1890,14 +1892,6 @@ iPad App Help
 Facebook Lite App Help
 
 More
-
-My content was removed
-
-Appeal content removal
-
-DMCA counter-notification
-
-I have a different question
 
 When we receive a report from a rights owner claiming that content you posted on Facebook infringes their intellectual property rights, we may need to promptly remove that content from Facebook without contacting you first.
 
