@@ -14,13 +14,13 @@ Intellectual property
 
 Copy link
 
-Report copyright violation
+Report copyright infringement
 
-Report trademark violation
+Report trademark infringement
 
 What is copyright?
 
-What is trademark?
+What is a trademark?
 
 I have a different question
 
@@ -1157,13 +1157,11 @@ Retract an intellectual property report that you've submitted to Facebook
 
 Copy link
 
-Withdraw my IP report
+Retract my report
 
-Cancel copyright report
+Cancel my IP report
 
-Retract trademark report
-
-Why can't content be restored?
+Restore removed content
 
 I have a different question
 
@@ -1310,15 +1308,13 @@ Related articles
 Copyright
 =========
 
-Rapportera upphovsrättsintrång
+Protect my copyrighted work
 
-Skydda mitt upphovsrättsskyddade verk
+Report copyright infringement
 
-Vad är Rights Manager?
+What is Rights Manager?
 
-Vad händer om jag bryter mot upphovsrätten?
-
-Jag har en annan fråga
+I have a different question
 
 These articles provide information about copyrights, including how you can protect your own copyrighted works and avoid infringing the copyrights of others. We also provide information about how Facebook addresses reported copyright infringement. If you believe that someone is using your copyrighted work without your permission, you can report it by [filling in this form](https://www.facebook.com/help/ipreporting/report/copyright).
 
@@ -1453,9 +1449,11 @@ Copy link
 
 Who owns copyright?
 
-My original work
+My employer owns copyright?
 
-Copyright for photos
+I appear in a photo
+
+Contact a copyright lawyer
 
 I have a different question
 
@@ -1604,13 +1602,13 @@ How can I make sure that the content I post to Facebook doesn't violate copyrigh
 
 Copy link
 
+My content was removed
+
 What is fair use?
 
-Get permission to post
+How to get permission?
 
-Content in public domain
-
-What is copyright?
+What is public domain?
 
 I have a different question
 
@@ -1677,9 +1675,7 @@ What is fair use?
 
 What are copyright exceptions?
 
-Can I use copyrighted material?
-
-I need legal advice
+Fair use in the EU?
 
 I have a different question
 
@@ -1892,6 +1888,16 @@ iPad App Help
 Facebook Lite App Help
 
 More
+
+Contenuto rimosso per copyright
+
+Contestare rimozione contenuto
+
+Contattare titolare dei diritti
+
+Cosa sono le procedure DMCA?
+
+Ho un'altra domanda
 
 When we receive a report from a rights owner claiming that content you posted on Facebook infringes their intellectual property rights, we may need to promptly remove that content from Facebook without contacting you first.
 
@@ -2279,15 +2285,15 @@ What tools does Facebook provide to help me protect my intellectual property in 
 
 Copy link
 
-Còraichean Manaidsear
+Apply for Rights Manager
 
-Dìon susbaint
+Report copyright infringement
 
-Cuir a-steach airson ruigsinneachd
+Content protection for creators
 
-Dèan aithris air briseadh dlighe-sgrìobhaidh
+What are my enforcement options?
 
-Tha ceist eadar-dhealaichte agam
+I have a different question
 
 In addition to our other measures, including our online reporting forms and our repeat infringer policy, we use systems that flag content posted to Facebook that may contain copyrighted content owned by someone else. We provide tailored tooling specific to a content owner's demonstrated needs.
 
