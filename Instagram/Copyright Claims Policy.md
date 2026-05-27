@@ -191,16 +191,6 @@ What rights do I have as a copyright owner?
 
 Copy link
 
-My work was copied
-
-Stop someone using my work
-
-What is copyright infringement?
-
-How to grant permission?
-
-I have a different question
-
 As a copyright owner, you have certain rights under the law. These include the right to stop others from copying or distributing your work, or from creating new works based on your work. Copyright infringement generally occurs when a person engages in one of these activities without the copyright owner’s permission.
 
 For example, when someone uploads your photo or video, they make a copy of that photo or video. The same is true if someone uses a song in the soundtrack to a video, even if they paid for a copy of that song on another service.
@@ -354,16 +344,6 @@ What to do if content you posted on Instagram or Threads gets removed because it
 
 Copy link
 
-Appeal content removal
-
-My content was removed
-
-Contact rights owner
-
-Copyright appeal process
-
-I have a different question
-
 If we remove content you posted because of an intellectual property report submitted through our online form, you’ll receive a notification that may include the name and email address of the rights owner who made the report and/or other details of the report. If you believe the content shouldn't have been removed, you can follow up with the rights owner directly to try to resolve the issue.
 
 If your content was removed because of a copyright report, you can submit an appeal. Learn more about [our appeals process](https://www.facebook.com/help/instagram/1417735471763678?locale=en_US&helpref=faq_content) or [how to use music in your videos on Instagram or Threads.](https://www.facebook.com/help/instagram/629037417957828?helpref=faq_content)
@@ -457,14 +437,6 @@ Can I report an infringement of someone else’s intellectual property on Instag
 =============================================================================================
 
 Copy link
-
-Report someone else's IP
-
-Report copyright infringement
-
-Report trademark infringement
-
-I have a different question
 
 Only an intellectual property rights owner or their authorized representative may report a suspected infringement. If you believe content on Instagram or Threads infringes someone else’s copyright or trademark rights, you may want to let the rights owner know.
 
@@ -577,6 +549,14 @@ Retract an intellectual property report that you've submitted to Instagram or Th
 
 Copy link
 
+Withdraw my IP report
+
+Cancel a copyright report
+
+Restore removed content
+
+I have a different question
+
 If you submitted an intellectual property report, but then reached an agreement with the person who posted the content, or if you reported content by mistake, you can withdraw your intellectual property report.
 
 The best way to do that is to complete the Retraction Form provided to you in the email with reference to your report. Alternatively, you can submit [this form](https://help.instagram.com/contact/3373960976225657).
@@ -604,14 +584,6 @@ What is trademark infringement?
 ===============================
 
 Copy link
-
-What are limits to trademark rights?
-
-When does trademark infringement occur?
-
-What is likelihood of confusion?
-
-I have a different question
 
 Generally, trademark infringement occurs when:
 
@@ -739,6 +711,14 @@ Content I posted on Instagram or Threads was removed because it was reported for
 
 Copy link
 
+Appeal content removal
+
+Contact rights owner
+
+My content was removed
+
+I have a different question
+
 If we remove content you posted because of an intellectual property report submitted through our online form, you’ll receive a notification that may include the name and email address of the rights owner who made the report and/or other details of the report. If you believe the content shouldn't have been removed, you can follow up with the rights owner directly to try to resolve the issue.
 
 Appealing the removal of content
@@ -777,16 +757,6 @@ How to report trademark infringement on Instagram or Threads
 
 Copy link
 
-Report trademark on Threads
-
-My trademark was infringed
-
-Brand Rights Protection tool
-
-What are legal consequences?
-
-I have a different question
-
 Instagram and Threads can’t adjudicate disputes between third parties, and so we wouldn’t be in a position to act on trademark reports that require an in-depth trademark analysis or a real-world dispute outside of Instagram or Threads. In these situations, rather than contacting Instagram or Threads, you may want to reach out directly to the party that you believe is infringing your rights, or seek any resolution in court or by other judicial means.
 
 You can report copyright infringement [by filling out this form](https://www.instagram.com/help/ipreporting/report/trademark/) or by using the [Brand Rights Protection tool](https://www.facebook.com/business/help/828925381043253?helpref=faq_content), which enables a rights holder to identify and report violating content for trademark, copyright, and counterfeit.
@@ -804,14 +774,6 @@ Can I report an infringement of someone else’s intellectual property on Instag
 
 Copy link
 
-Report someone else's IP
-
-Report copyright infringement
-
-Report trademark infringement
-
-I have a different question
-
 Only an intellectual property rights owner or their authorized representative may report a suspected infringement. If you believe content on Instagram or Threads infringes someone else’s copyright or trademark rights, you may want to let the rights owner know.
 
 - - -
@@ -820,14 +782,6 @@ How to report a username on Instagram or Threads for infringing my trademark
 ============================================================================
 
 Copy link
-
-Report a username
-
-My trademark is infringed
-
-What is trademark infringement?
-
-I have a different question
 
 [Usernames are](https://help.instagram.com/182492381886913/?helpref=faq_content) generally claimed on a first-come, first-served basis. This means that you may see an Instagram or Threads account that includes your trademark in its username. While there may be cases where this type of use can be reported for trademark infringement based on the context of its use, please note that not every use of your trademark in a username is necessarily a trademark infringement. The same word used in a different context may not violate your trademark. See [“What is trademark infringement?”](https://help.instagram.com/1904208239817294?helpref=faq_content) to learn more.
 
@@ -952,6 +906,16 @@ Information you need to include in a trademark report on Instagram or Threads
 
 Copy link
 
+What is a trademark report?
+
+What info do I need?
+
+How to find a URL?
+
+My trademark was infringed
+
+I have a different question
+
 The fastest and easiest way to submit a [report of trademark infringement](https://help.instagram.com/1921828231475726?helpref=faq_content) to us is to use our online form. Whether you submit your report through our online form or another method, Instagram and Threads needs the following information to be able to process your report:
 
 *   Your complete contact information (full name, mailing address, and phone number)\*.
@@ -1010,6 +974,14 @@ Retract an intellectual property report that you've submitted to Instagram or Th
 =====================================================================================
 
 Copy link
+
+Withdraw my IP report
+
+Cancel a copyright report
+
+Restore removed content
+
+I have a different question
 
 If you submitted an intellectual property report, but then reached an agreement with the person who posted the content, or if you reported content by mistake, you can withdraw your intellectual property report.
 
