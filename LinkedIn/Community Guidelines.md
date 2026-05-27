@@ -133,7 +133,7 @@ Content that would normally violate the letter of our policies may be allowed in
 - - -
 
 Harassment and abusive content
-------------------------------
+==============================
 
 Last updated: 10 months ago
 
@@ -195,7 +195,7 @@ Learn more about [how we enforce violations of our Professional Community Polici
 - - -
 
 Restricted goods and services
------------------------------
+=============================
 
 Last updated: 2 months ago
 
@@ -228,7 +228,7 @@ Learn more about [how we enforce violations of our Professional Community Polici
 - - -
 
 Dangerous organizations and individuals
----------------------------------------
+=======================================
 
 Last updated: 4 years ago
 
@@ -302,7 +302,7 @@ To learn more about when we remove content that violates our Professional Commun
 - - -
 
 Scams and fraud content
------------------------
+=======================
 
 Last updated: 4 years ago
 
@@ -330,7 +330,7 @@ Learn more about [how we enforce violations of our Professional Community Polici
 - - -
 
 Hateful and derogatory content
-------------------------------
+==============================
 
 Last updated: 10 months ago
 
@@ -382,7 +382,7 @@ Learn more about [how we enforce violations of our Professional Community Polici
 - - -
 
 Nudity and adult content
-------------------------
+========================
 
 Last updated: 2 weeks ago
 
