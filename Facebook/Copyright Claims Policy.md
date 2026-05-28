@@ -14,13 +14,13 @@ Intellectual property
 
 Copy link
 
-Report copyright infringement
+Report copyright violation
 
-Report trademark infringement
+Report trademark violation
 
 What is copyright?
 
-What is a trademark?
+What is trademark?
 
 I have a different question
 
@@ -381,11 +381,9 @@ Copy link
 
 Report counterfeit goods
 
-What is a counterfeit?
+What is trademark infringement?
 
 Counterfeit sales on Facebook
-
-How to report counterfeits?
 
 I have a different question
 
@@ -920,13 +918,11 @@ What information do I need to include in a trademark report to Meta?
 
 Copy link
 
-What is a trademark?
+Submit a trademark report
 
-How to report infringement?
+What to include in report
 
-What if I'm not the owner?
-
-How long does a report take?
+How to find a URL
 
 I have a different question
 
@@ -1608,13 +1604,13 @@ How can I make sure that the content I post to Facebook doesn't violate copyrigh
 
 Copy link
 
+My content was removed
+
 What is fair use?
 
-Get permission to post
+How to get permission?
 
-Content in public domain
-
-What is copyright?
+What is public domain?
 
 I have a different question
 
@@ -1681,9 +1677,7 @@ What is fair use?
 
 What are copyright exceptions?
 
-Can I use copyrighted material?
-
-I need legal advice
+Fair use in the EU?
 
 I have a different question
 
@@ -2066,11 +2060,11 @@ How do I contact Meta's Digital Millennium Copyright Act (DMCA) designated agent
 
 Copy link
 
-Contact DMCA agent
-
-Report copyright infringement
-
 DMCA claim form
+
+DMCA contact details
+
+DMCA claim requirements
 
 I have a different question
 
