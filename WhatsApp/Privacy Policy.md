@@ -372,7 +372,7 @@ When you use face and hand effects, we may process information from images of ot
 
 ### **WhatsApp Channels Supplemental Privacy Policy**
 
-Effective February 6, 2025
+Effective January 21, 2025
 
 This WhatsApp Channels Supplemental Privacy Policy helps explain our information practices when you use WhatsApp Channels (“Channels”). When we say “WhatsApp”, “our”, “we” or “us”, we are referring to WhatsApp LLC.
 
