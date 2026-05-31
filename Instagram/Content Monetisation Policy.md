@@ -179,13 +179,13 @@ Instagram Partner Monetization Policies
 
 Copy link
 
-Check my eligibility
+Monetization eligibility requirements
 
 Why was I ineligible?
 
 My monetization was removed
 
-What are content policies?
+Content monetization policies
 
 I have a different question
 
