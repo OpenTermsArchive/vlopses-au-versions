@@ -14,13 +14,13 @@ Intellectual property
 
 Copy link
 
-Report copyright infringement
+My copyright was violated
 
-Report trademark infringement
+My trademark was violated
+
+Report intellectual property
 
 What is copyright?
-
-What is a trademark?
 
 I have a different question
 
@@ -426,11 +426,13 @@ Are there any limits to trademark rights?
 
 Copy link
 
-What is trademark infringement?
-
 What is nominative fair use?
 
-Limits to trademark rights?
+Resale of legitimate goods
+
+Trademark in ordinary meaning
+
+Geographic limits to trademark
 
 I have a different question
 
@@ -1267,7 +1269,7 @@ Brand Rights Protection eligibility
 
 Apply for Brand Rights Protection
 
-Trademark violation on Facebook
+Identify trademark violations
 
 I have a different question
 
@@ -1394,11 +1396,13 @@ What is copyright and what does it protect?
 
 Copy link
 
-What is copyright?
-
 What does copyright protect?
 
-What isn't protected by copyright?
+Copyright for my content
+
+Copyright for photos
+
+Copyright for videos
 
 I have a different question
 
@@ -1677,7 +1681,7 @@ What is fair use?
 
 What are copyright exceptions?
 
-Fair use in the EU?
+Can I use copyrighted material?
 
 I have a different question
 
@@ -1887,9 +1891,11 @@ Facebook Lite App Help
 
 More
 
+Content removed
+
 Appeal content removal
 
-Contact rights owner
+Intellectual property report
 
 DMCA counter-notification
 
@@ -2054,13 +2060,11 @@ How do I contact Meta's Digital Millennium Copyright Act (DMCA) designated agent
 
 Copy link
 
-Contact DMCA agent
+Contact DMCA by phone
 
-Report copyright infringement
+Contact DMCA by email
 
-DMCA claim form
-
-What is a DMCA claim?
+DMCA claim requirements
 
 I have a different question
 
@@ -2285,11 +2289,11 @@ What tools does Facebook provide to help me protect my intellectual property in 
 
 Copy link
 
-Apply for Rights Manager
+What is Rights Manager?
 
-Content protection for creators
+What is Content Protection?
 
-Actions for detected content
+Apply for copyright tools
 
 Report copyright infringement
 
