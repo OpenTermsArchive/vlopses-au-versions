@@ -14,13 +14,13 @@ Intellectual property
 
 Copy link
 
-My copyright was violated
-
-My trademark was violated
-
-Report intellectual property
-
 What is copyright?
+
+What is a trademark?
+
+Report copyright violation
+
+Report trademark violation
 
 I have a different question
 
@@ -1312,13 +1312,13 @@ Related articles
 Copyright
 =========
 
-Protect my copyrighted work
-
 Report copyright infringement
 
-What is Rights Manager?
+Protect my copyrighted work
 
-What is intellectual property?
+What is copyright?
+
+How to use Rights Manager?
 
 I have a different question
 
@@ -1396,13 +1396,13 @@ What is copyright and what does it protect?
 
 Copy link
 
-What does copyright protect?
+What is copyright infringement?
 
-Copyright for my content
+How do I protect my content?
 
-Copyright for photos
+Can I use copyrighted material?
 
-Copyright for videos
+What is fair use?
 
 I have a different question
 
@@ -1891,11 +1891,9 @@ Facebook Lite App Help
 
 More
 
-Content removed
-
 Appeal content removal
 
-Intellectual property report
+Contact rights owner
 
 DMCA counter-notification
 
