@@ -1396,13 +1396,13 @@ What is copyright and what does it protect?
 
 Copy link
 
-What is copyright infringement?
+What does copyright protect?
 
-How do I protect my content?
+Copyright for my content
 
-Can I use copyrighted material?
+Copyright for photos
 
-What is fair use?
+Copyright for videos
 
 I have a different question
 
@@ -1608,7 +1608,7 @@ How can I make sure that the content I post to Facebook doesn't violate copyrigh
 
 Copy link
 
-My post was removed
+My content was removed
 
 What is fair use?
 
@@ -1679,9 +1679,9 @@ Copy link
 
 What is fair use?
 
-What are copyright exceptions?
+Copyright exceptions in EU
 
-Can I use copyrighted material?
+What is copyright infringement?
 
 I have a different question
 
@@ -2287,13 +2287,13 @@ What tools does Facebook provide to help me protect my intellectual property in 
 
 Copy link
 
-What is Rights Manager?
+Apply for Rights Manager
 
-What is Content Protection?
+Protect my video content
 
-Apply for copyright tools
+Report copyrighted content
 
-Report copyright infringement
+How to monetise content
 
 I have a different question
 
