@@ -3,13 +3,13 @@ Instagram Content Monetization Policies
 
 Copy link
 
-Why was my content demonetized?
+My content was not monetized
 
-My content was restricted
+Why was my content rejected?
 
 What are prohibited formats?
 
-What is unoriginal content?
+What are restricted categories?
 
 I have a different question
 
