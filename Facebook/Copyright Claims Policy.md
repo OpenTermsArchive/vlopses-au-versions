@@ -236,9 +236,11 @@ Does a trademark need to be registered to be protected?
 
 Copy link
 
-Register my trademark
+Register a trademark
 
 Trademark rights without registration
+
+USPTO registration benefits
 
 EUIPO trademark registration
 
@@ -1312,11 +1314,13 @@ Related articles
 Copyright
 =========
 
-Protect my copyrighted work
-
 Report copyright infringement
 
-What is Rights Manager?
+Protect my copyrighted work
+
+What is copyright?
+
+How to use Rights Manager?
 
 I have a different question
 
@@ -1606,11 +1610,11 @@ How can I make sure that the content I post to Facebook doesn't violate copyrigh
 
 Copy link
 
-I used someone else's content
-
-Do I need permission?
+My post was removed
 
 What is fair use?
+
+How to get permission?
 
 What is public domain?
 
@@ -2285,13 +2289,13 @@ What tools does Facebook provide to help me protect my intellectual property in 
 
 Copy link
 
-What is Rights Manager?
+Apply for Rights Manager
 
-What is Content Protection?
+Protect my video content
 
-Apply for copyright tools
+Report copyrighted content
 
-Report copyright infringement
+How to monetise content
 
 I have a different question
 
