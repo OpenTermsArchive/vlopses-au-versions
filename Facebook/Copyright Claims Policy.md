@@ -381,9 +381,9 @@ Copy link
 
 Report counterfeit goods
 
-What is trademark infringement?
+Selling counterfeit goods
 
-Counterfeit sales on Facebook
+What is trademark infringement?
 
 I have a different question
 
@@ -1679,9 +1679,9 @@ Copy link
 
 What is fair use?
 
-Copyright exceptions in EU
+What are copyright exceptions?
 
-What is copyright infringement?
+Can I use copyrighted material?
 
 I have a different question
 
@@ -2006,9 +2006,9 @@ Copy link
 
 Report copyright infringement
 
-My copyright was infringed
-
 Contact designated agent
+
+My content was reported
 
 I have a different question
 
@@ -2287,13 +2287,13 @@ What tools does Facebook provide to help me protect my intellectual property in 
 
 Copy link
 
-Apply for Rights Manager
+What is Rights Manager?
 
-Protect my video content
+What is Content Protection?
 
-Report copyrighted content
+Apply for copyright tools
 
-How to monetise content
+Report copyright infringement
 
 I have a different question
 
