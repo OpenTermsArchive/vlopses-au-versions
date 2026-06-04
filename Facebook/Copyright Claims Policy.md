@@ -236,11 +236,9 @@ Does a trademark need to be registered to be protected?
 
 Copy link
 
-Register a trademark
+Register my trademark
 
 Trademark rights without registration
-
-USPTO registration benefits
 
 EUIPO trademark registration
 
@@ -1314,13 +1312,13 @@ Related articles
 Copyright
 =========
 
-Report copyright infringement
-
 Protect my copyrighted work
 
-What is copyright?
+Report copyright infringement
 
-How to use Rights Manager?
+What is Rights Manager?
+
+What is intellectual property?
 
 I have a different question
 
@@ -1398,13 +1396,13 @@ What is copyright and what does it protect?
 
 Copy link
 
-What does copyright protect?
+What is copyright infringement?
 
-Copyright for my content
+How do I protect my content?
 
-Copyright for photos
+Can I use copyrighted material?
 
-Copyright for videos
+What is fair use?
 
 I have a different question
 
@@ -1681,9 +1679,9 @@ Copy link
 
 What is fair use?
 
-What are copyright exceptions?
+Copyright exceptions in EU
 
-Can I use copyrighted material?
+What is copyright infringement?
 
 I have a different question
 
