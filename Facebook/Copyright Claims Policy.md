@@ -381,9 +381,9 @@ Copy link
 
 Report counterfeit goods
 
-Selling counterfeit goods
-
 What is trademark infringement?
+
+Counterfeit sales on Facebook
 
 I have a different question
 
