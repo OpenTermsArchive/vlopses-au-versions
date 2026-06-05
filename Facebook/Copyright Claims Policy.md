@@ -1312,13 +1312,13 @@ Related articles
 Copyright
 =========
 
-Protect my copyrighted work
-
 Report copyright infringement
 
-What is Rights Manager?
+Protect my copyrighted work
 
-What is intellectual property?
+What is copyright?
+
+How to use Rights Manager?
 
 I have a different question
 
@@ -1396,13 +1396,13 @@ What is copyright and what does it protect?
 
 Copy link
 
-What is copyright infringement?
+What does copyright protect?
 
-How do I protect my content?
+Copyright for my content
 
-Can I use copyrighted material?
+Copyright for photos
 
-What is fair use?
+Copyright for videos
 
 I have a different question
 
@@ -1608,11 +1608,11 @@ How can I make sure that the content I post to Facebook doesn't violate copyrigh
 
 Copy link
 
-My post was removed
+I used someone else's content
+
+Do I need permission?
 
 What is fair use?
-
-How to get permission?
 
 What is public domain?
 
@@ -1679,9 +1679,9 @@ Copy link
 
 What is fair use?
 
-What are copyright exceptions?
+Copyright exceptions in EU
 
-Can I use copyrighted material?
+What is copyright infringement?
 
 I have a different question
 
@@ -2006,9 +2006,9 @@ Copy link
 
 Report copyright infringement
 
-Contact designated agent
+My copyright was infringed
 
-My content was reported
+Contact designated agent
 
 I have a different question
 
