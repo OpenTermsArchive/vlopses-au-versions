@@ -14,13 +14,13 @@ Intellectual property
 
 Copy link
 
-My copyright was violated
-
-My trademark was violated
-
-Report intellectual property
-
 What is copyright?
+
+What is a trademark?
+
+Report copyright violation
+
+Report trademark violation
 
 I have a different question
 
@@ -381,9 +381,9 @@ Copy link
 
 Report counterfeit goods
 
-What is trademark infringement?
+Selling counterfeit goods
 
-Counterfeit sales on Facebook
+What is trademark infringement?
 
 I have a different question
 
@@ -1396,13 +1396,13 @@ What is copyright and what does it protect?
 
 Copy link
 
-What is copyright infringement?
+What does copyright protect?
 
-How do I protect my content?
+Copyright for my content
 
-Can I use copyrighted material?
+Copyright for photos
 
-What is fair use?
+Copyright for videos
 
 I have a different question
 
@@ -1608,11 +1608,11 @@ How can I make sure that the content I post to Facebook doesn't violate copyrigh
 
 Copy link
 
-I used someone else's content
-
-Do I need permission?
+My post was removed
 
 What is fair use?
+
+How to get permission?
 
 What is public domain?
 
@@ -1679,9 +1679,9 @@ Copy link
 
 What is fair use?
 
-What are copyright exceptions?
+Copyright exceptions in EU
 
-Can I use copyrighted material?
+What is copyright infringement?
 
 I have a different question
 
