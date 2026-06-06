@@ -1312,13 +1312,13 @@ Related articles
 Copyright
 =========
 
-Report copyright infringement
-
 Protect my copyrighted work
 
-What is copyright?
+Report copyright infringement
 
-How to use Rights Manager?
+What is Rights Manager?
+
+What is intellectual property?
 
 I have a different question
 
@@ -1396,13 +1396,13 @@ What is copyright and what does it protect?
 
 Copy link
 
-What does copyright protect?
+What is copyright infringement?
 
-Copyright for my content
+How do I protect my content?
 
-Copyright for photos
+Can I use copyrighted material?
 
-Copyright for videos
+What is fair use?
 
 I have a different question
 
@@ -1679,9 +1679,9 @@ Copy link
 
 What is fair use?
 
-Copyright exceptions in EU
+What are copyright exceptions?
 
-What is copyright infringement?
+Can I use copyrighted material?
 
 I have a different question
 
