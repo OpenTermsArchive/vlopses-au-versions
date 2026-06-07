@@ -381,9 +381,9 @@ Copy link
 
 Report counterfeit goods
 
-Selling counterfeit goods
-
 What is trademark infringement?
+
+Counterfeit sales on Facebook
 
 I have a different question
 
@@ -1608,11 +1608,11 @@ How can I make sure that the content I post to Facebook doesn't violate copyrigh
 
 Copy link
 
-My post was removed
+I used someone else's content
+
+Do I need permission?
 
 What is fair use?
-
-How to get permission?
 
 What is public domain?
 
@@ -1679,9 +1679,9 @@ Copy link
 
 What is fair use?
 
-Copyright exceptions in EU
+What are copyright exceptions?
 
-What is copyright infringement?
+Can I use copyrighted material?
 
 I have a different question
 
