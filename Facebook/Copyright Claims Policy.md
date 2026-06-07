@@ -14,13 +14,13 @@ Intellectual property
 
 Copy link
 
+My copyright was violated
+
+My trademark was violated
+
+Report intellectual property
+
 What is copyright?
-
-What is a trademark?
-
-Report copyright violation
-
-Report trademark violation
 
 I have a different question
 
@@ -1891,9 +1891,11 @@ Facebook Lite App Help
 
 More
 
+Content removed
+
 Appeal content removal
 
-Contact rights owner
+Intellectual property report
 
 DMCA counter-notification
 
