@@ -167,7 +167,9 @@ We always appreciate feedback or other suggestions, but may use them without any
 **8\. Updating These Terms**
 ----------------------------
 
-We may change our Service and policies, and we may need to make changes to these Terms so that they accurately reflect our Service and policies. Unless otherwise required by law, we will notify you (for example, through our Service) before we make changes to these Terms and give you an opportunity to review them before they go into effect. Then, if you continue to access or use the Service, you will be bound by the updated Terms. If you do not agree to any updated Terms or wish to terminate your agreement to this contract, you can do so by deleting your account [here](https://help.instagram.com/370452623149242?ref=igtos) and no longer accessing or using any part of the Instagram Service.
+We may change our Service and policies, and we may need to make changes to these Terms so that they accurately reflect our Service and policies. Unless otherwise required by law, we will notify you (for example, through our Service) before we make changes to these Terms and give you an opportunity to review them before they go into effect. Then, if you continue to access or use the Service, you will be bound by the updated Terms. If you do not agree to any updated Terms or wish to terminate your agreement to this contract, you can do so by deleting your account [here](https://help.instagram.com/370452623149242?ref=igtos) and no longer accessing or using any part of the Instagram Service.  
+
+Effective Date: 1 January 2025
 
 - - -
 
@@ -183,13 +185,13 @@ Onsite Checkout Payments Features Terms and Conditions
 
 - - -
 
-**Our AI Terms are different depending on the region that you live in**
+**Our AI Terms are different depending on the region you live in**
 
-**United Kingdom:** The [UK Meta AI's Terms of Service](https://www.facebook.com/legal/uk-ai-terms) govern the use of our Generative AI products and features if you live in the United Kingdom.
+**United Kingdom:** The [UK Meta AIs Terms of Service](https://www.facebook.com/legal/uk-ai-terms) govern the use of our Generative AI products and features if you live in the United Kingdom.
 
-**Brazil:** The [Brazil Meta AI's Terms of Service](https://www.facebook.com/legal/br-ai-terms) govern the use of our Generative AI products and features if you live in Brazil.
+**Brazil:** The [Brazil Meta AIs Terms of Service](https://www.facebook.com/legal/br-ai-terms) govern the use of our Generative AI products and features if you live in Brazil.
 
-**European region:** The [EU Meta AI's Terms of Service](https://www.facebook.com/legal/eu-ai-terms) govern the use of our Generative AI products and features if you live in the European region.
+**European Region:** The [EU Meta AIs Terms of Service](https://www.facebook.com/legal/eu-ai-terms) govern the use of our Generative AI products and features if you live in the European Region.
 
   
 
@@ -314,4 +316,4 @@ These Terms of Service (“Terms”) apply when you access and use Meta AIs and 
     
 *   **Effective Date**
     
-    Effective from 13 May 2026
+    Effective May 13, 2026
