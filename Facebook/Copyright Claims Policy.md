@@ -14,13 +14,13 @@ Intellectual Property
 
 Copy link
 
-My content was removed
+What is copyright?
+
+What is a trademark?
 
 Report copyright violation
 
 Report trademark violation
-
-What is intellectual property?
 
 I have a different question
 
@@ -130,9 +130,9 @@ What is a trademark?
 
 What do trademarks protect?
 
-Report trademark infringement
+Report a trademark infringement
 
-How do trademarks work?
+What is not protected?
 
 I have a different question
 
@@ -188,11 +188,11 @@ What is trademark infringement?
 
 Copy link
 
+What is trademark infringement?
+
 What is trademark dilution?
 
-My trademark was infringed
-
-Report trademark infringement
+What is likelihood of confusion?
 
 I have a different question
 
@@ -259,8 +259,6 @@ Register my trademark
 
 Trademark rights without registration
 
-Trademark protection outside US
-
 What is common law right?
 
 I have a different question
@@ -313,11 +311,11 @@ What is the difference between a trademark registration and a business registrat
 
 Copy link
 
-What is a trademark?
+What is a trademark registration?
 
 What is a business registration?
 
-Register a trademark
+Do I need both registrations?
 
 I have a different question
 
@@ -367,11 +365,11 @@ How long does trademark protection last?
 
 Copy link
 
-Renew trademark registration
+How long do my rights last?
 
-Lose trademark rights
+Renew my trademark registration
 
-Trademark rights in EUIPO
+I lost my trademark rights
 
 I have a different question
 
@@ -414,7 +412,7 @@ Resolve issues, make changes and get support in real time
 - - -
 
 *   [Policies](https://www.facebook.com/help/463972400461409/?helpref=breadcrumb)
-*   [Intellectual Property](https://www.facebook.com/help/399224883474207/?helpref=breadcrumb)
+*   [Intellectual property](https://www.facebook.com/help/399224883474207/?helpref=breadcrumb)
 
 What is a counterfeit?
 ======================
@@ -423,42 +421,40 @@ Copy link
 
 Report counterfeit goods
 
-Counterfeit sales on Facebook
-
 What is trademark infringement?
 
-How to report counterfeits?
+Is selling counterfeits illegal?
 
 I have a different question
 
-A counterfeit good is a knockoff or replica version of another company’s product. It usually copies the trademark (name or logo) and/or distinctive features of that other company’s product to imitate a genuine product. The manufacture, promotion or sale of a counterfeit goods is a type of trademark infringement that is illegal in most countries, and is recognized as being harmful to consumers, trademark owners and honest sellers. Please note that counterfeit goods may be unlawful even if the seller explicitly says that the goods are counterfeit, or otherwise disclaims authenticity of the goods.
+A counterfeit good is a knock-off or replica version of another company's product. It usually copies the trademark (name or logo) and/or distinctive features of that other company's product to imitate a genuine product. The manufacture, promotion or sale of counterfeit goods is a type of trademark infringement that is illegal in most countries, and is recognised as being harmful to consumers, trademark owners and honest sellers. Please note that counterfeit goods may be unlawful even if the seller explicitly says that the goods are counterfeit, or otherwise disclaims authenticity of the goods.
 
-If you believe content on Facebook is selling or promoting counterfeit goods, you can report it by [filling out this form](https://www.facebook.com/help/ipreporting/report/counterfeit).
+If you believe that content on Facebook is selling or promoting counterfeit goods, you can report it by [filling in this form](https://www.facebook.com/help/ipreporting/report/counterfeit).
 
-Related Articles
+Related articles
 ----------------
 
 [Trademark](https://www.facebook.com/help/507663689427413/?helpref=related_articles)
 
 [What are trademarks and what they protect](https://www.facebook.com/help/1378807958858854/?helpref=related_articles)
 
-[Does a trademark need to be registered to be protected?](https://www.facebook.com/help/1430594943641002/?helpref=related_articles)
-
 [Information about objections and how you can object on Meta Products](https://www.facebook.com/help/2069235856423257/?helpref=related_articles)
 
 [What is copyright and what does it protect?](https://www.facebook.com/help/116772962146447/?helpref=related_articles)
 
-Related Articles
+[Copyright](https://www.facebook.com/help/1020633957973118/?helpref=related_articles)
+
+Related articles
 
 [Trademark](https://www.facebook.com/help/507663689427413/?helpref=related_articles)
 
 [What are trademarks and what they protect](https://www.facebook.com/help/1378807958858854/?helpref=related_articles)
 
-[Does a trademark need to be registered to be protected?](https://www.facebook.com/help/1430594943641002/?helpref=related_articles)
-
 [Information about objections and how you can object on Meta Products](https://www.facebook.com/help/2069235856423257/?helpref=related_articles)
 
 [What is copyright and what does it protect?](https://www.facebook.com/help/116772962146447/?helpref=related_articles)
+
+[Copyright](https://www.facebook.com/help/1020633957973118/?helpref=related_articles)
 
 Other ways to get help
 ----------------------
@@ -477,13 +473,11 @@ Are there any limits to trademark rights?
 
 Copy link
 
+What is trademark infringement?
+
 What is nominative fair use?
 
-Limits to trademark rights?
-
-Trademark use without permission?
-
-Geographic limits on trademarks?
+Are there limits to trademark?
 
 I have a different question
 
@@ -545,9 +539,9 @@ What is copyright?
 
 What is trademark?
 
-Copyright infringement
+Protect my content
 
-Trademark infringement
+Report copyright infringement
 
 I have a different question
 
@@ -605,7 +599,7 @@ What is trademark infringement?
 
 How to avoid trademark issues?
 
-Seek legal advice
+What if I used a trademark?
 
 I have a different question
 
@@ -662,9 +656,9 @@ Copy link
 
 Appeal content removal
 
-My content was removed
-
 Appeal trademark report
+
+Contact rights owner
 
 I have a different question
 
@@ -725,9 +719,7 @@ My account was disabled
 
 My Page was removed
 
-Why was my account disabled?
-
-What is repeat infringer policy?
+What is intellectual property?
 
 I have a different question
 
@@ -810,7 +802,7 @@ Copy link
 
 Report trademark infringement
 
-My trademark was infringed
+Fill out trademark form
 
 What is trademark infringement?
 
@@ -861,47 +853,49 @@ Resolve issues, make changes and get support in real time
 - - -
 
 *   [Policies](https://www.facebook.com/help/463972400461409/?helpref=breadcrumb)
-*   [Intellectual Property](https://www.facebook.com/help/399224883474207/?helpref=breadcrumb)
+*   [Intellectual property](https://www.facebook.com/help/399224883474207/?helpref=breadcrumb)
 
-Can I report an infringement of someone else’s intellectual property on Facebook?
+Can I report an infringement of someone else's intellectual property on Facebook?
 =================================================================================
 
 Copy link
+
+Report an infringement
+
+What is intellectual property?
 
 Report copyright infringement
 
 Report trademark infringement
 
-Report intellectual property
-
 I have a different question
 
-Only an intellectual property rights owner or their authorized representative may report a suspected infringement. If you believe content on Facebook infringes someone else’s copyright or trademark rights, you may want to let the rights owner know.
+Only an intellectual property rights owner or their authorised representative may report a suspected infringement. If you believe that content on Facebook infringes someone else's copyright or trademark rights, you may want to let the rights owner know.
 
-Related Articles
+Related articles
 ----------------
 
-[Repeated intellectual property infringement on Facebook](https://www.facebook.com/help/350712395302528/?helpref=related_articles)
-
 [How do I report trademark infringement on Facebook?](https://www.facebook.com/help/191999230901156/?helpref=related_articles)
+
+[Repeated intellectual property infringement on Facebook](https://www.facebook.com/help/350712395302528/?helpref=related_articles)
 
 [How do I report copyright infringement on Facebook?](https://www.facebook.com/help/325058084212425/?helpref=related_articles)
 
 [Report an advertisement for intellectual property infringement on Facebook](https://www.facebook.com/help/258317347704209/?helpref=related_articles)
 
-[What you should consider before submitting a report of intellectual property infringement to Facebook](https://www.facebook.com/help/1703586166530507/?helpref=related_articles)
+[Can I report a Facebook username for infringing my trademark?](https://www.facebook.com/help/1250304721728220/?helpref=related_articles)
 
-Related Articles
-
-[Repeated intellectual property infringement on Facebook](https://www.facebook.com/help/350712395302528/?helpref=related_articles)
+Related articles
 
 [How do I report trademark infringement on Facebook?](https://www.facebook.com/help/191999230901156/?helpref=related_articles)
+
+[Repeated intellectual property infringement on Facebook](https://www.facebook.com/help/350712395302528/?helpref=related_articles)
 
 [How do I report copyright infringement on Facebook?](https://www.facebook.com/help/325058084212425/?helpref=related_articles)
 
 [Report an advertisement for intellectual property infringement on Facebook](https://www.facebook.com/help/258317347704209/?helpref=related_articles)
 
-[What you should consider before submitting a report of intellectual property infringement to Facebook](https://www.facebook.com/help/1703586166530507/?helpref=related_articles)
+[Can I report a Facebook username for infringing my trademark?](https://www.facebook.com/help/1250304721728220/?helpref=related_articles)
 
 Other ways to get help
 ----------------------
@@ -920,13 +914,11 @@ Can I report a Facebook username for infringing my trademark?
 
 Copy link
 
-Report trademark infringement
-
-My trademark is used
-
-Contact username owner
+Report a username
 
 What is trademark infringement?
+
+Contact username owner
 
 I have a different question
 
@@ -978,13 +970,11 @@ What you should consider before submitting a report of intellectual property inf
 
 Copy link
 
-What is copyright?
+What is copyright infringement?
 
-What is trademark?
+What is trademark infringement?
 
 What is fair use?
-
-What are legal consequences?
 
 I have a different question
 
@@ -1036,13 +1026,11 @@ What information do I need to include in a trademark report to Meta?
 
 Copy link
 
-My trademark was infringed
+What to include in report?
 
-Report trademark infringement
+Where do I submit report?
 
 What is a trademark?
-
-How to find a URL?
 
 I have a different question
 
@@ -1111,13 +1099,11 @@ What happens when I submit a trademark report to Meta?
 
 Copy link
 
-What is my report number?
+What happens after I report?
 
-Why was my report rejected?
+My report needs more info
 
-How do I respond to Meta?
-
-What information is shared?
+Who sees my report details?
 
 I have a different question
 
@@ -1177,11 +1163,11 @@ Report an advertisement for intellectual property infringement on Facebook
 
 Copy link
 
-Report ad copyright
+Report an ad
 
-Report ad trademark
+Report copyright infringement
 
-Report counterfeit ad
+Report trademark infringement
 
 I have a different question
 
@@ -1251,6 +1237,8 @@ My intellectual property infringed
 
 Contact app developer
 
+App not following Terms
+
 I have a different question
 
 Some apps you may find on Facebook are created and operated by third-party developers. Meta doesn’t control the content made available through these apps.
@@ -1299,11 +1287,13 @@ Retract an intellectual property report that you've submitted to Facebook
 
 Copy link
 
-Withdraw my report
+Withdraw my IP report
 
-Cancel my IP report
+Cancel my copyright report
 
-Restore removed content
+Reported content by mistake
+
+I didn't get a confirmation
 
 I have a different question
 
@@ -1357,11 +1347,9 @@ Copy link
 
 What info is sent?
 
-Who sees my info?
+Who sees my email?
 
-Appeal removed content
-
-My content was removed
+Can I appeal a removal?
 
 I have a different question
 
@@ -1423,9 +1411,9 @@ Report intellectual property infringement
 
 Brand Rights Protection eligibility
 
-Apply for Brand Rights Protection
+What is Brand Rights Protection?
 
-Trademark violation on Facebook
+I can't report an infringement
 
 I have a different question
 
@@ -1476,8 +1464,6 @@ Report copyright infringement
 Protect my copyrighted work
 
 What is copyright?
-
-Rights Manager tool
 
 I have a different question
 
@@ -1562,13 +1548,11 @@ What is copyright and what does it protect?
 
 Copy link
 
-What is copyright infringement?
+What does copyright protect?
 
-Can I use copyrighted content?
+What is not protected by copyright?
 
 What is fair use?
-
-My content was copied
 
 I have a different question
 
@@ -1630,9 +1614,9 @@ Copy link
 
 Who owns my original work?
 
-What is copyright ownership?
+What is an original work?
 
-My employer owns my work?
+I created a work for my job
 
 I have a different question
 
@@ -1688,13 +1672,11 @@ What rights do I have as a copyright owner?
 
 Copy link
 
-What is copyright infringement?
-
 My work was copied
 
-Stop others using my work
+Stop others from using my work
 
-Grant permission to use
+What is copyright infringement?
 
 I have a different question
 
@@ -1748,11 +1730,9 @@ Copy link
 
 What is public domain?
 
-Copyright for my photo?
+How long does copyright last?
 
-Copyright for my video?
-
-How long is copyright?
+When does copyright expire?
 
 I have a different question
 
@@ -1804,11 +1784,13 @@ How can I make sure the content I post to Facebook doesn't violate copyright law
 
 Copy link
 
+What is copyright infringement?
+
 What is fair use?
 
-Do I need permission?
+How do I get permission?
 
-What is public domain?
+What is public domain content?
 
 I have a different question
 
@@ -1880,9 +1862,9 @@ Copy link
 
 What is fair use?
 
-Copyright exceptions in EU
+What are copyright exceptions?
 
-My content was removed
+What is commercial use?
 
 I have a different question
 
@@ -1964,11 +1946,9 @@ Copy link
 
 What is copyright infringement?
 
-What is fair use?
-
 Can I use copyrighted content?
 
-What if I give credit?
+What is fair use?
 
 I have a different question
 
@@ -2024,51 +2004,51 @@ Resolve issues, make changes and get support in real time
 - - -
 
 *   [Policies](https://www.facebook.com/help/463972400461409/?helpref=breadcrumb)
-*   [Intellectual property](https://www.facebook.com/help/399224883474207/?helpref=breadcrumb)
+*   [Intellectual Property](https://www.facebook.com/help/399224883474207/?helpref=breadcrumb)
 
-A video that I posted on Facebook was removed immediately. What happened, and what are my options?
-==================================================================================================
+A video I posted on Facebook was removed immediately. What happened, and what are my options?
+=============================================================================================
 
 Copy link
 
-Why was my video removed?
-
 My video was removed
 
-Video removed for copyright
+Why was my video removed?
+
+My video had no copyright
 
 I have a different question
 
-If you tried to post a video and it was immediately removed, it may have been identified as potentially containing someone else's copyrighted content. This could include video, audio or both.
+If you tried to post a video and it was immediately removed, it may have been identified as potentially containing someone else’s copyrighted content. This could include video, audio or both.
 
-If your video was removed for copyright reasons, you'll receive an email and a notification about the removal. Please use the information that you receive to learn more about your options, such as confirming that you have the right to use the copyrighted work and you still wish to post the content.
+If your video was removed for copyright reasons, you'll receive an email and a notification about the removal. Please use the information you receive to learn more about your options, such as confirming that you have the right to use the copyrighted work and you still wish to post the content.
 
-If you don't see an email from us regarding the removal, please make sure that you are checking the email address that is associated with your Facebook account. You can find your primary address under your [account settings.](https://www.facebook.com/settings) If you still haven't received an email from us, you may also want to review your Facebook [notification settings](https://www.facebook.com/help/154884887910599?helpref=faq_content) as well as your email's spam folder.
+If you don't see an email from us regarding the removal, please make sure that you are checking the email address that is associated with your Facebook account. You can find your primary address under your [account settings.](https://www.facebook.com/settings) If you still have not received an email from us, you also may want to review your Facebook [notification settings](https://www.facebook.com/help/154884887910599?helpref=faq_content) as well as your email's spam folder.
 
-Related articles
+Related Articles
 ----------------
 
 [Get a video of you taken down from Facebook](https://www.facebook.com/help/212578708772880/?helpref=related_articles)
 
+[Why a video you are looking for may no longer be available](https://www.facebook.com/help/219494491817203/?helpref=related_articles)
+
 [What happens when Facebook removes my content?](https://www.facebook.com/help/260743102021762/?helpref=related_articles)
 
-[Why a video that you are looking for may no longer be available](https://www.facebook.com/help/219494491817203/?helpref=related_articles)
+[How Facebook determines which videos are For You](https://www.facebook.com/help/1202019566532169/?helpref=related_articles)
 
 [What tools does Facebook provide to help me protect my intellectual property in my videos?](https://www.facebook.com/help/348831205149904/?helpref=related_articles)
 
-[How Facebook determines which videos are "For you"](https://www.facebook.com/help/1202019566532169/?helpref=related_articles)
-
-Related articles
+Related Articles
 
 [Get a video of you taken down from Facebook](https://www.facebook.com/help/212578708772880/?helpref=related_articles)
 
+[Why a video you are looking for may no longer be available](https://www.facebook.com/help/219494491817203/?helpref=related_articles)
+
 [What happens when Facebook removes my content?](https://www.facebook.com/help/260743102021762/?helpref=related_articles)
 
-[Why a video that you are looking for may no longer be available](https://www.facebook.com/help/219494491817203/?helpref=related_articles)
+[How Facebook determines which videos are For You](https://www.facebook.com/help/1202019566532169/?helpref=related_articles)
 
 [What tools does Facebook provide to help me protect my intellectual property in my videos?](https://www.facebook.com/help/348831205149904/?helpref=related_articles)
-
-[How Facebook determines which videos are "For you"](https://www.facebook.com/help/1202019566532169/?helpref=related_articles)
 
 Other ways to get help
 ----------------------
@@ -2117,7 +2097,7 @@ More
 
 Appeal content removal
 
-My content was removed
+Contact rights owner
 
 DMCA counter-notification
 
@@ -2180,13 +2160,13 @@ How does Meta process United States Digital Millennium Copyright Act (DMCA) coun
 
 Copy link
 
+File a DMCA counter-notification
+
 My content was removed
 
-File a counter-notification
+What happens after counter-notification?
 
-My content was restored
-
-What is repeat infringer policy?
+How long does restoration take?
 
 I have a different question
 
@@ -2244,9 +2224,9 @@ Copy link
 
 Report copyright infringement
 
-My content was stolen
+Contact designated agent
 
-Someone used my photo
+Who can report copyright?
 
 I have a different question
 
@@ -2305,11 +2285,9 @@ Copy link
 
 Contact DMCA agent
 
-DMCA online form
+Report copyright infringement
 
-DMCA contact information
-
-Complete copyright claim
+What is a complete copyright claim?
 
 I have a different question
 
@@ -2361,7 +2339,7 @@ Resolve issues, make changes and get support in real time
 - - -
 
 *   [Policies](https://www.facebook.com/help/463972400461409/?helpref=breadcrumb)
-*   [Intellectual property](https://www.facebook.com/help/399224883474207/?helpref=breadcrumb)
+*   [Intellectual Property](https://www.facebook.com/help/399224883474207/?helpref=breadcrumb)
 
 What information you need to include in a copyright report to Meta
 ==================================================================
@@ -2370,9 +2348,7 @@ Copy link
 
 What info to include?
 
-Where to report copyright?
-
-My copyright was infringed
+My report was rejected
 
 What is an electronic signature?
 
@@ -2380,21 +2356,21 @@ I have a different question
 
 The fastest and easiest way to submit a claim of copyright infringement on Facebook to us is to [report it](https://www.facebook.com/help/325058084212425?helpref=faq_content). Whether you submit your report through our online form or another method, Facebook needs the following information to be able to process your report:
 
-*   Your complete contact information (full name, postal address and phone number)\*.
+*   Your complete contact information (full name, mailing address and phone number)\*.
 *   A description of the copyrighted work that you claim has been infringed.
 *   A description of the content on our site that you claim infringes your copyright.
-*   Information reasonably sufficient to permit us to locate the material on our site. The easiest way to do this is by providing web addresses (URLs) that lead directly to the allegedly infringing content.
+*   Information reasonably sufficient to permit us to locate the material on our site. The easiest way to do this is by providing web addresses (URLs) leading directly to the allegedly infringing content.
 *   A declaration that:
     
-    1.  you have a belief, based on good faith, that use of the copyrighted content described above, in the manner you have complained of, is not authorised by the copyright owner, its agent or the law;
-    2.  The information in your notice is accurate;
-    3.  under penalty of perjury, you are the owner or authorised to act on behalf of the owner of an exclusive copyright that has been allegedly infringed.
+    1.  You have a good faith belief that use of the copyrighted content described above, in the manner you have complained of, is not authorized by the copyright owner, its agent, or the law.
+    2.  The information in your notice is accurate.
+    3.  Under penalty of perjury, you are the owner or authorized to act on behalf of the owner of an exclusive copyright that is allegedly infringed.
     
 *   Your electronic signature or physical signature.
 
-\*Please note that we regularly provide your name, contact information and the contents of your report to the person who posted the content you are reporting. If you are an authorised representative submitting a report, we provide the name of the organisation or client that owns the right in question. For this reason, you may wish to provide a professional or business email address.
+\*Please note that we regularly provide your name, contact information and the contents of your report to the person who posted the content you are reporting. If you are an authorized representative submitting a report, we provide the name of the organization or client that owns the right in question. For this reason, you may wish to provide a professional or business email address.
 
-Related articles
+Related Articles
 ----------------
 
 [What happens when you submit a copyright report to Meta](https://www.facebook.com/help/364993690187480/?helpref=related_articles)
@@ -2403,11 +2379,11 @@ Related articles
 
 [What happens when I submit a trademark report to Meta?](https://www.facebook.com/help/493458120789098/?helpref=related_articles)
 
-[What is copyright and what does it protect?](https://www.facebook.com/help/116772962146447/?helpref=related_articles)
+[Report an advertisement for intellectual property infringement on Facebook](https://www.facebook.com/help/258317347704209/?helpref=related_articles)
 
 [How do you know if you own the copyright in a work](https://www.facebook.com/help/1145592148881382/?helpref=related_articles)
 
-Related articles
+Related Articles
 
 [What happens when you submit a copyright report to Meta](https://www.facebook.com/help/364993690187480/?helpref=related_articles)
 
@@ -2415,7 +2391,7 @@ Related articles
 
 [What happens when I submit a trademark report to Meta?](https://www.facebook.com/help/493458120789098/?helpref=related_articles)
 
-[What is copyright and what does it protect?](https://www.facebook.com/help/116772962146447/?helpref=related_articles)
+[Report an advertisement for intellectual property infringement on Facebook](https://www.facebook.com/help/258317347704209/?helpref=related_articles)
 
 [How do you know if you own the copyright in a work](https://www.facebook.com/help/1145592148881382/?helpref=related_articles)
 
@@ -2436,11 +2412,11 @@ Facebook removed content as a result of my copyright report. What information is
 
 Copy link
 
-What info is shared?
+What information is shared?
 
-Who sees my email?
+What is a copyright report?
 
-Can I appeal removed content?
+How do I appeal?
 
 I have a different question
 
@@ -2498,11 +2474,11 @@ What happens when you submit a copyright report to Meta
 
 Copy link
 
-What is a report number?
+What is my report number?
 
-What info is shared?
+Ask for more information
 
-How to appeal a decision?
+What information is shared?
 
 I have a different question
 
@@ -2564,9 +2540,9 @@ Copy link
 
 Apply for Rights Manager
 
-Content protection for creators
+What is Rights Manager?
 
-Actions for detected content
+What is content protection?
 
 Report copyright infringement
 
