@@ -44,6 +44,14 @@ Resolve issues, make changes and get support in real time
 Copyright
 =========
 
+Report copyright infringement
+
+Protect my copyrighted work
+
+What is copyright?
+
+I have a different question
+
 These articles provide information about copyrights, including how you can protect your own copyrighted works and avoid infringing the copyrights of others. We also provide information about how Instagram and Threads address reported copyright infringement. If you believe someone is using your copyrighted work without your permission, you can report it to us by [filling out this form](https://www.instagram.com/help/ipreporting/report/copyright/).
 
 Laws in different countries may vary. For more information on copyright law, you can visit the website of the [U.S. Copyright Office](https://www.copyright.gov/) or the [World Intellectual Property Organization (WIPO)](http://www.wipo.int/portal/en/index.html). Instagram and Threads can’t provide you with legal advice, so you may want to speak with an attorney if you have more questions about copyright.
@@ -106,6 +114,16 @@ Resolve issues, make changes and get support in real time
 
 Trademark
 =========
+
+Report trademark infringement
+
+What do trademarks protect?
+
+Avoid trademark infringement
+
+What is trademark law?
+
+I have a different question
 
 These articles provide information about trademarks. This includes what trademarks protect, how to avoid infringing the trademarks of others when posting to Instagram or Threads, and how Instagram or Threads address reported trademark infringement. If you believe someone is infringing on your trademark, you can report it to us by [filling out this form](https://www.instagram.com/help/ipreporting/report/trademark/).
 
@@ -518,16 +536,6 @@ What to consider before submitting an intellectual property infringement report 
 
 Copy link
 
-Consider before submitting report
-
-What is permissible use?
-
-Legal consequences of false report
-
-What is copyright infringement?
-
-I have a different question
-
 **Consider your copyright and trademark permissions**
 -----------------------------------------------------
 
@@ -853,6 +861,14 @@ Are there any limits to trademark rights?
 
 Copy link
 
+What are limits to trademark rights?
+
+When is trademark use infringing?
+
+What is nominative fair use?
+
+I have a different question
+
 Not all uses of a trademark without permission of the trademark owner are necessarily an infringement of that trademark. The use of a trademark is only infringing if it’s likely to confuse people regarding the source, endorsement or affiliation of products or services. So, if a trademark is used in a way that is unlikely to cause consumer confusion, it’s generally not considered infringing.
 
 Notably, simply referring to a trademark for the purpose of discussing the product or service offered probably won’t be an infringing use of the trademark, as long as that reference doesn’t use more of the trademark than is needed to make its point. In fact, you might need to use the trademark to describe or comment on a particular product or service. This is known as the doctrine of nominative fair use, and typically permits such uses as commentary, criticism, parody, reviews and, in some countries, comparative advertising.
@@ -974,6 +990,16 @@ How to report trademark infringement on Instagram or Threads
 
 Copy link
 
+Report trademark infringement
+
+What is trademark infringement?
+
+I can't report infringement
+
+What happens after I report?
+
+I have a different question
+
 Instagram and Threads can’t adjudicate disputes between third parties, and so we wouldn’t be in a position to act on trademark reports that require an in-depth trademark analysis or a real-world dispute outside of Instagram or Threads. In these situations, rather than contacting Instagram or Threads, you may want to reach out directly to the party that you believe is infringing your rights, or seek any resolution in court or by other judicial means.
 
 You can report copyright infringement [by filling out this form](https://www.instagram.com/help/ipreporting/report/trademark/) or by using the [Brand Rights Protection tool](https://www.facebook.com/business/help/828925381043253?helpref=faq_content), which enables a rights holder to identify and report violating content for trademark, copyright, and counterfeit.
@@ -1064,16 +1090,6 @@ What to consider before submitting an intellectual property infringement report 
 
 Copy link
 
-Consider before submitting report
-
-What is permissible use?
-
-Legal consequences of false report
-
-What is copyright infringement?
-
-I have a different question
-
 **Consider your copyright and trademark permissions**
 -----------------------------------------------------
 
@@ -1105,6 +1121,14 @@ Are there any limits to trademark rights?
 =========================================
 
 Copy link
+
+What are limits to trademark rights?
+
+When is trademark use infringing?
+
+What is nominative fair use?
+
+I have a different question
 
 Not all uses of a trademark without permission of the trademark owner are necessarily an infringement of that trademark. The use of a trademark is only infringing if it’s likely to confuse people regarding the source, endorsement or affiliation of products or services. So, if a trademark is used in a way that is unlikely to cause consumer confusion, it’s generally not considered infringing.
 
@@ -1182,6 +1206,14 @@ Information you need to include in a trademark report on Instagram or Threads
 
 Copy link
 
+What info do I need?
+
+Where do I find a URL?
+
+What is a trademark?
+
+I have a different question
+
 The fastest and easiest way to submit a [report of trademark infringement](https://help.instagram.com/1921828231475726?helpref=faq_content) to us is to use our online form. Whether you submit your report through our online form or another method, Instagram and Threads needs the following information to be able to process your report:
 
 *   Your complete contact information (full name, mailing address, and phone number)\*.
@@ -1218,14 +1250,6 @@ What happens when you submit a trademark report to Instagram or Threads
 =======================================================================
 
 Copy link
-
-What happens after I report?
-
-What info is shared?
-
-I didn't get a report number
-
-I have a different question
 
 If you [submitted a trademark report](https://help.instagram.com/1921828231475726?helpref=faq_content) to us through our online form or via email, you’ll receive an automated email that contains information about your report, including a unique report number. You should save this number in case you need to contact us about your report.
 
@@ -1302,19 +1326,21 @@ Resolve issues, make changes and get support in real time
 How to appeal the removal of content on Instagram or Threads for copyright reasons
 ==================================================================================
 
-Rayuan kandungan saya
+Appeal content removal
 
-DMCA counter-notification
+Submit DMCA counter-notification
 
-Kandungan saya dialih keluar
+My appeal was rejected
 
-Saya ada soalan lain
+What is AGCOM?
+
+I have a different question
 
 If your content was removed because of a copyright report, you can submit an appeal or a DMCA counter-notification. You received instructions in the message we sent you.
 
-*   If we have informed you that content you've posted was removed under the notice and counter-notice procedures of the United States Digital Millennium Copyright Act (DMCA), you may be able to file a DMCA counter-notification. Learn more about [DMCA counter-notifications](https://l.facebook.com/l.php?u=https%3A%2F%2Fhelp.instagram.com%2F697328657009330%3Fhelpref%3Dfaq_content).
+*   If we have informed you that content you posted was removed under the notice and counter-notice procedures of the United States Digital Millennium Copyright Act (DMCA), you may be able to file a DMCA counter-notification. Learn more about [DMCA counter-notifications](https://l.facebook.com/l.php?u=https%3A%2F%2Fhelp.instagram.com%2F697328657009330%3Fhelpref%3Dfaq_content).
 
-*   If your content was removed because of a copyright report submitted outside the DMCA procedures, you can submit an appeal. Instructions about how to submit an appeal are included in the message that we have sent you. If your account has been disabled, you can submit an appeal by logging in to your account and following the on-screen instructions.
+*   If your content was removed because of a copyright report submitted outside the DMCA procedures, you can submit an appeal. Instructions about how to submit an appeal are included in the message we have sent you. If your account has been disabled, you can submit an appeal by logging into your account and following the on-screen instructions.
 *   Once we are in receipt of a valid and adequately substantiated appeal, we will review it expeditiously. Appeals can often be resolved quickly when our requests for further information are responded to promptly, where the content in question is not infringing and does not violate our Terms of Service or Community Standards, or where the initial report was a mistake. Appeal decisions can take longer in circumstances where additional review or analysis by our teams is required.
 
 If you are uncertain whether you should file an appeal or a DMCA counter-notification, you may want to seek legal advice. Please note that if your content was removed for reasons unrelated to a copyright report, you may not receive a response from us.
