@@ -14,15 +14,15 @@ Intellectual property
 
 Copy link
 
-What is copyright?
+Denunciar violação de direitos autorais
 
-What is a trademark?
+Denunciar violação de marca registada
 
-Report a copyright violation
+O que é propriedade intelectual?
 
-Report a trademark violation
+O que é uma marca registada?
 
-I have a different question
+Tenho uma pergunta diferente
 
 Facebook is committed to helping people and organisations protect their intellectual property rights. The Facebook [Terms of Service](https://www.facebook.com/legal/terms) do not allow posting content that violates someone else's intellectual property rights, including copyright and trademark.
 
@@ -253,13 +253,13 @@ Does a trademark need to be registered to be protected?
 
 Copy link
 
-Register my trademark
+Register a trademark in the US
 
-Trademark rights without registration
+Register a trademark outside the US
 
-What is common law right?
+What are common law rights?
 
-What is USPTO registration?
+What is a business registration?
 
 I have a different question
 
@@ -425,11 +425,11 @@ Copy link
 
 Report counterfeit goods
 
-What is a counterfeit good?
-
-Report counterfeit sales
-
 What is trademark infringement?
+
+Is selling counterfeits illegal?
+
+How to spot a counterfeit?
 
 I have a different question
 
@@ -924,11 +924,11 @@ Copy link
 
 Report a username
 
+My trademark is infringed
+
+Contact the username owner
+
 What is trademark infringement?
-
-Contact username owner
-
-Can I report a Page?
 
 I have a different question
 
@@ -1036,15 +1036,15 @@ What information do I need to include in a trademark report to Meta?
 
 Copy link
 
-Melden Sie eine Markenrechtsverletzung
+What to include in report?
 
-Was muss ich melden?
+Where do I find a URL?
 
-Ich kann den Inhalt nicht finden
+What is a trademark?
 
-Was passiert nach der Meldung?
+I am not the rights owner
 
-Ich habe eine andere Frage
+I have a different question
 
 The fastest and easiest way to submit a report of trademark infringement to us is to [contact Facebook](https://www.facebook.com/help/191999230901156?helpref=faq_content). Whether you submit your report through our online form or another method, Meta needs the following information to be able to process your report:
 
@@ -1479,11 +1479,9 @@ Copyright
 
 Report copyright infringement
 
-Protect my copyrighted work
-
 What is copyright?
 
-What is Rights Manager?
+Protect my copyrighted work
 
 I have a different question
 
@@ -1632,9 +1630,9 @@ How do you know if you own the copyright in a work
 
 Copy link
 
-Who owns my original work?
+Who owns copyright?
 
-What is an original work?
+What is original work?
 
 My employer owns my work
 
@@ -1806,13 +1804,11 @@ How can I make sure that the content I post to Facebook doesn't violate copyrigh
 
 Copy link
 
+My post was removed
+
 What is copyright infringement?
 
-Do I need permission to post?
-
 What is fair use?
-
-What is public domain content?
 
 I have a different question
 
@@ -1887,8 +1883,6 @@ What is fair use?
 What are copyright exceptions?
 
 Can I use copyrighted material?
-
-What is copyright infringement?
 
 I have a different question
 
@@ -1968,13 +1962,11 @@ Unintentional actions can still violate copyright on Facebook
 
 Copy link
 
-Can I infringe copyright unintentionally?
-
-What is fair use?
+Can I violate copyright unintentionally?
 
 What is copyright infringement?
 
-What does copyright protect?
+What is fair use?
 
 I have a different question
 
@@ -2041,7 +2033,9 @@ My video was removed
 
 Why was my video removed?
 
-My video had copyrighted content
+I have rights to the content
+
+My video was removed for copyright
 
 I have a different question
 
@@ -2186,13 +2180,11 @@ How does Meta process United States Digital Millennium Copyright Act (DMCA) coun
 
 Copy link
 
-What is the DMCA?
-
-File a counter-notification
+What is a counter-notification?
 
 My content was removed
 
-What is a repeat infringer?
+How long does it take?
 
 I have a different question
 
