@@ -1804,11 +1804,13 @@ How can I make sure that the content I post to Facebook doesn't violate copyrigh
 
 Copy link
 
-My post was removed
-
 What is copyright infringement?
 
+Do I need permission to post?
+
 What is fair use?
+
+What is public domain content?
 
 I have a different question
 
@@ -1883,6 +1885,8 @@ What is fair use?
 What are copyright exceptions?
 
 Can I use copyrighted material?
+
+What is copyright infringement?
 
 I have a different question
 
