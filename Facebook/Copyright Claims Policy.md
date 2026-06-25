@@ -14,15 +14,15 @@ Intellectual property
 
 Copy link
 
-Denunciar violação de direitos autorais
+What is copyright?
 
-Denunciar violação de marca registada
+What is a trademark?
 
-O que é propriedade intelectual?
+Report a copyright violation
 
-O que é uma marca registada?
+Report a trademark violation
 
-Tenho uma pergunta diferente
+I have a different question
 
 Facebook is committed to helping people and organisations protect their intellectual property rights. The Facebook [Terms of Service](https://www.facebook.com/legal/terms) do not allow posting content that violates someone else's intellectual property rights, including copyright and trademark.
 
@@ -925,9 +925,11 @@ Copyright
 
 Report copyright infringement
 
+Protect my copyrighted work
+
 What is copyright?
 
-Protect my copyrighted work
+What is Rights Manager?
 
 I have a different question
 
@@ -1150,13 +1152,11 @@ How can I make sure that the content I post to Facebook doesn't violate copyrigh
 
 Copy link
 
+My post was removed
+
 What is copyright infringement?
 
-Do I need permission to post?
-
 What is fair use?
-
-What is public domain content?
 
 I have a different question
 
