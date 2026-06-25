@@ -745,154 +745,87 @@ Post
 Suicide and Self-harm policy
 ============================
 
-Overview  
- 
+March 2026
 
-**You may not promote or encourage suicide or self-harm.**
+**You may share content that seeks support, discusses recovery, raises awareness, or builds communities for mental health support. However, content that encourages, promotes, actively engages in, or depicts self-harm behaviors is against our Rules.**
 
-At X, we recognize that suicide and self-harm are significant social & public health challenges that require collaboration between all stakeholders – public, private, and civil society – and that we have a role and responsibility to help people access and receive support when they need it.  
+At X, we believe in fostering open conversations about mental health, recovery, and support. We also recognize the need to protect people from the potential harm caused by exposure to content that could promote or encourage self-harm. That’s why our policy prohibits content that promotes or encourages self-harming behaviors and provides support to those undergoing experiences with self-harm or suicidal thoughts.
 
-When developing this policy, we consulted extensively with experts to ensure that people who have engaged in self-harm or experienced suicidal thoughts can share their personal experiences. We also recognized the need to protect people from the potential harm caused by exposure to content that could promote or encourage self-harm – intentionally or inadvertently. That’s why our policy prohibits content that promotes or encourages self-harming behaviors and provides support to those undergoing experiences with self-harm or suicidal thoughts.  
- 
+**How we define Self-harm**
 
-### What is in violation of this policy? 
+Self-harm is any material depicting, encouraging/promoting, actively engaging in or expressing desire or intent to engage in Self-harm Behaviors. 
 
-Under this policy, you can’t promote, or otherwise encourage, suicide or self-harm. We define promotion and encouragement to include statements such as “the most effective”, “the easiest”, “the best”, “the most successful”, “you should”, “why don’t you”. Violations of this policy can occur via Posts, images or videos, including live video. 
+We define Self-harm Behaviors as any self-inflicted act that may result in harm, including risk of death or injury. This includes:
 
-We define suicide to be the act of taking one’s own life. We define self-harm to include:
-
-*   self-inflicted physical injuries e.g., cutting; and
+*   Self-inflicted physical harm (e.g., cutting, burning, scratching or re-opening wounds, inserting needles)
     
-*   eating disorders e.g., bulimia, anorexia.  
-     
+*   Suicide methods
     
-
-Violations of this policy include, but are not limited to:  
-
-*   encouraging someone to physically harm or kill themselves;
+*   Disordered eating behaviors such as starvation or bulimic behaviors
     
-*   asking others for encouragement to engage in self-harm or suicide, including seeking partners for group suicides or suicide games; and
+*   Dangerous challenges or stunts
     
-*   sharing information, strategies, methods or instructions that would assist people to engage in self-harm and suicide.  
-     
-
-### What is not a violation of this policy? 
-
-Some examples of behavior that are not considered a violation of this policy include: 
-
-*   sharing personal stories and experiences related to self-harm or suicide;
-    
-*   sharing coping mechanisms and resources for addressing self-harm or suicidal thoughts; and
-    
-*   discussions that are focused on research, advocacy, and education related to self-harm or suicide prevention.  
-     
+*   Harmful drug use or substance abuse
     
 
-**Note**: people can share their personal experiences, but should avoid sharing detailed information about specific strategies or methods related to self-harm, as this could inadvertently encourage this behavior.  
- 
+### Learn more about our enforcement
 
-### Who can report violations of this policy? 
+**What's Not Allowed** 
 
-Anyone can report content that may encourage or promote suicide or self-harm via our in-app reporting or our [specialized reporting form](https://help.twitter.com/forms/suicide). These reports are routed to a dedicated team who evaluate each case individually. 
+We will remove promoting, encouraging, depicting or actively engaging in Self-harm Behaviors. 
 
-Note: if we receive a report that someone has expressed an intention to engage in self-harm or suicide, we will contact them directly, encourage them to seek support, and provide information about dedicated online and hotline resources. We may also work with law enforcement officials where appropriate, for example, if we receive a valid emergency disclosure request as defined in our [Law Enforcement Guidelines](https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support).  
- 
+Violations of this policy include, but are not limited to:
 
-### How to report violations of this policy 
-
-To ensure that we handle reports sensitively, our in-app reporting provides separate options for people who may be expressing an intention to harm themselves, and content that is encouraging or promoting self-harm or suicide.  
- 
-
-### Expressing intentions of self-harm or suicide 
-
-**In-App**
-
-You can report content for review in-app as follows:
-
-1.  Select Report Post from drop-down menu
-2.  Select “It expresses intentions of self-harm or suicide”
-3.  Submit your report  
-     
-
-**Desktop**
-
-You can report this content for review on desktop as follows:
-
-1.  Select Report Post from drop-down menu
+*   Encouraging someone to physically harm or kill themselves
     
-2.  Select “It expresses intentions of self-harm or suicide”
+*   Asking others for encouragement to engage in self-harm or suicide, including seeking partners for group suicides or suicide games
     
-3.  Submit your report  
-     
+*   Sharing information, strategies, methods or instructions that would assist people to engage in self-harm and suicide
+    
+*   Suggesting that certain wounds or methods of self-harm are insufficiently severe
+    
+*   Describing self-harm as a healthy way of coping with problems or as a sophisticated or artistic response to problems
+    
+*   Content that discourages recovery or help seeking
+    
+*   Content (mainly media) depicting Self-harm Behaviors shared without recovery context
     
 
-**Reporting form**
+Content or accounts exhibiting predatory behavior targeting children (especially ones exhibiting Self-harm Behaviors) is not allowed. If minors appear to be interacting with known predators, we may suspend their accounts as a protective measure. If you believe a child is at immediate risk of harm or death, please reach out to your local law enforcement
 
-You can also report this content for review via [our dedicated report form](https://help.twitter.com/forms/report_self_harm).  
- 
+Violations of this policy can occur via posts, images or videos. You also can’t include this content within areas that are highly visible on X, including in live video, profile pictures, headers, List banners, or Community cover photos. Such content must be removed and subsequent violations may result in the account being placed in read-only mode or suspended. 
 
-**In-App**
+**Allowed (No Action, With Support)**
 
-You can report content for review in-app as follows:
+We support discussions that help users process experiences or seek help to foster support and awareness, provided it does not promote, encourage, or glorify harm. We respond by offering resources (e.g., access to locally available hotlines) and encouraging professional help, without removing the post unless it violates other rules. This includes:
 
-1.  Select Report Post from drop-down menu
-2.  Select “It expresses intentions of self-harm or suicide”
-3.  Submit your report  
-     
-
-### Encouraging self-harm or suicide 
-
-**In-App**
-
-You can report content for review in-app as follows:
-
-1.  Select Report Post from drop-down menu  
+*   Personal disclosures about ongoing or past self-harm, suicidal ideation, emotional distress, or recovery experiences
     
-2.  Select “It’s abusive or harmful”
+*   Media relating to scars with recovery context (not graphic such as healed scars)
     
-3.  Select “They’re  encouraging self-harm or suicide”
+*   Sharing coping mechanisms and resources for addressing self-harm or suicidal thoughts
     
-4.  Submit your report  
-     
+*   Discussions that are focused on research, advocacy, and education related to self-harm or suicide prevention
     
 
-**Desktop**
+Note: people can share their personal experiences, but should avoid sharing detailed information about specific strategies or methods related to self-harm, as this could inadvertently encourage this behavior.
 
-You can report this content for review on desktop as follows:
+**Crisis Support and Law Enforcement**
 
-1.  Select Report Post from drop-down menu
+If we receive a report that someone has expressed an intention to engage in self-harm or suicide, we will contact them directly, encourage them to seek support, and provide information about dedicated online and hotline resources. 
+
+We may also work with law enforcement officials where appropriate, for example, if we receive a valid emergency disclosure request as defined in our [Law Enforcement Guidelines](https://help.x.com/rules-and-policies/x-law-enforcement-support).
+
+**How to Report**  
+
+*   Anyone can report content that may encourage or promote suicide or self-harm via our in-app reporting or our [specialized reporting form](https://help.x.com/forms/safety-and-sensitive-content/self-harm). These reports are routed to a dedicated team who evaluate each case individually. 
     
-2.  Select “It’s abusive or harmful”
-    
-3.  Select “They’re encouraging self-harm or suicide”
-    
-4.  Submit your report  
-     
+*   [Learn more](https://help.x.com/safety-and-security/self-harm-and-suicide) about how you can support someone experiencing thoughts of self-harm or suicide. 
     
 
-### What happens if you violate this policy? 
+**Appeals**
 
-Our enforcement approach depends on the type of content being shared, whether or not the reported account is encouraging or promoting self-harm or suicide, and the account’s previous history of violations. 
-
-If you violate this policy by sharing content that intentionally encourages others to harm themselves, ask others to encourage you to harm yourself, or share detailed information or instructions related to self-harm or suicide methods, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. If you continue to violate this policy, or if your account is dedicated to promoting or encouraging self-harm or suicide, your account will be permanently suspended. If cases include images or videos related to self-harm or suicide, we will also evaluate this content under [our sensitive media policy](https://help.twitter.com/rules-and-policies/media-policy). If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
-
-We may also take steps to prevent the spread of instructional material hosted on third-party websites by [marking such links as unsafe](https://help.twitter.com/en/safety-and-security/phishing-spam-and-malware-links).   
-  
-
-Additional resources  
-  
-
-==========================
-
-Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
-
-[Learn more](https://help.twitter.com/en/safety-and-security/self-harm-and-suicide) about how you can support someone experiencing thoughts of self-harm or suicide.   
-
-Visit our Safety Center for a list of local [mental health resources](https://about.twitter.com/en_us/safety/safety-partners.html#mental-health) and read [our blog on suicide prevention](https://blog.twitter.com/en_sea/topics/events/2019/Supporting-suicide-prevention-across-the-world.html) to learn more about our work.
-
-#### Share this article
-
-Post
+If you believe we made a mistake, you can [submit an appeal](https://help.x.com/en/forms/account-access/appeals).
 
 - - -
 
@@ -1132,9 +1065,9 @@ All merchants who list their merchandise through X Shopping must comply with the
 Private Content
 ===============
 
-### Overview 
+### Overview
 
-**March 2024**
+### **March 2024**
 
 **You may not threaten to expose, incentivize others to expose, or publish or post other people's private information without their express authorization and permission, or share private media of individuals without their consent.**  
 
@@ -1259,7 +1192,7 @@ The following are not in violation of this policy:
 
 *   the media is publicly available or is being covered by mainstream media
     
-*   the media and the accompanying tweet text add value to the public discourse or are shared in public interest
+*   the media and the accompanying Post text add value to the public discourse or are shared in public interest
     
 *   the media contains eyewitness accounts or on the ground reports from developing events
     
@@ -2940,7 +2873,7 @@ Limits alleviate some of the strain on the behind-the-scenes part of X and reduc
 The current technical limits for accounts are:
 
 *   **Direct Messages (daily)**: The limit is 500 messages sent per day.
-*   **posts**: 2,400 per day. The daily update limit is further broken down into smaller limits for semi-hourly intervals. Reposts are counted as posts.
+*   **Posts**: 50 original posts and 200 replies per day for unverified accounts. The daily update limit is further broken down into smaller limits for semi-hourly intervals.
 *   **Changes to account email**: 4 per hour.
 *   **Following (daily)**: The technical follow limit is 400 per day. Please note that this is a technical account limit only, and there are additional rules prohibiting aggressive following behavior. 
 *   **Following (account-based)**: Once an account is following 5,000 other accounts, additional follow attempts are limited by account-specific ratios. 
@@ -3325,69 +3258,98 @@ Post
 Australia Online Safety Information
 ===================================
 
-### Information from X
+*   [Information from X](#information)
+*   [Minimum age to use an X account in Australia](#minimum-age)
+*   [How do our age assurance methods work?](#age-assurance)
+*   [Information for parents and carers and young Australian children](#info-parents-minors)
+*   [Online Safety in Australia - Industry Codes & Standards](#industry-codes)
+*   [All such material is prohibited on X in Australia](#prohibited-content)
+*   [Grok on X](#grok)
+*   [Reporting Non-Compliance with Australian Code](#non-compliance)
+*   [Information from the Australian eSafety Commissioner](#esafety-info)
+
+Information from X
+
+*   [Information from X](#information)
+*   [Minimum age to use an X account in Australia](#minimum-age)
+*   [How do our age assurance methods work?](#age-assurance)
+*   [Information for parents and carers and young Australian children](#info-parents-minors)
+*   [Online Safety in Australia - Industry Codes & Standards](#industry-codes)
+*   [All such material is prohibited on X in Australia](#prohibited-content)
+*   [Grok on X](#grok)
+*   [Reporting Non-Compliance with Australian Code](#non-compliance)
+*   [Information from the Australian eSafety Commissioner](#esafety-info)
+
+Information from X
+------------------
 
 X's purpose is to serve the public conversation. Violence, harassment and other similar types of behaviour discourage people from expressing themselves, and ultimately diminish the value of global public conversation.
 
-Our [Rules](https://help.x.com/rules-and-policies/x-rules) are to ensure all people can participate in the public conversation freely and safely. We encourage you to review our [Rules and policies](https://help.x.com/rules-and-policies). We have a [range of enforcement options](https://help.x.com/rules-and-policies/enforcement-options), which we take to reduce the risk of harm to our users, in a proportionate manner. Users can also appeal account suspensions if they believe we made an error. They can do this through the platform interface or by [filing a report](https://help.x.com/forms/account-access/appeals.html).
+Our [Rules](https://help.x.com/rules-and-policies/x-rules) are to ensure all people can participate in the public conversation freely and safely. We encourage you to review our [Rules and policies](https://help.x.com/rules-and-policies). We have a [range of enforcement options](https://help.x.com/rules-and-policies/enforcement-options), which we take to reduce the risk of harm to our users, in a proportionate manner. Users can also appeal account suspensions if they believe we made an error. They can do this through the platform interface or by [filing a report](https://help.x.com/forms/account-access/appeals.html).
 
-X is a place to share ideas and information, connect with your communities, and see the world around you. In order to protect the very best parts of that experience, we provide tools designed to help you control what you see and what others can see about you, so that you can express yourself on X with confidence and to make sure your experience using the X platform is safe and secure. Please refer to [https://help.x.com/en/safety-and-security/control-your-x-experience](https://help.x.com/en/safety-and-security/control-your-x-experience) for further information.
+X is a place to share ideas and information, connect with your communities, and see the world around you. In order to protect the very best parts of that experience, we provide tools designed to help you control what you see and what others can see about you, so that you can express yourself on X with confidence and to make sure your experience using the X platform is safe and secure. Please refer [here](https://help.x.com/safety-and-security/control-your-x-experience) for further information.
 
-We suggest staying informed about [account safety and security](https://help.x.com/safety-and-security), safeguarding your privacy, avoiding spam and scams, and consider [controlling what you see](https://help.x.com/safety-and-security/control-your-x-experience). Our Help Center provides answers to the most [common questions](https://help.x.com/); but if you need account support, submitting a [support form](https://help.x.com/forms) ensures your request is routed to the appropriate team.
+We suggest staying informed about [account safety and security](https://help.x.com/safety-and-security), safeguarding your privacy, avoiding spam and scams, and consider [controlling what you see](https://help.x.com/safety-and-security/control-your-x-experience). Our Help Center provides answers to the most [common questions](https://help.x.com/); but if you need account support, submitting a [support form](https://help.x.com/forms) ensures your request is routed to the appropriate team.
 
-### Minimum age to use an X account in Australia
+Minimum age to use an X account in Australia
+--------------------------------------------
 
-Starting 10 December 2025, you must be at least 16 years old to use an X account in Australia. This change is required by Australian law following amendments to the Online Safety Act 2021 to introduce a social media minimum age (“**SMMA**”). The SMMA prevents age-restricted social media platforms, including X, from letting people under 16 create or keep an account. It's not our choice – it's what the Australian law requires. For more details on the SMMA, refer to the eSafety Commissioner's resources available at [eSafety's Social Media Age Restrictions Hub](https://www.esafety.gov.au/about-us/industry-regulation/social-media-age-restrictions-hub). 
+Starting 10 December 2025, you must be at least 16 years old to use an X account in Australia. This change is required by Australian law following amendments to the Online Safety Act 2021 to introduce a social media minimum age (“**SMMA**”). The SMMA prevents age-restricted social media platforms, including X, from letting people under 16 create or keep an account. It's not our choice – it's what the Australian law requires. For more details on the SMMA, refer to the eSafety Commissioner's resources available at [eSafety's Social Media Age Restrictions Hub](https://www.esafety.gov.au/about-us/industry-regulation/social-media-age-restrictions-hub). 
 
-Below, we outline our age verification and estimation methods which are designed to be privacy-focused and user-friendly.
+There are also new Online Safety Codes which take effect from 9 March 2026, which mandate age assurance mechanisms. For more information, see **[Online Safety in Australia – Industry Codes and Standards](#industry-codes)** below. 
 
-### How do our age assurance methods work?
+[Age Assurance on X](https://help.x.com/rules-and-policies/age-assurance) outlines our age verification and estimation methods which are designed to be privacy-focused and user-friendly. 
 
-Where X is legally required to do so, we take a multi-faceted age assurance approach to verify or estimate whether users are 16 or older. These are designed to be simple, private and secure. Here's what we do:
+How do our age assurance methods work?
+--------------------------------------
 
-#### Verification Using Existing Highly Reliable Signals
+Where X is legally required to do so, we take a multi-faceted age assurance approach to verify or estimate whether users are 16 or older. These are designed to be simple, private and secure.
 
-Where these exist with regard to a user, we may start by assessing certain highly reliable signals in order to verify a user’s age. Such signals include:
+Here's what we do:
 
-*   **Self-attested age:** If a user previously indicated their age. 
+#### Verification using existing highly reliable signals
+
+#### Where these exist with regard to a user, we may start by assessing certain highly reliable signals in order to verify a user’s age. Such signals include:
+
+*   **Self-attested age:** If a user previously indicated their age. 
     
-*   **ID verification**: If a user previously completed X’s [ID verification](https://help.x.com/rules-and-policies/verification-policy) process.
+*   **ID verification**: If a user previously completed X’s [ID verification](https://help.x.com/rules-and-policies/verification-policy) process.
     
-*   **Legacy verified public figures:** If a user was verified according to our [Legacy Verified policy](https://help.x.com/managing-your-account/legacy-verification-policy).
+*   **Legacy verified public figures:** If a user was verified according to our [Legacy Verified policy](https://help.x.com/managing-your-account/legacy-verification-policy).
     
-*   **Account creation date:** If an account was created in 2014 or earlier.
+*   **Account creation date:** If an account was created in 2014 or earlier.
     
-*   **Grey Badged accounts:** The grey checkmark indicates that an account represents a government/multilateral organization or official.
+*   **Grey Badged accounts:** The grey checkmark indicates that an account represents a government/multilateral organization or official.
     
-*   **Gold Badged accounts:** The gold checkmark indicates that the account is an official organization account through Premium Business. 
+*   **Gold Badged accounts:** The gold checkmark indicates that the account is an official organization account through Premium Business. 
     
 
 Where these signals exist, we may use them to determine whether that user is above or below a certain age, for example, 16 or over, without requiring further action from them. 
 
-#### Estimation Methods Without Further User Involvement
+#### Estimation methods without further user involvement
 
-Where we do not have the signals from the above verification methods, we may also use the following additional methods, where available, to estimate or verify that a user is under or over 16 based on information that X already has access to: 
+#### Where we do not have the signals from the above verification methods, we may also use the following additional methods, where available, to estimate or verify that a user is under or over 16 based on information that X already has access to: 
 
-*   **Email address-based estimation:** Users’ email addresses will be used to estimate their age.
+*   **Email address-based estimation:** Users’ email addresses will be used to estimate their age.
 
-#### User Involved Verification Options
+**User involved verification options**
 
 Users whose age X has not been able to estimate or verify in accordance with any of the other methods, including new accounts on X, are given a choice between two secure, privacy-respecting options to estimate or verify their age: 
 
-*   **Facial age estimation:** Users can upload a live selfie, which will be used to estimate their age by our artificial intelligence systems; or 
+*   **Facial age estimation:** Users can upload a live selfie, which will be used to estimate their age by our artificial intelligence systems; or 
     
-*   **ID verification:** Users can submit a government-issued ID, which will be used to verify their age by artificial intelligence systems. 
+*   **ID verification:** Users can submit a government-issued ID, which will be used to verify their age by artificial intelligence systems. 
     
 
-#### What info we collect and how we handle it
+**What info we collect and how we handle it**
 
 When we check your age, we might collect things like your ID details. We only use this to confirm your age and apply the right settings to your account. Data collected in this regard shall be destroyed within 31 days.
 
 **Important Note:**
 
-**Privacy and data handling:** X prioritizes your privacy. Your information is stored securely with strong protections in place and third party providers will also be bound by strict data protection standards. If some or all of the information we request is not provided, we may not be able to provide you with the services you requested, or to correctly verify your age to ensure you can access an X account. For further details on our data retention practices and privacy policies, please refer to our privacy centre [here](https://privacy.x.com/). To make a privacy complaint to the Office of the Australian Information Commissioner, please go to the OAIC website [here](https://www.oaic.gov.au/privacy/privacy-complaints/lodge-a-privacy-complaint-with-us).   
+**Privacy and data handling:** X prioritizes your privacy. Your information is stored securely with strong protections in place and third party providers will also be bound by strict data protection standards. If some or all of the information we request is not provided, we may not be able to provide you with the services you requested, or to correctly verify your age to ensure you can access an X account. For further details on our data retention practices and privacy policies, please refer to our privacy centre [here](https://privacy.x.com/). To make a privacy complaint to the Office of the Australian Information Commissioner, please go to the OAIC website [here](https://www.oaic.gov.au/privacy/privacy-complaints/lodge-a-privacy-complaint-with-us).
 
-#### What happens if we determine you are under 16
+**What happens if we determine you are under 16**
 
 If a user is determined to be under 16 through one of our age assurance methods, the user won't be able to use an X account until they are 16 or over and receive a notice to verify their age.  
 
@@ -3395,34 +3357,33 @@ Affected accounts can submit a request to access their account data [here](http
 
 Requests can also be addressed to the contacts listed under the “[How To Contact Us” section of our Privacy Policy](https://x.com/privacy#chapter10).
 
-We also suggest you [cancel](https://help.x.com/using-x/subscriptions#item1) any [subscriptions](https://help.x.com/using-x/subscriptions#what-are-subs) including subscriptions to [X Premium](https://help.x.com/using-x/x-premium#tbcancel) or any of X’s other subscription offerings. 
-
-#### How can you appeal an age assurance decision
+**How can you appeal an age assurance decision**
 
 If you believe we’ve incorrectly estimated your age as under 16 pursuant to one of the age assurance methods X has in place, or if you wish to reinstate your account once you are 16 or over, you can follow the instructions to verify your age within the account lockout notice. 
 
-#### Watch out for scams
+**Watch out for scams**
 
 Be careful of fake messages or sites that look like they're from X asking for your information as these could be scams. Always use official X channels and never share sensitive information unless you're sure it's us.
 
-#### Reporting suspected underage accounts
+Reporting suspected underage accounts
 
-X allows users to report other users who they believe are under the age of 16. Any end-user in Australia (regardless of whether they have an account or are logged in) can report an account that they suspect is being used by a minor under the age of 16 by submitting a report [here](https://help.x.com/forms/safety-and-sensitive-content/underage-user).
+X allows users to report other users who they believe are under the age of 16. Any end-user in Australia (regardless of whether they have an account or are logged in) can report an account that they suspect is being used by a minor under the age of 16 by submitting a report [here](https://help.x.com/forms/safety-and-sensitive-content/underage-user).
 
-#### Get more help
+**Get more help**
 
-For extra support on online safety and the social media minimum age rules, visit the website of the eSafety Commissioner at [https://www.esafety.gov.au/parents/social-media-age-restrictions](https://www.esafety.gov.au/parents/social-media-age-restrictions). You can also get help and support from:  
+For extra support on online safety and the social media minimum age rules, visit the website of the eSafety Commissioner at [https://www.esafety.gov.au/parents/social-media-age-restrictions](https://www.esafety.gov.au/parents/social-media-age-restrictions). You can also get help and support from:  
   
-[Beyond Blue](https://www.beyondblue.org.au/) – 1300 22 4636  
-[Kids Helpline](https://kidshelpline.com.au/) – 1800 55 1800  
-[Headspace](https://headspace.org.au/) – 1800 650 890  
-[Lifeline](https://www.lifeline.org.au/) – 13 11 14
+[Beyond Blue](https://www.beyondblue.org.au/) – 1300 22 4636  
+[Kids Helpline](https://kidshelpline.com.au/) – 1800 55 1800  
+[Headspace](https://headspace.org.au/) – 1800 650 890  
+[Lifeline](https://www.lifeline.org.au/) – 13 11 14
 
 If you need help with your X account, contact us through the app or our support pages.
 
-### Information for Parents and Carers and young Australian children
+Information for parents and carers and young Australian children
+----------------------------------------------------------------
 
-X, as a service, is not primarily for children, but anyone in Australia above the age of 16 can sign up for the service. We recognise that minors are a more vulnerable group by virtue of their age. The [X Rules](https://help.x.com/rules-and-policies/x-rules) enable minors to participate in the public conversation freely and safely, and minors should rely on the X Rules (and report to X) in order to protect themselves.
+X, as a service, is not primarily for children, but anyone in Australia above the age of 16 can sign up for the service. We recognise that minors are a more vulnerable group by virtue of their age. The [X Rules](https://help.x.com/rules-and-policies/x-rules) enable minors to participate in the public conversation freely and safely, and minors should rely on the X Rules (and report to X) in order to protect themselves.
 
 For Australian children under the age of 18, who sign up for X, we have measures in place to make sure their experience using the platform is safe and secure. Here are some key safety and privacy features we have in place: 
 
@@ -3430,19 +3391,19 @@ For Australian children under the age of 18, who sign up for X, we have measures
     
 *   Accounts belonging to known minors between 16 and 18 years old will be defaulted to “Protected posts”. This means that known minors will receive a request when new people want to follow them (which they can approve or deny), that their posts will only be visible to their followers, and that their posts will only be searchable by them and their followers (i.e. they will not appear in public searches). Furthermore, once these accounts enter a date of birth that makes them under the age of 18, they will be stopped from re-entering a new date of birth. 
     
-*   Accounts belonging to known minors will be [restricted to receiving DMs](https://help.x.com/using-x/direct-messages#receive) from accounts they follow by default.
+*   Accounts belonging to known minors will be [restricted to receiving DMs](https://help.x.com/using-x/direct-messages#receive) from accounts they follow by default.
     
-*   X applies restrictions to its [recommender system](https://help.x.com/rules-and-policies/recommendations) by making certain categories of potentially harmful content ineligible for inclusion.
+*   X applies restrictions to its [recommender system](https://help.x.com/rules-and-policies/recommendations) by making certain categories of potentially harmful content ineligible for inclusion.
     
-*   While X permits certain types of sensitive media - including consensually produced and shared adult pornography, we restrict known minors from [accessing such media](https://help.x.com/rules-and-policies/notices-on-x). 
+*   While X permits certain types of sensitive media - including consensually produced and shared adult pornography, we restrict known minors from [accessing such media](https://help.x.com/rules-and-policies/notices-on-x). 
     
 *   Users can block accounts instantly if they do not want those accounts' posts. Users can also mute an account if they don't want to see their posts, but don't want to unfollow the account.
     
 *   Users can choose who will be able to reply to their posts when posted. The default position is that everyone can reply but options are available to turn off all replies or only allow the accounts mentioned in the post to reply. A user can also change who can reply to their posts, or turn off replies, after the post has been posted.
     
-*   X has a [policy](https://help.x.com/rules-and-policies/glorifying-self-harm) prohibiting users from promoting or encouraging suicide or self-harm. When someone searches for terms associated with suicide or self harm, the top search result is a notification encouraging them to reach out for help. 
+*   X has a [policy](https://help.x.com/rules-and-policies/glorifying-self-harm) prohibiting users from promoting or encouraging suicide or self-harm. When someone searches for terms associated with suicide or self harm, the top search result is a notification encouraging them to reach out for help. 
     
-*   X also prohibits knowingly marketing or advertising certain products and services to minors as detailed in the following policy: [Prohibited advertising content for minors](https://business.x.com/en/help/ads-policies/ads-content-policies/prohibited-content-for-minors). This policy applies to monetization on X and X’s paid advertising products, and advertisements containing age-inappropriate content will be tagged as “not family safe” and will be restricted from being shown to users under the age of 21. If an account does not have a date of birth associated with it, X infers the user’s age based on their interactions with the site.
+*   X also prohibits knowingly marketing or advertising certain products and services to minors as detailed in the following policy: [Prohibited advertising content for minors](https://business.x.com/en/help/ads-policies/ads-content-policies/prohibited-content-for-minors). This policy applies to monetization on X and X’s paid advertising products, and advertisements containing age-inappropriate content will be tagged as “not family safe” and will be restricted from being shown to users under the age of 21. If an account does not have a date of birth associated with it, X infers the user’s age based on their interactions with the site.
     
 
 Being the target of online abuse is not easy. And at X, we understand that just because the abuse is happening online, doesn’t make it any less real. You can find the following resources to keep your child’s account and experience on X safe, secure and welcoming:
@@ -3462,88 +3423,167 @@ Being the target of online abuse is not easy. And at X, we understand that just 
 *   [X account restoration](https://help.x.com/managing-your-account/account-restoration)
     
 
-### Online Safety in Australia - Industry codes & standards
+Online Safety in Australia - Industry Codes & Standards
+-------------------------------------------------------
 
-The [Consolidated Industry Codes of Practice for the Online Industry Head Terms](https://www.esafety.gov.au/sites/default/files/2023-09/Consolidated-Industry-Codes-of-Practice-Head-Terms-12-September-23.pdf) and the [Social Media Services Online Safety Code](https://www.esafety.gov.au/sites/default/files/2023-06/Schedule-1%E2%80%93Social-Media-Services-Online-Safety-Code-%28Class-1A-and-Class-1B-Material%29.pdf) apply to X as a provider of a social media service, available to Australian end-users. 
+Under the Online Safety Act in Australia, Codes apply to Illegal Content as well as Restricted Content. These Codes require providers of social media services to implement safeguards for the Australian community in relation to certain types of content.
 
-The purpose of the Social Media Services Online Safety Code is to establish appropriate safeguards for the Australian community in relation to certain types of seriously harmful material, namely:
+Illegal Content in Australia
+----------------------------
 
-*   Child sexual exploitation material (i.e. material that shows or describes the sexual exploitation or abuse of children);
+The [Consolidated Industry Codes of Practice for the Online Industry (Class 1A and 1B Material) Head Terms](https://www.esafety.gov.au/sites/default/files/2023-09/Consolidated-Industry-Codes-of-Practice-Head-Terms-12-September-23.pdf) and the [Social Media Services Online Safety Code (Class 1A and 1B Material) ("Unlawful Material Code")](https://www.esafety.gov.au/sites/default/files/2023-06/Schedule-1%E2%80%93Social-Media-Services-Online-Safety-Code-%28Class-1A-and-Class-1B-Material%29.pdf) apply to X as a provider of a social media service, available to Australian end-users. 
+
+The purpose of the Unlawful Material Code is to establish appropriate safeguards for the Australian community in relation to certain types of seriously harmful material, namely ("**Illegal Content**"):
+
+*   child sexual exploitation material (i.e. material that shows or describes the sexual exploitation or abuse of children);
     
-*   Pro-terror material (i.e. material that advocates the doing of a terrorist act other than as part of public discussion, debate or as entertainment or satire);
-    
-*   Crime and violence material (i.e. material that promotes, incites or instructs in matters of crime or violence, including sexual violence, as well as material depicting excessively gory content, violent accidents, serious physical harm, assault, bestiality or necrophilia); and
-    
-*   Drug-related material (i.e. material which promotes or incites drug-related illegal activities, such as selling, buying, or facilitating transactions of drugs and controlled substances, or which depicts, expresses, promotes or encourages the abusive use of proscribed drugs).
-    
 
-[Annexure A](https://www.esafety.gov.au/sites/default/files/2023-09/Consolidated-Industry-Codes-of-Practice-Head-Terms-12-September-23.pdf) of the Head Terms to the Consolidated Industry Codes of Practice for the Online Industry  further describes all of these types of seriously harmful material.
+*   pro-terror material (i.e. material that advocates the doing of a terrorist act other than as part of public discussion, debate or as entertainment or satire);
 
-#### All such material is prohibited on X in Australia
+*   crime and violence material (i.e. material that promotes, incites or instructs in matters of crime or violence, including sexual violence, as well as material depicting excessively gory content, violent accidents, serious physical harm, assault, bestiality or necrophilia); 
+
+*   drug-related material (i.e. material which promotes or incites drug-related illegal activities, such as selling, buying, or facilitating transactions of drugs and controlled substances, or which depicts, expresses, promotes or encourages the abusive use of proscribed drugs); and
+
+*   material depicting abhorrent or offensive fetish or fantasy practices, for example, incest. 
+
+[Annexure A](https://www.esafety.gov.au/sites/default/files/2023-09/Consolidated-Industry-Codes-of-Practice-Head-Terms-12-September-23.pdf) of the Head Terms to the Consolidated Industry Codes of Practice for the Online Industry further describes all of these types of seriously harmful material.
+
+All such material is prohibited on X in Australia
+-------------------------------------------------
 
 You can report content in violation to X.
 
-**Reporting Illegal Content in Australia**
+Reporting Illegal Content in Australia
+--------------------------------------
 
-You can make a report or complaint about the types of material summarised above (“Illegal Content”) which is accessible on X in Australia, pursuant to the Head Terms to the Consolidated Industry Codes of Practice for the Online Industry and the Social Media Services Online Safety Code (the “Code”), by making a report to X through this [form](https://help.x.com/forms/australia-report). 
+You can make a report or complaint about the types of material summarised above (**“Illegal Content**”) which is accessible on X in Australia, pursuant to the Head Terms to the Consolidated Industry Codes of Practice for the Online Industry and the Social Media Services Online Safety Code (the “**Code**”), by making a report to X through this [form](https://help.x.com/forms/australia-report). 
 
-**Reporting Non-Compliance with Australian Code**
+Restricted Content in Australia
+-------------------------------
 
-You can make a complaint about: a) X’s handling of reports of Illegal Content, which is accessible on X; or b) any other aspect of X’s compliance with the Code, by making a report to X through this [form](https://help.x.com/forms/australia-report/non-compliance). 
+The [Consolidated Industry Codes of Practice for the Online Industry (Class 1C and 2 Material) Head Terms](https://www.esafety.gov.au/sites/default/files/2025-09/Consolidated-Industry-Codes-of-Practice-for-the-Online-Industry-%28Class-1C-and-Class-2-Material%29-Head-Terms-9-September-2025.pdf?v=1771900588579) (“**Class 1C/2 Head Terms**”) and the [Social Media Services Online Safety Code](https://www.esafety.gov.au/sites/default/files/2025-09/Schedule-4-Social-Media-Services-%28Core-Features%29-Online-Safety-Code-%28Class-1C-and-Class-2-Material%29.pdf?v=1757545913466) (both the [Core Obligations](https://www.esafety.gov.au/sites/default/files/2025-09/Schedule-4-Social-Media-Services-%28Core-Features%29-Online-Safety-Code-%28Class-1C-and-Class-2-Material%29.pdf?v=1757545913466) and [Messaging Codes](https://www.esafety.gov.au/sites/default/files/2025-09/Schedule-4A-Social-Media-Services-Messaging-Features-Online-Safety-Code-Class-1C-and-Class-2-Material.pdf?v=1769983816595) for Class 1C and 2 Material) ("**Age-Restricted Material Codes**") also apply to X as a provider of a social media service, available to Australian end-users.
+
+The purpose of these Age-Restricted Material Codes is to establish appropriate safeguards for the community to prevent people under the age of 18 from accessing certain types of material ("**Restricted Content**"), which include:
+
+*   online pornography (e.g. high-impact sexually explicit images and X18+ material depicting sexual activity);
+
+*   self-harm material (e.g. material that encourages, promotes or provides instruction for suicide, deliberate self-injury, or eating disorders / associated behaviour);
+
+*   high-impact violence material (e.g. real or AI-generated depictions of shocking, gratuitous or exploitative violence against people or animals, or gore);
+
+*   violence instruction material (e.g. instructions for how to kill or grievously harm someone); and
+
+*   simulated gambling material (i.e. computer game that contains simulated gambling and is classified, or would be classified, R18+).
+
+**All of the above material is restricted to users over the age of 18 on X in Australia.** Where content is restricted to 18+ under Australian law, but is permitted on X, Restricted Content will be restricted for all users under 18 years old in Australia and labelled in accordance with our policies.
+
+**What Restricted Content is permitted on X?**
+
+Certain types of Restricted Content are permitted under [our Rules and Policies](https://help.x.com/rules-and-policies): see our [Adult Content policy](https://help.x.com/rules-and-policies/adult-content) and [Violent Content policy](https://help.x.com/rules-and-policies/violent-content) for more information on what is permitted and what is prohibited on X. However, Restricted Content is not permitted for users under the age of 18.  
+
+Self-harm material is generally prohibited on X as explained in our [Suicide and Self-Harm policy](https://help.x.com/rules-and-policies/glorifying-self-harm). 
+
+While some Restricted Content is permitted for adult users in Australia on X, it is against X's [Terms of Service](https://x.com/tos) for adult users to share online pornography with a user who is under 18, including through DMs. If you are an under 18 year old user, you can report anyone who tries to share this material with you by following the process on the [Report violations page](https://help.x.com/rules-and-policies/x-report-violation). We prohibit the sending of sexually explicit media to a child or engaging or trying to engage a child in a sexually explicit conversation, see our [Child Safety policy](https://help.x.com/rules-and-policies/child-safety) for more information.
+
+**Reporting Restricted Content in Australia**
+
+You can report Restricted Content which is accessible on X in Australia in violation of our Rules and Policies by making a report to X through this [form](https://help.x.com/forms/australia-report). For further information, see [Report sensitive media page](https://help.x.com/safety-and-security/sensitive-media) and [Report violations page](https://help.x.com/rules-and-policies/x-report-violation).
+
+**Age assurance measures for Restricted Content**
+
+The Age-Restricted Material Codes require us to undertake age assurance before providing access to Restricted Content. This is different from the SMMA age assurance requirement.
+
+X’s age assurance measures for Restricted Content in Australia are set out above.  These measures will be used by X to determine whether users in Australia are over or under 18. If a user is determined to be under 18 years old, they will be defaulted into sensitive media settings, and will not be able to access sensitive media (including Restricted Content). If a user is determined to be over 18, they will be able to access sensitive media. Until we are able to determine if a user is 18 or over, they may not be able to access sensitive media (including online pornography).
+
+**How can you limit access to Restricted Content and how do we prevent access for under 18s?**
+
+Where certain kinds of Restricted Content are permitted on X, we have tools and options for users to help you limit whether you see this material and to prevent users under 18 from accessing this material. See our [How to control your X experience](https://help.x.com/safety-and-security/control-your-x-experience) page for more information on these tools.  
+
+It is against X’s [Terms of Service](https://x.com/tos) and [Child Safety policy](https://help.x.com/rules-and-policies/child-safety) for an adult end-user to use any X messaging functionality, including DMs, to share online pornography / sexually explicit media, engaging or trying to engage in sexually explicit conversation with users under 18. You can report this, see our [Report Violations page](https://help.x.com/rules-and-policies/x-report-violation).
+
+We have other measures that allow users over 18 to limit their exposure to Restricted Content on X. These tools include:
+
+*   the ability to control what content is shown on X, set out in [How to control your X experience](https://help.x.com/safety-and-security/control-your-x-experience);
+
+*   reporting sensitive media through the [Report sensitive media](https://help.x.com/safety-and-security/sensitive-media) page and on-platform reporting options for accounts, posts, and DMs;
+
+*   utilising the Privacy and Safety settings tab on X, where users can manage post media options (such as selecting for a warning to be placed over sensitive media), and use tools such as blocking and muting for other accounts, DMs, and posts;
+
+*   by default, not allowing users to receive DMs from accounts they do not follow; and
+
+*   the [Complaints form](https://help.x.com/forms/australia-report/report) which allows users to make a complaint in regard to content on X, X's handling of reports, or any other aspect of X's compliance with the Australian Online Safety Codes.
+    
+
+Grok on X
+---------
+
+Your use of Grok on X is subject to the same terms that apply to the Grok service provided by xAI as set out in [xAI’s Terms of Service](https://x.ai/legal/terms-of-service) and [xAI's Acceptable Use Policy](https://x.ai/legal/acceptable-use-policy), in addition to [our Rules and Policies](https://help.x.com/rules-and-policies).  
+
+You may not upload or attempt to generate content or material that is not permitted under [our Rules and Policies](https://help.x.com/rules-and-policies), or is Illegal Content.  You are free to use Grok to generate content or material that is permitted under our Rules and Policies.  
+
+Our Rules and Policies will still apply to your use of Grok on X. 
+
+**Restricted Content on Grok** 
+
+If you are under 18 or if you have not verified you are over 18, you may not be able to access or generate Restricted Content using Grok on X.
+
+**Reporting Illegal and Restricted Content on Grok on X in Australia**
+
+If you see, or inadvertently generate, Illegal Content or Restricted Content on Grok on X, you can report it directly from the generated Grok response by clicking the thumbs down and choosing the most applicable reporting category. 
+
+Reporting Non-Compliance with Australian Code
+---------------------------------------------
+
+#### You can make a complaint about: a) X’s handling of reports of Illegal Content or Restricted Content, which is accessible on X; or b) any other aspect of X’s compliance with the Unlawful Material Code and Age-Restricted Material Codes, by making a report to X through this [form](https://help.x.com/forms/australia-report/non-compliance). 
 
 **Reporting a Post, List or Direct Message**
 
-Learn more [here](https://help.x.com/rules-and-policies/x-report-violation#directly) about how you can submit a report or complaint about illegal content on a post, list or direct message.
+Learn more [here](https://help.x.com/rules-and-policies/x-report-violation#directly) about how you can submit a report or complaint about Illegal Content or Restricted Content on a post, list or direct message. You can also report encrypted messages via the profile reporting option within each conversation's overflow menu.
 
-**Reporting Flow Process**
+**Reporting flow process**
 
 Please complete all necessary information in the form, following the instructions, in order to submit the report. Upon submission, you will receive confirmation that your report was submitted. Your report will then be routed to the appropriate team, processed expeditiously, and you will be notified of the outcome of your report as soon as our team has all available information to make a final decision. 
 
 If a violation is identified, X will notify the violating account about the enforcement action and their right to appeal. X does not disclose information about the person who submitted the complaint.
 
-**Appeal Process**
+**Appeal process**
 
-Users can appeal an Illegal Content Decision if they believe we made an error. They can do this through this [form](https://help.x.com/forms/australia-report/appeal).
+Users can appeal an Illegal Content or Restricted Content decision if they believe we made an error. They can do this through this [form](https://help.x.com/forms/australia-report/appeal).
 
 **Withholding a post or account in a country**
 
-We may withhold access to certain content in a particular country if we receive a valid and properly scoped request from an authorized entity in that country. Read more about [country withheld content](https://help.x.com/rules-and-policies/post-withheld-by-country).
+We may withhold access to certain content in a particular country if we receive a valid and properly scoped request from an authorized entity in that country. Read more about [country withheld content](https://help.x.com/rules-and-policies/post-withheld-by-country).
 
-**Note:** If you are a member of law enforcement or government, please note that the most expeditious way to submit your request is through our Legal Request Submissions site ([https://t.co/lr](https://t.co/lr) or [https://legalrequests.x.com](https://legalrequests.x.com/)). Find more information in our [Guidelines for Law Enforcement](https://help.x.com/rules-and-policies/x-law-enforcement-support#:~:text=with%20applicable%20law.-,Private%20information%20requires%20a%20subpoena%20or%20court%20order,emergency%20request%2C%20as%20described%20below.).
+**Note:** If you are a member of law enforcement or government, please note that the most expeditious way to submit your request is through our Legal Request Submissions site ([https://t.co/lr](https://t.co/lr) or [https://legalrequests.x.com](https://legalrequests.twitter.com/forms/landing_disclaimer)). Find more information in our [Guidelines for Law Enforcement](https://help.x.com/rules-and-policies/x-law-enforcement-support#:~:text=with%20applicable%20law.-,Private%20information%20requires%20a%20subpoena%20or%20court%20order,emergency%20request%2C%20as%20described%20below.). 
 
-### Information from the Australian eSafety Commissioner
+Information from the Australian eSafety Commissioner
+----------------------------------------------------
 
-The eSafety Commissioner (eSafety) was established in 2015 and is Australia's national independent regulator and educator for online safety. Its mandate is to ensure Australians have safer and more positive experiences online. You can learn more about the eSafety Commissioner at [https://www.esafety.gov.au](https://www.esafety.gov.au/). For further information on the role and functions of eSafety, please visit [https://www.esafety.gov.au/about-us/what-we-do](https://www.esafety.gov.au/about-us/what-we-do).  
+The eSafety Commissioner (eSafety) is Australia's online safety regulator. You can learn more about the eSafety Commissioner at [https://www.esafety.gov.au](https://www.esafety.gov.au/). For further information on the role and functions of eSafety, please visit [https://www.esafety.gov.au/about-us/what-we-do](https://www.esafety.gov.au/about-us/what-we-do).  
 
-eSafety helps Australians prevent and deal with harm online. While X’s [policies](https://help.x.com/en/rules-and-policies/x-rules) are thorough and encompass content and behaviour that has the potential to cause harm, there may be cases where support from e-Safety may be needed. You can report the following types of online content to eSafety for investigation:
+eSafety helps Australians prevent and deal with harm online. While X’s [policies](https://help.x.com/rules-and-policies/x-rules) are thorough and encompass content and behaviour that has the potential to cause harm, there may be cases where support from e-Safety may be needed.
+
+You can report the following types of online content to eSafety for investigation:
 
 **Cyberbullying of a child or young person**
 
-If the post has not been actioned by X for violating its Rules after you have submitted a report, and otherwise it fits the checklist set out by eSafety at [https://www.esafety.gov.au/report/what-you-can-report-to-esafety#cyberbullying](https://www.esafety.gov.au/report/what-you-can-report-to-esafety#cyberbullying), it can be reported to eSafety for investigation.
+If the post has not been actioned by X for violating its Rules after you have submitted a report, and otherwise it fits the checklist set out by eSafety [here](https://www.esafety.gov.au/report/what-you-can-report-to-esafety#cyberbullying), it can be reported to eSafety for investigation.
 
 **Adult cyber abuse**
 
-If the post has not been actioned by X for violating its Rules after you have submitted a report, and otherwise it fits the checklist set out by eSafety at [https://www.esafety.gov.au/report/what-you-can-report-to-esafety#adult-cyber-abuse](https://www.esafety.gov.au/report/what-you-can-report-to-esafety#adult-cyber-abuse), it can be reported to eSafety for investigation.
+If the post has not been actioned by X for violating its Rules after you have submitted a report, and otherwise it fits the checklist set out by eSafety [here](https://www.esafety.gov.au/report/what-you-can-report-to-esafety#adult-cyber-abuse), it can be reported to eSafety for investigation.
 
 **Image-based abuse**
 
-The checklist set out by eSafety at [https://www.esafety.gov.au/report/what-you-can-report-to-esafety#image-based-abuse](https://www.esafety.gov.au/report/what-you-can-report-to-esafety#image-based-abuse) will help you to determine if eSafety is likely to be able to investigate your report on image-based abuse.
+The checklist set out by eSafety [here](https://www.esafety.gov.au/report/what-you-can-report-to-esafety#image-based-abuse) will help you to determine if eSafety is likely to be able to investigate your report on image-based abuse.
 
-**Illegal and restricted content** 
+**Illegal and Restricted Content** 
 
-eSafety also investigates reports from people and law enforcement agencies in Australia about illegal and restricted online content. Anyone of any age who lives in Australia can report illegal and restricted online content to eSafety. 
+eSafety also investigates reports from people and law enforcement agencies in Australia about Illegal and Restricted online content. Anyone of any age who lives in Australia can report Illegal and Restricted online content to eSafety. Please refer [here](https://www.esafety.gov.au/report/what-you-can-report-to-esafety#illegal-and-restricted-online-content) for further information. 
 
-Please refer to [https://www.esafety.gov.au/report/what-you-can-report-to-esafety#illegal-and-restricted-online-content](https://www.esafety.gov.au/report/what-you-can-report-to-esafety#illegal-and-restricted-online-content) for further information.  
-
-For further information, please visit [https://www.esafety.gov.au/report/what-you-can-report-to-esafety](https://www.esafety.gov.au/report/what-you-can-report-to-esafety). 
-
-If you would like to submit a complaint to the Australian eSafety Commissioner, you can do so at the following link, which also provides further guidance about how to report abuse or content to eSafety: [https://www.esafety.gov.au/report](https://www.esafety.gov.au/report). 
+If you would like to submit a complaint to the Australian eSafety Commissioner, you can do so [here](https://www.esafety.gov.au/report), which also provides further guidance about how to report abuse or content to eSafety.
 
 The Australian eSafety Commissioner makes available safety tools and resources in order to help Australians have safer and more positive experiences online. Please review the following links for important safety information. 
-
-Additionally, Australian end-users are able to contact third party services that may provide counseling and support. 
-
-The links below include a link to a comprehensive list of third party counselling support services compiled by eSafety. 
 
 *   [https://www.esafety.gov.au/parents](https://www.esafety.gov.au/parents)
     
@@ -3559,15 +3599,18 @@ The links below include a link to a comprehensive list of third party counsellin
     
 *   [https://www.esafety.gov.au/seniors](https://www.esafety.gov.au/seniors)
     
-*   [https://www.esafety.gov.au/diverse-groups](https://www.esafety.gov.au/diverse-groups)
-    
-*   [https://www.esafety.gov.au/newsroom/whats-on](https://www.esafety.gov.au/newsroom/whats-on)
-    
-*   [https://www.esafety.gov.au/key-issues/esafety-guide](https://www.esafety.gov.au/key-issues/esafety-guide)
-    
-*   [https://www.esafety.gov.au/about-us/counselling-support-services](https://www.esafety.gov.au/about-us/counselling-support-services)
-    
 
-#### Share this article
+*   [https://www.esafety.gov.au/diverse-groups](https://www.esafety.gov.au/diverse-groups)
+
+*   [https://www.esafety.gov.au/newsroom/whats-on](https://www.esafety.gov.au/newsroom/whats-on)
+
+*   [https://www.esafety.gov.au/key-issues/esafety-guide](https://www.esafety.gov.au/key-issues/esafety-guide)
+
+Additionally, Australian end-users are able to contact third party services that may provide counseling and support. Please see [here](https://www.esafety.gov.au/about-us/counselling-support-services) for a list of third party counselling support services compiled by eSafety.
+
+In case of inconsistency between the information provided on this page and any other document including X Rules or Policies, these terms shall prevail with respect to Australian users, and will govern your use of X, including Grok on X.
+
+Share this article
+------------------
 
 Post
