@@ -335,7 +335,7 @@ What is copyright?
 
 What is trademark?
 
-Copyright vs trademark
+Copyright vs trademark infringement
 
 I have a different question
 
@@ -361,9 +361,9 @@ Copy link
 
 How to avoid copyright violation?
 
-What is copyright infringement?
-
 Can I use content I bought?
+
+What is fair use?
 
 I have a different question
 
@@ -413,7 +413,9 @@ What is fair use?
 
 What are copyright exceptions?
 
-How do I know if it's fair use?
+Can I use copyrighted work?
+
+What are the factors of fair use?
 
 I have a different question
 
@@ -609,11 +611,9 @@ Copy link
 
 Report copyright infringement
 
-How to report copyright
+Fill out copyright form
 
-What is Brand Rights Protection?
-
-What is DMCA?
+Use Brand Rights Protection
 
 I have a different question
 
@@ -642,13 +642,11 @@ What to consider before submitting an intellectual property infringement report 
 
 Copy link
 
-Consider before submitting report
-
 What is permissible use?
 
-Legal consequences of false report
+What are legal consequences?
 
-What is copyright infringement?
+Report copyright infringement
 
 I have a different question
 
@@ -684,11 +682,11 @@ Can I report an infringement of someone else’s intellectual property on Instag
 
 Copy link
 
-Report an infringement
+Report intellectual property infringement
 
-My content was infringed
+Who can report infringement?
 
-What is intellectual property?
+What if I'm not the owner?
 
 I have a different question
 
@@ -711,8 +709,6 @@ Copy link
 Contact DMCA agent
 
 DMCA online form
-
-DMCA agent mailing address
 
 What is a complete copyright claim?
 
@@ -840,9 +836,11 @@ Copy link
 
 What happens after I report?
 
-Why was my report rejected?
+I need to provide more info
 
 What info is shared?
+
+How do I appeal a decision?
 
 I have a different question
 
@@ -908,7 +906,9 @@ What is a trademark?
 
 What do trademarks protect?
 
-Can I use a trademark?
+Report a trademark infringement
+
+What is not protected?
 
 I have a different question
 
@@ -968,13 +968,11 @@ Does a trademark need to be registered to be protected?
 
 Copy link
 
-Register my trademark
+Do I need to register?
 
 What are common law rights?
 
-Do I need to register?
-
-What is a business registration?
+What is a USPTO registration?
 
 I have a different question
 
@@ -996,11 +994,11 @@ What is the difference between a trademark registration and a business registrat
 
 Copy link
 
-Trademark vs business registration
-
 What is a trademark registration?
 
 What is a business registration?
+
+USPTO registration
 
 I have a different question
 
@@ -1123,7 +1121,7 @@ What is copyright?
 
 What is trademark?
 
-Copyright vs trademark
+Copyright vs trademark infringement
 
 I have a different question
 
@@ -1147,13 +1145,13 @@ How to make sure the content you post to Instagram or Threads don't violate trad
 
 Copy link
 
-My content violates trademark
+My content violates trademark law
+
+How to avoid trademark violation
 
 What is trademark law?
 
-How to avoid trademark issues?
-
-Can I use someone's trademark?
+Can I use someone else's trademark?
 
 I have a different question
 
@@ -1284,11 +1282,11 @@ Can I report an infringement of someone else’s intellectual property on Instag
 
 Copy link
 
-Report an infringement
+Report intellectual property infringement
 
-My content was infringed
+Who can report infringement?
 
-What is intellectual property?
+What if I'm not the owner?
 
 I have a different question
 
@@ -1376,13 +1374,11 @@ What to consider before submitting an intellectual property infringement report 
 
 Copy link
 
-Consider before submitting report
-
 What is permissible use?
 
-Legal consequences of false report
+What are legal consequences?
 
-What is copyright infringement?
+Report copyright infringement
 
 I have a different question
 
@@ -1456,7 +1452,9 @@ What is fair use?
 
 What are copyright exceptions?
 
-How do I know if it's fair use?
+Can I use copyrighted work?
+
+What are the factors of fair use?
 
 I have a different question
 
