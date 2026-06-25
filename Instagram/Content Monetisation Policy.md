@@ -3,16 +3,6 @@ Instagram Content Monetization Policies
 
 Copy link
 
-My content was not monetized
-
-Why was monetization reduced?
-
-What content is prohibited?
-
-What are restricted categories?
-
-I have a different question
-
 We offer features and products that help creators and publishers earn money from their content. This content has to follow certain rules.
 
 All content on Instagram must comply with our [Terms of Use](https://help.instagram.com/581066165581870?helpref=faq_content) and [Community Standards](https://transparency.meta.com/policies/community-standards/). These are our high-level rules against sexual, violent, profane or hateful content. However, content appropriate for Instagram in general is not necessarily appropriate for monetization.
@@ -196,13 +186,13 @@ Instagram Partner Monetization Policies
 
 Copy link
 
-What are monetization policies?
+My account was demonetized
 
-My account is ineligible
+Why was I demonetized?
 
-Where are monetization tools available?
+Monetization eligibility requirements
 
-What are Content Monetization Policies?
+Appeal a monetization decision
 
 I have a different question
 
