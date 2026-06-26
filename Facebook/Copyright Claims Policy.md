@@ -1964,11 +1964,13 @@ Unintentional actions can still violate copyright on Facebook
 
 Copy link
 
-Can I violate copyright unintentionally?
+Can I infringe copyright unintentionally?
+
+What is fair use?
 
 What is copyright infringement?
 
-What is fair use?
+What does copyright protect?
 
 I have a different question
 
@@ -2117,15 +2119,13 @@ Facebook Lite App Help
 
 More
 
-Apelar la eliminación de contenido
+Appeal content removal
 
-Contenido eliminado por derechos de autor
+Contact rights owner
 
-Contenido eliminado por propiedad intelectual
+My content was removed
 
-¿Qué es la DMCA?
-
-Tengo otra pregunta
+I have a different question
 
 When we receive a report from a rights owner claiming that content you posted on Facebook infringes their intellectual property rights, we may need to promptly remove that content from Facebook without contacting you first.
 
