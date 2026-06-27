@@ -5,9 +5,9 @@ Copy link
 
 My content was not monetized
 
-Why was monetization reduced?
+Why was my content rejected?
 
-What content is prohibited?
+What are prohibited formats?
 
 What are restricted categories?
 
@@ -196,13 +196,13 @@ Instagram Partner Monetization Policies
 
 Copy link
 
-What are monetization policies?
+My monetization was rejected
 
-My account is ineligible
+Why am I ineligible?
 
-Where are monetization tools available?
+What are content policies?
 
-What are Content Monetization Policies?
+I lost monetization eligibility
 
 I have a different question
 
