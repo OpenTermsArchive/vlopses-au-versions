@@ -14,15 +14,15 @@ Intellectual property
 
 Copy link
 
-Denunciar violação de direitos autorais
+Report a copyright violation
 
-Denunciar violação de marca registrada
+Report a trademark violation
 
-O que é direito autoral?
+What is copyright?
 
-O que é marca registrada?
+What is a trademark?
 
-Tenho uma pergunta diferente
+I have a different question
 
 Facebook is committed to helping people and organisations protect their intellectual property rights. The Facebook [Terms of Service](https://www.facebook.com/legal/terms) do not allow posting content that violates someone else's intellectual property rights, including copyright and trademark.
 
@@ -367,13 +367,11 @@ How long does trademark protection last?
 
 Copy link
 
-How long do trademark rights last?
+How long do my rights last?
 
-Renew my trademark
+How do I renew my trademark?
 
-Lose my trademark rights
-
-USPTO trademark renewal
+What if I stop using it?
 
 I have a different question
 
@@ -1475,15 +1473,13 @@ Resolve issues, make changes and get support in real time
 Copyright
 =========
 
-Report copyright infringement
+Melde en krænkelse af ophavsret
 
-Protect my copyrighted work
+Hvad er ophavsret?
 
-What is copyright?
+Beskyt mit ophavsretligt værk
 
-What is Rights Manager?
-
-I have a different question
+Jeg har et andet spørgsmål
 
 These articles provide information about copyrights, including how you can protect your own copyrighted works and avoid infringing the copyrights of others. We also provide information about how Facebook addresses reported copyright infringement. If you believe that someone is using your copyrighted work without your permission, you can report it by [filling in this form](https://www.facebook.com/help/ipreporting/report/copyright).
 
@@ -1804,13 +1800,11 @@ How can I make sure that the content I post to Facebook doesn't violate copyrigh
 
 Copy link
 
-My post was removed
+Do I have permission to post?
 
 What is fair use?
 
-How do I get permission?
-
-What is public domain content?
+Is my content copyrighted?
 
 I have a different question
 
@@ -2562,13 +2556,11 @@ What tools does Facebook provide to help me protect my intellectual property in 
 
 Copy link
 
-Protect my video content
-
 What is Rights Manager?
 
 What is content protection?
 
-I can't apply for tools
+How do I apply for tools?
 
 I have a different question
 
