@@ -1473,15 +1473,13 @@ Resolve issues, make changes and get support in real time
 Copyright
 =========
 
-Report copyright infringement
+Melde en krænkelse af ophavsret
 
-Protect my copyrighted work
+Hvad er ophavsret?
 
-What is copyright?
+Beskyt mit ophavsretligt værk
 
-What is Rights Manager?
-
-I have a different question
+Jeg har et andet spørgsmål
 
 These articles provide information about copyrights, including how you can protect your own copyrighted works and avoid infringing the copyrights of others. We also provide information about how Facebook addresses reported copyright infringement. If you believe that someone is using your copyrighted work without your permission, you can report it by [filling in this form](https://www.facebook.com/help/ipreporting/report/copyright).
 
@@ -1960,13 +1958,11 @@ Unintentional actions can still violate copyright on Facebook
 
 Copy link
 
-Can I infringe copyright unintentionally?
+Can I violate copyright unintentionally?
 
 What is fair use?
 
-What is copyright infringement?
-
-What does copyright protect?
+What if I gave credit?
 
 I have a different question
 
@@ -2115,15 +2111,13 @@ Facebook Lite App Help
 
 More
 
-Apelar remoção de conteúdo
+Rayuan kandungan yang dialih keluar
 
-Conteúdo removido por direitos autorais
+Hubungi pemilik hak cipta
 
-O que é DMCA?
+Kandungan saya dialih keluar secara tidak sengaja
 
-Não consigo apelar
-
-Tenho uma pergunta diferente
+Saya ada soalan lain
 
 When we receive a report from a rights owner claiming that content you posted on Facebook infringes their intellectual property rights, we may need to promptly remove that content from Facebook without contacting you first.
 
@@ -2562,13 +2556,11 @@ What tools does Facebook provide to help me protect my intellectual property in 
 
 Copy link
 
-Protect my video content
-
 What is Rights Manager?
 
 What is content protection?
 
-I can't apply for tools
+How do I apply for tools?
 
 I have a different question
 
