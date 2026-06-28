@@ -14,15 +14,15 @@ Intellectual property
 
 Copy link
 
-Report a copyright violation
+Denunciar violação de direitos autorais
 
-Report a trademark violation
+Denunciar violação de marca registrada
 
-What is copyright?
+O que é direito autoral?
 
-What is a trademark?
+O que é marca registrada?
 
-I have a different question
+Tenho uma pergunta diferente
 
 Facebook is committed to helping people and organisations protect their intellectual property rights. The Facebook [Terms of Service](https://www.facebook.com/legal/terms) do not allow posting content that violates someone else's intellectual property rights, including copyright and trademark.
 
@@ -504,9 +504,9 @@ Related articles
 
 [How long does trademark protection last?](https://www.facebook.com/help/1823502941230538/?helpref=related_articles)
 
-[Does a trademark need to be registered to be protected?](https://www.facebook.com/help/1430594943641002/?helpref=related_articles)
-
 [What are trademarks and what they protect](https://www.facebook.com/help/1378807958858854/?helpref=related_articles)
+
+[Does a trademark need to be registered to be protected?](https://www.facebook.com/help/1430594943641002/?helpref=related_articles)
 
 [Trademark](https://www.facebook.com/help/507663689427413/?helpref=related_articles)
 
@@ -516,9 +516,9 @@ Related articles
 
 [How long does trademark protection last?](https://www.facebook.com/help/1823502941230538/?helpref=related_articles)
 
-[Does a trademark need to be registered to be protected?](https://www.facebook.com/help/1430594943641002/?helpref=related_articles)
-
 [What are trademarks and what they protect](https://www.facebook.com/help/1378807958858854/?helpref=related_articles)
+
+[Does a trademark need to be registered to be protected?](https://www.facebook.com/help/1430594943641002/?helpref=related_articles)
 
 [Trademark](https://www.facebook.com/help/507663689427413/?helpref=related_articles)
 
@@ -1473,13 +1473,15 @@ Resolve issues, make changes and get support in real time
 Copyright
 =========
 
-Melde en krænkelse af ophavsret
+Report copyright infringement
 
-Hvad er ophavsret?
+Protect my copyrighted work
 
-Beskyt mit ophavsretligt værk
+What is copyright?
 
-Jeg har et andet spørgsmål
+What is Rights Manager?
+
+I have a different question
 
 These articles provide information about copyrights, including how you can protect your own copyrighted works and avoid infringing the copyrights of others. We also provide information about how Facebook addresses reported copyright infringement. If you believe that someone is using your copyrighted work without your permission, you can report it by [filling in this form](https://www.facebook.com/help/ipreporting/report/copyright).
 
@@ -1958,11 +1960,13 @@ Unintentional actions can still violate copyright on Facebook
 
 Copy link
 
-Can I violate copyright unintentionally?
+Can I infringe copyright unintentionally?
 
 What is fair use?
 
-What if I gave credit?
+What is copyright infringement?
+
+What does copyright protect?
 
 I have a different question
 
@@ -2111,13 +2115,15 @@ Facebook Lite App Help
 
 More
 
-Rayuan kandungan yang dialih keluar
+Apelar remoção de conteúdo
 
-Hubungi pemilik hak cipta
+Conteúdo removido por direitos autorais
 
-Kandungan saya dialih keluar secara tidak sengaja
+O que é DMCA?
 
-Saya ada soalan lain
+Não consigo apelar
+
+Tenho uma pergunta diferente
 
 When we receive a report from a rights owner claiming that content you posted on Facebook infringes their intellectual property rights, we may need to promptly remove that content from Facebook without contacting you first.
 
@@ -2556,11 +2562,13 @@ What tools does Facebook provide to help me protect my intellectual property in 
 
 Copy link
 
+Protect my video content
+
 What is Rights Manager?
 
 What is content protection?
 
-How do I apply for tools?
+I can't apply for tools
 
 I have a different question
 
