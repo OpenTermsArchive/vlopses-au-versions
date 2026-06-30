@@ -7,9 +7,9 @@ My content was not monetized
 
 Why was my content rejected?
 
-What content is restricted?
-
 What are prohibited formats?
+
+What are restricted categories?
 
 I have a different question
 
@@ -195,6 +195,16 @@ Instagram Partner Monetization Policies
 =======================================
 
 Copy link
+
+My monetization was rejected
+
+Why am I ineligible?
+
+What are content policies?
+
+I lost monetization eligibility
+
+I have a different question
 
 Eligibility Standards for Promotional Tools are now called Instagram Partner Monetization Policies. This is still the best place to learn about the rules for using Instagram's monetization tools.
 
