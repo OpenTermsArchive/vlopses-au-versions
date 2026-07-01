@@ -7,9 +7,9 @@ My content was not monetized
 
 Why was my content rejected?
 
-What are prohibited formats?
+What content is restricted?
 
-What are restricted categories?
+What are prohibited formats?
 
 I have a different question
 
