@@ -194,11 +194,11 @@ What is trademark infringement?
 
 Copy link
 
-What is trademark infringement?
-
 What is trademark dilution?
 
-My trademark was used without permission
+What is likelihood of confusion?
+
+What are limits to trademark rights?
 
 I have a different question
 
@@ -465,9 +465,9 @@ Copy link
 
 Report counterfeit goods
 
-What is trademark infringement?
+What are counterfeit goods?
 
-Is selling counterfeits illegal?
+Selling counterfeit goods
 
 I have a different question
 
@@ -1734,11 +1734,9 @@ What is copyright and what does it protect?
 
 Copy link
 
-What is copyright?
-
 What does copyright protect?
 
-What is not protected?
+What is not protected by copyright?
 
 What is fair use?
 
@@ -2008,13 +2006,13 @@ How can I make sure the content I post to Facebook doesn't violate copyright law
 
 Copy link
 
-Avoid copyright violations
+What is copyright infringement?
+
+Can I use content with permission?
 
 What is fair use?
 
-Do I need permission?
-
-What is public domain?
+What is public domain content?
 
 I have a different question
 
@@ -2096,7 +2094,7 @@ What is fair use?
 
 What are copyright exceptions?
 
-Is my use fair use?
+Can I use copyrighted material?
 
 I have a different question
 
