@@ -1,3 +1,5 @@
+Imprint
+
 Business Information
 
 Subject to the \[Terms & Conditions\] and the \[Privacy & Cookie Policy\] , our Services for AU are provided by:
@@ -16,8 +18,8 @@ E-Mail: [aucsteam@shein.co](mailto:aucsteam@shein.co)
 
 4\. Terms & Conditions: [https://au.shein.com/Terms-and-Conditions-a-399.html](https://au.shein.com/Terms-and-Conditions-a-399.html)
 
-5\. Marketplace IP Rules: [https://ipp.shein.com/ipp](https://ipp.shein.com/ipp)
+Marketplace IP Rules: [https://ipp.shein.com/ipp](https://ipp.shein.com/ipp)
 
-6\. IP Notice: [https://au.shein.com/copyright-noticeam-a-379.html](https://au.shein.com/copyright-noticeam-a-379.html)
+IP Notice: [https://au.shein.com/copyright-noticeam-a-379.html](https://au.shein.com/copyright-noticeam-a-379.html)
 
-7\. Ad Choice: [https://au.shein.com/Consumer-Privacy-Notice-s-101.html#ps-t3](https://au.shein.com/Consumer-Privacy-Notice-s-101.html#ps-t3)
+Ad Choice: [https://au.shein.com/Consumer-Privacy-Notice-s-101.html#ps-t3](https://au.shein.com/Consumer-Privacy-Notice-s-101.html#ps-t3)
