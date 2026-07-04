@@ -1643,7 +1643,7 @@ Report copyright infringement
 
 Protect my copyrighted work
 
-What is copyright?
+What is copyright infringement?
 
 I have a different question
 
@@ -1728,11 +1728,11 @@ What is copyright and what does it protect?
 
 Copy link
 
+What is copyright?
+
 What does copyright protect?
 
 What is not protected?
-
-My content was copied
 
 What is fair use?
 
@@ -2182,11 +2182,9 @@ Copy link
 
 Can I violate copyright unintentionally?
 
+What is copyright infringement?
+
 What is fair use?
-
-Can I use downloaded content?
-
-What if I give credit?
 
 I have a different question
 
@@ -2355,9 +2353,9 @@ Appeal removed content
 
 My content was removed
 
-What is a DMCA counter-notification?
+Contact rights owner
 
-I can't appeal removed content
+What is DMCA?
 
 I have a different question
 
