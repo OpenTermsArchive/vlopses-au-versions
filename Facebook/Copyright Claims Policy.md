@@ -20,7 +20,7 @@ Report trademark violation
 
 What is copyright?
 
-What is trademark?
+What is a trademark?
 
 I have a different question
 
@@ -2090,7 +2090,7 @@ What is fair use?
 
 What are copyright exceptions?
 
-Can I use copyrighted material?
+How is fair use determined?
 
 I have a different question
 
@@ -2180,9 +2180,11 @@ Copy link
 
 Can I violate copyright unintentionally?
 
-What is copyright infringement?
-
 What is fair use?
+
+Can I use downloaded content?
+
+What if I give credit?
 
 I have a different question
 
