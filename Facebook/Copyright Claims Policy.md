@@ -20,7 +20,7 @@ Report trademark violation
 
 What is copyright?
 
-What is a trademark?
+What is trademark?
 
 I have a different question
 
@@ -554,9 +554,9 @@ Related Articles
 
 [What are trademarks and what they protect](https://www.facebook.com/help/1378807958858854/?helpref=related_articles)
 
-[Does a trademark need to be registered to be protected?](https://www.facebook.com/help/1430594943641002/?helpref=related_articles)
-
 [Trademark](https://www.facebook.com/help/507663689427413/?helpref=related_articles)
+
+[What is the difference between a trademark registration and a business registration?](https://www.facebook.com/help/1378621128898663/?helpref=related_articles)
 
 Related Articles
 
@@ -572,11 +572,11 @@ Related Articles
 
 * * *](https://www.facebook.com/help/1378807958858854/?helpref=related_articles)
 
-[Does a trademark need to be registered to be protected?
+[Trademark
 
-* * *](https://www.facebook.com/help/1430594943641002/?helpref=related_articles)
+* * *](https://www.facebook.com/help/507663689427413/?helpref=related_articles)
 
-[Trademark](https://www.facebook.com/help/507663689427413/?helpref=related_articles)
+[What is the difference between a trademark registration and a business registration?](https://www.facebook.com/help/1378621128898663/?helpref=related_articles)
 
 Other ways to get help
 ----------------------
@@ -1643,7 +1643,7 @@ Report copyright infringement
 
 Protect my copyrighted work
 
-What is copyright infringement?
+What is copyright?
 
 I have a different question
 
@@ -1728,11 +1728,11 @@ What is copyright and what does it protect?
 
 Copy link
 
-What is copyright?
-
 What does copyright protect?
 
 What is not protected?
+
+My content was copied
 
 What is fair use?
 
@@ -2006,11 +2006,9 @@ Copy link
 
 What is copyright infringement?
 
+Can I use content I bought?
+
 What is fair use?
-
-How do I get permission?
-
-What is public domain content?
 
 I have a different question
 
@@ -2092,7 +2090,7 @@ What is fair use?
 
 What are copyright exceptions?
 
-How is fair use determined?
+Can I use copyrighted material?
 
 I have a different question
 
