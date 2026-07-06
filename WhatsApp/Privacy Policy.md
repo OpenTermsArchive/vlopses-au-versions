@@ -146,9 +146,15 @@ We may amend or update our Privacy Policy. We will provide you notice of amendme
   
   
 
+### South Africa Protection of Personal Information Act
+
+You can learn more about your rights under the Protection of Personal Information Act 4 of 2013, including how to exercise these rights, [here](https://www.whatsapp.com/legal).
+
 ### 
 
 Contact Us
+
+The Data Protection Officer for WhatsApp can be contacted [here](https://www.whatsapp.com/contact/forms/286089946684682).
 
 If you have questions or issues about our Privacy Policy, please [contact us](https://www.whatsapp.com/contact/forms/915483389072145).
 
@@ -372,7 +378,7 @@ When you use face and hand effects, we may process information from images of ot
 
 ### **WhatsApp Channels Supplemental Privacy Policy**
 
-Effective January 21, 2025
+Effective June 30, 2025
 
 This WhatsApp Channels Supplemental Privacy Policy helps explain our information practices when you use WhatsApp Channels (“Channels”). When we say “WhatsApp”, “our”, “we” or “us”, we are referring to WhatsApp LLC.
 
@@ -720,9 +726,15 @@ We may amend or update our Privacy Policy. We will provide you notice of amendme
   
   
 
+### South Africa Protection of Personal Information Act
+
+You can learn more about your rights under the Protection of Personal Information Act 4 of 2013, including how to exercise these rights, [here](https://www.whatsapp.com/legal).
+
 ### 
 
 Contact Us
+
+The Data Protection Officer for WhatsApp can be contacted [here](https://www.whatsapp.com/contact/forms/286089946684682).
 
 If you have questions or issues about our Privacy Policy, please [contact us](https://www.whatsapp.com/contact/forms/915483389072145).
 
