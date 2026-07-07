@@ -1736,11 +1736,13 @@ What is copyright and what does it protect?
 
 Copy link
 
-What is copyright?
-
 What does copyright protect?
 
-What is not protected by copyright?
+What is not protected?
+
+My content was copied
+
+What is intellectual property?
 
 I have a different question
 
@@ -2006,13 +2008,13 @@ How can I make sure that the content I post to Facebook doesn't violate copyrigh
 
 Copy link
 
-I posted copyrighted content
+What is copyright infringement?
+
+Do I have permission to post?
 
 What is fair use?
 
-How do I get permission?
-
-What is public domain content?
+Is my content public domain?
 
 I have a different question
 
@@ -2854,15 +2856,15 @@ What tools does Facebook provide to help me protect my intellectual property in 
 
 Copy link
 
-Apply for Rights Manager
+Proteger o meu conteúdo
 
-What is Rights Manager?
+O que é o Rights Manager?
 
-What is content protection?
+O que é a proteção de conteúdo?
 
-Report copyright infringement
+Não consigo proteger o meu vídeo
 
-I have a different question
+Tenho uma questão diferente
 
 In addition to our other measures, including our online reporting forms and our repeat infringer policy, we use systems that flag content posted to Facebook that may contain copyrighted content owned by someone else. We provide tailored tooling specific to a content owner's demonstrated needs.
 
