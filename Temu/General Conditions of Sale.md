@@ -78,7 +78,7 @@ If you need to return an oversized or overweight item, we support the option of 
 
 If you have already returned items from an order and would like to return additional items from that same order, you can still do so as long as the return window has not closed.
 
-We recommend that you try to send back your return items in one shipment to avoid paying additional fees.
+We recommend that you try to send back your return items in one shipment to avoid paying additional fees. This will likely also minimize the environmental impact of multiple returns.
 
 For the second and subsequent refunds from the same order, you can use the return label we provide and pay a AU$9.00 shipping fee, which will be deducted from your refund.
 
