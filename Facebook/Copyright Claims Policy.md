@@ -2096,9 +2096,7 @@ What is fair use?
 
 What are copyright exceptions?
 
-How is fair use determined?
-
-What is copyright infringement?
+What is the fair use doctrine?
 
 I have a different question
 
@@ -2856,15 +2854,15 @@ What tools does Facebook provide to help me protect my intellectual property in 
 
 Copy link
 
-Proteger o meu conteúdo
+Apply for Rights Manager
 
-O que é o Rights Manager?
+What is Rights Manager?
 
-O que é a proteção de conteúdo?
+What is content protection?
 
-Não consigo proteger o meu vídeo
+Report copyright infringement
 
-Tenho uma questão diferente
+I have a different question
 
 In addition to our other measures, including our online reporting forms and our repeat infringer policy, we use systems that flag content posted to Facebook that may contain copyrighted content owned by someone else. We provide tailored tooling specific to a content owner's demonstrated needs.
 
