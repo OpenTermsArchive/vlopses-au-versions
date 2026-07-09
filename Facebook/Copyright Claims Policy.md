@@ -14,15 +14,15 @@ Intellectual property
 
 Copy link
 
-What is copyright?
+Denunciar violação de direitos autorais
 
-What is a trademark?
+Denunciar violação de marca registada
 
-Report a copyright violation
+O que é propriedade intelectual?
 
-Report a trademark violation
+O que é uma marca registada?
 
-I have a different question
+Tenho uma pergunta diferente
 
 Facebook is committed to helping people and organisations protect their intellectual property rights. The Facebook [Terms of Service](https://www.facebook.com/legal/terms) do not allow posting content that violates someone else's intellectual property rights, including copyright and trademark.
 
@@ -268,6 +268,16 @@ Does a trademark need to be registered to be protected?
 =======================================================
 
 Copy link
+
+Register my trademark
+
+Trademark rights without registration
+
+Register trademark in EU
+
+What is common law right?
+
+I have a different question
 
 In the US, a trademark can be registered with the United States Patent and Trademark Office (USPTO). Federal registrations with the USPTO establish trademark rights as of a certain date and provide a presumption that the registrant owns a valid trademark, amongst other things. For these reasons, trademark owners often obtain USPTO registrations.
 
@@ -2086,7 +2096,9 @@ What is fair use?
 
 What are copyright exceptions?
 
-What is the fair use doctrine?
+How is fair use determined?
+
+What is copyright infringement?
 
 I have a different question
 
