@@ -172,7 +172,7 @@ For all other items: please contact our customer service.
 
 Company info
 
-*   [About Temu](https://www.temu.com/au/about-temu.html)
+*   [About Temu](https://www.temu.com/au/about_temu_home.html)
 *   [Affiliate & Influencer Program: Join to Earn](https://www.temu.com/au/affiliate_influencer_program.html)
 *   [Contact us](https://www.temu.com/au/contact-us.html)
 *   [Careers](https://www.temu.com/au/careers.html)
