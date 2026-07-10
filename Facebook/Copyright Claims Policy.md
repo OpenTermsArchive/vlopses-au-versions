@@ -1447,11 +1447,11 @@ Retract an intellectual property report that you've submitted to Facebook
 
 Copy link
 
-Withdraw my report
+Withdraw my IP report
 
-Cancel my IP report
+Cancel my copyright report
 
-Restore removed content
+Retract my report
 
 I have a different question
 
@@ -2184,13 +2184,11 @@ Unintentional actions can still violate copyright on Facebook
 
 Copy link
 
-Can I violate copyright unintentionally?
-
-What is copyright infringement?
+Can I infringe copyright unintentionally?
 
 What is fair use?
 
-What content is copyrighted?
+What does copyright protect?
 
 I have a different question
 
