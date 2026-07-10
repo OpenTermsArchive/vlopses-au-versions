@@ -14,15 +14,15 @@ Intellectual property
 
 Copy link
 
-Denunciar violação de direitos autorais
+What is copyright?
 
-Denunciar violação de marca registada
+What is a trademark?
 
-O que é propriedade intelectual?
+Report a copyright violation
 
-O que é uma marca registada?
+Report a trademark violation
 
-Tenho uma pergunta diferente
+I have a different question
 
 Facebook is committed to helping people and organisations protect their intellectual property rights. The Facebook [Terms of Service](https://www.facebook.com/legal/terms) do not allow posting content that violates someone else's intellectual property rights, including copyright and trademark.
 
@@ -399,13 +399,15 @@ How long does trademark protection last?
 
 Copy link
 
-Perco i miei diritti di marchio?
+How long do trademark rights last?
 
-Rinnovo la mia registrazione di marchio
+Renew my trademark
 
-Quanto dura la protezione del marchio?
+Lose trademark rights
 
-Ho una domanda diversa
+What is USPTO?
+
+I have a different question
 
 Trademark rights may last indefinitely, but only if the trademark owner continues to use the trademark in commerce to identify their products or services. If a trademark owner stops using the trademark, or if it isn't used properly, they might lose their trademark rights.
 
@@ -1447,11 +1449,11 @@ Retract an intellectual property report that you've submitted to Facebook
 
 Copy link
 
-Withdraw my IP report
+Withdraw my report
 
-Cancel my copyright report
+Cancel my IP report
 
-Retract my report
+Restore removed content
 
 I have a different question
 
@@ -1736,13 +1738,11 @@ What is copyright and what does it protect?
 
 Copy link
 
+What is copyright?
+
 What does copyright protect?
 
-What is not protected?
-
-My content was copied
-
-What is intellectual property?
+What is not protected by copyright?
 
 I have a different question
 
@@ -2096,7 +2096,9 @@ What is fair use?
 
 What are copyright exceptions?
 
-What is the fair use doctrine?
+How is fair use determined?
+
+What is copyright infringement?
 
 I have a different question
 
@@ -2184,11 +2186,13 @@ Unintentional actions can still violate copyright on Facebook
 
 Copy link
 
-Can I infringe copyright unintentionally?
+Can I violate copyright unintentionally?
+
+What is copyright infringement?
 
 What is fair use?
 
-What does copyright protect?
+What content is copyrighted?
 
 I have a different question
 
