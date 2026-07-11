@@ -399,15 +399,13 @@ How long does trademark protection last?
 
 Copy link
 
-How long do trademark rights last?
+Perco i miei diritti di marchio?
 
-Renew my trademark
+Rinnovo la mia registrazione di marchio
 
-Lose trademark rights
+Quanto dura la protezione del marchio?
 
-What is USPTO?
-
-I have a different question
+Ho una domanda diversa
 
 Trademark rights may last indefinitely, but only if the trademark owner continues to use the trademark in commerce to identify their products or services. If a trademark owner stops using the trademark, or if it isn't used properly, they might lose their trademark rights.
 
@@ -1738,11 +1736,13 @@ What is copyright and what does it protect?
 
 Copy link
 
-What is copyright?
-
 What does copyright protect?
 
-What is not protected by copyright?
+What is not protected?
+
+My content was copied
+
+What is intellectual property?
 
 I have a different question
 
@@ -2096,9 +2096,7 @@ What is fair use?
 
 What are copyright exceptions?
 
-How is fair use determined?
-
-What is copyright infringement?
+What is the fair use doctrine?
 
 I have a different question
 
@@ -2186,13 +2184,11 @@ Unintentional actions can still violate copyright on Facebook
 
 Copy link
 
-Can I violate copyright unintentionally?
-
-What is copyright infringement?
+Can I infringe copyright unintentionally?
 
 What is fair use?
 
-What content is copyrighted?
+What does copyright protect?
 
 I have a different question
 
