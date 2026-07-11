@@ -14,15 +14,15 @@ Intellectual property
 
 Copy link
 
-Denunciar violação de direitos autorais
+What is copyright?
 
-Denunciar violação de marca registada
+What is a trademark?
 
-O que é propriedade intelectual?
+Report a copyright violation
 
-O que é uma marca registada?
+Report a trademark violation
 
-Tenho uma pergunta diferente
+I have a different question
 
 Facebook is committed to helping people and organisations protect their intellectual property rights. The Facebook [Terms of Service](https://www.facebook.com/legal/terms) do not allow posting content that violates someone else's intellectual property rights, including copyright and trademark.
 
@@ -1649,9 +1649,7 @@ Melde en krænkelse af ophavsret
 
 Hvad er ophavsret?
 
-Beskyt min ophavsret
-
-Rettighedsadministrator
+Beskyt mit ophavsretligt værk
 
 Jeg har et andet spørgsmål
 
@@ -1736,11 +1734,13 @@ What is copyright and what does it protect?
 
 Copy link
 
-What is copyright?
-
 What does copyright protect?
 
-What is not protected by copyright?
+What is not protected?
+
+My content was copied
+
+What is intellectual property?
 
 I have a different question
 
@@ -2569,9 +2569,11 @@ Copy link
 
 Contact DMCA agent
 
-Report copyright infringement
+Send a copyright claim
 
-What is a DMCA claim?
+What is a DMCA report?
+
+How to contact by post?
 
 I have a different question
 
