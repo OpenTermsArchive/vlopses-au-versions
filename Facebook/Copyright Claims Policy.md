@@ -14,15 +14,15 @@ Intellectual property
 
 Copy link
 
-What is copyright?
+Denunciar violação de direitos autorais
 
-What is a trademark?
+Denunciar violação de marca registada
 
-Report a copyright violation
+O que é propriedade intelectual?
 
-Report a trademark violation
+O que é uma marca registada?
 
-I have a different question
+Tenho uma pergunta diferente
 
 Facebook is committed to helping people and organisations protect their intellectual property rights. The Facebook [Terms of Service](https://www.facebook.com/legal/terms) do not allow posting content that violates someone else's intellectual property rights, including copyright and trademark.
 
@@ -1736,13 +1736,11 @@ What is copyright and what does it protect?
 
 Copy link
 
+What is copyright?
+
 What does copyright protect?
 
-What is not protected?
-
-My content was copied
-
-What is intellectual property?
+What is not protected by copyright?
 
 I have a different question
 
@@ -2096,7 +2094,9 @@ What is fair use?
 
 What are copyright exceptions?
 
-What is the fair use doctrine?
+How is fair use determined?
+
+What is copyright infringement?
 
 I have a different question
 
@@ -2184,11 +2184,13 @@ Unintentional actions can still violate copyright on Facebook
 
 Copy link
 
-Can I infringe copyright unintentionally?
+Can I violate copyright unintentionally?
+
+What is copyright infringement?
 
 What is fair use?
 
-What does copyright protect?
+What content is copyrighted?
 
 I have a different question
 
