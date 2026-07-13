@@ -592,92 +592,31 @@ Up Next: Threats, Violence, & Harm
 
 - - -
 
-Community Guidelines
+Company
 
-Harmful False or Deceptive Practices
+*   [Snap Inc.](https://www.snap.com/?utm_source=values_snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
+*   [Careers](https://careers.snap.com/?utm_source=values_snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
+*   [News](https://newsroom.snap.com/?utm_source=values_snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
+*   [Privacy and Safety](https://values.snap.com/?utm_source=values_snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link)
 
+Community
 
-========================================
+*   [Snapchat Support](https://help.snapchat.com/hc?utm_source=values_snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
+*   [Spectacles Support](https://support.spectacles.com/?utm_source=values_snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
+*   [Community Guidelines](https://values.snap.com/privacy/transparency/community-guidelines?utm_source=values_snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link)
 
-Community Guidelines Explainer Series
+Advertising
 
-Updated: February 2025
+*   [Snapchat Ads](https://forbusiness.snapchat.com/?utm_source=values_snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
+*   [Advertising Policies](https://www.snap.com/ad-policies?utm_source=values_snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
+*   [Political Ads Library](https://www.snap.com/political-ads?utm_source=values_snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
+*   [Brand Guidelines](https://www.snap.com/brand-guidelines?utm_source=values_snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
+*   [Promotions Rules](https://help.snapchat.com/hc/articles/7047502545044?utm_source=values_snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
 
-### 
+Legal
 
-Overview
-
-Fostering a responsible information environment has been a major priority at Snap. Deceptive practices take on many forms and can undermine trust and pose a threat to Snapchatters’ safety and security. Our policies are intended to reduce the spread of misinformation, and protect users from fraud and spam, across a broad range of circumstances.
-
-*   We prohibit spreading false information that causes harm or is malicious, such as denying the existence of tragic events, unsubstantiated medical claims, undermining the integrity of civic processes, or manipulating content for false or misleading purposes (including through generative AI or deceptive editing).
-    
-*   We prohibit pretending to be someone (or something) that you’re not, or attempting to deceive people about who you are. This includes impersonating your friends, peers, celebrities, brands, or other individuals or organizations.
-    
-*   We prohibit fraud and deceptive practices, including scams, money laundering, and the promotion of fraudulent goods and services.
-    
-*   We prohibit spam, including unsolicited or artificially inflated content or engagement.
-    
-
-### 
-
-What you should expect
-
-Our Community Guidelines relating to Harmful False or Deceptive Practices cover distinct, but related, categories of harm: (1) harmful false information, (2) fraud, and 3) spam.
-
-_1\. Harmful False Information_
-
-Content that distorts facts can have harmful consequences for users and for society. We know it can sometimes be tough to know what’s accurate, particularly when it comes to fast-breaking current events, or complicated matters of science, health, and world affairs. For this reason, our policies focus not only on whether information is inaccurate or misleading, but also its potential for harm.
-
-There are several categories of information in which the misrepresentation of facts can pose unique dangers. Across these areas, our teams take action against content that is misleading or inaccurate, irrespective of whether the misrepresentations are intentional. In this way, our policies operate against all forms of information threats, including misinformation, disinformation, malinformation, and manipulated media.
-
-Examples of the information categories that we view as particularly vulnerable to harm include:
-
-*   **_Content that denies the existence of tragic events_****.** We prohibit content that disputes, for example, the Holocaust, or denies the events of the Sandy Hook school shooting in the U.S. Misrepresentations and unfounded theories regarding such tragedies may contribute to violence and hate, in addition to harming users whose lives and families have been impacted by such events.
-    
-*   **_Content that promotes unsubstantiated medical claims._** We prohibit content that, for example, recommends untested therapies for preventing the spread of COVID-19; that features unfounded theories about vaccines; or that promotes debunked, harmful practices such as so-called “conversion therapy.” While the field of medicine is ever-changing, and public health agencies may often revise guidance, such credible organizations are subject to standards and accountability and we may look to them to provide a benchmark for responsible health and medical guidance.
-    
-*   **_Content that undermines the integrity of civic processes._** Elections and other civic processes play an essential role in the functioning of rights-respecting societies, and also present unique targets for information manipulation. To safeguard the information environment around such events, we enforce our policies to apply to the following types of threats to civic processes:
-    
-*   _Procedural interference:_ misinformation related to actual election or civic procedures, such as misrepresenting important dates and times or eligibility requirements for participation.
-    
-*   _Participation interference:_ content that includes intimidation to personal safety or spreads rumors to deter participation in the electoral or civic process.
-    
-*   _Fraudulent or unlawful participation:_ content that encourages people to misrepresent themselves to participate in the civic process or to illegally cast or destroy ballots.
-    
-*   _Delegitimization of civic processes:_ content aiming to delegitimize democratic institutions on the basis of false or misleading claims about election results, for example.
-    
-
-  
-Our policies against harmful false information are complemented by extensive product design safeguards and advertising rules that limit virality, promote transparency, and elevate the role of authenticity across our platform. For more information on the ways our platform architecture supports these objectives, visit this [blog post](https://values.snap.com/news/how-we-prevent-the-spread-of-false-information-on-snapchat?lang=en-US).  
-  
-
-_2\. Fraud_
-
-Fraud can expose Snapchatters to financial harm, cybersecurity risks, and even legal risk. To help reduce these risks, we prohibit deceptive practices that undermine trust in our community.
-
-Prohibited practices include content that promotes scams of any kind; get-rich-quick schemes; unauthorized or undisclosed paid or sponsored content; multilevel marketing or pyramid schemes; and the promotion of fraudulent goods or services, including counterfeit goods or documents. We also prohibit money laundering (including money couriering or money muling) of any kind. This includes receiving and transferring money that's illegally obtained or from an unknown source on behalf of someone else, unauthorized and illegal money transmission or currency exchange services, and soliciting and promoting these activities.
-
-Finally, our policies prohibit pretending to be someone (or something) that you’re not, or attempting to deceive people about who you are. This includes impersonating your friends, peers, celebrities, brands, or other organizations. These rules also mean that it’s a violation to imitate Snapchat or Snap, Inc., branding.
-
-  
-
-_3\. Spam_
-
-Spam can be confusing and annoying to Snapchatters. We prohibit such practices, including artificially inflating engagement, such as pay-for-follower schemes or other follower-growth schemes; promoting spam applications; or mass, repetitive, or frequent posting or sharing.
-
-### 
-
-Takeaway
-
-Doing our part to promote a responsible information environment remains a priority across our company, and we will continue to explore innovative approaches to help protect Snapchatters from the risks of Harmful False or Deceptive Practices.
-
-As we continue these efforts, we are committed to providing transparent insights into the effectiveness of our approach. Through our transparency reports, we provide country-level information related to our enforcements against misinformation globally -- and we plan to provide more detailed breakdowns of these violations in future reports.
-
-We are committed to regularly calibrating the operation of our policies to improve our ability to address harmful content or behavior, and we are committed to working with diverse leaders from across the global safety community to help ensure we are advancing these objectives responsibly.
-
-Return to the Community Guidelines
-
-
---------------------------------------
-
-[Back to Community Guidelines](https://values.snap.com/privacy/transparency/community-guidelines)
+*   [Other Terms & Policies](https://www.snap.com/policies?utm_source=values_snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
+*   [Law enforcement](https://values.snap.com/safety/safety-enforcement?utm_source=values_snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link)
+*   [Cookie Policy](https://www.snap.com/cookie-policy?utm_source=values_snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
+*   [Cookie Settings](https://snap.com/cookie-settings?utm_source=values_snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
+*   [Report Infringement](https://help.snapchat.com/hc/articles/7012332110996?utm_source=values_snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
