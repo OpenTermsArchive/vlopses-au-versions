@@ -801,9 +801,7 @@ My account was disabled
 
 My Page was removed
 
-My Group was removed
-
-What happens to my account?
+What is intellectual property?
 
 I have a different question
 
@@ -1649,7 +1647,9 @@ Melde en krænkelse af ophavsret
 
 Hvad er ophavsret?
 
-Beskyt mit ophavsretligt værk
+Beskyt min ophavsret
+
+Rettighedsadministrator
 
 Jeg har et andet spørgsmål
 
@@ -2569,11 +2569,9 @@ Copy link
 
 Contact DMCA agent
 
-Send a copyright claim
+Report copyright infringement
 
-What is a DMCA report?
-
-How to contact by post?
+What is a DMCA claim?
 
 I have a different question
 
