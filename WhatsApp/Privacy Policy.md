@@ -86,7 +86,7 @@ We use information we have (subject to choices you make and applicable law) to o
 *   **Safety, Security, And Integrity**. Safety, security, and integrity are an integral part of our Services. We use information we have to verify accounts and activity; combat harmful conduct; protect users against bad experiences and spam; and promote safety, security, and integrity on and off our Services, such as by investigating suspicious activity or violations of our Terms and policies, and to ensure our Services are being used legally. Please see the [Law, Our Rights and Protection](#privacy-policy-law-our-rights-and-protection) section below for more information.
 *   **Communications About Our Services And** [**The Meta Companies**](https://faq.whatsapp.com/general/security-and-privacy/the-facebook-companies). We use information we have to communicate with you about our Services and let you know about our terms, policies, and other important updates. We may provide you marketing for our Services and those of the [Meta Companies](https://faq.whatsapp.com/general/security-and-privacy/the-facebook-companies).
 
-*   **No Third-Party Banner Ads**. We still do not allow third-party banner ads on our Services. We have no intention to introduce them, but if we ever do, we will update this Privacy Policy.
+*   **No Third-Party Banner Ads**. We still do not allow third-party banner ads on our Services. We have no intention to introduce them, but you may see other types of ads in Status and Channels.
 
 *   **Business Interactions**. We enable you and third parties, like businesses, to communicate and interact with each other using our Services, such as [Catalogs](https://faq.whatsapp.com/general/account-and-profile/about-catalog) for businesses on WhatsApp through which you can browse products and services and place orders. Businesses may send you transaction, appointment, and shipping notifications; product and service updates; and marketing. For example, you may receive flight status information for upcoming travel, a receipt for something you purchased, or a notification when a delivery will be made. Messages you receive from a business could include an offer for something that might interest you. We do not want you to have a spammy experience; as with all of your messages, you can manage these communications, and we will honor the choices you make.
 
@@ -145,10 +145,6 @@ We may amend or update our Privacy Policy. We will provide you notice of amendme
 
   
   
-
-### South Africa Protection of Personal Information Act
-
-You can learn more about your rights under the Protection of Personal Information Act 4 of 2013, including how to exercise these rights, [here](https://www.whatsapp.com/legal).
 
 ### 
 
@@ -380,7 +376,9 @@ When you use face and hand effects, we may process information from images of ot
 
 ### **WhatsApp Channels Supplemental Privacy Policy**
 
-Effective June 30, 2025
+Effective June 16, 2025
+
+For users who have agreed to the Supplemental Terms of Service for Status and Channels, then the [WhatsApp Status and Channels Supplemental Privacy Policy](http://www.whatsapp.com/legal/statusandchannels-privacy-policy) replaces this WhatsApp Channels Supplemental Privacy Policy, and covers your use of Status and Channels.
 
 This WhatsApp Channels Supplemental Privacy Policy helps explain our information practices when you use WhatsApp Channels (“Channels”). When we say “WhatsApp”, “our”, “we” or “us”, we are referring to WhatsApp LLC.
 
@@ -394,6 +392,8 @@ Channels is an optional, one-way broadcasting feature within WhatsApp, separate 
 
 Channels are public, meaning that anyone can discover, follow, and view your Channel. Given the public nature and unlimited audience size of Channels, Channel Content will be visible to any user and by WhatsApp. This also means that Channel Content is among the information WhatsApp collects and uses to promote safety, security and integrity on Channels, as further described in this Channels Privacy Policy, the [Supplemental Terms](https://www.whatsapp.com/legal/channels-terms-of-service/), and in the [WhatsApp Channels Guidelines](https://faq.whatsapp.com/245599461477281).
 
+Channel Subscriptions are channels that offer an option to subscribe for a fee to receive Channel Content available only to subscribers (“Channel Subscription Updates”). If you subscribe to a channel, the [Channel Subscriptions Terms of Service](http://www.whatsapp.com/legal/channels-subscription) will also apply.
+
 Importantly, your use of WhatsApp Channels does not impact the privacy of your WhatsApp personal messages, which continue to be end-to-end encrypted as described in the [WhatsApp Privacy Policy](https://www.whatsapp.com/legal?eea=0#privacy-policy).
 
 In the future, we may introduce additional Channels features, such as new ways to search for Channels and Channel Content, additional audience and privacy settings for Channels, and end-to-end encrypted Channels. If you are already using Channels when we update features and settings, we will inform you of such features as appropriate.
@@ -405,7 +405,7 @@ The [WhatsApp Privacy Policy](https://www.whatsapp.com/legal?eea=0#privacy-polic
 #### Information from and about Channel Admins
 
 *   **Information to Create a Channel**. To create a Channel, Admins must provide basic information, including a name for the Channel. Admins may also choose to add other information, such as a unique Channel Admin name, icon, picture, description or links to third party sites.
-*   **Channel Updates**. Channels are public, so we collect Channel Content that Admins create or share, such as text, videos, photos, images, documents, links, gifs, stickers, audio content, or other types of content in their Channel updates for others to view.
+*   **Channel Updates**. Channels are public, so we collect Channel Content and Channel Subscription Updates that Admins create or share, such as text, videos, photos, images, documents, links, gifs, stickers, audio content, or other types of content in their Channel for others to view.
 
 #### Viewer and Follower Information
 
@@ -413,8 +413,14 @@ The [WhatsApp Privacy Policy](https://www.whatsapp.com/legal?eea=0#privacy-polic
 
 #### Information about All Channels Users
 
-*   **Usage And Log Information**. We collect information about your activity on Channels, like service-related, diagnostic, and performance information. When you use Channels, we also collect information about your activity on and use of Channels, including the types of content you view and how you interact with it; metadata about Channels, Channel Content, and reactions by Followers, and Viewers; the Channels features you use and how you use them, and time, frequency, and duration of your activities on Channels.
-*   **User Reports**. Users or third-parties can report to us your Channel, or specific Channel Content - for example, to report possible violations of our terms or policies or local law. When a report is made, we collect information about the reporting party and reported user(s) (e.g., Channel Admin), and other information that may help us in investigating the report, such as associated Channels or Channel Content, user interactions and activity on Channels, and other information, such as the number of Followers who have muted a Channel, and other user reports or enforcement actions. To find out more, see our [WhatsApp Channels Guidelines](https://faq.whatsapp.com/245599461477281) and [Advanced Safety and Security Features](https://faq.whatsapp.com/1313491802751163/).
+*   **Usage And Log Information**. We collect information about your activity on Channels, like service-related, diagnostic, and performance information. When you use Channels, we also collect information about your activity on and use of Channels, including the types of content you view and subscribe to, and how you interact with it; metadata about Channels, Channel Content, Channel Subscription Updates; and reactions by Followers, subscribers and Viewers; the Channels features you use and how you use them, and time, frequency, and duration of your activities on Channels.
+*   **User Reports**. Users or third-parties can report to us your Channel, or specific Channel Content or Channel Subscription Updates - for example, to report possible violations of our terms or policies or local law. When a report is made, we collect information about the reporting party and reported user(s) (e.g., Channel Admin), and other information that may help us in investigating the report, such as associated Channels or Channel Content, user interactions and activity on Channels, and other information, such as the number of Followers who have muted a Channel, and other user reports or enforcement actions. To find out more, see our [WhatsApp Channels Guidelines](https://faq.whatsapp.com/245599461477281) and [Advanced Safety and Security Features](https://faq.whatsapp.com/1313491802751163/).
+
+Channel Subscriptions Information
+
+*   **Admin Information for Subscriptions.** For Channel Subscriptions, we additionally collect information when Admins set up and manage their channel subscription, such as subscription pricing, billing and renewal periods, cancellations and terminations, or payout methods.
+*   **Subscriber Information.** If you choose to subscribe to a channel, we collect information such as the channels you subscribe to, the start date and renewal terms.
+*   **Subscription Payment Information.** If you subscribe to a channel, we also collect information such as your payment method and transaction amount. We work with multiple third-party payment providers such as Apple App Store or Google Play, who will provide us with information about your transaction, to process your payment and manage your subscriptions.
 
 #### **How We Use Information**
 
@@ -424,21 +430,29 @@ We use the information we collect in the following additional ways:
 *   **Understand Usage of Channels**. We use the information to measure and analyze the effectiveness, performance, reliability and efficiency of Channels, to understand how people use and interact with Channels, and to determine how we can develop and improve our Services.
 *   **For Safety, Security, And Integrity**. We use information we have (including Channel Content and your activity in Channels) to ensure safety, security and integrity on our Services, including to combat harmful conduct; protect users against bad or harmful experiences, detect and investigate suspicious activity or violations of our terms and policies, including our [WhatsApp Channels Guidelines](https://faq.whatsapp.com/245599461477281), and to ensure our Services, including Channels, are being used lawfully.
 
+#### **How We Use Information for Channel Subscriptions**
+
+If you use Channel Subscriptions, either as an Admin or a subscriber, then we also use the information we have to provide and manage Channel Subscriptions, including starting, renewing and terminating subscriptions; managing payments and payouts; and making Channel Subscription Updates available to subscribers.
+
 #### **How information is shared**
 
 Channels information is shared in the following ways:
 
-*   **Public Information**. Remember that Channel Content, and information Admins share on Channels is public and available to others, subject to any audience or privacy settings. You should keep in mind that anybody can capture screenshots or make recordings of Channel Content and interactions on Channels and send them to WhatsApp or anyone else, or share, export or upload them off our Services.
+*   **Public Information**. Remember that Channel Content, Channel Subscription Updates and information Admins share on Channels is public and available to others, subject to any audience, subscription or privacy settings. You should keep in mind that anybody can capture screenshots or make recordings of Channel Content and interactions on Channels and send them to WhatsApp or anyone else, or share, export or upload them off our Services.
 *   **Third-Party Service Providers and Meta Companies**. We work with third-party service providers and other [Meta Companies](https://faq.whatsapp.com/general/security-and-privacy/the-facebook-companies) to help us operate, provide, improve, understand and support Channels. We also work with [Meta Companies](https://faq.whatsapp.com/general/security-and-privacy/the-facebook-companies) to help us promote the safety, security, and integrity on Channels and our Services, including use of detection and measurement tools that leverage a combination of classifiers, content and behavioral signals, human review, and user reports—to proactively and reactively detect potentially violating content or use of Channels. When we share information with third-party service providers and other [Meta Companies](https://faq.whatsapp.com/general/security-and-privacy/the-facebook-companies) in this capacity, we require them to use your information on our behalf in accordance with our instructions and terms.
 
 *   **Accounts Center.** If you have added your WhatsApp account to Accounts Center, see [here](https://www.meta.com/help/accounts-center/Information-used-across-accounts-wa/) to learn more about how your information will be shared.
+
+Subscriptions-related information is shared as follows:
+
+*   Payment providers. We work with Third Party Payment Providers including Google Play Store and Apple App Store to process payments and transactions such as when you subscribe to a channel. We share information with these third-party payment providers such as authentication and transaction information. Please note that when you use third-party platform payment provider services, their own terms and privacy policies will govern your use of those services.
 
 #### **Managing And Retaining Your Information**
 
 You can [access](https://faq.whatsapp.com/6480469855345352/?cms_platform=web), [manage](https://faq.whatsapp.com/214063281402212/?cms_platform=web) or [port](https://faq.whatsapp.com/6480469855345352/?cms_platform=web) your Channels information using our in-app settings set out in the [WhatsApp Privacy Policy](https://www.whatsapp.com/legal/privacy-policy).
 
-*   **Retaining your public Channel Content and Channel information**. In the ordinary course of providing Channels, we store Channel Content on our servers for up to 30 days, subject to safety, security and integrity purposes or other legal or compliance obligations that may require longer retention. Channel Content may remain on Viewers’ or Followers’ devices for a longer period, though we may provide options for Channel Content to disappear faster, for example after 7 days or 24 hours should Admins choose. We store other Channels information for as long as necessary for the purposes identified in this Channels Privacy Policy, and the WhatsApp Privacy Policy, including to provide Channels or for other legitimate purposes, such as complying with legal obligations, enforcing and preventing violations of our terms and policies, or protecting or defending our rights, property, and users. The storage periods are determined on a case-by-case basis that depends on factors like the nature of the information, why it is collected and processed, relevant legal or operational retention needs, and legal obligations.
-*   **Deleting your Channel**. If you are an Admin, [deleting your Channel](https://faq.whatsapp.com/598838008878228) removes the channel and Channel Content from the Tab in your app at which point it is no longer accessible to other users through Channels. It may take up to 90 days to delete your Channels information on our servers. We may also retain some of your information as needed for things like compliance with legal obligations, violations of our terms and policies, or harm prevention efforts. Please remember that when you delete your channel, it does not affect the information and content that other users may continue to have, such as a copy of the Channel Content saved locally on their device or that have been forwarded to other users or shared off our Services.
+*   **Retaining your public Channel Content, Channel Subscription Updates, Channel information and Channel Subscription information**. In the ordinary course of providing Channels, we store Channel Content and Channel Subscription Updates on our servers for up to 30 days, subject to safety, security and integrity purposes or other legal or compliance obligations that may require longer retention. Channel Content and Channel Subscription Updates may remain on Viewers’, Followers’ or subscribers’ devices for a longer period, though we may provide options for updates to disappear faster, for example after 7 days or 24 hours should Admins choose. We store other Channels information and Channel Subscription Information for as long as necessary for the purposes identified in this Channels Privacy Policy and the [WhatsApp Privacy Policy](https://www.whatsapp.com/legal?eea=0#privacy-policy), including to provide Channels or for other legitimate purposes, such as complying with legal obligations, enforcing and preventing violations of our terms and policies, or protecting or defending our rights, property, and users. The storage periods are determined on a case-by-case basis that depends on factors like the nature of the information, why it is collected and processed, relevant legal or operational retention needs, and legal obligations.
+*   **Deleting your Channel**. If you are an Admin, [deleting your Channel](https://faq.whatsapp.com/598838008878228) removes the channel and Channel Content from the Updates Tab in your app at which point it is no longer accessible to other users through Channels. It may take up to 90 days to delete your Channels information and Channel Subscription information on our servers. We may also retain some of your information as needed for things like compliance with legal obligations, violations of our terms and policies, or harm prevention efforts. Please remember that when you delete your channel, it does not affect the information and content that other users may continue to have, such as a copy of the Channel Content saved locally on their device or that have been forwarded to other users or shared off our Services.
 *   **Removing Channel Content**. Channel Admins can remove Channel Content up to 30 days after posting.
 
 You can learn more [here](https://faq.whatsapp.com/android/account-and-profile/how-to-delete-your-account/) about our data deletion and retention practices and about how to delete your account.
@@ -668,7 +682,7 @@ We use information we have (subject to choices you make and applicable law) to o
 *   **Safety, Security, And Integrity**. Safety, security, and integrity are an integral part of our Services. We use information we have to verify accounts and activity; combat harmful conduct; protect users against bad experiences and spam; and promote safety, security, and integrity on and off our Services, such as by investigating suspicious activity or violations of our Terms and policies, and to ensure our Services are being used legally. Please see the [Law, Our Rights and Protection](#privacy-policy-law-our-rights-and-protection) section below for more information.
 *   **Communications About Our Services And** [**The Meta Companies**](https://faq.whatsapp.com/general/security-and-privacy/the-facebook-companies). We use information we have to communicate with you about our Services and let you know about our terms, policies, and other important updates. We may provide you marketing for our Services and those of the [Meta Companies](https://faq.whatsapp.com/general/security-and-privacy/the-facebook-companies).
 
-*   **No Third-Party Banner Ads**. We still do not allow third-party banner ads on our Services. We have no intention to introduce them, but if we ever do, we will update this Privacy Policy.
+*   **No Third-Party Banner Ads**. We still do not allow third-party banner ads on our Services. We have no intention to introduce them, but you may see other types of ads in Status and Channels.
 
 *   **Business Interactions**. We enable you and third parties, like businesses, to communicate and interact with each other using our Services, such as [Catalogs](https://faq.whatsapp.com/general/account-and-profile/about-catalog) for businesses on WhatsApp through which you can browse products and services and place orders. Businesses may send you transaction, appointment, and shipping notifications; product and service updates; and marketing. For example, you may receive flight status information for upcoming travel, a receipt for something you purchased, or a notification when a delivery will be made. Messages you receive from a business could include an offer for something that might interest you. We do not want you to have a spammy experience; as with all of your messages, you can manage these communications, and we will honor the choices you make.
 
@@ -727,10 +741,6 @@ We may amend or update our Privacy Policy. We will provide you notice of amendme
 
   
   
-
-### South Africa Protection of Personal Information Act
-
-You can learn more about your rights under the Protection of Personal Information Act 4 of 2013, including how to exercise these rights, [here](https://www.whatsapp.com/legal).
 
 ### 
 
