@@ -64,7 +64,7 @@ VII. After placing all the return items in one package, please print and tape th
 
 VIII. You can check the refund status of your items on your order details page or through Temu's SMS/Email/Push notifications.
 
-![](https://mktimg.kwcdn.com/fancy-image-combine/0cbd3d/6BqFiOBNj1/c1f00c70755e4a3caefaafe4ace6e4f0.png?imageView2/q/70/format/avif)
+![](https://mktimg.kwcdn.com/fancy-image-combine/0cbd3d/6BqFiOBNj1/38bbb41888634575b203c49a994cac9b.png?imageView2/q/70/format/avif)
 
 Start return
 
@@ -146,7 +146,7 @@ For more information about Temu credits, please visit: About credit balance.
 
 Once the refund is processed, your financial institution will need additional time to have it reflected in your account. Refer to the following table for more details.
 
-![](https://mktimg.kwcdn.com/fancy-image-combine/0cbd3d/EV_1YuIo3S/3435fdd8f6324807a372c47f8d1e7d14.png?imageView2/q/70/format/avif)
+![](https://mktimg.kwcdn.com/fancy-image-combine/0cbd3d/EV_1YuIo3S/43c11c851ce24ced9ebc593cd6a01121.png?imageView2/q/70/format/avif)
 
 7\. Important Notice
 
