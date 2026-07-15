@@ -14,15 +14,15 @@ Intellectual property
 
 Copy link
 
-Denunciar violação de direitos autorais
+What is copyright?
 
-Denunciar violação de marca registada
+What is a trademark?
 
-O que é propriedade intelectual?
+Report a copyright violation
 
-O que é uma marca registada?
+Report a trademark violation
 
-Tenho uma pergunta diferente
+I have a different question
 
 Facebook is committed to helping people and organisations protect their intellectual property rights. The Facebook [Terms of Service](https://www.facebook.com/legal/terms) do not allow posting content that violates someone else's intellectual property rights, including copyright and trademark.
 
@@ -552,9 +552,9 @@ Related articles
 
 [How long does trademark protection last?](https://www.facebook.com/help/1823502941230538/?helpref=related_articles)
 
-[What are trademarks and what they protect](https://www.facebook.com/help/1378807958858854/?helpref=related_articles)
-
 [Does a trademark need to be registered to be protected?](https://www.facebook.com/help/1430594943641002/?helpref=related_articles)
+
+[What are trademarks and what they protect](https://www.facebook.com/help/1378807958858854/?helpref=related_articles)
 
 [Trademark](https://www.facebook.com/help/507663689427413/?helpref=related_articles)
 
@@ -568,13 +568,13 @@ Related articles
 
 * * *](https://www.facebook.com/help/1823502941230538/?helpref=related_articles)
 
-[What are trademarks and what they protect
-
-* * *](https://www.facebook.com/help/1378807958858854/?helpref=related_articles)
-
 [Does a trademark need to be registered to be protected?
 
 * * *](https://www.facebook.com/help/1430594943641002/?helpref=related_articles)
+
+[What are trademarks and what they protect
+
+* * *](https://www.facebook.com/help/1378807958858854/?helpref=related_articles)
 
 [Trademark](https://www.facebook.com/help/507663689427413/?helpref=related_articles)
 
@@ -2096,9 +2096,7 @@ What is fair use?
 
 What are copyright exceptions?
 
-How is fair use determined?
-
-What is copyright infringement?
+What is the fair use doctrine?
 
 I have a different question
 
@@ -2571,11 +2569,9 @@ Copy link
 
 Contact DMCA agent
 
-Send a copyright claim
+Report copyright infringement
 
-What is a DMCA report?
-
-How to contact by post?
+What is a DMCA claim?
 
 I have a different question
 
