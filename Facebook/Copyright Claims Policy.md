@@ -2000,13 +2000,13 @@ How can I make sure that the content I post to Facebook doesn't violate copyrigh
 
 Copy link
 
-My content was removed
+My post was removed
 
 What is fair use?
 
-What is public domain?
-
 How do I get permission?
+
+What is public domain?
 
 I have a different question
 
