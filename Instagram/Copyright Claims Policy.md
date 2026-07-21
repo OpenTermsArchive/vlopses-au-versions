@@ -172,16 +172,6 @@ What is copyright and what does it protect?
 
 Copy link
 
-What does copyright protect?
-
-What is not protected by copyright?
-
-My content was copyrighted
-
-What is intellectual property?
-
-I have a different question
-
 In most countries, copyright is a legal right that protects original works of authorship. Typically, if you create an original work, you have a copyright from the moment you create it.
 
 Copyright covers a wide variety of types of works, including:
@@ -235,6 +225,14 @@ What rights do I have as a copyright owner?
 ===========================================
 
 Copy link
+
+Stop others from copying
+
+Grant permission to use
+
+What is copyright infringement?
+
+I have a different question
 
 As a copyright owner, you have certain rights under the law. These include the right to stop others from copying or distributing your work, or from creating new works based on your work. Copyright infringement generally occurs when a person engages in one of these activities without the copyright owner’s permission.
 
@@ -511,16 +509,6 @@ Report copyright infringement on Instagram or Threads
 
 Copy link
 
-Report copyright infringement
-
-Fill out copyright form
-
-Use Brand Rights Protection
-
-Contact DMCA agent
-
-I have a different question
-
 If you believe content on Instagram or Threads is infringing your copyright, you can take one or more of the following actions:
 
 *   You can report copyright infringement by [filling out this form](https://www.instagram.com/help/ipreporting/report/copyright/).
@@ -545,6 +533,16 @@ What to consider before submitting an intellectual property infringement report 
 =======================================================================================================
 
 Copy link
+
+What is permissible use?
+
+What is copyright infringement?
+
+What is trademark infringement?
+
+Legal consequences of false report?
+
+I have a different question
 
 **Consider your copyright and trademark permissions**
 -----------------------------------------------------
@@ -593,14 +591,6 @@ How to contact Threads or Instagram's Digital Millennium Copyright Act (DMCA) de
 ==============================================================================================
 
 Copy link
-
-Contact DMCA agent
-
-DMCA online form
-
-DMCA agent mailing address
-
-I have a different question
 
 The fastest and easiest way to send a DMCA report of copyright infringement to our designated agent is to fill out our [online form](https://help.instagram.com/contact/372592039493026).
 
@@ -704,6 +694,14 @@ What happens when you submit a copyright report to Instagram or Threads
 
 Copy link
 
+What happens after I report?
+
+What info is shared?
+
+I need to provide more info
+
+I have a different question
+
 If you submitted a copyright report to us through our [online form](https://help.instagram.com/contact/372592039493026) or via email, you'll receive an automated email that contains information about your report, including a unique report number. You should save this number in case you need to contact us about your report.
 
 Sometimes, we might respond to your report and ask for more information. If you receive a message from our team asking for more information about your report, you should respond directly to that message. Your response will be received by our team so they can continue to look into your report.
@@ -732,6 +730,14 @@ Retract an intellectual property report that you've submitted to Instagram or Th
 
 Copy link
 
+Withdraw my IP report
+
+Cancel my copyright report
+
+Withdraw trademark report
+
+I have a different question
+
 If you submitted an intellectual property report, but then reached an agreement with the person who posted the content, or if you reported content by mistake, you can withdraw your intellectual property report.
 
 The best way to do that is to complete the Retraction Form provided to you in the email with reference to your report. Alternatively, you can submit [this form](https://help.instagram.com/contact/3373960976225657).
@@ -751,6 +757,16 @@ More about trademarks and what they protect
 ===========================================
 
 Copy link
+
+What is a trademark?
+
+What do trademarks protect?
+
+Can I use a trademark?
+
+How do I report a trademark?
+
+I have a different question
 
 A trademark is a word, slogan, symbol or design (for example, a brand name or logo) that a person or company uses to distinguish their products or services from those offered by others. A trademark is protectable when it’s used in a distinctive way to identify a product or service. Whether you know it or not, you see trademarks all day long, whether in stores shopping, watching commercials on TV and so on.
 
@@ -870,6 +886,14 @@ What is a counterfeit?
 ======================
 
 Copy link
+
+Report counterfeit goods
+
+What is a knockoff?
+
+What is trademark infringement?
+
+I have a different question
 
 A counterfeit good is a knockoff or replica version of another company’s product. It usually copies the trademark (name or logo) and/or distinctive features of that other company’s product to imitate a genuine product. The manufacture, promotion or sale of a counterfeit good is a type of trademark infringement that is illegal in most countries, and is recognized as being harmful to consumers, trademark owners and honest sellers. Please note that counterfeit goods may be unlawful even if the seller explicitly says that the goods are counterfeit, or otherwise disclaims authenticity of the goods.
 
@@ -1010,14 +1034,6 @@ How to report trademark infringement on Instagram or Threads
 
 Copy link
 
-Report trademark infringement
-
-Use Brand Rights Protection
-
-What is trademark infringement?
-
-I have a different question
-
 Instagram and Threads can’t adjudicate disputes between third parties, and so we wouldn’t be in a position to act on trademark reports that require an in-depth trademark analysis or a real-world dispute outside of Instagram or Threads. In these situations, rather than contacting Instagram or Threads, you may want to reach out directly to the party that you believe is infringing your rights, or seek any resolution in court or by other judicial means.
 
 You can report copyright infringement [by filling out this form](https://www.instagram.com/help/ipreporting/report/trademark/) or by using the [Brand Rights Protection tool](https://www.facebook.com/business/help/828925381043253?helpref=faq_content), which enables a rights holder to identify and report violating content for trademark, copyright, and counterfeit.
@@ -1107,6 +1123,16 @@ What to consider before submitting an intellectual property infringement report 
 =======================================================================================================
 
 Copy link
+
+What is permissible use?
+
+What is copyright infringement?
+
+What is trademark infringement?
+
+Legal consequences of false report?
+
+I have a different question
 
 **Consider your copyright and trademark permissions**
 -----------------------------------------------------
@@ -1216,14 +1242,6 @@ Information you need to include in a trademark report on Instagram or Threads
 
 Copy link
 
-What info to include?
-
-My trademark report was rejected
-
-Where do I find a URL?
-
-I have a different question
-
 The fastest and easiest way to submit a [report of trademark infringement](https://help.instagram.com/1921828231475726?helpref=faq_content) to us is to use our online form. Whether you submit your report through our online form or another method, Instagram and Threads needs the following information to be able to process your report:
 
 *   Your complete contact information (full name, mailing address, and phone number)\*.
@@ -1288,6 +1306,14 @@ Retract an intellectual property report that you've submitted to Instagram or Th
 =====================================================================================
 
 Copy link
+
+Withdraw my IP report
+
+Cancel my copyright report
+
+Withdraw trademark report
+
+I have a different question
 
 If you submitted an intellectual property report, but then reached an agreement with the person who posted the content, or if you reported content by mistake, you can withdraw your intellectual property report.
 
