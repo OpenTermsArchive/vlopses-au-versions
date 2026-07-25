@@ -1730,11 +1730,11 @@ What is copyright and what does it protect?
 
 Copy link
 
+What is copyright?
+
 What does copyright protect?
 
-What is not protected?
-
-What is an original work?
+What is not protected by copyright?
 
 I have a different question
 
@@ -2088,7 +2088,7 @@ What is fair use?
 
 What are copyright exceptions?
 
-What is fair use in the US?
+What is parody fair use?
 
 I have a different question
 
@@ -2176,7 +2176,7 @@ Unintentional actions can still violate copyright on Facebook
 
 Copy link
 
-Can I violate copyright unintentionally?
+Can I use copyrighted work?
 
 What is fair use?
 
