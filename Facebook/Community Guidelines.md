@@ -309,37 +309,37 @@ CHANGE LOG
 
 Today
 
-Mar 20, 2026
+Mar 19, 2026
 
-Feb 9, 2024
+Feb 8, 2024
 
-Dec 30, 2023
+Dec 29, 2023
 
-Aug 30, 2023
+Aug 29, 2023
 
-Apr 28, 2023
+Apr 27, 2023
 
-Dec 24, 2021
+Dec 23, 2021
 
-Nov 25, 2021
+Nov 24, 2021
 
-Oct 16, 2021
+Oct 15, 2021
 
-Aug 27, 2021
+Aug 26, 2021
 
-Jun 24, 2021
+Jun 23, 2021
 
-Oct 23, 2020
+Oct 22, 2020
 
-Aug 28, 2020
+Aug 27, 2020
 
-Feb 28, 2020
+Feb 27, 2020
 
-Oct 11, 2019
+Oct 10, 2019
 
-Sep 28, 2019
+Sep 27, 2019
 
-Dec 29, 2018
+Dec 28, 2018
 
 Policy Rationale
 
@@ -1660,39 +1660,39 @@ CHANGE LOG
 
 Today
 
-Feb 27, 2026
+Feb 26, 2026
 
-May 15, 2025
+May 14, 2025
 
-Oct 3, 2024
+Oct 2, 2024
 
-Jul 26, 2024
+Jul 25, 2024
 
-Jul 3, 2024
+Jul 2, 2024
 
-May 2, 2024
+May 1, 2024
 
-Dec 30, 2023
+Dec 29, 2023
 
-Apr 29, 2022
+Apr 28, 2022
 
-Oct 1, 2021
+Sep 30, 2021
 
-May 5, 2020
+May 4, 2020
 
-Dec 18, 2020
+Dec 17, 2020
 
-Nov 19, 2020
+Nov 18, 2020
 
-Jul 31, 2020
+Jul 30, 2020
 
-Jul 2, 2019
+Jul 1, 2019
 
-Apr 27, 2019
+Apr 26, 2019
 
-Mar 21, 2019
+Mar 20, 2019
 
-Sep 1, 2018
+Aug 31, 2018
 
 Policy Rationale
 
@@ -3569,9 +3569,9 @@ CHANGE LOG
 
 Today
 
-Oct 10, 2024
+Oct 9, 2024
 
-Aug 1, 2024
+Jul 31, 2024
 
 Policy Rationale
 
@@ -3845,27 +3845,27 @@ CHANGE LOG
 
 Today
 
-Apr 8, 2025
+Apr 7, 2025
 
-Mar 14, 2025
+Mar 13, 2025
 
-Jan 8, 2025
+Jan 7, 2025
 
-Jul 19, 2024
+Jul 18, 2024
 
-Jul 10, 2024
+Jul 9, 2024
 
-Jun 11, 2024
+Jun 10, 2024
 
-May 21, 2024
+May 20, 2024
 
-Feb 7, 2024
+Feb 6, 2024
 
-Dec 6, 2023
+Dec 5, 2023
 
-Sep 30, 2023
+Sep 29, 2023
 
-Jul 15, 2023
+Jul 14, 2023
 
 Policy Rationale
 
@@ -3975,21 +3975,21 @@ CHANGE LOG
 
 Today
 
-Oct 10, 2024
+Oct 9, 2024
 
-Aug 1, 2024
+Jul 31, 2024
 
-Nov 24, 2022
+Nov 23, 2022
 
-Nov 19, 2020
+Nov 18, 2020
 
-Jan 31, 2020
+Jan 30, 2020
 
-Dec 17, 2019
+Dec 16, 2019
 
-Dec 1, 2019
+Nov 30, 2019
 
-Apr 27, 2019
+Apr 26, 2019
 
 Policy Rationale
 
@@ -4198,9 +4198,9 @@ CHANGE LOG
 
 Today
 
-Mar 1, 2024
+Feb 29, 2024
 
-Nov 20, 2020
+Nov 19, 2020
 
 We comply with:
 
