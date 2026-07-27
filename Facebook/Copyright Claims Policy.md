@@ -397,11 +397,11 @@ How long does trademark protection last?
 
 Copy link
 
-How long do trademark rights last?
+Lose trademark rights
 
-How to renew trademark rights?
+Renew trademark registration
 
-What happens if I stop using a trademark?
+Trademark rights in EU
 
 I have a different question
 
@@ -724,13 +724,11 @@ Content I posted on Facebook was removed because it was reported for intellectua
 
 Copy link
 
-Apelar remoção de conteúdo
+Appeal content removal
 
-Conteúdo removido por engano
+Appeal trademark report
 
-O que é violação de IP?
-
-Como apelo uma remoção?
+I received a notification
 
 I have a different question
 
@@ -960,9 +958,9 @@ Copy link
 
 Report an infringement
 
-What is intellectual property?
-
 Report copyright infringement
+
+Report trademark infringement
 
 I have a different question
 
@@ -1231,9 +1229,9 @@ Copy link
 
 What happens after I report?
 
-What information is shared?
+What info is shared?
 
-Can I contact the person?
+I need to update my report
 
 I have a different question
 
@@ -1306,6 +1304,8 @@ Report an ad
 Report copyright infringement
 
 Report trademark infringement
+
+I can't report an ad
 
 I have a different question
 
@@ -1441,9 +1441,11 @@ Copy link
 
 Withdraw my IP report
 
-Cancel a copyright report
+Cancel my copyright report
 
-Retract a trademark report
+I reported content by mistake
+
+How to restore content?
 
 I have a different question
 
@@ -1720,11 +1722,11 @@ What is copyright and what does it protect?
 
 Copy link
 
+What is copyright?
+
 What does copyright protect?
 
-What is not protected?
-
-What is original work?
+What is not protected by copyright?
 
 I have a different question
 
@@ -1794,9 +1796,9 @@ Copy link
 
 Who owns copyright?
 
-I created an original work
+I created a painting
 
-Employer owns my work
+I took a photo
 
 I have a different question
 
@@ -1860,11 +1862,11 @@ What rights do I have as a copyright owner?
 
 Copy link
 
-Stop others copying my work
+What are my copyright rights?
 
-What is copyright infringement?
+Stop others from copying
 
-Grant permission to use my work
+Prevent unauthorized use
 
 I have a different question
 
@@ -2074,7 +2076,7 @@ What is fair use?
 
 What are copyright exceptions?
 
-What is parody?
+What is copyright infringement?
 
 I have a different question
 
@@ -2241,9 +2243,7 @@ My video was removed
 
 Why was my video removed?
 
-My video was removed for copyright
-
-I didn't get a removal email
+My video had copyrighted content
 
 I have a different question
 
@@ -2404,11 +2404,11 @@ How does Meta process United States Digital Millennium Copyright Act (DMCA) coun
 
 Copy link
 
-My content was removed
+File a DMCA counter-notification
 
-What is a counter-notification?
+What happens after I file?
 
-How long does restoration take?
+My content wasn't restored
 
 I have a different question
 
@@ -2476,7 +2476,7 @@ Report copyright infringement
 
 Contact designated agent
 
-My copyright was infringed
+Message content poster
 
 I have a different question
 
@@ -2760,9 +2760,9 @@ Copy link
 
 What happens after I report?
 
-What information is shared?
+Will I get a report number?
 
-I need to update my report
+Why did Meta ask for more info?
 
 I have a different question
 
@@ -2830,13 +2830,11 @@ Tools Facebook provides to help protect your intellectual property
 
 Copy link
 
-Protect my intellectual property
+Apply for Rights Manager
 
 What is Rights Manager?
 
 What is content protection?
-
-I can't apply for tools
 
 I have a different question
 
