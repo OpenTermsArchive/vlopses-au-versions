@@ -130,7 +130,9 @@ What is a trademark?
 
 What do trademarks protect?
 
-Can I use a trademark?
+My brand name is similar
+
+How do trademarks work?
 
 I have a different question
 
@@ -198,7 +200,7 @@ What is trademark dilution?
 
 What is likelihood of confusion?
 
-What is a protected trademark?
+What are limits to trademark rights?
 
 I have a different question
 
@@ -275,7 +277,7 @@ Trademark rights without registration
 
 What is a common law right?
 
-Register a business name
+What is a business registration?
 
 I have a different question
 
@@ -339,7 +341,9 @@ What is a trademark registration?
 
 What is a business registration?
 
-Where do I register a trademark?
+Register a trademark in the U.S.
+
+Register a trademark in the EU
 
 I have a different question
 
@@ -397,11 +401,13 @@ How long does trademark protection last?
 
 Copy link
 
-Lose trademark rights
+How long do trademark rights last?
 
-Renew trademark registration
+How to renew trademark rights?
 
-Trademark rights in EU
+What happens if I stop using a trademark?
+
+How to lose trademark rights?
 
 I have a different question
 
@@ -527,8 +533,6 @@ What is nominative fair use?
 
 Are there geographic limits?
 
-What is consumer confusion?
-
 I have a different question
 
 Not all uses of a trademark without permission from the rights owner are necessarily an infringement of that trademark. The use of a trademark is only infringing if it’s likely to confuse people regarding the source, endorsement or affiliation of products or services. So, if a trademark is used in a way that is unlikely to cause consumer confusion, that use is generally not considered infringing.
@@ -597,7 +601,9 @@ What is copyright?
 
 What is trademark?
 
-Copyright vs trademark
+Copyright infringement
+
+Trademark infringement
 
 I have a different question
 
@@ -657,11 +663,13 @@ How can I make sure the content I post to Facebook doesn’t violate trademark l
 
 Copy link
 
+My content violates trademark
+
 What is trademark infringement?
 
-What content violates trademark law?
-
 How to avoid trademark issues?
+
+Seek legal advice
 
 I have a different question
 
@@ -728,7 +736,7 @@ Appeal content removal
 
 Appeal trademark report
 
-I received a notification
+Contact rights owner
 
 I have a different question
 
@@ -888,11 +896,9 @@ Copy link
 
 Report trademark infringement
 
+What is trademark infringement?
+
 I can't report infringement
-
-What happens after I report?
-
-My trademark was infringed
 
 I have a different question
 
@@ -957,6 +963,8 @@ Can I report an infringement of someone else’s intellectual property on Facebo
 Copy link
 
 Report an infringement
+
+What is intellectual property?
 
 Report copyright infringement
 
@@ -1148,9 +1156,11 @@ Copy link
 
 What to include in report?
 
-Where do I submit report?
+My contact information
 
 What is a trademark?
+
+How to find a URL?
 
 I have a different question
 
@@ -1231,7 +1241,7 @@ What happens after I report?
 
 What info is shared?
 
-I need to update my report
+I need to respond to Meta
 
 I have a different question
 
@@ -1301,11 +1311,9 @@ Copy link
 
 Report an ad
 
-Report copyright infringement
+Report ad copyright
 
-Report trademark infringement
-
-I can't report an ad
+Report ad trademark
 
 I have a different question
 
@@ -1445,8 +1453,6 @@ Cancel my copyright report
 
 I reported content by mistake
 
-How to restore content?
-
 I have a different question
 
 If you submitted an intellectual property report, but then reached an agreement with the person who posted the content, or if you reported content by mistake, you can withdraw your intellectual property report.
@@ -1507,9 +1513,9 @@ Copy link
 
 What info is sent?
 
-Who sees my email?
+My content was removed
 
-Can they contact me?
+Can I appeal a removal?
 
 I have a different question
 
@@ -1577,7 +1583,7 @@ Copy link
 
 Report intellectual property infringement
 
-Brand Rights Protection eligibility
+What is Brand Rights Protection?
 
 Apply for Brand Rights Protection
 
@@ -1722,11 +1728,11 @@ What is copyright and what does it protect?
 
 Copy link
 
-What is copyright?
-
 What does copyright protect?
 
-What is not protected by copyright?
+What is not protected?
+
+What is fair use?
 
 I have a different question
 
@@ -1794,11 +1800,11 @@ How do you know if you own the copyright in a work
 
 Copy link
 
-Who owns copyright?
+Who owns my original work?
 
-I created a painting
+What is an original work?
 
-I took a photo
+Who owns copyright at work?
 
 I have a different question
 
@@ -1862,11 +1868,13 @@ What rights do I have as a copyright owner?
 
 Copy link
 
-What are my copyright rights?
+What are my rights?
 
-Stop others from copying
+What is copyright infringement?
 
-Prevent unauthorized use
+Can I grant permission?
+
+Can I prevent others from using?
 
 I have a different question
 
@@ -1928,9 +1936,9 @@ Copy link
 
 What is public domain?
 
-When does copyright expire?
-
 How long does copyright last?
+
+When does copyright expire?
 
 I have a different question
 
@@ -1990,11 +1998,11 @@ How can I make sure the content I post to Facebook doesn't violate copyright law
 
 Copy link
 
-What is copyright infringement?
-
-Can I use content I bought?
+My content was removed
 
 What is fair use?
+
+What is public domain?
 
 I have a different question
 
@@ -2164,11 +2172,11 @@ Unintentional actions can still violate copyright on Facebook
 
 Copy link
 
-Can I violate copyright unintentionally?
+What is copyright infringement?
+
+Can I use copyrighted content?
 
 What is fair use?
-
-What is copyright infringement?
 
 I have a different question
 
@@ -2331,11 +2339,13 @@ Facebook Lite App Help
 
 More
 
-Appeal content removal
+Appeal removed content
 
 Contact rights owner
 
-My content was removed
+My content was removed by mistake
+
+What is DMCA counter-notification?
 
 I have a different question
 
@@ -2404,11 +2414,11 @@ How does Meta process United States Digital Millennium Copyright Act (DMCA) coun
 
 Copy link
 
-File a DMCA counter-notification
+File a counter-notification
 
-What happens after I file?
+My content was removed
 
-My content wasn't restored
+What is DMCA?
 
 I have a different question
 
@@ -2474,9 +2484,11 @@ Copy link
 
 Report copyright infringement
 
+What is copyright infringement?
+
 Contact designated agent
 
-Message content poster
+I can't report copyright
 
 I have a different question
 
@@ -2543,9 +2555,11 @@ Copy link
 
 Contact DMCA agent
 
-Report copyright infringement
+DMCA online form
 
-DMCA contact information
+DMCA designated agent address
+
+Complete copyright claim
 
 I have a different question
 
@@ -2616,7 +2630,7 @@ What info to include?
 
 My report was rejected
 
-What is copyright infringement?
+What is a copyright?
 
 I have a different question
 
@@ -2688,7 +2702,7 @@ Copy link
 
 What info is sent?
 
-Who sees my email?
+Who receives my email?
 
 How to appeal removed content?
 
