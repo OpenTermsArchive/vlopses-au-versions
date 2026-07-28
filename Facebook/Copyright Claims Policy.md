@@ -1511,11 +1511,11 @@ Facebook removed content as a result of my trademark report. What information is
 
 Copy link
 
-What info is sent?
+What information is shared?
 
-My content was removed
+Who sees my email address?
 
-Can I appeal a removal?
+Can I appeal removed content?
 
 I have a different question
 
