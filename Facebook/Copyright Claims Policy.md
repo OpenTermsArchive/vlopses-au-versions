@@ -337,11 +337,11 @@ What is the difference between a trademark registration and a business registrat
 
 Copy link
 
-What is a trademark registration?
+Trademark vs business registration
 
-What is a business registration?
+What is a trademark?
 
-Register a trademark in the U.S.
+Register a trademark in the US
 
 Register a trademark in the EU
 
@@ -1511,11 +1511,11 @@ Facebook removed content as a result of my trademark report. What information is
 
 Copy link
 
-What information is shared?
+What info is sent?
 
-Who sees my email address?
+My content was removed
 
-Can I appeal removed content?
+Can I appeal a removal?
 
 I have a different question
 
