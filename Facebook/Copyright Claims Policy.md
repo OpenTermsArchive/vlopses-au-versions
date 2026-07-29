@@ -337,11 +337,11 @@ What is the difference between a trademark registration and a business registrat
 
 Copy link
 
-Trademark vs business registration
+What is a trademark registration?
 
-What is a trademark?
+What is a business registration?
 
-Register a trademark in the US
+Register a trademark in the U.S.
 
 Register a trademark in the EU
 
@@ -1998,11 +1998,11 @@ How can I make sure the content I post to Facebook doesn't violate copyright law
 
 Copy link
 
-My content was removed
+Avoid copyright violations
 
 What is fair use?
 
-What is public domain?
+Get permission to post
 
 I have a different question
 
@@ -2251,7 +2251,9 @@ My video was removed
 
 Why was my video removed?
 
-My video had copyrighted content
+I have rights to content
+
+I didn't get an email
 
 I have a different question
 
@@ -2414,11 +2416,13 @@ How does Meta process United States Digital Millennium Copyright Act (DMCA) coun
 
 Copy link
 
+What is DMCA?
+
 File a counter-notification
 
 My content was removed
 
-What is DMCA?
+What is repeat infringer policy?
 
 I have a different question
 
