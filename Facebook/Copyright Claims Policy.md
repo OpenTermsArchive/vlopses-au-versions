@@ -273,11 +273,11 @@ Copy link
 
 Register my trademark
 
-Trademark rights without registration
+What is a trademark right?
 
-What is a common law right?
+Register trademark outside US
 
-What is a business registration?
+What are common law rights?
 
 I have a different question
 
@@ -1936,9 +1936,9 @@ Copy link
 
 What is public domain?
 
-How long does copyright last?
-
 When does copyright expire?
+
+How long does copyright last?
 
 I have a different question
 
