@@ -1998,11 +1998,11 @@ How can I make sure the content I post to Facebook doesn't violate copyright law
 
 Copy link
 
-Avoid copyright violations
+My content was removed
 
 What is fair use?
 
-Get permission to post
+What is public domain?
 
 I have a different question
 
@@ -2251,9 +2251,7 @@ My video was removed
 
 Why was my video removed?
 
-I have rights to content
-
-I didn't get an email
+My video had copyrighted content
 
 I have a different question
 
@@ -2416,13 +2414,11 @@ How does Meta process United States Digital Millennium Copyright Act (DMCA) coun
 
 Copy link
 
-What is DMCA?
-
 File a counter-notification
 
 My content was removed
 
-What is repeat infringer policy?
+What is DMCA?
 
 I have a different question
 
@@ -2488,11 +2484,9 @@ Copy link
 
 Report copyright infringement
 
-What is copyright infringement?
-
 Contact designated agent
 
-I can't report copyright
+Message content poster
 
 I have a different question
 
