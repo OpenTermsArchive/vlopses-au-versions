@@ -397,11 +397,9 @@ Copy link
 
 How long do trademark rights last?
 
-How to renew trademark rights?
+How do I renew trademark rights?
 
 What happens if I stop using a trademark?
-
-How to lose trademark rights?
 
 I have a different question
 
@@ -1433,11 +1431,11 @@ Retract an intellectual property report that you've submitted to Facebook
 
 Copy link
 
-Withdraw my IP report
+Retract my report
 
-Cancel my copyright report
+Cancel my IP report
 
-I reported content by mistake
+Withdraw copyright report
 
 I have a different question
 
@@ -2478,11 +2476,11 @@ How do I report copyright infringement on Facebook?
 
 Copy link
 
-Report copyright infringement
+I want to report copyright
+
+My copyright was infringed
 
 Contact designated agent
-
-Message content poster
 
 I have a different question
 
@@ -2694,11 +2692,9 @@ Copy link
 
 What info is sent?
 
-Who receives my email?
+Who sees my email?
 
-How to appeal removed content?
-
-What if I use generic email?
+Can I appeal a removal?
 
 I have a different question
 
