@@ -369,6 +369,23 @@ TikTok SA's PAIA Manual can be accessed [here](https://www.tiktok.com/legal/sa-s
 
 If you are using our services in Türkiye, please refer to the [Turkish language Privacy Policy](https://www.tiktok.com/legal/page/row/privacy-policy/tr) for further information on our compliance with Law No. 6698 on the Protection of Personal Data.
 
+### **Uganda**
+
+If you are using our services in Uganda the following additional terms apply.
+
+_The legal bases we rely on to process data:_ We collect and use personal data to offer the Platform as described above. We do so under the lawful basis that the processing is necessary for the performance of a contract in which you are entering or have entered. In some circumstances, we may have to process data for other purposes that are not necessary for the performance of the contract. In such cases, the processing may be based upon (i) compliance with our legal obligations; and/or (ii) consent you may have provided to us.
+
+_Consequences for Failing to Provide Certain Personal Data:_ You will be asked to provide certain information (as described above under the 'What information we collect' section) before using the Platform or certain functions. Failure to provide all or any part of such information may limit your access to the Platform or some of its features and functionalities.
+
+_Age, Parental and Guardian Consent:_ You declare that you are over the age of 18. If you are below 18 years old:
+
+*   you must obtain consent from your parent(s) or legal guardian(s); and
+*   your parent(s) or legal guardian(s) shall be responsible for: (i) all your actions in connection with your access to and use of the Platform; and (ii) your compliance with this Policy.
+
+If you are not at least 18 years of age and you do not have consent from your parent(s) or legal guardian(s) and your parent(s) or legal guardian(s) are not willing to open an account under their name(s), you must cease accessing the Platform.
+
+It is your duty to provide complete and accurate personal data upon giving consent to the processing of your personal data.
+
 ### **United Arab Emirates**
 
 If you are using the Platform in the United Arab Emirates (“UAE”), the following additional terms apply. If any conflict arises between the main Privacy Policy and the additional terms, the following terms shall prevail:
