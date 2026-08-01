@@ -14,15 +14,15 @@ Intellectual property
 
 Copy link
 
-What is copyright?
+Melde en krænkelse af ophavsret
 
-What is a trademark?
+Melde en krænkelse af varemærke
 
-Report copyright violation
+Hvad er ophavsret?
 
-Report trademark violation
+Hvad er et varemærke?
 
-I have a different question
+Jeg har et andet spørgsmål
 
 Facebook is committed to helping people and organisations protect their intellectual property rights. The Facebook [Terms of Service](https://www.facebook.com/legal/terms) do not allow posting content that violates someone else's intellectual property rights, including copyright and trademark.
 
@@ -1883,9 +1883,9 @@ Related articles
 
 [How do you know if you own the copyright in a work](https://www.facebook.com/help/1145592148881382/?helpref=related_articles)
 
-[What is copyright and what does it protect?](https://www.facebook.com/help/116772962146447/?helpref=related_articles)
-
 [What are fair use and other exceptions to copyright?](https://www.facebook.com/help/337995452911154/?helpref=related_articles)
+
+[What is copyright and what does it protect?](https://www.facebook.com/help/116772962146447/?helpref=related_articles)
 
 [What's the difference between copyright and trademark?](https://www.facebook.com/help/339026683156879/?helpref=related_articles)
 
@@ -1899,13 +1899,13 @@ Related articles
 
 * * *](https://www.facebook.com/help/1145592148881382/?helpref=related_articles)
 
-[What is copyright and what does it protect?
-
-* * *](https://www.facebook.com/help/116772962146447/?helpref=related_articles)
-
 [What are fair use and other exceptions to copyright?
 
 * * *](https://www.facebook.com/help/337995452911154/?helpref=related_articles)
+
+[What is copyright and what does it protect?
+
+* * *](https://www.facebook.com/help/116772962146447/?helpref=related_articles)
 
 [What's the difference between copyright and trademark?](https://www.facebook.com/help/339026683156879/?helpref=related_articles)
 
@@ -2166,11 +2166,11 @@ Unintentional actions can still violate copyright on Facebook
 
 Copy link
 
-What is copyright infringement?
-
-Can I use content with credit?
+Can I use copyrighted work?
 
 What is fair use?
+
+What is copyright infringement?
 
 I have a different question
 
