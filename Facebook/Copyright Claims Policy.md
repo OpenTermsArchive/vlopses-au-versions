@@ -2616,11 +2616,11 @@ What information you need to include in a copyright report to Meta
 
 Copy link
 
-What info to include?
+What to include in report?
 
-Where to find URLs?
+My contact information
 
-What is an electronic signature?
+Description of copyrighted work
 
 I have a different question
 
