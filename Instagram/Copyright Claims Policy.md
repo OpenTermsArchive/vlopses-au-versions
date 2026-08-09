@@ -3,16 +3,6 @@ Intellectual Property
 
 Copy link
 
-Report copyright violation
-
-Report trademark violation
-
-What is copyright?
-
-What is trademark?
-
-I have a different question
-
 About Intellectual Property
 ---------------------------
 
@@ -876,16 +866,6 @@ More about trademarks and what they protect
 
 Copy link
 
-What is a trademark?
-
-What do trademarks protect?
-
-Can I use a trademark?
-
-How do I report a trademark?
-
-I have a different question
-
 A trademark is a word, slogan, symbol or design (for example, a brand name or logo) that a person or company uses to distinguish their products or services from those offered by others. A trademark is protectable when it’s used in a distinctive way to identify a product or service. Whether you know it or not, you see trademarks all day long, whether in stores shopping, watching commercials on TV and so on.
 
 Generally, trademark law seeks to protect consumers from being confused about who provides, endorses or is affiliated with a particular product or service. To prevent this situation, a trademark owner may be able to stop others from using their trademark (or a similar trademark) without permission if that use may cause confusion.
@@ -939,16 +919,6 @@ Does a trademark need to be registered to be protected?
 =======================================================
 
 Copy link
-
-Register a trademark
-
-Common law trademark rights
-
-USPTO trademark registration
-
-Trademark rights without registration
-
-I have a different question
 
 It depends. In the U.S., a trademark can be registered with the United States Patent and Trademark Office (USPTO). Federal registrations with the USPTO establish trademark rights as of a certain date and provide a presumption that the registrant owns a valid trademark, among other things. For these reasons, trademark owners often obtain USPTO registrations.
 
@@ -1028,14 +998,6 @@ What is a counterfeit?
 ======================
 
 Copy link
-
-Report counterfeit goods
-
-What is a counterfeit good?
-
-Report counterfeit on Threads
-
-I have a different question
 
 A counterfeit good is a knockoff or replica version of another company’s product. It usually copies the trademark (name or logo) and/or distinctive features of that other company’s product to imitate a genuine product. The manufacture, promotion or sale of a counterfeit good is a type of trademark infringement that is illegal in most countries, and is recognized as being harmful to consumers, trademark owners and honest sellers. Please note that counterfeit goods may be unlawful even if the seller explicitly says that the goods are counterfeit, or otherwise disclaims authenticity of the goods.
 
@@ -1118,14 +1080,6 @@ How to make sure the content you post to Instagram or Threads don't violate trad
 =========================================================================================
 
 Copy link
-
-How do I avoid trademark violations?
-
-What is trademark law?
-
-Can I use a trademarked word?
-
-I have a different question
 
 Under Instagram's [Terms of Use](https://help.instagram.com/478745558852511) and Meta's [Community Standards](https://transparency.meta.com/policies/community-standards) you can only post content to Instagram or Threads if it doesn't violate the intellectual property rights of another party, including trademarks. Please note that as an Instagram or Threads user, you are responsible for the content you post. If your content violates Threads or Instagram's policies or is reported to Instagram or Threads as infringing the intellectual property rights of another party, Instagram or Threads may remove that content.
 
