@@ -64,7 +64,7 @@ VII. After placing all the return items in one package, please print and tape th
 
 VIII. You can check the refund status of your items on your order details page or through Temu's SMS/Email/Push notifications.
 
-![](https://mktimg.kwcdn.com/fancy-image-combine/0cbd3d/6BqFiOBNj1/3914726ba77f431ab19a7e5f4aa51ec0.png?imageView2/q/70/format/avif)
+![](https://mktimg.kwcdn.com/fancy-image-combine/0cbd3d/6BqFiOBNj1/e9a00c42b778431a9b68ff8e89c5c650.png?imageView2/q/70/format/avif)
 
 Start return
 
