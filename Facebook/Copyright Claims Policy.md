@@ -1090,8 +1090,6 @@ What is trademark infringement?
 
 What is fair use?
 
-What are the legal consequences?
-
 I have a different question
 
 Before you submit a report, please consider whether the content you want to report may be a permissible use of your [copyright](https://www.facebook.com/help/337995452911154?helpref=faq_content) or [trademark](https://www.facebook.com/help/719682678205946?helpref=faq_content). If you're not sure whether the content you're reporting infringes your intellectual property rights (e.g. because it may be a fair use), you may want to seek legal guidance.
@@ -2490,11 +2488,11 @@ How do I report copyright infringement on Facebook?
 
 Copy link
 
-I want to report copyright
-
-What is copyright infringement?
+Report copyright infringement
 
 Contact designated agent
+
+Message content owner
 
 I have a different question
 
