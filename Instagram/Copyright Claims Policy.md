@@ -3,6 +3,16 @@ Intellectual Property
 
 Copy link
 
+Report copyright violation
+
+Report trademark violation
+
+What is copyright?
+
+What is trademark?
+
+I have a different question
+
 About Intellectual Property
 ---------------------------
 
@@ -210,14 +220,6 @@ How do I know if I own the copyright in a work?
 
 Copy link
 
-Who owns copyright?
-
-I created a painting
-
-I appear in a photo
-
-I have a different question
-
 In general, the person who creates an original work owns the copyright. For example, if you create a painting, you likely own the copyright for that painting. Similarly, if you take a photo, you likely own the copyright for that photo.
 
 There may be situations where you might think you have a copyright in a creative work, but you may not. For example:
@@ -241,16 +243,6 @@ What rights do I have as a copyright owner?
 ===========================================
 
 Copy link
-
-What are my copyright rights?
-
-Stop others from copying my work
-
-What is copyright infringement?
-
-Grant permission to use my work
-
-I have a different question
 
 As a copyright owner, you have certain rights under the law. These include the right to stop others from copying or distributing your work, or from creating new works based on your work. Copyright infringement generally occurs when a person engages in one of these activities without the copyright owner’s permission.
 
@@ -491,9 +483,9 @@ Copy link
 
 My content was removed
 
-Appeal a copyright removal
+Appeal content removal
 
-My content was removed by mistake
+Contact rights owner
 
 I have a different question
 
@@ -586,14 +578,6 @@ Report copyright infringement on Instagram or Threads
 =====================================================
 
 Copy link
-
-Report copyright infringement
-
-Fill out copyright form
-
-Use Brand Rights Protection
-
-I have a different question
 
 If you believe content on Instagram or Threads is infringing your copyright, you can take one or more of the following actions:
 
@@ -1021,7 +1005,7 @@ Report counterfeit goods
 
 What is a counterfeit good?
 
-Report counterfeit on Threads
+How to identify counterfeit?
 
 I have a different question
 
@@ -1106,6 +1090,14 @@ How to make sure the content you post to Instagram or Threads don't violate trad
 =========================================================================================
 
 Copy link
+
+How do I avoid trademark violations?
+
+What is trademark law?
+
+Can I use a trademarked word?
+
+I have a different question
 
 Under Instagram's [Terms of Use](https://help.instagram.com/478745558852511) and Meta's [Community Standards](https://transparency.meta.com/policies/community-standards) you can only post content to Instagram or Threads if it doesn't violate the intellectual property rights of another party, including trademarks. Please note that as an Instagram or Threads user, you are responsible for the content you post. If your content violates Threads or Instagram's policies or is reported to Instagram or Threads as infringing the intellectual property rights of another party, Instagram or Threads may remove that content.
 
