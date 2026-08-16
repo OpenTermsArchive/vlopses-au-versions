@@ -732,11 +732,11 @@ Information you need to include in a copyright report to Instagram or Threads
 
 Copy link
 
-What info to include?
+What info do I include?
 
-Where to find content URL?
+Where do I find a URL?
 
-What is an electronic signature?
+My report was rejected
 
 I have a different question
 
@@ -883,6 +883,16 @@ More about trademarks and what they protect
 ===========================================
 
 Copy link
+
+What is a trademark?
+
+What do trademarks protect?
+
+Can I use a trademark?
+
+How do I report a trademark?
+
+I have a different question
 
 A trademark is a word, slogan, symbol or design (for example, a brand name or logo) that a person or company uses to distinguish their products or services from those offered by others. A trademark is protectable when it’s used in a distinctive way to identify a product or service. Whether you know it or not, you see trademarks all day long, whether in stores shopping, watching commercials on TV and so on.
 
@@ -1117,6 +1127,14 @@ How to make sure the content you post to Instagram or Threads don't violate trad
 
 Copy link
 
+How do I avoid trademark violations?
+
+What is trademark law?
+
+Can I use a trademarked word?
+
+I have a different question
+
 Under Instagram's [Terms of Use](https://help.instagram.com/478745558852511) and Meta's [Community Standards](https://transparency.meta.com/policies/community-standards) you can only post content to Instagram or Threads if it doesn't violate the intellectual property rights of another party, including trademarks. Please note that as an Instagram or Threads user, you are responsible for the content you post. If your content violates Threads or Instagram's policies or is reported to Instagram or Threads as infringing the intellectual property rights of another party, Instagram or Threads may remove that content.
 
 Before you post content, you might want to ask:
@@ -1210,6 +1228,14 @@ How to report trademark infringement on Instagram or Threads
 
 Copy link
 
+Report trademark infringement
+
+What is Brand Rights Protection?
+
+What happens after I report?
+
+I have a different question
+
 Instagram and Threads can’t adjudicate disputes between third parties, and so we wouldn’t be in a position to act on trademark reports that require an in-depth trademark analysis or a real-world dispute outside of Instagram or Threads. In these situations, rather than contacting Instagram or Threads, you may want to reach out directly to the party that you believe is infringing your rights, or seek any resolution in court or by other judicial means.
 
 You can report copyright infringement [by filling out this form](https://www.instagram.com/help/ipreporting/report/trademark/) or by using the [Brand Rights Protection tool](https://www.facebook.com/business/help/828925381043253?helpref=faq_content), which enables a rights holder to identify and report violating content for trademark, copyright, and counterfeit.
@@ -1287,11 +1313,11 @@ Information you need to include in a copyright report to Instagram or Threads
 
 Copy link
 
-What info to include?
+What info do I include?
 
-Where to find content URL?
+Where do I find a URL?
 
-What is an electronic signature?
+My report was rejected
 
 I have a different question
 
