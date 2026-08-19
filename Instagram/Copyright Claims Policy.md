@@ -1041,7 +1041,7 @@ Report counterfeit goods
 
 What is a counterfeit good?
 
-Report counterfeit on Threads
+How to identify counterfeit?
 
 I have a different question
 
@@ -1228,6 +1228,14 @@ How to report trademark infringement on Instagram or Threads
 
 Copy link
 
+Report trademark infringement
+
+What is Brand Rights Protection?
+
+What happens after I report?
+
+I have a different question
+
 Instagram and Threads can’t adjudicate disputes between third parties, and so we wouldn’t be in a position to act on trademark reports that require an in-depth trademark analysis or a real-world dispute outside of Instagram or Threads. In these situations, rather than contacting Instagram or Threads, you may want to reach out directly to the party that you believe is infringing your rights, or seek any resolution in court or by other judicial means.
 
 You can report copyright infringement [by filling out this form](https://www.instagram.com/help/ipreporting/report/trademark/) or by using the [Brand Rights Protection tool](https://www.facebook.com/business/help/828925381043253?helpref=faq_content), which enables a rights holder to identify and report violating content for trademark, copyright, and counterfeit.
@@ -1275,6 +1283,14 @@ How to report a username on Instagram or Threads for infringing my trademark
 ============================================================================
 
 Copy link
+
+Report a username
+
+What is trademark infringement?
+
+Contact username owner
+
+I have a different question
 
 [Usernames are](https://help.instagram.com/182492381886913/?helpref=faq_content) generally claimed on a first-come, first-served basis. This means that you may see an Instagram or Threads account that includes your trademark in its username. While there may be cases where this type of use can be reported for trademark infringement based on the context of its use, please note that not every use of your trademark in a username is necessarily a trademark infringement. The same word used in a different context may not violate your trademark. See [“What is trademark infringement?”](https://help.instagram.com/1904208239817294?helpref=faq_content) to learn more.
 
