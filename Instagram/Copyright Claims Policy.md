@@ -476,6 +476,14 @@ How Instagram and Threads process United States Digital Millennium Copyright Act
 
 Copy link
 
+How do I file a counter-notification?
+
+What happens after I file?
+
+How long does the process take?
+
+I have a different question
+
 Instagram and Threads comply with the notice-and-takedown procedures set out in section 512(c) of the United States Digital Millennium Copyright Act (DMCA), which applies to content reported and removed for violating U.S. copyrights.
 
 If your content is removed under the DMCA, you'll receive instructions about how to file a counter-notification in the messages we send you. You should only submit a counter-notification if the content was removed because of a mistake or misidentification. Please note that if your content was removed for reasons unrelated to a copyright report, you may not receive a response from us.
@@ -525,6 +533,16 @@ What to consider before submitting an intellectual property infringement report 
 =======================================================================================================
 
 Copy link
+
+What is permissible use?
+
+What is copyright infringement?
+
+What is trademark infringement?
+
+Legal consequences of false report?
+
+I have a different question
 
 **Consider your copyright and trademark permissions**
 -----------------------------------------------------
@@ -635,14 +653,6 @@ Instagram or Threads removed content as a result of your copyright report. What 
 =========================================================================================================================================
 
 Copy link
-
-What information is shared?
-
-Who sees my email address?
-
-Can I appeal a removal?
-
-I have a different question
 
 When we receive copyright claims through our online form and remove the reported content, we typically provide the reported user with the following information:
 
@@ -841,6 +851,14 @@ What is a counterfeit?
 
 Copy link
 
+How do I report counterfeit goods?
+
+What is a knockoff product?
+
+What is trademark infringement?
+
+I have a different question
+
 A counterfeit good is a knockoff or replica version of another company’s product. It usually copies the trademark (name or logo) and/or distinctive features of that other company’s product to imitate a genuine product. The manufacture, promotion or sale of a counterfeit good is a type of trademark infringement that is illegal in most countries, and is recognized as being harmful to consumers, trademark owners and honest sellers. Please note that counterfeit goods may be unlawful even if the seller explicitly says that the goods are counterfeit, or otherwise disclaims authenticity of the goods.
 
 If you believe content on Instagram or Threads is selling or promoting counterfeit goods, you can report it to us [by filling out this form](https://www.instagram.com/help/ipreporting/report/trademark/) or by using the [Brand Rights Protection tool](https://www.facebook.com/business/help/828925381043253?helpref=faq_content), which enables a rights holder to identify and report violating content for trademark, copyright, and counterfeit.
@@ -858,6 +876,14 @@ Are there any limits to trademark rights?
 =========================================
 
 Copy link
+
+What is trademark infringement?
+
+What is nominative fair use?
+
+Are trademark rights geographic?
+
+I have a different question
 
 Not all uses of a trademark without permission of the trademark owner are necessarily an infringement of that trademark. The use of a trademark is only infringing if it’s likely to confuse people regarding the source, endorsement or affiliation of products or services. So, if a trademark is used in a way that is unlikely to cause consumer confusion, it’s generally not considered infringing.
 
@@ -980,14 +1006,6 @@ How to report trademark infringement on Instagram or Threads
 
 Copy link
 
-How do I report trademark infringement?
-
-How do I use Brand Rights Protection?
-
-What happens after I report?
-
-I have a different question
-
 Instagram and Threads can’t adjudicate disputes between third parties, and so we wouldn’t be in a position to act on trademark reports that require an in-depth trademark analysis or a real-world dispute outside of Instagram or Threads. In these situations, rather than contacting Instagram or Threads, you may want to reach out directly to the party that you believe is infringing your rights, or seek any resolution in court or by other judicial means.
 
 You can report copyright infringement [by filling out this form](https://www.instagram.com/help/ipreporting/report/trademark/) or by using the [Brand Rights Protection tool](https://www.facebook.com/business/help/828925381043253?helpref=faq_content), which enables a rights holder to identify and report violating content for trademark, copyright, and counterfeit.
@@ -1078,6 +1096,16 @@ What to consider before submitting an intellectual property infringement report 
 
 Copy link
 
+What is permissible use?
+
+What is copyright infringement?
+
+What is trademark infringement?
+
+Legal consequences of false report?
+
+I have a different question
+
 **Consider your copyright and trademark permissions**
 -----------------------------------------------------
 
@@ -1109,6 +1137,14 @@ Are there any limits to trademark rights?
 =========================================
 
 Copy link
+
+What is trademark infringement?
+
+What is nominative fair use?
+
+Are trademark rights geographic?
+
+I have a different question
 
 Not all uses of a trademark without permission of the trademark owner are necessarily an infringement of that trademark. The use of a trademark is only infringing if it’s likely to confuse people regarding the source, endorsement or affiliation of products or services. So, if a trademark is used in a way that is unlikely to cause consumer confusion, it’s generally not considered infringing.
 
