@@ -246,6 +246,14 @@ How long does copyright protection last?
 
 Copy link
 
+What is public domain?
+
+How long does copyright last?
+
+When does copyright expire?
+
+I have a different question
+
 Copyright protection doesn’t last forever. Eventually, a work loses copyright protection and becomes part of the “public domain.” Once a work is in the public domain, it’s freely available for anyone to use.
 
 A central purpose of copyright law is to encourage people to make creative works. For this reason, the public domain ensures copyright owners obtain certain rights only for a limited amount of time. This balance between copyright law and the public domain gives the author an incentive to create, but also gives other people the ability to use the work without permission after the copyright expires.
@@ -298,6 +306,14 @@ How to make sure content you post to Instagram or Threads doesn't violate copyri
 =======================================================================================
 
 Copy link
+
+How to avoid copyright violation?
+
+What content can I post?
+
+Can I use content I bought?
+
+I have a different question
 
 Under Instagram’s [Terms of Use](https://help.instagram.com/478745558852511) and Meta's [Community Standards](https://transparency.meta.com/policies/community-standards) you can only post content to Instagram or Threads that doesn’t violate someone else's intellectual property rights. The best way to help make sure that what you post to Instagram or Threads doesn’t violate copyright law is to only post content that you’ve created yourself.
 
@@ -421,14 +437,6 @@ What to do if content you posted on Instagram or Threads gets removed because it
 
 Copy link
 
-My content was removed
-
-Appeal a copyright removal
-
-Contact the rights owner
-
-I have a different question
-
 If we remove content you posted because of an intellectual property report submitted through our online form, you’ll receive a notification that may include the name and email address of the rights owner who made the report and/or other details of the report. If you believe the content shouldn't have been removed, you can follow up with the rights owner directly to try to resolve the issue.
 
 If your content was removed because of a copyright report, you can submit an appeal. Learn more about [our appeals process](https://www.facebook.com/help/instagram/1417735471763678?locale=en_US&helpref=faq_content) or [how to use music in your videos on Instagram or Threads.](https://www.facebook.com/help/instagram/629037417957828?helpref=faq_content)
@@ -475,14 +483,6 @@ How Instagram and Threads process United States Digital Millennium Copyright Act
 =============================================================================================================
 
 Copy link
-
-How do I file a counter-notification?
-
-What happens after I file?
-
-How long does the process take?
-
-I have a different question
 
 Instagram and Threads comply with the notice-and-takedown procedures set out in section 512(c) of the United States Digital Millennium Copyright Act (DMCA), which applies to content reported and removed for violating U.S. copyrights.
 
@@ -694,6 +694,16 @@ What happens when you submit a copyright report to Instagram or Threads
 
 Copy link
 
+How do I check my report status?
+
+How do I appeal a copyright decision?
+
+What information is shared?
+
+How do I respond to a request for more information?
+
+I have a different question
+
 If you submitted a copyright report to us through our [online form](https://help.instagram.com/contact/372592039493026) or via email, you'll receive an automated email that contains information about your report, including a unique report number. You should save this number in case you need to contact us about your report.
 
 Sometimes, we might respond to your report and ask for more information. If you receive a message from our team asking for more information about your report, you should respond directly to that message. Your response will be received by our team so they can continue to look into your report.
@@ -721,6 +731,14 @@ Retract an intellectual property report that you've submitted to Instagram or Th
 =====================================================================================
 
 Copy link
+
+How do I withdraw a report?
+
+How do I use the Retraction Form?
+
+What happens after I withdraw?
+
+I have a different question
 
 If you submitted an intellectual property report, but then reached an agreement with the person who posted the content, or if you reported content by mistake, you can withdraw your intellectual property report.
 
@@ -763,6 +781,16 @@ What is trademark infringement?
 ===============================
 
 Copy link
+
+When does infringement occur?
+
+What is likelihood of confusion?
+
+Limits to trademark rights
+
+Can I use a trademark?
+
+I have a different question
 
 Generally, trademark infringement occurs when:
 
@@ -851,14 +879,6 @@ What is a counterfeit?
 
 Copy link
 
-How do I report counterfeit goods?
-
-What is a knockoff product?
-
-What is trademark infringement?
-
-I have a different question
-
 A counterfeit good is a knockoff or replica version of another company’s product. It usually copies the trademark (name or logo) and/or distinctive features of that other company’s product to imitate a genuine product. The manufacture, promotion or sale of a counterfeit good is a type of trademark infringement that is illegal in most countries, and is recognized as being harmful to consumers, trademark owners and honest sellers. Please note that counterfeit goods may be unlawful even if the seller explicitly says that the goods are counterfeit, or otherwise disclaims authenticity of the goods.
 
 If you believe content on Instagram or Threads is selling or promoting counterfeit goods, you can report it to us [by filling out this form](https://www.instagram.com/help/ipreporting/report/trademark/) or by using the [Brand Rights Protection tool](https://www.facebook.com/business/help/828925381043253?helpref=faq_content), which enables a rights holder to identify and report violating content for trademark, copyright, and counterfeit.
@@ -876,14 +896,6 @@ Are there any limits to trademark rights?
 =========================================
 
 Copy link
-
-What is trademark infringement?
-
-What is nominative fair use?
-
-Are trademark rights geographic?
-
-I have a different question
 
 Not all uses of a trademark without permission of the trademark owner are necessarily an infringement of that trademark. The use of a trademark is only infringing if it’s likely to confuse people regarding the source, endorsement or affiliation of products or services. So, if a trademark is used in a way that is unlikely to cause consumer confusion, it’s generally not considered infringing.
 
@@ -1138,14 +1150,6 @@ Are there any limits to trademark rights?
 
 Copy link
 
-What is trademark infringement?
-
-What is nominative fair use?
-
-Are trademark rights geographic?
-
-I have a different question
-
 Not all uses of a trademark without permission of the trademark owner are necessarily an infringement of that trademark. The use of a trademark is only infringing if it’s likely to confuse people regarding the source, endorsement or affiliation of products or services. So, if a trademark is used in a way that is unlikely to cause consumer confusion, it’s generally not considered infringing.
 
 Notably, simply referring to a trademark for the purpose of discussing the product or service offered probably won’t be an infringing use of the trademark, as long as that reference doesn’t use more of the trademark than is needed to make its point. In fact, you might need to use the trademark to describe or comment on a particular product or service. This is known as the doctrine of nominative fair use, and typically permits such uses as commentary, criticism, parody, reviews and, in some countries, comparative advertising.
@@ -1286,6 +1290,14 @@ Retract an intellectual property report that you've submitted to Instagram or Th
 =====================================================================================
 
 Copy link
+
+How do I withdraw a report?
+
+How do I use the Retraction Form?
+
+What happens after I withdraw?
+
+I have a different question
 
 If you submitted an intellectual property report, but then reached an agreement with the person who posted the content, or if you reported content by mistake, you can withdraw your intellectual property report.
 
