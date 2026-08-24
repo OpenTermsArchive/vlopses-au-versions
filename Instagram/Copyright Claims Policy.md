@@ -3,16 +3,6 @@ Intellectual Property
 
 Copy link
 
-How do I report copyright violations?
-
-How do I report trademark violations?
-
-What is Instagram copyright?
-
-What is Instagram trademark?
-
-I have a different question
-
 About Intellectual Property
 ---------------------------
 
@@ -560,16 +550,6 @@ Can I report an infringement of someone else’s intellectual property on Instag
 
 Copy link
 
-How do I report Instagram content?
-
-How do I report Threads content?
-
-How do I report Instagram copyright?
-
-How do I report Threads copyright?
-
-I have a different question
-
 Only an intellectual property rights owner or their authorized representative may report a suspected infringement. If you believe content on Instagram or Threads infringes someone else’s copyright or trademark rights, you may want to let the rights owner know.
 
 Other ways to get help
@@ -585,6 +565,16 @@ How to contact Threads or Instagram's Digital Millennium Copyright Act (DMCA) de
 ==============================================================================================
 
 Copy link
+
+How do I contact Instagram DMCA agent?
+
+How do I report copyright infringement?
+
+How do I send a DMCA report?
+
+How do I contact Instagram's designated agent?
+
+I have a different question
 
 The fastest and easiest way to send a DMCA report of copyright infringement to our designated agent is to fill out our [online form](https://help.instagram.com/contact/372592039493026).
 
@@ -688,6 +678,16 @@ What happens when you submit a copyright report to Instagram or Threads
 
 Copy link
 
+How do I submit a copyright report?
+
+How do I respond to a copyright report?
+
+What information is shared in a report?
+
+How do I appeal a copyright report?
+
+I have a different question
+
 If you submitted a copyright report to us through our [online form](https://help.instagram.com/contact/372592039493026) or via email, you'll receive an automated email that contains information about your report, including a unique report number. You should save this number in case you need to contact us about your report.
 
 Sometimes, we might respond to your report and ask for more information. If you receive a message from our team asking for more information about your report, you should respond directly to that message. Your response will be received by our team so they can continue to look into your report.
@@ -757,16 +757,6 @@ What is trademark infringement?
 ===============================
 
 Copy link
-
-What is trademark infringement?
-
-When does trademark infringement occur?
-
-What is likelihood of confusion?
-
-What are limits to trademark rights?
-
-I have a different question
 
 Generally, trademark infringement occurs when:
 
@@ -839,6 +829,14 @@ How long does trademark protection last?
 
 Copy link
 
+How long does trademark protection last?
+
+What are trademark rights?
+
+How do I renew a trademark?
+
+I have a different question
+
 Trademark rights may last indefinitely, but only if the trademark owner continues to use the trademark in commerce to identify their products or services. If a trademark owner stops using the trademark, or if it isn’t used properly, they might lose their trademark rights. Please also note that for trademarks that are registered with the United States Patent and Trademark Office (USPTO), issued registrations must be renewed periodically. The laws in other jurisdictions may vary.
 
 Other ways to get help
@@ -854,14 +852,6 @@ What is a counterfeit?
 ======================
 
 Copy link
-
-What is a counterfeit good?
-
-How do I report counterfeit goods on Instagram?
-
-How do I report counterfeit goods on Threads?
-
-I have a different question
 
 A counterfeit good is a knockoff or replica version of another company’s product. It usually copies the trademark (name or logo) and/or distinctive features of that other company’s product to imitate a genuine product. The manufacture, promotion or sale of a counterfeit good is a type of trademark infringement that is illegal in most countries, and is recognized as being harmful to consumers, trademark owners and honest sellers. Please note that counterfeit goods may be unlawful even if the seller explicitly says that the goods are counterfeit, or otherwise disclaims authenticity of the goods.
 
@@ -1025,16 +1015,6 @@ Can I report an infringement of someone else’s intellectual property on Instag
 =============================================================================================
 
 Copy link
-
-How do I report Instagram content?
-
-How do I report Threads content?
-
-How do I report Instagram copyright?
-
-How do I report Threads copyright?
-
-I have a different question
 
 Only an intellectual property rights owner or their authorized representative may report a suspected infringement. If you believe content on Instagram or Threads infringes someone else’s copyright or trademark rights, you may want to let the rights owner know.
 
