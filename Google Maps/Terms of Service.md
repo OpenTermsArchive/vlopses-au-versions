@@ -5,14 +5,14 @@ Google Terms of Service
 
 Effective July 30, 2026 | [Archived versions](https://policies.google.com/terms/archive) | [Download PDF](https://www.gstatic.com/policies/terms/pdf/20260730/4te5pybt/google_terms_of_service_en.pdf)
 
-[Country version:](https://policies.google.com/terms#footnote-country-version) Australia
+[Country version:](https://policies.google.com/terms#footnote-country-version) Iran
 
 What’s covered in these terms
 -----------------------------
 
 ### We know it’s tempting to skip these Terms of Service, but it’s important to establish what you can expect from us as you use Google [services](https://policies.google.com/terms#footnote-services), and what we expect from you.
 
-These Terms of Service reflect [the way Google’s business works](https://about.google/intl/en_AU/how-our-business-works), the laws that apply to our company, and [certain things we’ve always believed to be true](https://www.google.com/about/philosophy.html). As a result, these Terms of Service help define Google’s relationship with you as you interact with our services. For example, these terms include the following topic headings:
+These Terms of Service reflect [the way Google’s business works](https://about.google/intl/en_IR/how-our-business-works), the laws that apply to our company, and [certain things we’ve always believed to be true](https://www.google.com/about/philosophy.html). As a result, these Terms of Service help define Google’s relationship with you as you interact with our services. For example, these terms include the following topic headings:
 
 *   [What you can expect from us](https://policies.google.com/terms#toc-what-you-expect), which describes how we provide and develop our services
 *   [What we expect from you](https://policies.google.com/terms#toc-what-we-expect), which establishes certain rules for using our services
@@ -69,7 +69,7 @@ Contents
 Your relationship with Google
 =============================
 
-These terms help define the relationship between you and Google. When we speak of “Google,” “we,” “us,” and “our,” we mean Google LLC and its [affiliates](https://policies.google.com/terms#footnote-affiliates). Broadly speaking, we give you permission to access and use our [services](https://policies.google.com/terms#footnote-services) if you agree to follow these terms, which reflect [how Google’s business works and how we earn money](https://about.google/intl/en_AU/how-our-business-works).
+These terms help define the relationship between you and Google. When we speak of “Google,” “we,” “us,” and “our,” we mean Google LLC and its [affiliates](https://policies.google.com/terms#footnote-affiliates). Broadly speaking, we give you permission to access and use our [services](https://policies.google.com/terms#footnote-services) if you agree to follow these terms, which reflect [how Google’s business works and how we earn money](https://about.google/intl/en_IR/how-our-business-works).
 
 What you can expect from us
 ---------------------------
@@ -540,13 +540,13 @@ We encourage you to read [our Privacy Policy.](https://policies.google.com/priva
 Google Business Profile Additional Terms of Service for Business Entities
 =========================================================================
 
-**Last modified:** July 17, 2025
+**Last modified:** 17 July 2025
 
-The Google Business Profile Services allow business entities to create and manage a business profile on Google ("Business Profile").
+The Google Business Profile Services allow business entities to create and manage a business profile on Google ('Business Profile').
 
-To use the Google Business Profile Services and any related services, features, and functionality (the "Business Profile Services"), a business entity must accept (1) the Google Terms of Service, and (2) these Google Business Profile Additional Terms of Service (the "Google Business Profile Additional Terms"). Together, these documents are known as the "Terms." The individual accepting the Terms for the business entity must be an authorized representative of the business entity listed on the Business Profile.
+To use the Google Business Profile Services and any related services, features and functionality (the 'Business Profile Services'), a business entity must accept (1) the Google Terms of Service, and (2) these Google Business Profile Additional Terms of Service (the 'Google Business Profile Additional Terms'). Together, these documents are known as the 'Terms'. The individual accepting the Terms for the business entity must be an authorised representative of the business entity listed on the Business Profile.
 
-Please read the Terms carefully. They establish what you can expect from us as you use Business Profile Services, how we license and may use your Business Profile information, and what we expect from you. As used in these Google Business Profile Additional Terms, "you" means the business entity using the Business Profile Services.
+Please read the Terms carefully. They establish what you can expect from us as you use Business Profile Services, how we license and may use your Business Profile information and what we expect from you. As used in these Google Business Profile Additional Terms, 'you' means the business entity using the Business Profile Services.
 
 If these Google Business Profile Additional Terms conflict with [the Google Terms of Service](https://policies.google.com/terms), these Business Profile Additional Terms will govern for Business Profile Services.
 
@@ -555,10 +555,10 @@ What we expect from you
 
 You’re responsible for the entity listed on your Business Profile. That means, in addition to following the basic rules of conduct in [the Google Terms of Service](https://policies.google.com/terms), you must, when using the Business Profile Services:
 
-*   Comply with applicable laws and industry best practices when operating and promoting your entity, including obtaining all applicable licenses and approvals.
-*   To improve your Business Profile's visibility on Google Search and Maps, ensure all content is accurate, up-to-date, and complete.
-*   Supply all required disclaimers, warnings, and notices (or if you rely on any supplied by Google, ensure their sufficiency for your entity).
-*   Comply with the policies that apply to the Business Profile Services (“Policies”). [Learn more about Business Profile policies and guidelines](https://support.google.com/business/answer/7667250).
+*   Comply with applicable laws and industry best practices when operating and promoting your entity, including obtaining all applicable licences and approvals.
+*   To improve your Business Profile's visibility on Google Search and Maps, ensure that all content is accurate, up-to-date and complete.
+*   Supply all required disclaimers, warnings and notices (or if you rely on any supplied by Google, ensure their sufficiency for your entity).
+*   Comply with the policies that apply to the Business Profile Services ('Policies'). [Learn more about Business Profile policies and guidelines](https://support.google.com/business/answer/7667250).
 
 Moderation of your content and other content on the Business Profile
 
@@ -570,21 +570,21 @@ Your access to your content
 
 You’ll maintain access to your content in Business Profile Services in accordance with the functionality described [here](https://support.google.com/business/answer/3038063). You can [export a copy of your Google Account data](https://support.google.com/accounts/answer/3024190) (including applicable Google Business Profile data) at any time.
 
-To better understand how to update, manage, export and delete your [Google Account](https://myaccount.google.com/), [learn more about our Privacy Policy](https://policies.google.com/privacy).
+To better understand how to update, manage, export and delete your [Google Account](https://myaccount.google.com/), [learn more about our privacy policy](https://policies.google.com/privacy).
 
 Google’s access to your account
 
-If you authorize us to do so, we may access your account to help you manage your Business Profile.
+If you authorise us to do so, we may access your account to help you manage your Business Profile.
 
 Data protection terms
 
-To the extent applicable, Google Controller-Controller Data Protection Terms at [https://privacy.google.com/businesses/gdprcontrollerterms/](https://business.safety.google/controllerterms/) ("Data Protection Terms") will apply. Google will not modify the Data Protection Terms, except as expressly permitted under the Data Protection Terms.
+To the extent applicable, Google Controller-Controller Data Protection Terms at [https://privacy.google.com/businesses/gdprcontrollerterms/](https://business.safety.google/controllerterms/) ('Data Protection Terms') will apply. Google will not modify the Data Protection Terms, except as expressly permitted under the Data Protection Terms.
 
-License
+Licence
 
-This license covers the basic Business Profile information that you provide, if that information is protected by intellectual property rights.
+This licence covers the basic Business Profile information that you provide, if that information is protected by intellectual property rights.
 
-You give Google a perpetual (which means for as long as that information is protected by intellectual property rights), irrevocable, worldwide, royalty-free, and non-exclusive license to reproduce, adapt, modify, translate, publish, publicly perform, publicly display, distribute, and create derivative works of the basic Business Profile information (such as the entity name, location, phone number, category, hours, and website). Notwithstanding this license, you may revoke your consent for Google to send automated calls or texts to your Business Profile number at any time. [Learn more about automated calls and texts from Google to confirm business info](https://support.google.com/business/answer/7690269).
+You give Google a perpetual (which means for as long as that information is protected by intellectual property rights), irrevocable, worldwide, royalty free and non-exclusive licence to reproduce, adapt, modify, translate, publish, publicly perform, publicly display, distribute and create derivative works of the basic Business Profile information (such as the entity name, location, phone number, category, hours and website). Notwithstanding this licence, you may revoke your consent for Google to send automated calls or texts to your Business Profile number at any time. [Learn more about automated calls and texts from Google to confirm business info](https://support.google.com/business/answer/7690269).
 
 You also grant to other Google services users the right to access and use, including the right to edit, that information as permitted under the applicable Google Terms of Service.
 
@@ -594,13 +594,13 @@ Other products and services
 
 You may be provided access to other products and services within your account. These products and services may be subject to their own separate terms and policies that we will make available to you.
 
-Changes to the terms
+Changes to the Terms
 
 Google may make non-material changes to these Terms at any time without notice. Google will provide advance notice of any material changes to these Terms. Changes to the Terms won’t apply retroactively and will become effective 15 days after posting on this page. However, changes made for legal reasons or in urgent situations like preventing ongoing abuse will be effective immediately upon notice.
 
 Termination
 
-Google reserves the right to wholly or partially restrict, suspend, or terminate your access to, or use of, Business Profile Services if:
+Google reserves the right to wholly or partially restrict, suspend or terminate your access to, or use of, Business Profile Services if:
 
 1.  You breach these Terms, any Policies or applicable law(s).
 2.  Google is required to do so to comply with a legal requirement or a court order.
@@ -610,11 +610,11 @@ If you believe your access to Business Profile Services has been restricted, sus
 
 Questions or complaints
 
-If you have any questions or complaints regarding Google Business Profile, you can go to our [Help Center](https://support.google.com/business/#topic=4596754) or you can [contact us](https://support.google.com/business/gethelp). If you believe that your access to Google Business Profile has been suspended or terminated in error, you can [appeal](https://support.google.com/business/answer/4569145).
+If you have any questions or complaints regarding Google Business Profile, you can go to our [Help Centre](https://support.google.com/business/#topic=4596754) or you can [contact us](https://support.google.com/business/gethelp). If you believe that your access to Google Business Profile has been suspended or terminated in error, you can [appeal](https://support.google.com/business/answer/4569145).
 
 Settle disputes
 
-If you’re a business user based in the EU or the United Kingdom, you can also apply to resolve a dispute under these Terms with mediation. Find more details about the mediators we're willing to engage with and instructions about how to [request mediation here](http://g.co/help/mediation). Except as required by applicable law, mediation is voluntary and neither you nor Google are obliged to settle disputes through mediation.
+If you’re a business user based in the EU or the United Kingdom, you can also apply to resolve a dispute under these Terms with mediation. Find more details about the mediators that we're willing to engage with and instructions about how to [request mediation here](http://g.co/help/mediation). Except as required by applicable law, mediation is voluntary and neither you nor Google are obliged to settle disputes through mediation.
 
 Raising issues with public authorities
 
