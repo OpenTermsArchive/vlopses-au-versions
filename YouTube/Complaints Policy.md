@@ -1,61 +1,61 @@
 Other legal complaints
 ======================
 
-YouTube only considers legal complaints when the party in question or their authorized legal representative contacts us.
+YouTube only considers legal complaints when the party in question or their authorised legal representative contacts us.
 
-If someone posts your personal identifiable info or uploads a video of you without your knowledge, including in private or sensitive circumstances, [ask the uploader to remove the content](https://support.google.com/youtube/answer/57955). If the uploader doesn’t agree, or if you're uncomfortable contacting them, file a complaint through the [process](https://support.google.com/youtube/answer/142443) on YouTube’s [Privacy Guidelines](https://support.google.com/youtube/answer/7671399) page. Personal info can include your image, name, national identification number, bank account number, contact info, or other uniquely identifiable info. Learn more about the criteria for [content removal due to a privacy violation](https://support.google.com/youtube/answer/7671399#removal_criteria).
+If someone posts your personal identifiable info or uploads a video of you without your knowledge, including in private or sensitive circumstances, [ask the uploader to remove the content](https://support.google.com/youtube/answer/57955). If the uploader doesn't agree or if you're uncomfortable contacting them, file a complaint through the [process](https://support.google.com/youtube/answer/142443) on YouTube's [privacy guidelines](https://support.google.com/youtube/answer/7671399) page. Personal info can include your image, name, national identification number, bank account number, contact info or other uniquely identifiable info. Learn more about the criteria for [content removal due to a privacy violation](https://support.google.com/youtube/answer/7671399#removal_criteria).
 
 If your complaint is not about privacy, select your country/region of dispute from the menu and follow the directions.
 
-Fill out this [form](https://support.google.com/youtube/contact/other_legal).
+Fill in this [form](https://support.google.com/youtube/contact/other_legal).
 
 #### If you can't find your country/region in the menu above
 
-YouTube.com is governed by U.S. law. As such, we do not accept legal complaints from the country/region of your claimed rights. We recommend that you pursue any claims you may have directly against the individual who posted the content. You can try to [get in touch with the uploader](https://support.google.com/youtube/answer/57955). If your lawsuit results in a decision against the individual who posted the content, and if that court order requires us to remove the content from our service, we'll respond accordingly.
+YouTube.com is governed by US law. As such, we do not accept legal complaints from the country/region of your claimed rights. We recommend that you pursue any claims you may have directly against the individual who posted the content. You can try to [get in touch with the uploader](https://support.google.com/youtube/answer/57955). If your lawsuit results in a decision against the individual who posted the content and if that court order requires us to remove the content from our service, we'll respond accordingly.
 
-Learn more about [YouTube policies](https://support.google.com/youtube/topic/2803176), [safety](https://support.google.com/youtube/topic/2803240), and [reporting](https://support.google.com/youtube/topic/2803138).
+Learn more about [YouTube policies](https://support.google.com/youtube/topic/2803176), [safety](https://support.google.com/youtube/topic/2803240) and [reporting](https://support.google.com/youtube/topic/2803138).
 
 #### Policy violations
 
-If you have concerns about YouTube policy violations, you can report the violation. Learn how to [report inappropriate videos, channels, and other content on YouTube](https://support.google.com/youtube/answer/2802027).
+If you have concerns about YouTube policy violations, you can report the violation. Learn how to [report inappropriate videos, channels and other content on YouTube](https://support.google.com/youtube/answer/2802027).
 
 #### Harassment
 
-If you are concerned that an interaction with a community member has risen to the level of harassment, you can report the interaction. Learn how to [report inappropriate videos, channels, and other content on YouTube](https://support.google.com/youtube/answer/2802027).
+If you are concerned that an interaction with a community member has risen to the level of harassment, you can report the interaction. Learn how to [report inappropriate videos, channels and other content on YouTube](https://support.google.com/youtube/answer/2802027).
 
 #### Copyright
 
-If you have a copyright concern, go to our [Copyright center](https://www.youtube.com/howyoutubeworks/policies/copyright/).
+If you have a copyright concern, go to our [Copyright Centre](https://www.youtube.com/howyoutubeworks/policies/copyright/).
 
 #### Privacy complaints
 
-If a video contains your personal identifiable info without your consent, you can file a complaint through the [process](https://support.google.com/youtube/answer/142443) on YouTube's [](https://support.google.com/youtube/answer/142443)[Privacy Guidelines](https://support.google.com/youtube/answer/7671399) page. Personal info can include your image, name, national identification number, bank account number, contact info, or other uniquely identifiable info.
+If a video contains your personal identifiable info without your consent, you can file a complaint through the [process](https://support.google.com/youtube/answer/142443) on YouTube's [](https://support.google.com/youtube/answer/142443)[privacy guidelines](https://support.google.com/youtube/answer/7671399) page. Personal info can include your image, name, national identification number, bank account number, contact info or other uniquely identifiable info.
 
 Learn more about the criteria for [content removal due to a privacy violation](https://support.google.com/youtube/answer/7671399#removal_criteria).
 
 #### Court orders
 
-If there is a U.S. court order that involves content posted to www.youtube.com, you can send the court order by mail to this address:
+If there is a US court order that involves content posted to www.youtube.com, you can send the court order by post to this address:
 
-YouTube, Inc., Attn Legal Support
+YouTube, Inc., Attn. Legal Support
 
 901 Cherry Ave., Second Floor
 
-San Bruno, CA 94066
+San Bruno, CA 94066, USA
 
 - - -
 
 Other legal issues
 ==================
 
-Legal Complaints and Court Orders
+Legal complaints and court orders
 ---------------------------------
 
-If you feel that certain content on the site violates your rights or applicable laws, you may submit a legal complaint under our [trademark](https://support.google.com/youtube/contact/trademark_complaint), [defamation](https://support.google.com/youtube/answer/6154230), [counterfeit](https://support.google.com/youtube/contact/counterfeit_complaint), or [other legal](https://support.google.com/legal/answer/2802027#legal_reporting) complaint flows. If you have a court order against an uploader, you may attach a copy of the court order in response to the autoreply that you receive after you file the appropriate legal complaint. Each court order is examined and evaluated based on a set of regional and global criteria.
+If you feel that certain content on the site violates your rights or applicable laws, you may submit a legal complaint under our [trademark](https://support.google.com/youtube/contact/trademark_complaint), [defamation](https://support.google.com/youtube/answer/6154230), [counterfeit](https://support.google.com/youtube/contact/counterfeit_complaint) or [other legal](https://support.google.com/legal/answer/2802027#legal_reporting) complaint flows. If you have a court order against an uploader, you may attach a copy of the court order in response to the auto-reply that you receive after you file the appropriate legal complaint. Each court order is examined and evaluated based on a set of regional and global criteria.
 
 Bear in mind that you also have other resources to bring content to our attention. For example, if you feel that the content does not comply with our Community Guidelines, please [flag it](https://support.google.com/youtube/answer/2802027). Also, consider whether the video meets the standards for removal under our [privacy](https://support.google.com/youtube/answer/2801895) or [harassment](https://support.google.com/youtube/answer/2802268) policy before filing a legal complaint.
 
-Circumvention of Technological Measures
+Circumvention of technological measures
 ---------------------------------------
 
 When we say circumvention of technological measures, we're referring to tools that allow users to evade a software's licensing protocol. This can mean serial numbers, keygens, passwords and other methods to hack software or games.
