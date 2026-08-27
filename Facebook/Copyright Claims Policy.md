@@ -2700,7 +2700,7 @@ Facebook removed content as a result of my copyright report. What information is
 
 Copy link
 
-What info is sent?
+What information is sent?
 
 What is a copyright report?
 
