@@ -8,7 +8,7 @@ Subject to the \[Terms & Conditions\] and the \[Privacy & Cookie Policy\] , our 
 
 \- Wonderflow Support Pte. Ltd., as the Marketplace operator.
 
-E-Mail: [aucsteam@shein.co](mailto:aucsteam@shein.co)
+E-Mail: [aucsteam@shein.com](mailto:aucsteam@shein.co)
 
 1\. Contact Us: [https://au.shein.com/contact-us.html](https://au.shein.com/contact-us.html)
 
