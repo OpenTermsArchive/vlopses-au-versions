@@ -960,11 +960,13 @@ Can I report an infringement of someone else's intellectual property on Facebook
 
 Copy link
 
-How do I report an infringement?
+How do I report intellectual property?
 
-What is intellectual property?
+What is intellectual property infringement?
 
-What is a copyright infringement?
+How do I report copyright infringement?
+
+How do I report trademark infringement?
 
 I have a different question
 
