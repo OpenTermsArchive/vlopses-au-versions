@@ -2501,29 +2501,29 @@ CHANGE LOG
 
 Today
 
-Apr 30, 2026
+May 1, 2026
 
-Oct 2, 2024
+Oct 3, 2024
 
-Jun 26, 2024
+Jun 27, 2024
 
-Jun 29, 2023
+Jun 30, 2023
 
-Feb 23, 2023
+Feb 24, 2023
 
-Sep 29, 2022
+Sep 30, 2022
 
-Feb 24, 2022
+Feb 25, 2022
 
-Nov 24, 2021
+Nov 25, 2021
 
-Sep 30, 2021
+Oct 1, 2021
 
-Nov 18, 2020
+Nov 19, 2020
 
-Nov 30, 2018
+Dec 1, 2018
 
-Jun 29, 2018
+Jun 30, 2018
 
 Policy Rationale
 
@@ -2889,65 +2889,65 @@ CHANGE LOG
 
 Today
 
-Aug 27, 2026
+Aug 28, 2026
 
-Nov 25, 2025
+Nov 26, 2025
 
-Jun 26, 2025
+Jun 27, 2025
 
-May 14, 2025
+May 15, 2025
 
-Sep 27, 2024
+Sep 28, 2024
 
-Aug 29, 2024
+Aug 30, 2024
 
-Jun 26, 2024
+Jun 27, 2024
 
-Feb 29, 2024
+Mar 1, 2024
 
-Nov 29, 2023
+Nov 30, 2023
 
-Oct 17, 2023
+Oct 18, 2023
 
-May 25, 2023
+May 26, 2023
 
-Dec 22, 2022
+Dec 23, 2022
 
-Nov 23, 2022
+Nov 24, 2022
 
-Sep 29, 2022
+Sep 30, 2022
 
-Oct 28, 2020
+Oct 29, 2020
 
-Nov 18, 2020
+Nov 19, 2020
 
-Aug 27, 2020
+Aug 28, 2020
 
-Jun 22, 2020
+Jun 23, 2020
 
-May 28, 2020
+May 29, 2020
 
-Apr 30, 2020
+May 1, 2020
 
-Feb 27, 2020
+Feb 28, 2020
 
-Dec 16, 2019
+Dec 17, 2019
 
-Nov 30, 2019
+Dec 1, 2019
 
-Jul 30, 2019
+Jul 31, 2019
 
-Jul 1, 2019
+Jul 2, 2019
 
-Apr 26, 2019
+Apr 27, 2019
 
-Mar 20, 2019
+Mar 21, 2019
 
-Nov 30, 2018
+Dec 1, 2018
 
-Jul 27, 2018
+Jul 28, 2018
 
-May 25, 2018
+May 26, 2018
 
 Policy Rationale
 
@@ -3573,9 +3573,11 @@ CHANGE LOG
 
 Today
 
-Oct 9, 2024
+Aug 29, 2026
 
-Jul 31, 2024
+Oct 10, 2024
+
+Aug 1, 2024
 
 Policy Rationale
 
@@ -3619,6 +3621,11 @@ On Facebook, we will seek further information before taking actions ranging from
 *   Create an account that represents a non-human entity, such as a business, pet, or fictional character
     
 *   Maintain empty profiles with prolonged dormancy
+    
+
+**Fan, satire, and parody accounts**
+
+We allow accounts dedicated to fan sentiment, humor, parody, satire, criticism, commentary, and opinion. The account must make its unofficial status abundantly clear at minimum in the account name and ideally elsewhere on the profile, such as in the profile photo or bio (e.g., by including "fan page" in the handle/name). Accounts that do not clearly disclose their unofficial nature may be restricted or removed.
 
 - - -
 
@@ -3979,21 +3986,21 @@ CHANGE LOG
 
 Today
 
-Oct 9, 2024
+Oct 10, 2024
 
-Jul 31, 2024
+Aug 1, 2024
 
-Nov 23, 2022
+Nov 24, 2022
 
-Nov 18, 2020
+Nov 19, 2020
 
-Jan 30, 2020
+Jan 31, 2020
 
-Dec 16, 2019
+Dec 17, 2019
 
-Nov 30, 2019
+Dec 1, 2019
 
-Apr 26, 2019
+Apr 27, 2019
 
 Policy Rationale
 
@@ -4048,7 +4055,7 @@ CHANGE LOG
 
 Today
 
-Aug 27, 2024
+Aug 26, 2024
 
 Policy Rationale
 
@@ -4175,7 +4182,7 @@ CHANGE LOG
 
 Today
 
-Jun 26, 2024
+Jun 27, 2024
 
 Policy Rationale
 
@@ -4202,9 +4209,9 @@ CHANGE LOG
 
 Today
 
-Feb 29, 2024
+Mar 1, 2024
 
-Nov 19, 2020
+Nov 20, 2020
 
 We comply with:
 
