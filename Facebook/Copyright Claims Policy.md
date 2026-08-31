@@ -726,6 +726,16 @@ Content that I posted on Facebook was removed because it was reported for intell
 
 Copy link
 
+What is intellectual property infringement?
+
+How do I appeal content removal?
+
+What is a trademark report?
+
+How do I contact the rights owner?
+
+I have a different question
+
 When we receive a report from a rights owner claiming that content you posted on Facebook infringes their intellectual property rights, we may need to promptly remove that content from Facebook without contacting you first.
 
 If we remove content that you posted because of an intellectual property report submitted through our online form, you'll receive a notification from Facebook that may include the name and email address of the rights owner who made the report and/or other details of the report. If you believe the content shouldn't have been removed, you can follow up with the rights owner directly to try to resolve the issue.
@@ -786,6 +796,16 @@ Repeated intellectual property infringement on Facebook
 =======================================================
 
 Copy link
+
+What is Facebook's repeat infringer policy?
+
+What happens if I repeatedly infringe?
+
+What are intellectual property rights?
+
+How can I appeal a disabled account?
+
+I have a different question
 
 By using Facebook, you agree to our [Terms of Service](https://www.facebook.com/terms). Our terms prohibit people from taking any action on Facebook that infringes or violates someone else's intellectual property rights or otherwise violates the law.
 
