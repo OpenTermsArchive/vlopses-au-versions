@@ -2856,16 +2856,6 @@ Tools Facebook provides to help protect your intellectual property
 
 Copy link
 
-What are Facebook intellectual property tools?
-
-How does Rights Manager work?
-
-How does Content Protection work?
-
-How do I apply for content tools?
-
-I have a different question
-
 In addition to our other measures, including our online reporting forms and our repeat infringer policy, we provide rights holders with tools to identify and enforce on content posted to Facebook that may contain their copyrighted work. We provide tailored tooling specific to a content owner's demonstrated needs.
 
 Rights Manager
