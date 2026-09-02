@@ -5,14 +5,14 @@ Google Terms of Service
 
 Effective July 30, 2026 | [Archived versions](https://policies.google.com/terms/archive) | [Download PDF](https://www.gstatic.com/policies/terms/pdf/20260730/4te5pybt/google_terms_of_service_en.pdf)
 
-[Country version:](https://policies.google.com/terms#footnote-country-version) Iran
+[Country version:](https://policies.google.com/terms#footnote-country-version) Australia
 
 What’s covered in these terms
 -----------------------------
 
 ### We know it’s tempting to skip these Terms of Service, but it’s important to establish what you can expect from us as you use Google [services](https://policies.google.com/terms#footnote-services), and what we expect from you.
 
-These Terms of Service reflect [the way Google’s business works](https://about.google/intl/en_IR/how-our-business-works), the laws that apply to our company, and [certain things we’ve always believed to be true](https://www.google.com/about/philosophy.html). As a result, these Terms of Service help define Google’s relationship with you as you interact with our services. For example, these terms include the following topic headings:
+These Terms of Service reflect [the way Google’s business works](https://about.google/intl/en_AU/how-our-business-works), the laws that apply to our company, and [certain things we’ve always believed to be true](https://www.google.com/about/philosophy.html). As a result, these Terms of Service help define Google’s relationship with you as you interact with our services. For example, these terms include the following topic headings:
 
 *   [What you can expect from us](https://policies.google.com/terms#toc-what-you-expect), which describes how we provide and develop our services
 *   [What we expect from you](https://policies.google.com/terms#toc-what-we-expect), which establishes certain rules for using our services
@@ -69,7 +69,7 @@ Contents
 Your relationship with Google
 =============================
 
-These terms help define the relationship between you and Google. When we speak of “Google,” “we,” “us,” and “our,” we mean Google LLC and its [affiliates](https://policies.google.com/terms#footnote-affiliates). Broadly speaking, we give you permission to access and use our [services](https://policies.google.com/terms#footnote-services) if you agree to follow these terms, which reflect [how Google’s business works and how we earn money](https://about.google/intl/en_IR/how-our-business-works).
+These terms help define the relationship between you and Google. When we speak of “Google,” “we,” “us,” and “our,” we mean Google LLC and its [affiliates](https://policies.google.com/terms#footnote-affiliates). Broadly speaking, we give you permission to access and use our [services](https://policies.google.com/terms#footnote-services) if you agree to follow these terms, which reflect [how Google’s business works and how we earn money](https://about.google/intl/en_AU/how-our-business-works).
 
 What you can expect from us
 ---------------------------
