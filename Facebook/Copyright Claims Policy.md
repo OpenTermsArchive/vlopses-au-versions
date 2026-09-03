@@ -341,8 +341,6 @@ What is a business registration?
 
 How do I register a trademark?
 
-How do I register a business?
-
 I have a different question
 
 In some states in the US and in some countries outside the US, a company might be able to register with a government office, or obtain a permit or licence to do business in that country or state. These registrations, such as ones issued by a state's Secretary of State, generally aren't the same as a trademark registration and may not create trademark rights for the company.
@@ -2496,13 +2494,11 @@ How do I report copyright infringement on Facebook?
 
 Copy link
 
-How do I report Facebook copyright?
+How do I report copyright infringement?
 
-What is Facebook copyright infringement?
+How do I contact a designated agent?
 
-How do I contact Facebook agent?
-
-How do I message content owner?
+What happens after I report copyright?
 
 I have a different question
 
