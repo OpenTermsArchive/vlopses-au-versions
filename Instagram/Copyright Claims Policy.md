@@ -3,6 +3,14 @@ Intellectual Property
 
 Copy link
 
+What is Instagram intellectual property?
+
+How do I report Instagram copyright?
+
+How do I report Instagram trademark?
+
+I have a different question
+
 About Intellectual Property
 ---------------------------
 
@@ -209,14 +217,6 @@ How do I know if I own the copyright in a work?
 ===============================================
 
 Copy link
-
-What is copyright ownership?
-
-What is an original work?
-
-What if I appear in a photo?
-
-I have a different question
 
 In general, the person who creates an original work owns the copyright. For example, if you create a painting, you likely own the copyright for that painting. Similarly, if you take a photo, you likely own the copyright for that photo.
 
@@ -437,6 +437,16 @@ What to do if content you posted on Instagram or Threads gets removed because it
 
 Copy link
 
+How do I appeal Instagram content removal?
+
+What is Instagram copyright infringement?
+
+What is Instagram trademark infringement?
+
+How do I contact the rights owner?
+
+I have a different question
+
 If we remove content you posted because of an intellectual property report submitted through our online form, you’ll receive a notification that may include the name and email address of the rights owner who made the report and/or other details of the report. If you believe the content shouldn't have been removed, you can follow up with the rights owner directly to try to resolve the issue.
 
 If your content was removed because of a copyright report, you can submit an appeal. Learn more about [our appeals process](https://www.facebook.com/help/instagram/1417735471763678?locale=en_US&helpref=faq_content) or [how to use music in your videos on Instagram or Threads.](https://www.facebook.com/help/instagram/629037417957828?helpref=faq_content)
@@ -454,16 +464,6 @@ What happens if you repeatedly post content on Instagram or Threads that violate
 =============================================================================================================================
 
 Copy link
-
-What happens to my Instagram account?
-
-How does Instagram repeat infringer policy work?
-
-How do I avoid Instagram copyright infringement?
-
-What if my Instagram account was disabled by mistake?
-
-I have a different question
 
 By using Instagram or Threads, you have agreed to our [Terms of Use](https://help.instagram.com/581066165581870?helpref=faq_content), which prohibit people from taking any action on Instagram or Threads that infringes or violates someone else's intellectual property rights or otherwise violates the law.
 
@@ -518,14 +518,6 @@ Report copyright infringement on Instagram or Threads
 =====================================================
 
 Copy link
-
-How do I report Instagram copyright?
-
-How do I use Brand Rights Protection?
-
-What is a DMCA designated agent?
-
-I have a different question
 
 If you believe content on Instagram or Threads is infringing your copyright, you can take one or more of the following actions:
 
@@ -838,9 +830,7 @@ What is a trademark registration?
 
 What is a business registration?
 
-How do I register a trademark?
-
-How do I register a business?
+What is a USPTO registration?
 
 I have a different question
 
@@ -872,6 +862,14 @@ How long does trademark protection last?
 ========================================
 
 Copy link
+
+What is trademark protection?
+
+How long do trademark rights last?
+
+How do I renew a trademark?
+
+I have a different question
 
 Trademark rights may last indefinitely, but only if the trademark owner continues to use the trademark in commerce to identify their products or services. If a trademark owner stops using the trademark, or if it isn’t used properly, they might lose their trademark rights. Please also note that for trademarks that are registered with the United States Patent and Trademark Office (USPTO), issued registrations must be renewed periodically. The laws in other jurisdictions may vary.
 
@@ -906,14 +904,6 @@ Are there any limits to trademark rights?
 =========================================
 
 Copy link
-
-What are trademark rights limits?
-
-What is nominative fair use?
-
-What is trademark geographic limit?
-
-I have a different question
 
 Not all uses of a trademark without permission of the trademark owner are necessarily an infringement of that trademark. The use of a trademark is only infringing if it’s likely to confuse people regarding the source, endorsement or affiliation of products or services. So, if a trademark is used in a way that is unlikely to cause consumer confusion, it’s generally not considered infringing.
 
@@ -1007,16 +997,6 @@ What happens if you repeatedly post content on Instagram or Threads that violate
 
 Copy link
 
-What happens to my Instagram account?
-
-How does Instagram repeat infringer policy work?
-
-How do I avoid Instagram copyright infringement?
-
-What if my Instagram account was disabled by mistake?
-
-I have a different question
-
 By using Instagram or Threads, you have agreed to our [Terms of Use](https://help.instagram.com/581066165581870?helpref=faq_content), which prohibit people from taking any action on Instagram or Threads that infringes or violates someone else's intellectual property rights or otherwise violates the law.
 
 Repeat Infringer Policy
@@ -1045,6 +1025,16 @@ How to report trademark infringement on Instagram or Threads
 ============================================================
 
 Copy link
+
+How do I report Instagram trademark infringement?
+
+How do I report Threads trademark infringement?
+
+How do I use Brand Rights Protection?
+
+What happens after I report trademark infringement?
+
+I have a different question
 
 Instagram and Threads can’t adjudicate disputes between third parties, and so we wouldn’t be in a position to act on trademark reports that require an in-depth trademark analysis or a real-world dispute outside of Instagram or Threads. In these situations, rather than contacting Instagram or Threads, you may want to reach out directly to the party that you believe is infringing your rights, or seek any resolution in court or by other judicial means.
 
@@ -1167,14 +1157,6 @@ Are there any limits to trademark rights?
 =========================================
 
 Copy link
-
-What are trademark rights limits?
-
-What is nominative fair use?
-
-What is trademark geographic limit?
-
-I have a different question
 
 Not all uses of a trademark without permission of the trademark owner are necessarily an infringement of that trademark. The use of a trademark is only infringing if it’s likely to confuse people regarding the source, endorsement or affiliation of products or services. So, if a trademark is used in a way that is unlikely to cause consumer confusion, it’s generally not considered infringing.
 
