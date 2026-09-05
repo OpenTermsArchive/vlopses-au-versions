@@ -279,6 +279,14 @@ The difference between copyright and trademark
 
 Copy link
 
+What is copyright?
+
+What is trademark?
+
+What is intellectual property?
+
+I have a different question
+
 The law in most countries recognizes copyrights as well as trademarks. Copyright law and trademark law serve two different purposes.
 
 [Copyright is](https://help.instagram.com/745146219025379?helpref=faq_content) meant to foster creativity and to provide incentives to create original works of authorship for the benefit of the public. Copyright protects original works like photos, videos, movies and music. It’s also important to note that, in the U.S., the Digital Millennium Copyright Act (DMCA) applies only to copyrights and doesn’t apply to trademarks.
@@ -869,6 +877,14 @@ The difference between copyright and trademark
 
 Copy link
 
+What is copyright?
+
+What is trademark?
+
+What is intellectual property?
+
+I have a different question
+
 The law in most countries recognizes copyrights as well as trademarks. Copyright law and trademark law serve two different purposes.
 
 [Copyright is](https://help.instagram.com/745146219025379?helpref=faq_content) meant to foster creativity and to provide incentives to create original works of authorship for the benefit of the public. Copyright protects original works like photos, videos, movies and music. It’s also important to note that, in the U.S., the Digital Millennium Copyright Act (DMCA) applies only to copyrights and doesn’t apply to trademarks.
@@ -963,6 +979,16 @@ How to report trademark infringement on Instagram or Threads
 ============================================================
 
 Copy link
+
+How do I report Instagram trademark infringement?
+
+How do I report Threads trademark infringement?
+
+How do I use Brand Rights Protection?
+
+What happens after I report trademark infringement?
+
+I have a different question
 
 Instagram and Threads can’t adjudicate disputes between third parties, and so we wouldn’t be in a position to act on trademark reports that require an in-depth trademark analysis or a real-world dispute outside of Instagram or Threads. In these situations, rather than contacting Instagram or Threads, you may want to reach out directly to the party that you believe is infringing your rights, or seek any resolution in court or by other judicial means.
 
