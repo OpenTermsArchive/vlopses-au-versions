@@ -149,11 +149,11 @@ Related articles
 
 [What is trademark infringement?](https://www.facebook.com/help/349534658401968/?helpref=related_articles)
 
-[Trademark](https://www.facebook.com/help/507663689427413/?helpref=related_articles)
-
 [Are there any limits to trademark rights?](https://www.facebook.com/help/719682678205946/?helpref=related_articles)
 
-[What's the difference between copyright and trademark?](https://www.facebook.com/help/339026683156879/?helpref=related_articles)
+[Does a trademark need to be registered to be protected?](https://www.facebook.com/help/1430594943641002/?helpref=related_articles)
+
+[Trademark](https://www.facebook.com/help/507663689427413/?helpref=related_articles)
 
 [How long does trademark protection last?](https://www.facebook.com/help/1823502941230538/?helpref=related_articles)
 
@@ -163,17 +163,17 @@ Related articles
 
 * * *](https://www.facebook.com/help/349534658401968/?helpref=related_articles)
 
-[Trademark
-
-* * *](https://www.facebook.com/help/507663689427413/?helpref=related_articles)
-
 [Are there any limits to trademark rights?
 
 * * *](https://www.facebook.com/help/719682678205946/?helpref=related_articles)
 
-[What's the difference between copyright and trademark?
+[Does a trademark need to be registered to be protected?
 
-* * *](https://www.facebook.com/help/339026683156879/?helpref=related_articles)
+* * *](https://www.facebook.com/help/1430594943641002/?helpref=related_articles)
+
+[Trademark
+
+* * *](https://www.facebook.com/help/507663689427413/?helpref=related_articles)
 
 [How long does trademark protection last?](https://www.facebook.com/help/1823502941230538/?helpref=related_articles)
 
@@ -401,9 +401,7 @@ What are trademark rights?
 
 How long do trademark rights last?
 
-How do I renew a trademark?
-
-What happens if I stop using a trademark?
+How do I renew trademark rights?
 
 I have a different question
 
@@ -962,13 +960,11 @@ Can I report an infringement of someone else's intellectual property on Facebook
 
 Copy link
 
-How do I report intellectual property?
+How do I report an infringement?
 
-What is intellectual property infringement?
+What is intellectual property?
 
-How do I report copyright infringement?
-
-How do I report trademark infringement?
+What is a copyright infringement?
 
 I have a different question
 
@@ -1156,11 +1152,9 @@ Copy link
 
 What information for trademark report?
 
-How do I submit a trademark report?
+How do I find infringing content?
 
 What is a trademark infringement?
-
-How do I find content URLs?
 
 I have a different question
 
@@ -1308,6 +1302,16 @@ Report an advertisement for intellectual property infringement on Facebook
 ==========================================================================
 
 Copy link
+
+How do I report an ad?
+
+What is Brand Rights Protection?
+
+How do I report copyright infringement?
+
+How do I report trademark infringement?
+
+I have a different question
 
 If you own a registered trademark, you may be eligible to use Brand Rights Protection. This tool allows you to identify trademark violations, counterfeit products and copyright infringement across Meta technologies such as Facebook and Instagram. Learn more about [Brand Rights Protection](https://www.facebook.com/business/help/828925381043253?helpref=faq_content), including how to apply.
 
@@ -2854,11 +2858,11 @@ Copy link
 
 What are Facebook intellectual property tools?
 
-How does Rights Manager work?
+How does Facebook Rights Manager work?
 
-How does Content Protection work?
+How does Facebook content protection work?
 
-How do I apply for content tools?
+How do I report Facebook copyright infringement?
 
 I have a different question
 
@@ -2881,8 +2885,8 @@ Actions that you can take with our copyright management tools
 
 When your content is detected on a Page, profile or Instagram account, you can choose to take the enforcement actions available to you based on your demonstrated needs. Actions include:
 
-*   **Allow or track**: Allow matching content to remain posted and visible on Facebook and/or Instagram and have visibility into how it performs over time.
-*   **Block**: Prevent the matching content from being visible to anyone other than the Page, profile or Instagram account that posted it.
+*   **Allow or track**: Allow matching content to remain posted and visible on Facebook and/or Instagram, and have visibility into how it performs over time.
+*   **Hide**: Prevent the matching content from being visible to anyone other than the Page, profile or Instagram account that posted it.
 *   **Monetise**: You may be able to claim money earned from a video that is eligible for monetisation on Meta platforms. Note: At this time, this feature is not available to all creators using content protection and/or Rights Manager.
 *   **Apply credit or ownership links**: You may be able to insert a banner below selected Facebook matches linking it to your own content, Page or profile.
 *   **Report and request takedown**: You can choose to send a copyright report to Facebook, which may result in the reported content being removed.
