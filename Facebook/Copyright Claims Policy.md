@@ -149,11 +149,11 @@ Related articles
 
 [What is trademark infringement?](https://www.facebook.com/help/349534658401968/?helpref=related_articles)
 
+[Trademark](https://www.facebook.com/help/507663689427413/?helpref=related_articles)
+
 [Are there any limits to trademark rights?](https://www.facebook.com/help/719682678205946/?helpref=related_articles)
 
-[Does a trademark need to be registered to be protected?](https://www.facebook.com/help/1430594943641002/?helpref=related_articles)
-
-[Trademark](https://www.facebook.com/help/507663689427413/?helpref=related_articles)
+[What's the difference between copyright and trademark?](https://www.facebook.com/help/339026683156879/?helpref=related_articles)
 
 [How long does trademark protection last?](https://www.facebook.com/help/1823502941230538/?helpref=related_articles)
 
@@ -163,17 +163,17 @@ Related articles
 
 * * *](https://www.facebook.com/help/349534658401968/?helpref=related_articles)
 
+[Trademark
+
+* * *](https://www.facebook.com/help/507663689427413/?helpref=related_articles)
+
 [Are there any limits to trademark rights?
 
 * * *](https://www.facebook.com/help/719682678205946/?helpref=related_articles)
 
-[Does a trademark need to be registered to be protected?
+[What's the difference between copyright and trademark?
 
-* * *](https://www.facebook.com/help/1430594943641002/?helpref=related_articles)
-
-[Trademark
-
-* * *](https://www.facebook.com/help/507663689427413/?helpref=related_articles)
+* * *](https://www.facebook.com/help/339026683156879/?helpref=related_articles)
 
 [How long does trademark protection last?](https://www.facebook.com/help/1823502941230538/?helpref=related_articles)
 
@@ -401,7 +401,9 @@ What are trademark rights?
 
 How long do trademark rights last?
 
-How do I renew trademark rights?
+How do I renew a trademark?
+
+What happens if I stop using a trademark?
 
 I have a different question
 
@@ -548,9 +550,9 @@ Related articles
 
 [How long does trademark protection last?](https://www.facebook.com/help/1823502941230538/?helpref=related_articles)
 
-[What are trademarks and what they protect](https://www.facebook.com/help/1378807958858854/?helpref=related_articles)
-
 [Does a trademark need to be registered to be protected?](https://www.facebook.com/help/1430594943641002/?helpref=related_articles)
+
+[What are trademarks and what they protect](https://www.facebook.com/help/1378807958858854/?helpref=related_articles)
 
 [Trademark](https://www.facebook.com/help/507663689427413/?helpref=related_articles)
 
@@ -564,13 +566,13 @@ Related articles
 
 * * *](https://www.facebook.com/help/1823502941230538/?helpref=related_articles)
 
-[What are trademarks and what they protect
-
-* * *](https://www.facebook.com/help/1378807958858854/?helpref=related_articles)
-
 [Does a trademark need to be registered to be protected?
 
 * * *](https://www.facebook.com/help/1430594943641002/?helpref=related_articles)
+
+[What are trademarks and what they protect
+
+* * *](https://www.facebook.com/help/1378807958858854/?helpref=related_articles)
 
 [Trademark](https://www.facebook.com/help/507663689427413/?helpref=related_articles)
 
@@ -960,11 +962,13 @@ Can I report an infringement of someone else's intellectual property on Facebook
 
 Copy link
 
-How do I report an infringement?
+How do I report intellectual property?
 
-What is intellectual property?
+What is intellectual property infringement?
 
-What is a copyright infringement?
+How do I report copyright infringement?
+
+How do I report trademark infringement?
 
 I have a different question
 
@@ -1152,9 +1156,11 @@ Copy link
 
 What information for trademark report?
 
-How do I find infringing content?
+How do I submit a trademark report?
 
 What is a trademark infringement?
+
+How do I find content URLs?
 
 I have a different question
 
@@ -1302,16 +1308,6 @@ Report an advertisement for intellectual property infringement on Facebook
 ==========================================================================
 
 Copy link
-
-How do I report an ad?
-
-What is Brand Rights Protection?
-
-How do I report copyright infringement?
-
-How do I report trademark infringement?
-
-I have a different question
 
 If you own a registered trademark, you may be eligible to use Brand Rights Protection. This tool allows you to identify trademark violations, counterfeit products and copyright infringement across Meta technologies such as Facebook and Instagram. Learn more about [Brand Rights Protection](https://www.facebook.com/business/help/828925381043253?helpref=faq_content), including how to apply.
 
@@ -2494,11 +2490,13 @@ How do I report copyright infringement on Facebook?
 
 Copy link
 
-How do I report copyright infringement?
+How do I report Facebook copyright?
 
-How do I contact a designated agent?
+What is Facebook copyright infringement?
 
-What happens after I report copyright?
+How do I contact Facebook agent?
+
+How do I message content owner?
 
 I have a different question
 
@@ -2563,11 +2561,13 @@ How do I contact Meta's Digital Millennium Copyright Act (DMCA) designated agent
 
 Copy link
 
-How do I contact Meta DMCA?
+How do I contact Meta DMCA agent?
 
-How do I send a DMCA claim?
+How do I send a DMCA report?
 
-What is Meta's DMCA agent?
+What is Meta's DMCA email?
+
+What is Meta's DMCA address?
 
 I have a different question
 
