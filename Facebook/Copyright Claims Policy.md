@@ -2178,13 +2178,13 @@ Unintentional actions can still violate copyright on Facebook
 
 Copy link
 
-What is Facebook copyright infringement?
+What is copyright infringement?
+
+What is Facebook copyright policy?
 
 What is fair use on Facebook?
 
 How do I report copyright infringement?
-
-What does Facebook copyright protect?
 
 I have a different question
 
