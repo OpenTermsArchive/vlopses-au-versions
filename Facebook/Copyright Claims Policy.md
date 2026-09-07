@@ -151,13 +151,13 @@ Related Articles
 
 [What is trademark infringement?](https://www.facebook.com/help/349534658401968/?helpref=related_articles)
 
-[Are there any limits to trademark rights?](https://www.facebook.com/help/719682678205946/?helpref=related_articles)
-
 [Trademark](https://www.facebook.com/help/507663689427413/?helpref=related_articles)
 
-[How long does trademark protection last?](https://www.facebook.com/help/1823502941230538/?helpref=related_articles)
+[Are there any limits to trademark rights?](https://www.facebook.com/help/719682678205946/?helpref=related_articles)
 
-[Does a trademark need to be registered to be protected?](https://www.facebook.com/help/1430594943641002/?helpref=related_articles)
+[What’s the difference between copyright and trademark?](https://www.facebook.com/help/339026683156879/?helpref=related_articles)
+
+[What are fair use and other exceptions to copyright](https://www.facebook.com/help/337995452911154/?helpref=related_articles)
 
 Related Articles
 
@@ -165,19 +165,19 @@ Related Articles
 
 * * *](https://www.facebook.com/help/349534658401968/?helpref=related_articles)
 
-[Are there any limits to trademark rights?
-
-* * *](https://www.facebook.com/help/719682678205946/?helpref=related_articles)
-
 [Trademark
 
 * * *](https://www.facebook.com/help/507663689427413/?helpref=related_articles)
 
-[How long does trademark protection last?
+[Are there any limits to trademark rights?
 
-* * *](https://www.facebook.com/help/1823502941230538/?helpref=related_articles)
+* * *](https://www.facebook.com/help/719682678205946/?helpref=related_articles)
 
-[Does a trademark need to be registered to be protected?](https://www.facebook.com/help/1430594943641002/?helpref=related_articles)
+[What’s the difference between copyright and trademark?
+
+* * *](https://www.facebook.com/help/339026683156879/?helpref=related_articles)
+
+[What are fair use and other exceptions to copyright](https://www.facebook.com/help/337995452911154/?helpref=related_articles)
 
 Other ways to get help
 ----------------------
@@ -198,9 +198,9 @@ Copy link
 
 What is trademark infringement?
 
-What is likelihood of confusion?
-
 What is trademark dilution?
+
+What causes trademark confusion?
 
 I have a different question
 
@@ -276,8 +276,6 @@ What is a registered trademark?
 How do I register a trademark?
 
 What are common law trademark rights?
-
-What is the USPTO?
 
 I have a different question
 
@@ -1383,11 +1381,11 @@ Copy link
 
 How do I report a third-party app?
 
-What is intellectual property infringement?
+What is a third-party app?
 
 How do I contact an app developer?
 
-What are Facebook's Terms of Service?
+What are Facebook Terms of Service?
 
 I have a different question
 
@@ -2176,13 +2174,13 @@ Unintentional actions can still violate copyright on Facebook
 
 Copy link
 
-What is copyright infringement?
-
-What is Facebook copyright policy?
+What is Facebook copyright infringement?
 
 What is fair use on Facebook?
 
-How do I report copyright infringement?
+What happens if I infringe copyright?
+
+How do I avoid Facebook copyright issues?
 
 I have a different question
 
@@ -2253,11 +2251,11 @@ A video I posted on Facebook was removed immediately. What happened, and what ar
 
 Copy link
 
-What is Facebook copyright content?
+What happens if Facebook removes my video?
 
-What happens to removed Facebook videos?
+Why was my Facebook video removed?
 
-How do I check Facebook notifications?
+How do I appeal a Facebook video removal?
 
 I have a different question
 
