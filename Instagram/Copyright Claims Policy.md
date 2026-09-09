@@ -246,14 +246,6 @@ How long does copyright protection last?
 
 Copy link
 
-What is copyright protection?
-
-How long does copyright last?
-
-What is the public domain?
-
-I have a different question
-
 Copyright protection doesn’t last forever. Eventually, a work loses copyright protection and becomes part of the “public domain.” Once a work is in the public domain, it’s freely available for anyone to use.
 
 A central purpose of copyright law is to encourage people to make creative works. For this reason, the public domain ensures copyright owners obtain certain rights only for a limited amount of time. This balance between copyright law and the public domain gives the author an incentive to create, but also gives other people the ability to use the work without permission after the copyright expires.
@@ -398,14 +390,6 @@ Can I still violate another person's copyright on Instagram or Threads if I didn
 ======================================================================================================
 
 Copy link
-
-What is Instagram copyright infringement?
-
-What is Instagram fair use?
-
-How does Instagram copyright work?
-
-I have a different question
 
 It's possible to infringe someone else's copyright, even if you don't intend to do so. In most cases, you shouldn’t use someone else’s copyrighted work if you don’t have permission.
 
@@ -777,6 +761,14 @@ Does a trademark need to be registered to be protected?
 =======================================================
 
 Copy link
+
+What is a registered trademark?
+
+How do I register a trademark?
+
+What are common law trademark rights?
+
+I have a different question
 
 It depends. In the U.S., a trademark can be registered with the United States Patent and Trademark Office (USPTO). Federal registrations with the USPTO establish trademark rights as of a certain date and provide a presumption that the registrant owns a valid trademark, among other things. For these reasons, trademark owners often obtain USPTO registrations.
 
