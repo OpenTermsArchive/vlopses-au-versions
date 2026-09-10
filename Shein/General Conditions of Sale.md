@@ -48,6 +48,9 @@ Return requirements for returnable items：
 | ![](https://img.ltwebstatic.com/images3_ach/2024/09/10/92/1725956484d9d39e8fcf42e9d3d2e8ea8fc8eb6508.png) Other categories |
 | --- |
 | The items must be returned in brand new condition with the original packaging. |
+| Bundled Products |
+| --- |
+| For bundled products, all items included in the set must be returned together. |
 
 3\. How Can I Return Items?
 
