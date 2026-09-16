@@ -2418,9 +2418,9 @@ How does Meta process United States Digital Millennium Copyright Act (DMCA) coun
 
 Copy link
 
-What is the DMCA?
+What is a DMCA counter-notification?
 
-How do I file a counter-notification?
+How do I file a DMCA counter-notification?
 
 What happens after a counter-notification?
 
