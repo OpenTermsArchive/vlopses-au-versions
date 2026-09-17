@@ -28,7 +28,7 @@ Contents
 Temu | Return and Refund Policy
 ===============================
 
-Last Updated: Mar 23, 2026 AEDT
+Last Updated: Sep 17, 2026 AEST
 
 If you are not satisfied with what you bought on Temu, you may be eligible to return it and get a refund by following the simple procedure set out in this Return and Refund Policy.
 
@@ -100,7 +100,7 @@ I. Items that can't be returned:
 
 Clothing items that have been worn, washed, or damaged after delivery, or have had their tags or hygiene stickers removed.
 
-Grocery and food products.
+Groceries and food. However, if an eligible fresh item arrives damaged or defective, you may request a refund within 72 hours of delivery.
 
 Some health and personal care items.
 
