@@ -44,14 +44,6 @@ Resolve issues, make changes and get support in real time
 Copyright
 =========
 
-What is Instagram copyright?
-
-How do I report Instagram copyright?
-
-How do I protect my Instagram work?
-
-I have a different question
-
 These articles provide information about copyrights, including how you can protect your own copyrighted works and avoid infringing the copyrights of others. We also provide information about how Instagram and Threads address reported copyright infringement. If you believe someone is using your copyrighted work without your permission, you can report it to us by [filling out this form](https://www.instagram.com/help/ipreporting/report/copyright/).
 
 Laws in different countries may vary. For more information on copyright law, you can visit the website of the [U.S. Copyright Office](https://www.copyright.gov/) or the [World Intellectual Property Organization (WIPO)](http://www.wipo.int/portal/en/index.html). Instagram and Threads can’t provide you with legal advice, so you may want to speak with an attorney if you have more questions about copyright.
@@ -399,14 +391,6 @@ Can I still violate another person's copyright on Instagram or Threads if I didn
 
 Copy link
 
-What is Instagram copyright infringement?
-
-What is Instagram fair use?
-
-How does Instagram copyright work?
-
-I have a different question
-
 It's possible to infringe someone else's copyright, even if you don't intend to do so. In most cases, you shouldn’t use someone else’s copyrighted work if you don’t have permission.
 
 Keep in mind that your use of someone else’s content may infringe their copyright, even if you:
@@ -684,16 +668,6 @@ What happens when you submit a copyright report to Instagram or Threads
 
 Copy link
 
-What happens after I report?
-
-How do I check report status?
-
-What information is shared?
-
-How do I appeal a copyright report?
-
-I have a different question
-
 If you submitted a copyright report to us through our [online form](https://help.instagram.com/contact/372592039493026) or via email, you'll receive an automated email that contains information about your report, including a unique report number. You should save this number in case you need to contact us about your report.
 
 Sometimes, we might respond to your report and ask for more information. If you receive a message from our team asking for more information about your report, you should respond directly to that message. Your response will be received by our team so they can continue to look into your report.
@@ -869,14 +843,6 @@ Are there any limits to trademark rights?
 
 Copy link
 
-What are trademark rights limits?
-
-What is nominative fair use?
-
-What is trademark geographic limit?
-
-I have a different question
-
 Not all uses of a trademark without permission of the trademark owner are necessarily an infringement of that trademark. The use of a trademark is only infringing if it’s likely to confuse people regarding the source, endorsement or affiliation of products or services. So, if a trademark is used in a way that is unlikely to cause consumer confusion, it’s generally not considered infringing.
 
 Notably, simply referring to a trademark for the purpose of discussing the product or service offered probably won’t be an infringing use of the trademark, as long as that reference doesn’t use more of the trademark than is needed to make its point. In fact, you might need to use the trademark to describe or comment on a particular product or service. This is known as the doctrine of nominative fair use, and typically permits such uses as commentary, criticism, parody, reviews and, in some countries, comparative advertising.
@@ -922,16 +888,6 @@ How to make sure the content you post to Instagram or Threads don't violate trad
 =========================================================================================
 
 Copy link
-
-How do I avoid Instagram trademark violations?
-
-What is Instagram trademark law?
-
-How does Instagram handle trademark reports?
-
-What happens if I violate Instagram trademark?
-
-I have a different question
 
 Under Instagram's [Terms of Use](https://help.instagram.com/478745558852511) and Meta's [Community Standards](https://transparency.meta.com/policies/community-standards) you can only post content to Instagram or Threads if it doesn't violate the intellectual property rights of another party, including trademarks. Please note that as an Instagram or Threads user, you are responsible for the content you post. If your content violates Threads or Instagram's policies or is reported to Instagram or Threads as infringing the intellectual property rights of another party, Instagram or Threads may remove that content.
 
@@ -1129,14 +1085,6 @@ Are there any limits to trademark rights?
 =========================================
 
 Copy link
-
-What are trademark rights limits?
-
-What is nominative fair use?
-
-What is trademark geographic limit?
-
-I have a different question
 
 Not all uses of a trademark without permission of the trademark owner are necessarily an infringement of that trademark. The use of a trademark is only infringing if it’s likely to confuse people regarding the source, endorsement or affiliation of products or services. So, if a trademark is used in a way that is unlikely to cause consumer confusion, it’s generally not considered infringing.
 
