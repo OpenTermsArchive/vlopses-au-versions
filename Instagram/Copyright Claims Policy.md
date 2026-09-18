@@ -1280,6 +1280,8 @@ How do I submit a DMCA counter-notification?
 
 What happens after I appeal?
 
+What makes an appeal invalid?
+
 I have a different question
 
 If your content was removed because of a copyright report, you can submit an appeal or a DMCA counter-notification. You received instructions in the message we sent you.
