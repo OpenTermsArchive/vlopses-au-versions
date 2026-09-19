@@ -1188,9 +1188,9 @@ Related Articles
 
 [What is trademark infringement?](https://www.facebook.com/help/349534658401968/?helpref=related_articles)
 
-[Reporting Trademark Infringements](https://www.facebook.com/help/440684869305015/?helpref=related_articles)
-
 [What information you need to include in a copyright report to Meta](https://www.facebook.com/help/231463960277847/?helpref=related_articles)
+
+[Reporting Trademark Infringements](https://www.facebook.com/help/440684869305015/?helpref=related_articles)
 
 [Does a trademark need to be registered to be protected?](https://www.facebook.com/help/1430594943641002/?helpref=related_articles)
 
@@ -1204,13 +1204,13 @@ Related Articles
 
 * * *](https://www.facebook.com/help/349534658401968/?helpref=related_articles)
 
-[Reporting Trademark Infringements
-
-* * *](https://www.facebook.com/help/440684869305015/?helpref=related_articles)
-
 [What information you need to include in a copyright report to Meta
 
 * * *](https://www.facebook.com/help/231463960277847/?helpref=related_articles)
+
+[Reporting Trademark Infringements
+
+* * *](https://www.facebook.com/help/440684869305015/?helpref=related_articles)
 
 [Does a trademark need to be registered to be protected?](https://www.facebook.com/help/1430594943641002/?helpref=related_articles)
 
@@ -1755,9 +1755,9 @@ Copyright generally doesn’t protect facts or ideas, but it may protect the ori
 Related Articles
 ----------------
 
-[What are fair use and other exceptions to copyright](https://www.facebook.com/help/337995452911154/?helpref=related_articles)
-
 [What rights do I have as a copyright owner?](https://www.facebook.com/help/1388077314536976/?helpref=related_articles)
+
+[What are fair use and other exceptions to copyright](https://www.facebook.com/help/337995452911154/?helpref=related_articles)
 
 [How long does copyright protection last?](https://www.facebook.com/help/697921770376427/?helpref=related_articles)
 
@@ -1767,13 +1767,13 @@ Related Articles
 
 Related Articles
 
-[What are fair use and other exceptions to copyright
-
-* * *](https://www.facebook.com/help/337995452911154/?helpref=related_articles)
-
 [What rights do I have as a copyright owner?
 
 * * *](https://www.facebook.com/help/1388077314536976/?helpref=related_articles)
+
+[What are fair use and other exceptions to copyright
+
+* * *](https://www.facebook.com/help/337995452911154/?helpref=related_articles)
 
 [How long does copyright protection last?
 
@@ -2777,6 +2777,14 @@ What happens when you submit a copyright report to Meta
 =======================================================
 
 Copy link
+
+What happens after I submit?
+
+What information does Meta share?
+
+How do I contact Meta about a report?
+
+I have a different question
 
 If you submit a [copyright report](https://www.facebook.com/help/325058084212425?helpref=faq_content) to us through our form or via email, you'll receive an automated message that contains information about your report, including a unique report number. You should save this number in case you need to contact us about your report.
 
