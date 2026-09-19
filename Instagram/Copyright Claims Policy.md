@@ -3,6 +3,14 @@ Intellectual Property
 
 Copy link
 
+What is Instagram intellectual property?
+
+How do I report Instagram copyright?
+
+How do I report Instagram trademark?
+
+I have a different question
+
 About Intellectual Property
 ---------------------------
 
@@ -106,6 +114,14 @@ Resolve issues, make changes and get support in real time
 
 Trademark
 =========
+
+What do trademarks protect?
+
+How do I report trademark infringement?
+
+How do Instagram trademarks work?
+
+I have a different question
 
 These articles provide information about trademarks. This includes what trademarks protect, how to avoid infringing the trademarks of others when posting to Instagram or Threads, and how Instagram or Threads address reported trademark infringement. If you believe someone is infringing on your trademark, you can report it to us by [filling out this form](https://www.instagram.com/help/ipreporting/report/trademark/).
 
@@ -1279,8 +1295,6 @@ How do I appeal Instagram content removal?
 How do I submit a DMCA counter-notification?
 
 What happens after I appeal?
-
-What makes an appeal invalid?
 
 I have a different question
 
