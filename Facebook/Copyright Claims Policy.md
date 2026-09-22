@@ -2255,13 +2255,13 @@ A video that I posted on Facebook was removed immediately. What happened, and wh
 
 Copy link
 
-What happens if my video is removed?
-
-How do I appeal a video removal?
-
 What is Facebook copyright content?
 
-How do I check my Facebook email?
+What happens to removed videos?
+
+How do I check my email settings?
+
+How do I check my notification settings?
 
 I have a different question
 
