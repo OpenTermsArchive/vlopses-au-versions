@@ -9,7 +9,9 @@ If your complaint is not about privacy, select your country/region of dispute fr
 
 Fill out this [form](https://support.google.com/youtube/contact/other_legal).
 
-Users in Brazil can use this [form](https://support.google.com/youtube/contact/BR_Decree_Complaint) to report non-consensual intimate content and other digital violence against women under Presidential Decree No. 12,976.
+**To report content containing non-consensual intimate imagery (NCII) and request its removal under the US TAKE IT DOWN Act (TIDA)**, please submit a removal request using this [form](https://support.google.com/youtube/contact/NCII).
+
+YouTube will review and remove confirmed NCII content within 48 hours of a submission of the linked webform and will make reasonable efforts to identify and remove identical copies of any such material.
 
 #### If you can't find your country/region in the menu above
 
