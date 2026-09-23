@@ -2,7 +2,7 @@
 
 Support
 
-![](https://aimg.kwcdn.com/upload_aimg/openingemail/flags/6b2eadb7-8219-4571-90bb-81740c4f3926.png.slim.png?imageView2/2/w/48/q/70/format/avif)
+![](https://aimg.kwcdn.com/upload_aimg/openingemail/flags/6b2eadb7-8219-4571-90bb-81740c4f3926.png.slim.png?imageMogr2/thumbnail/48x9999\>/quality/70/format/avif)
 
 English
 
@@ -34,7 +34,7 @@ If you are not satisfied with what you bought on Temu, you may be eligible to re
 
 1\. How do I make a return?
 
-![](https://aimg.kwcdn.com/upload_aimg/after_sales/b9ccab66-38cc-41f8-9c62-683df48e9fb1.png.slim.png?imageView2/q/70/format/avif)
+![](https://aimg.kwcdn.com/upload_aimg/after_sales/b9ccab66-38cc-41f8-9c62-683df48e9fb1.png.slim.png?imageMogr2/quality/70/format/avif)
 
 You can make a return by following these steps:
 
@@ -64,7 +64,7 @@ VII. After placing all the return items in one package, please print and tape th
 
 VIII. You can check the refund status of your items on your order details page or through Temu's SMS/Email/Push notifications.
 
-![](https://mktimg.kwcdn.com/fancy-image-combine/0cbd3d/6BqFiOBNj1/6536007fd40d4d4faa6b4fa6644bac87.png?imageView2/q/70/format/avif)
+![](https://mktimg.kwcdn.com/fancy-image-combine/0cbd3d/6BqFiOBNj1/6536007fd40d4d4faa6b4fa6644bac87.png?imageMogr2/quality/70/format/avif)
 
 Start return
 
@@ -90,7 +90,7 @@ Click on "All Orders"→"Print your return label and start return"→click on "P
 
 You may also click "Returns"→"Print return label"→to download and print your return label.
 
-![](https://aimg.kwcdn.com/upload_aimg/after_sales/b2c9d081-a5a0-48af-ba7c-ddb8a2c16893.png?imageView2/q/70/format/avif)
+![](https://aimg.kwcdn.com/upload_aimg/after_sales/b2c9d081-a5a0-48af-ba7c-ddb8a2c16893.png?imageMogr2/quality/70/format/avif)
 
 4\. How long do I have before making a return?
 
@@ -146,7 +146,7 @@ For more information about Temu credits, please visit: About credit balance.
 
 Once the refund is processed, your financial institution will need additional time to have it reflected in your account. Refer to the following table for more details.
 
-![](https://mktimg.kwcdn.com/fancy-image-combine/0cbd3d/EV_1YuIo3S/97b5c3909ea44bfc873cbb36349281cd.png?imageView2/q/70/format/avif)
+![](https://mktimg.kwcdn.com/fancy-image-combine/0cbd3d/EV_1YuIo3S/97b5c3909ea44bfc873cbb36349281cd.png?imageMogr2/quality/70/format/avif)
 
 7\. Important Notice
 
@@ -202,27 +202,27 @@ Start a Selling Account
 
 [Download the Temu App](https://www.temu.com/au/app.html)
 
-![](https://aimg.kwcdn.com/upload_aimg_b/web/pc/deb081e4-e46b-4b2d-bc1d-6a0e1800c73c.png.slim.png?imageView2/2/w/30/q/70/format/avif)
+![](https://aimg.kwcdn.com/upload_aimg_b/web/pc/deb081e4-e46b-4b2d-bc1d-6a0e1800c73c.png.slim.png?imageMogr2/thumbnail/30x9999\>/quality/70/format/avif)
 
 Price-drop alerts
 
-![](https://aimg.kwcdn.com/upload_aimg_b/web/pc/c19eefdc-4dfd-4106-8074-ed8521cacb6e.png.slim.png?imageView2/2/w/30/q/70/format/avif)
+![](https://aimg.kwcdn.com/upload_aimg_b/web/pc/c19eefdc-4dfd-4106-8074-ed8521cacb6e.png.slim.png?imageMogr2/thumbnail/30x9999\>/quality/70/format/avif)
 
 Track orders any time
 
-![](https://aimg.kwcdn.com/upload_aimg_b/web/pc/98996646-47c5-4020-ab1f-8e6b2ee39358.png.slim.png?imageView2/2/w/30/q/70/format/avif)
+![](https://aimg.kwcdn.com/upload_aimg_b/web/pc/98996646-47c5-4020-ab1f-8e6b2ee39358.png.slim.png?imageMogr2/thumbnail/30x9999\>/quality/70/format/avif)
 
 Faster & more secure checkout
 
-![](https://aimg.kwcdn.com/upload_aimg_b/web/pc/ab4a5d92-4b54-45f6-b18a-fbb16529d2b3.png.slim.png?imageView2/2/w/30/q/70/format/avif)
+![](https://aimg.kwcdn.com/upload_aimg_b/web/pc/ab4a5d92-4b54-45f6-b18a-fbb16529d2b3.png.slim.png?imageMogr2/thumbnail/30x9999\>/quality/70/format/avif)
 
 Low stock items alerts
 
-![](https://aimg.kwcdn.com/upload_aimg_b/web/pc/728e2277-96f9-4787-bd89-d87e3b6bc2f2.png.slim.png?imageView2/2/w/30/q/70/format/avif)
+![](https://aimg.kwcdn.com/upload_aimg_b/web/pc/728e2277-96f9-4787-bd89-d87e3b6bc2f2.png.slim.png?imageMogr2/thumbnail/30x9999\>/quality/70/format/avif)
 
 Exclusive offers
 
-![](https://aimg.kwcdn.com/upload_aimg_b/web/pc/2077debf-6cf5-463a-84ab-969eee3593a1.png.slim.png?imageView2/2/w/30/q/70/format/avif)
+![](https://aimg.kwcdn.com/upload_aimg_b/web/pc/2077debf-6cf5-463a-84ab-969eee3593a1.png.slim.png?imageMogr2/thumbnail/30x9999\>/quality/70/format/avif)
 
 Coupons & offers alerts
 
