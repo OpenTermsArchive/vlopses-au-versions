@@ -339,7 +339,7 @@ What is a trademark registration?
 
 What is a business registration?
 
-What is the USPTO?
+How do I register a trademark?
 
 I have a different question
 
@@ -1150,11 +1150,11 @@ What information do I need to include in a trademark report to Meta?
 
 Copy link
 
-How do I submit a trademark report?
+What information for trademark report?
 
-What to include in a trademark report?
+How do I find infringing content?
 
-How do I find a Facebook URL?
+What is a trademark infringement?
 
 I have a different question
 
@@ -1383,9 +1383,11 @@ Copy link
 
 How do I report a third-party app?
 
+What is intellectual property infringement?
+
 How do I contact an app developer?
 
-What are Facebook Terms of Service?
+What are Facebook's Terms of Service?
 
 I have a different question
 
