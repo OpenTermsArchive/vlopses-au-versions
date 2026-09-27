@@ -18,9 +18,9 @@ What is Facebook copyright?
 
 What is Facebook trademark?
 
-How do I report copyright violation?
+How do I report copyright violations?
 
-How do I report trademark violation?
+How do I report trademark violations?
 
 I have a different question
 
@@ -1150,11 +1150,11 @@ What information do I need to include in a trademark report to Meta?
 
 Copy link
 
-How do I submit a trademark report?
+What information for trademark report?
 
-What to include in a trademark report?
+How do I find infringing content?
 
-How do I find a Facebook URL?
+What is a trademark infringement?
 
 I have a different question
 
@@ -1445,14 +1445,6 @@ Retract an intellectual property report that you've submitted to Facebook
 
 Copy link
 
-How do I withdraw an IP report?
-
-How do I cancel an IP report?
-
-What happens after I withdraw?
-
-I have a different question
-
 If you submitted an intellectual property report, but then reached an agreement with the person who posted the content, or if you reported content by mistake, you can withdraw your intellectual property report.
 
 The best way to do this is to complete the retraction form provided to you in the email that you received when you filed your report. Alternatively, you can submit [this form.](https://www.facebook.com/help/contact/237593160842825)
@@ -1491,13 +1483,6 @@ Related articles
 * * *](https://www.facebook.com/help/258317347704209/?helpref=related_articles)
 
 [Content that I posted on Facebook was removed because it was reported for intellectual property infringement. What are my next steps?](https://www.facebook.com/help/365111110185763/?helpref=related_articles)
-
-Other ways to get help
-----------------------
-
-Chat with Meta AI support assistant
-
-Resolve issues, make changes and get support in real time
 
 - - -
 
