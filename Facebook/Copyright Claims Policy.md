@@ -18,9 +18,9 @@ What is Facebook copyright?
 
 What is Facebook trademark?
 
-How do I report copyright violations?
+How do I report copyright violation?
 
-How do I report trademark violations?
+How do I report trademark violation?
 
 I have a different question
 
@@ -1150,11 +1150,11 @@ What information do I need to include in a trademark report to Meta?
 
 Copy link
 
-What information for trademark report?
+How do I submit a trademark report?
 
-How do I find infringing content?
+What to include in a trademark report?
 
-What is a trademark infringement?
+How do I find a Facebook URL?
 
 I have a different question
 
