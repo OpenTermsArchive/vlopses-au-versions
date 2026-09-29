@@ -126,16 +126,6 @@ What are trademarks and what they protect
 
 Copy link
 
-What is a trademark?
-
-What do trademarks protect?
-
-How do trademarks work?
-
-How do I report a trademark violation?
-
-I have a different question
-
 A trademark is a word, slogan, symbol or design (example: a brand name or logo) that a person or company uses to distinguish their products or services from those offered by others. A trademark is protectable when it’s used in a distinctive way to identify a product or service. Whether you know it or not, you see trademarks all day long, whether shopping in stores or online, watching commercials on TV and so on.
 
 Generally, trademark law seeks to prevent consumers from being confused about who provides, endorses or is affiliated with a particular product or service. To prevent this situation, a trademark owner may be able to stop others from using their trademark (or a similar trademark) without permission if that use may cause confusion.
@@ -337,11 +327,13 @@ What is the difference between a trademark registration and a business registrat
 
 Copy link
 
-What is a trademark registration?
-
 What is a business registration?
 
+What is a trademark registration?
+
 What is the USPTO?
+
+What is the EUIPO?
 
 I have a different question
 
@@ -404,8 +396,6 @@ How long do trademark rights last?
 How do I lose trademark rights?
 
 How do I renew trademark rights?
-
-What is USPTO trademark registration?
 
 I have a different question
 
@@ -554,9 +544,9 @@ Related Articles
 
 [What are trademarks and what they protect](https://www.facebook.com/help/1378807958858854/?helpref=related_articles)
 
-[Trademark](https://www.facebook.com/help/507663689427413/?helpref=related_articles)
+[Does a trademark need to be registered to be protected?](https://www.facebook.com/help/1430594943641002/?helpref=related_articles)
 
-[What is the difference between a trademark registration and a business registration?](https://www.facebook.com/help/1378621128898663/?helpref=related_articles)
+[Trademark](https://www.facebook.com/help/507663689427413/?helpref=related_articles)
 
 Related Articles
 
@@ -572,11 +562,11 @@ Related Articles
 
 * * *](https://www.facebook.com/help/1378807958858854/?helpref=related_articles)
 
-[Trademark
+[Does a trademark need to be registered to be protected?
 
-* * *](https://www.facebook.com/help/507663689427413/?helpref=related_articles)
+* * *](https://www.facebook.com/help/1430594943641002/?helpref=related_articles)
 
-[What is the difference between a trademark registration and a business registration?](https://www.facebook.com/help/1378621128898663/?helpref=related_articles)
+[Trademark](https://www.facebook.com/help/507663689427413/?helpref=related_articles)
 
 Other ways to get help
 ----------------------
@@ -1383,9 +1373,7 @@ Copy link
 
 How do I report a third-party app?
 
-What is a third-party app?
-
-How do I contact an app developer?
+How do I contact a Facebook app developer?
 
 What are Facebook Terms of Service?
 
@@ -1449,7 +1437,7 @@ How do I withdraw an IP report?
 
 How do I cancel a copyright report?
 
-How do I retract a trademark report?
+What happens after I withdraw a report?
 
 I have a different question
 
@@ -1998,13 +1986,11 @@ How can I make sure the content I post to Facebook doesn't violate copyright law
 
 Copy link
 
-What is Facebook copyright law?
-
 How do I avoid Facebook copyright?
 
-What is Facebook fair use?
+What is Facebook copyright law?
 
-How do I get content permission?
+What is Facebook fair use?
 
 I have a different question
 
