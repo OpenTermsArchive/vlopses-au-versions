@@ -391,6 +391,14 @@ Can I still violate another person's copyright on Instagram or Threads if I didn
 
 Copy link
 
+What is Instagram copyright infringement?
+
+What is Instagram fair use?
+
+How does Instagram copyright work?
+
+I have a different question
+
 It's possible to infringe someone else's copyright, even if you don't intend to do so. In most cases, you shouldn’t use someone else’s copyrighted work if you don’t have permission.
 
 Keep in mind that your use of someone else’s content may infringe their copyright, even if you:
@@ -518,6 +526,16 @@ What to consider before submitting an intellectual property infringement report 
 
 Copy link
 
+What is intellectual property infringement?
+
+What are Instagram copyright permissions?
+
+What are Instagram trademark permissions?
+
+What are legal consequences of reporting?
+
+I have a different question
+
 **Consider your copyright and trademark permissions**
 -----------------------------------------------------
 
@@ -595,6 +613,16 @@ Information you need to include in a copyright report to Instagram or Threads
 =============================================================================
 
 Copy link
+
+What information do I need?
+
+How do I find content URLs?
+
+What is a copyright declaration?
+
+How do I submit a report?
+
+I have a different question
 
 The fastest and easiest way to submit a claim of copyright infringement to us is to use our [online form](https://help.instagram.com/contact/372592039493026). Whether you submit your report through our online form or another method, Instagram and Threads need the following information to be able to process your report:
 
@@ -738,6 +766,16 @@ What is trademark infringement?
 
 Copy link
 
+What is trademark infringement?
+
+When does trademark infringement occur?
+
+What is likelihood of confusion?
+
+What are limits to trademark rights?
+
+I have a different question
+
 Generally, trademark infringement occurs when:
 
 1.  A person uses a trademark owner’s trademark (or similar trademark) without permission.
@@ -824,6 +862,16 @@ What is a counterfeit?
 ======================
 
 Copy link
+
+How do I report counterfeit goods on Instagram?
+
+What is a counterfeit good?
+
+How do I report counterfeit goods on Threads?
+
+What is trademark infringement?
+
+I have a different question
 
 A counterfeit good is a knockoff or replica version of another company’s product. It usually copies the trademark (name or logo) and/or distinctive features of that other company’s product to imitate a genuine product. The manufacture, promotion or sale of a counterfeit good is a type of trademark infringement that is illegal in most countries, and is recognized as being harmful to consumers, trademark owners and honest sellers. Please note that counterfeit goods may be unlawful even if the seller explicitly says that the goods are counterfeit, or otherwise disclaims authenticity of the goods.
 
@@ -1025,6 +1073,16 @@ Information you need to include in a copyright report to Instagram or Threads
 
 Copy link
 
+What information do I need?
+
+How do I find content URLs?
+
+What is a copyright declaration?
+
+How do I submit a report?
+
+I have a different question
+
 The fastest and easiest way to submit a claim of copyright infringement to us is to use our [online form](https://help.instagram.com/contact/372592039493026). Whether you submit your report through our online form or another method, Instagram and Threads need the following information to be able to process your report:
 
 *   Your complete contact information (full name, mailing address and phone number)\*
@@ -1053,6 +1111,16 @@ What to consider before submitting an intellectual property infringement report 
 =======================================================================================================
 
 Copy link
+
+What is intellectual property infringement?
+
+What are Instagram copyright permissions?
+
+What are Instagram trademark permissions?
+
+What are legal consequences of reporting?
+
+I have a different question
 
 **Consider your copyright and trademark permissions**
 -----------------------------------------------------
