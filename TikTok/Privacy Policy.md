@@ -1,6 +1,6 @@
 Other regions
 
-Політика конфіденційності
+Privacy Policy
 
 _Last updated: July 8, 2025_
 
