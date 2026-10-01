@@ -126,16 +126,6 @@ What are trademarks and what they protect
 
 Copy link
 
-What is a trademark?
-
-What do trademarks protect?
-
-How do trademarks work?
-
-How do I report a trademark violation?
-
-I have a different question
-
 A trademark is a word, slogan, symbol or design (example: a brand name or logo) that a person or company uses to distinguish their products or services from those offered by others. A trademark is protectable when it’s used in a distinctive way to identify a product or service. Whether you know it or not, you see trademarks all day long, whether shopping in stores or online, watching commercials on TV and so on.
 
 Generally, trademark law seeks to prevent consumers from being confused about who provides, endorses or is affiliated with a particular product or service. To prevent this situation, a trademark owner may be able to stop others from using their trademark (or a similar trademark) without permission if that use may cause confusion.
@@ -178,13 +168,6 @@ Related Articles
 * * *](https://www.facebook.com/help/1823502941230538/?helpref=related_articles)
 
 [Does a trademark need to be registered to be protected?](https://www.facebook.com/help/1430594943641002/?helpref=related_articles)
-
-Other ways to get help
-----------------------
-
-Chat with Meta AI support assistant
-
-Resolve issues, make changes and get support in real time
 
 - - -
 
@@ -404,8 +387,6 @@ How long do trademark rights last?
 How do I lose trademark rights?
 
 How do I renew trademark rights?
-
-What is USPTO trademark registration?
 
 I have a different question
 
@@ -1802,6 +1783,14 @@ How do you know if you own the copyright in a work
 
 Copy link
 
+What is copyright ownership?
+
+What is an original work?
+
+What if I appear in a photo?
+
+I have a different question
+
 In general, the person who creates an original work owns the copyright. For example, if you create a painting, you likely own the copyright in that painting. Similarly, if you take a photo, you likely own the copyright in that photo.
 
 There may be situations where you might think you have a copyright in an original work, but you may not. For example:
@@ -1844,6 +1833,13 @@ Related Articles
 * * *](https://www.facebook.com/help/697921770376427/?helpref=related_articles)
 
 [What is copyright and what does it protect?](https://www.facebook.com/help/116772962146447/?helpref=related_articles)
+
+Other ways to get help
+----------------------
+
+Chat with Meta AI support assistant
+
+Resolve issues, make changes and get support in real time
 
 - - -
 
@@ -1983,13 +1979,11 @@ How can I make sure the content I post to Facebook doesn't violate copyright law
 
 Copy link
 
-What is Facebook copyright law?
-
 How do I avoid Facebook copyright?
 
-What is Facebook fair use?
+What is Facebook copyright law?
 
-How do I get content permission?
+What is Facebook fair use?
 
 I have a different question
 
@@ -2763,6 +2757,14 @@ What happens when you submit a copyright report to Meta
 
 Copy link
 
+What happens after I submit?
+
+What information does Meta share?
+
+How do I contact Meta about a report?
+
+I have a different question
+
 If you submit a [copyright report](https://www.facebook.com/help/325058084212425?helpref=faq_content) to us through our form or via email, you'll receive an automated message that contains information about your report, including a unique report number. You should save this number in case you need to contact us about your report.
 
 Sometimes, we might respond to your report and ask for more information. If you receive a message from our team you should respond directly to that message. Your response will be received by our team so they can continue to look into your report.
@@ -2809,6 +2811,13 @@ Related Articles
 * * *](https://www.facebook.com/help/350712395302528/?helpref=related_articles)
 
 [What information do I need to include in a trademark report to Meta?](https://www.facebook.com/help/303715969677454/?helpref=related_articles)
+
+Other ways to get help
+----------------------
+
+Chat with Meta AI support assistant
+
+Resolve issues, make changes and get support in real time
 
 - - -
 
