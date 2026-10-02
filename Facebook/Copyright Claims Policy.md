@@ -126,6 +126,16 @@ What are trademarks and what they protect
 
 Copy link
 
+What is a trademark?
+
+What do trademarks protect?
+
+How do trademarks work?
+
+How do I report a trademark violation?
+
+I have a different question
+
 A trademark is a word, slogan, symbol or design (example: a brand name or logo) that a person or company uses to distinguish their products or services from those offered by others. A trademark is protectable when it’s used in a distinctive way to identify a product or service. Whether you know it or not, you see trademarks all day long, whether shopping in stores or online, watching commercials on TV and so on.
 
 Generally, trademark law seeks to prevent consumers from being confused about who provides, endorses or is affiliated with a particular product or service. To prevent this situation, a trademark owner may be able to stop others from using their trademark (or a similar trademark) without permission if that use may cause confusion.
@@ -169,6 +179,13 @@ Related Articles
 
 [Does a trademark need to be registered to be protected?](https://www.facebook.com/help/1430594943641002/?helpref=related_articles)
 
+Other ways to get help
+----------------------
+
+Chat with Meta AI support assistant
+
+Resolve issues, make changes and get support in real time
+
 - - -
 
 *   [Policies](https://www.facebook.com/help/463972400461409/?helpref=breadcrumb)
@@ -179,13 +196,11 @@ What is trademark infringement?
 
 Copy link
 
+What is trademark infringement?
+
 What is trademark dilution?
 
 What is likelihood of confusion?
-
-What is a protected trademark?
-
-What is trademark law?
 
 I have a different question
 
@@ -260,7 +275,7 @@ What is a registered trademark?
 
 How do I register a trademark?
 
-What are common law trademark rights?
+What are trademark rights?
 
 I have a different question
 
@@ -709,11 +724,11 @@ Content I posted on Facebook was removed because it was reported for intellectua
 
 Copy link
 
-How do I appeal content removal?
-
 What is an intellectual property report?
 
-How do I contact a rights owner?
+How do I appeal content removal?
+
+What is a trademark report?
 
 I have a different question
 
@@ -778,13 +793,11 @@ Repeated intellectual property infringement on Facebook
 
 Copy link
 
-What is Facebook repeat infringer policy?
+What happens if I repeatedly infringe?
 
-What happens to my Facebook account?
+What is intellectual property?
 
-What happens to my Facebook Page?
-
-What are Facebook feature limits?
+What happens to my account?
 
 I have a different question
 
@@ -873,11 +886,11 @@ How do I report trademark infringement on Facebook?
 
 Copy link
 
-How do I report Facebook trademark?
+How do I report trademark infringement?
 
 What is Facebook trademark infringement?
 
-How do I contact Facebook about trademark?
+What are the legal consequences?
 
 I have a different question
 
@@ -1001,14 +1014,6 @@ Can I report a Facebook username for infringing my trademark?
 
 Copy link
 
-How do I report a Facebook username?
-
-What is Facebook trademark infringement?
-
-How do I contact a Facebook user?
-
-I have a different question
-
 [Usernames](https://www.facebook.com/help/105399436216001?helpref=faq_content) are generally claimed on a first-come, first-served basis. This means that you may see a Facebook Page or profile with a username that includes your trademark.
 
 While there may be cases where this type of use can be reported for trademark infringement based on the context of its use, please note that not every use of your trademark in a username is necessarily a trademark infringement. A word or phrase that is used in a different context may not violate your trademark. Learn more about [trademark infringement](https://www.facebook.com/help/349534658401968?helpref=faq_content) in our Help Center.
@@ -1047,13 +1052,6 @@ Related Articles
 * * *](https://www.facebook.com/help/325058084212425/?helpref=related_articles)
 
 [What information do I need to include in a trademark report to Meta?](https://www.facebook.com/help/303715969677454/?helpref=related_articles)
-
-Other ways to get help
-----------------------
-
-Chat with Meta AI support assistant
-
-Resolve issues, make changes and get support in real time
 
 - - -
 
@@ -1364,9 +1362,7 @@ Copy link
 
 How do I report a third-party app?
 
-What is a third-party app?
-
-How do I contact an app developer?
+How do I contact a Facebook app developer?
 
 What are Facebook Terms of Service?
 
@@ -1494,9 +1490,7 @@ What information is sent?
 
 What is a trademark report?
 
-How do I appeal a removal?
-
-What is a report number?
+How do I appeal removed content?
 
 I have a different question
 
@@ -2609,13 +2603,11 @@ What information you need to include in a copyright report to Meta
 
 Copy link
 
-What information do I include?
+What info to include in a Facebook copyright report?
 
-What is a copyright report?
+How do I submit a Facebook copyright report?
 
-How do I submit a copyright report?
-
-What happens after I report?
+What happens after a Facebook copyright report?
 
 I have a different question
 
@@ -2757,11 +2749,11 @@ What happens when you submit a copyright report to Meta
 
 Copy link
 
-What happens after I submit?
+What happens after copyright report?
 
-What information does Meta share?
+What information is shared?
 
-How do I contact Meta about a report?
+How do I respond to a report?
 
 I have a different question
 
