@@ -3,14 +3,6 @@ Intellectual Property
 
 Copy link
 
-What is Instagram intellectual property?
-
-How do I report Instagram copyright?
-
-How do I report Instagram trademark?
-
-I have a different question
-
 About Intellectual Property
 ---------------------------
 
@@ -234,16 +226,6 @@ What rights do I have as a copyright owner?
 
 Copy link
 
-What are my copyright owner rights?
-
-What is copyright infringement?
-
-How do I grant copyright permission?
-
-How do I prevent copyright use?
-
-I have a different question
-
 As a copyright owner, you have certain rights under the law. These include the right to stop others from copying or distributing your work, or from creating new works based on your work. Copyright infringement generally occurs when a person engages in one of these activities without the copyright owner’s permission.
 
 For example, when someone uploads your photo or video, they make a copy of that photo or video. The same is true if someone uses a song in the soundtrack to a video, even if they paid for a copy of that song on another service.
@@ -316,6 +298,16 @@ How to make sure content you post to Instagram or Threads doesn't violate copyri
 =======================================================================================
 
 Copy link
+
+How do I avoid Instagram copyright?
+
+What is Instagram copyright law?
+
+How does Instagram fair use work?
+
+What are Instagram intellectual property rights?
+
+I have a different question
 
 Under Instagram’s [Terms of Use](https://help.instagram.com/478745558852511) and Meta's [Community Standards](https://transparency.meta.com/policies/community-standards) you can only post content to Instagram or Threads that doesn’t violate someone else's intellectual property rights. The best way to help make sure that what you post to Instagram or Threads doesn’t violate copyright law is to only post content that you’ve created yourself.
 
@@ -486,16 +478,6 @@ How Instagram and Threads process United States Digital Millennium Copyright Act
 
 Copy link
 
-How do Instagram DMCA counter-notifications work?
-
-What happens after a DMCA counter-notification?
-
-How long does a DMCA counter-notification take?
-
-What is Instagram's repeat infringer policy?
-
-I have a different question
-
 Instagram and Threads comply with the notice-and-takedown procedures set out in section 512(c) of the United States Digital Millennium Copyright Act (DMCA), which applies to content reported and removed for violating U.S. copyrights.
 
 If your content is removed under the DMCA, you'll receive instructions about how to file a counter-notification in the messages we send you. You should only submit a counter-notification if the content was removed because of a mistake or misidentification. Please note that if your content was removed for reasons unrelated to a copyright report, you may not receive a response from us.
@@ -520,6 +502,16 @@ Report copyright infringement on Instagram or Threads
 =====================================================
 
 Copy link
+
+How do I report Instagram copyright?
+
+How do I report Threads copyright?
+
+How does Brand Rights Protection work?
+
+What is a DMCA designated agent?
+
+I have a different question
 
 If you believe content on Instagram or Threads is infringing your copyright, you can take one or more of the following actions:
 
@@ -837,6 +829,14 @@ How long does trademark protection last?
 
 Copy link
 
+What is trademark protection?
+
+How long do trademark rights last?
+
+How do I renew a trademark?
+
+I have a different question
+
 Trademark rights may last indefinitely, but only if the trademark owner continues to use the trademark in commerce to identify their products or services. If a trademark owner stops using the trademark, or if it isn’t used properly, they might lose their trademark rights. Please also note that for trademarks that are registered with the United States Patent and Trademark Office (USPTO), issued registrations must be renewed periodically. The laws in other jurisdictions may vary.
 
 Other ways to get help
@@ -852,6 +852,16 @@ What is a counterfeit?
 ======================
 
 Copy link
+
+How do I report counterfeit goods on Instagram?
+
+What is a counterfeit good?
+
+How do I report counterfeit goods on Threads?
+
+What is trademark infringement?
+
+I have a different question
 
 A counterfeit good is a knockoff or replica version of another company’s product. It usually copies the trademark (name or logo) and/or distinctive features of that other company’s product to imitate a genuine product. The manufacture, promotion or sale of a counterfeit good is a type of trademark infringement that is illegal in most countries, and is recognized as being harmful to consumers, trademark owners and honest sellers. Please note that counterfeit goods may be unlawful even if the seller explicitly says that the goods are counterfeit, or otherwise disclaims authenticity of the goods.
 
@@ -1031,6 +1041,14 @@ How to report a username on Instagram or Threads for infringing my trademark
 ============================================================================
 
 Copy link
+
+How do I report Instagram username?
+
+What is trademark infringement?
+
+How do I contact the user?
+
+I have a different question
 
 [Usernames are](https://help.instagram.com/182492381886913/?helpref=faq_content) generally claimed on a first-come, first-served basis. This means that you may see an Instagram or Threads account that includes your trademark in its username. While there may be cases where this type of use can be reported for trademark infringement based on the context of its use, please note that not every use of your trademark in a username is necessarily a trademark infringement. The same word used in a different context may not violate your trademark. See [“What is trademark infringement?”](https://help.instagram.com/1904208239817294?helpref=faq_content) to learn more.
 
@@ -1289,6 +1307,13 @@ When we receive [trademark infringement reports](https://help.instagram.com/1921
 In rare cases (such as when we are contacted by fax, mail or email), we provide the report number and a description of the removed content. Instagram and Threads may provide additional information if it’s requested by the person who posted the reported content.
 
 For any content that was removed based on U.S. trademark rights, we will include instructions for how to appeal if the affected user believes the content should not have been removed.
+
+Other ways to get help
+----------------------
+
+Chat with Meta AI support assistant
+
+Resolve issues, make changes and get support in real time
 
 - - -
 
