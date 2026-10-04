@@ -126,13 +126,13 @@ What are trademarks and what they protect
 
 Copy link
 
-What is a trademark?
+What are trademarks?
 
 What do trademarks protect?
 
 How do trademarks work?
 
-How do I report a trademark violation?
+How do I report trademark infringement?
 
 I have a different question
 
@@ -196,16 +196,6 @@ What is trademark infringement?
 
 Copy link
 
-What is trademark dilution?
-
-What is likelihood of confusion?
-
-What is a protected trademark?
-
-What is trademark law?
-
-I have a different question
-
 Generally, trademark infringement occurs when all three of the following requirements are met:
 
 1.  A company or person uses a trademark owner’s trademark (or similar trademark) without permission
@@ -255,13 +245,6 @@ Related Articles
 * * *](https://www.facebook.com/help/507663689427413/?helpref=related_articles)
 
 [What’s the difference between copyright and trademark?](https://www.facebook.com/help/339026683156879/?helpref=related_articles)
-
-Other ways to get help
-----------------------
-
-Chat with Meta AI support assistant
-
-Resolve issues, make changes and get support in real time
 
 - - -
 
@@ -399,14 +382,6 @@ How long does trademark protection last?
 
 Copy link
 
-How long do trademark rights last?
-
-How do I lose trademark rights?
-
-How do I renew trademark rights?
-
-I have a different question
-
 Trademark rights may last indefinitely, but only if the trademark owner continues to use the trademark in commerce to identify their products or services. If a trademark owner stops using the trademark, or if it isn’t used properly, they might lose their trademark rights.
 
 For trademarks that are registered with the United States Patent and Trademark Office (USPTO), registrations must be renewed periodically. For trademarks that are registered with the European Union Intellectual Property Office (EUIPO), registration lasts for 10 years and may be renewed indefinitely. The laws in other jurisdictions may vary.
@@ -443,13 +418,6 @@ Related Articles
 * * *](https://www.facebook.com/help/507663689427413/?helpref=related_articles)
 
 [Reporting Trademark Infringements](https://www.facebook.com/help/440684869305015/?helpref=related_articles)
-
-Other ways to get help
-----------------------
-
-Chat with Meta AI support assistant
-
-Resolve issues, make changes and get support in real time
 
 - - -
 
@@ -523,11 +491,11 @@ Are there any limits to trademark rights?
 
 Copy link
 
-What are trademark rights?
-
-What is trademark infringement?
+What are trademark rights limits?
 
 What is nominative fair use?
+
+What is trademark geographic limit?
 
 I have a different question
 
@@ -593,13 +561,11 @@ What’s the difference between copyright and trademark?
 
 Copy link
 
-What is copyright?
+What is copyright protection?
 
-What is trademark?
+What is trademark protection?
 
-What is copyright infringement?
-
-What is the difference between copyright and trademark?
+What is intellectual property?
 
 I have a different question
 
@@ -892,11 +858,11 @@ How do I report trademark infringement on Facebook?
 
 Copy link
 
-How do I report trademark infringement?
+How do I report Facebook trademark?
 
 What is Facebook trademark infringement?
 
-What are the legal consequences?
+How do I contact Facebook about trademark?
 
 I have a different question
 
@@ -1092,8 +1058,6 @@ What is copyright infringement?
 
 What is trademark infringement?
 
-What is fair use?
-
 I have a different question
 
 Before you submit a report, please consider whether the content you want to report may be a permissible use of your [copyright](https://www.facebook.com/help/337995452911154?helpref=faq_content) or [trademark](https://www.facebook.com/help/719682678205946?helpref=faq_content). If you’re not sure whether the content you’re reporting infringes your intellectual property rights (example: because it may be a fair use), you may want to seek legal guidance.
@@ -1152,9 +1116,11 @@ What information do I need to include in a trademark report to Meta?
 
 Copy link
 
-What information for trademark report?
-
 How do I submit a trademark report?
+
+What to include in a trademark report?
+
+How do I find content URLs?
 
 What is a trademark infringement?
 
@@ -1233,11 +1199,11 @@ What happens when I submit a trademark report to Meta?
 
 Copy link
 
-What happens after I report?
+What happens after a trademark report?
 
-What is a trademark report?
+How do I respond to a trademark report?
 
-How do I respond to a message?
+What information is shared in a report?
 
 I have a different question
 
@@ -1732,13 +1698,11 @@ What is copyright and what does it protect?
 
 Copy link
 
-What is copyright?
-
 What does copyright protect?
 
-What is not protected by copyright?
+What is an original work?
 
-How does copyright protect content?
+What is not protected by copyright?
 
 I have a different question
 
@@ -1806,16 +1770,6 @@ How do you know if you own the copyright in a work
 
 Copy link
 
-What is copyright ownership?
-
-What is an original work?
-
-What if I appear in a photo?
-
-What if I create work for my job?
-
-I have a different question
-
 In general, the person who creates an original work owns the copyright. For example, if you create a painting, you likely own the copyright in that painting. Similarly, if you take a photo, you likely own the copyright in that photo.
 
 There may be situations where you might think you have a copyright in an original work, but you may not. For example:
@@ -1859,13 +1813,6 @@ Related Articles
 
 [What is copyright and what does it protect?](https://www.facebook.com/help/116772962146447/?helpref=related_articles)
 
-Other ways to get help
-----------------------
-
-Chat with Meta AI support assistant
-
-Resolve issues, make changes and get support in real time
-
 - - -
 
 *   [Policies](https://www.facebook.com/help/463972400461409/?helpref=breadcrumb)
@@ -1881,8 +1828,6 @@ What are my copyright owner rights?
 What is copyright infringement?
 
 How do I grant copyright permission?
-
-How do I prevent copyright use?
 
 I have a different question
 
@@ -1942,11 +1887,11 @@ How long does copyright protection last?
 
 Copy link
 
-What is copyright protection?
+What is public domain?
 
-What is the public domain?
+How does copyright protection work?
 
-How long does copyright last?
+When does copyright expire?
 
 I have a different question
 
@@ -2261,11 +2206,13 @@ A video I posted on Facebook was removed immediately. What happened, and what ar
 
 Copy link
 
-What is Facebook copyright content?
+What is Facebook copyrighted content?
 
-What happens to removed Facebook videos?
+How do I check my email settings?
 
-How do I check Facebook notifications?
+How do I check my notification settings?
+
+What happens if my video is removed?
 
 I have a different question
 
@@ -2353,11 +2300,11 @@ Facebook Lite App Help
 
 More
 
+How do I appeal removed content?
+
 What is intellectual property infringement?
 
-How do I appeal content removal?
-
-What is a DMCA counter-notification?
+What happens to removed content?
 
 I have a different question
 
@@ -2426,9 +2373,9 @@ How does Meta process United States Digital Millennium Copyright Act (DMCA) coun
 
 Copy link
 
-What is a DMCA counter-notification?
+What is the DMCA?
 
-How do I file a DMCA counter-notification?
+How do I file a counter-notification?
 
 What happens after a counter-notification?
 
@@ -2567,11 +2514,11 @@ How do I contact Meta's Digital Millennium Copyright Act (DMCA) designated agent
 
 Copy link
 
+How do I contact Meta DMCA?
+
 What is a DMCA claim?
 
-How do I report copyright infringement?
-
-How do I contact Meta's DMCA agent?
+How do I report copyright?
 
 I have a different question
 
@@ -2638,15 +2585,13 @@ What information you need to include in a copyright report to Meta
 
 Copy link
 
-What information do I include?
+Qué información incluyo en un reporte?
 
-What is a copyright report?
+Cómo reporto una infracción de derechos?
 
-How do I submit a copyright report?
+Qué pasa si no incluyo información?
 
-What happens after I report?
-
-I have a different question
+Tengo otra pregunta
 
 The fastest and easiest way to submit a claim of copyright infringement on Facebook to us is to [report it](https://www.facebook.com/help/325058084212425?helpref=faq_content). Whether you submit your report through our online form or another method, Facebook needs the following information to be able to process your report:
 
