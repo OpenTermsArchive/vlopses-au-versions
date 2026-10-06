@@ -202,14 +202,6 @@ How do I know if I own the copyright in a work?
 
 Copy link
 
-What is copyright ownership?
-
-What is an original work?
-
-What if I appear in a photo?
-
-I have a different question
-
 In general, the person who creates an original work owns the copyright. For example, if you create a painting, you likely own the copyright for that painting. Similarly, if you take a photo, you likely own the copyright for that photo.
 
 There may be situations where you might think you have a copyright in a creative work, but you may not. For example:
@@ -723,14 +715,6 @@ More about trademarks and what they protect
 ===========================================
 
 Copy link
-
-What are trademarks?
-
-What do trademarks protect?
-
-How do I report a trademark violation?
-
-I have a different question
 
 A trademark is a word, slogan, symbol or design (for example, a brand name or logo) that a person or company uses to distinguish their products or services from those offered by others. A trademark is protectable when it’s used in a distinctive way to identify a product or service. Whether you know it or not, you see trademarks all day long, whether in stores shopping, watching commercials on TV and so on.
 
