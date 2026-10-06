@@ -277,7 +277,7 @@ What is a registered trademark?
 
 How do I register a trademark?
 
-What are common law trademark rights?
+What are trademark rights?
 
 I have a different question
 
@@ -595,6 +595,14 @@ What’s the difference between copyright and trademark?
 
 Copy link
 
+What is copyright protection?
+
+What is trademark protection?
+
+What is intellectual property?
+
+I have a different question
+
 The law in most countries recognizes copyrights as well as trademarks. Copyright law and trademark law serve two different purposes.
 
 [Copyright](https://www.facebook.com/help/116772962146447?helpref=faq_content) is meant to foster creativity and to provide incentives to create original works of authorship for the benefit of the public. Copyright protects original works like photos, videos, movies and music. It’s also important to note that, in the U.S., the Digital Millennium Copyright Act (DMCA) applies only to copyrights and doesn’t apply to trademarks.
@@ -633,6 +641,13 @@ Related Articles
 * * *](https://www.facebook.com/help/116772962146447/?helpref=related_articles)
 
 [Does a trademark need to be registered to be protected?](https://www.facebook.com/help/1430594943641002/?helpref=related_articles)
+
+Other ways to get help
+----------------------
+
+Chat with Meta AI support assistant
+
+Resolve issues, make changes and get support in real time
 
 - - -
 
@@ -1009,7 +1024,7 @@ How do I report a Facebook username?
 
 What is Facebook trademark infringement?
 
-How do I contact a Facebook user?
+How do I contact a username owner?
 
 I have a different question
 
@@ -1368,9 +1383,7 @@ Copy link
 
 How do I report a third-party app?
 
-What is a third-party app?
-
-How do I contact an app developer?
+How do I contact a Facebook app developer?
 
 What are Facebook Terms of Service?
 
@@ -1494,6 +1507,16 @@ Facebook removed content as a result of my trademark report. What information is
 
 Copy link
 
+What information is sent?
+
+What is a trademark report?
+
+How do I appeal a removal?
+
+What is a report number?
+
+I have a different question
+
 When we receive [trademark reports](https://www.facebook.com/help/191999230901156?helpref=faq_content) and remove the reported content, we typically provide the person who posted the content with the following information:
 
 *   Report number
@@ -1538,6 +1561,13 @@ Related Articles
 * * *](https://www.facebook.com/help/189778307789711/?helpref=related_articles)
 
 [Retract an intellectual property report that you've submitted to Facebook](https://www.facebook.com/help/1206218382801108/?helpref=related_articles)
+
+Other ways to get help
+----------------------
+
+Chat with Meta AI support assistant
+
+Resolve issues, make changes and get support in real time
 
 - - -
 
@@ -1966,13 +1996,11 @@ How can I make sure the content I post to Facebook doesn't violate copyright law
 
 Copy link
 
-What is Facebook copyright law?
-
 How do I avoid Facebook copyright?
 
-What is Facebook fair use?
+What is Facebook copyright law?
 
-How do I get content permission?
+What is Facebook fair use?
 
 I have a different question
 
@@ -2818,13 +2846,11 @@ Tools Facebook provides to help protect your intellectual property
 
 Copy link
 
-What are Facebook copyright tools?
+How do I protect my intellectual property?
 
 How does Rights Manager work?
 
 How does content protection work?
-
-How do I report copyrighted content?
 
 I have a different question
 
