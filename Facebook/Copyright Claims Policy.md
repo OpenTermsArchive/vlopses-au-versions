@@ -151,13 +151,13 @@ Related Articles
 
 [What is trademark infringement?](https://www.facebook.com/help/349534658401968/?helpref=related_articles)
 
-[Are there any limits to trademark rights?](https://www.facebook.com/help/719682678205946/?helpref=related_articles)
-
 [Trademark](https://www.facebook.com/help/507663689427413/?helpref=related_articles)
 
-[How long does trademark protection last?](https://www.facebook.com/help/1823502941230538/?helpref=related_articles)
+[Are there any limits to trademark rights?](https://www.facebook.com/help/719682678205946/?helpref=related_articles)
 
-[Does a trademark need to be registered to be protected?](https://www.facebook.com/help/1430594943641002/?helpref=related_articles)
+[What’s the difference between copyright and trademark?](https://www.facebook.com/help/339026683156879/?helpref=related_articles)
+
+[What are fair use and other exceptions to copyright](https://www.facebook.com/help/337995452911154/?helpref=related_articles)
 
 Related Articles
 
@@ -165,19 +165,19 @@ Related Articles
 
 * * *](https://www.facebook.com/help/349534658401968/?helpref=related_articles)
 
-[Are there any limits to trademark rights?
-
-* * *](https://www.facebook.com/help/719682678205946/?helpref=related_articles)
-
 [Trademark
 
 * * *](https://www.facebook.com/help/507663689427413/?helpref=related_articles)
 
-[How long does trademark protection last?
+[Are there any limits to trademark rights?
 
-* * *](https://www.facebook.com/help/1823502941230538/?helpref=related_articles)
+* * *](https://www.facebook.com/help/719682678205946/?helpref=related_articles)
 
-[Does a trademark need to be registered to be protected?](https://www.facebook.com/help/1430594943641002/?helpref=related_articles)
+[What’s the difference between copyright and trademark?
+
+* * *](https://www.facebook.com/help/339026683156879/?helpref=related_articles)
+
+[What are fair use and other exceptions to copyright](https://www.facebook.com/help/337995452911154/?helpref=related_articles)
 
 Other ways to get help
 ----------------------
@@ -525,11 +525,11 @@ Are there any limits to trademark rights?
 
 Copy link
 
-What are trademark rights limits?
+What are trademark rights?
+
+What is trademark infringement?
 
 What is nominative fair use?
-
-What is trademark geographic limit?
 
 I have a different question
 
@@ -595,11 +595,13 @@ What’s the difference between copyright and trademark?
 
 Copy link
 
-What is copyright protection?
+What is copyright?
 
-What is trademark protection?
+What is trademark?
 
-What is intellectual property?
+What is copyright infringement?
+
+What is the difference between copyright and trademark?
 
 I have a different question
 
@@ -728,11 +730,11 @@ Content I posted on Facebook was removed because it was reported for intellectua
 
 Copy link
 
-How do I appeal content removal?
-
 What is an intellectual property report?
 
-How do I contact a rights owner?
+How do I appeal content removal?
+
+What is a trademark report?
 
 I have a different question
 
@@ -892,14 +894,6 @@ How do I report trademark infringement on Facebook?
 
 Copy link
 
-How do I report Facebook trademark?
-
-What is Facebook trademark infringement?
-
-How do I contact Facebook about trademark?
-
-I have a different question
-
 Meta can’t adjudicate disputes between third parties, and so we wouldn’t be in a position to act on trademark reports that require an in-depth trademark analysis or a real-world dispute outside of Facebook. In these situations, rather than contacting Meta, you may want to reach out directly to the party that you believe is infringing your rights, or seek any resolution in court or by other judicial means.
 
 You can report trademark infringement to us by [by filling out this form](https://www.facebook.com/help/ipreporting/report/trademark).
@@ -942,13 +936,6 @@ Related Articles
 * * *](https://www.facebook.com/help/325058084212425/?helpref=related_articles)
 
 [What information do I need to include in a trademark report to Meta?](https://www.facebook.com/help/303715969677454/?helpref=related_articles)
-
-Other ways to get help
-----------------------
-
-Chat with Meta AI support assistant
-
-Resolve issues, make changes and get support in real time
 
 - - -
 
@@ -1024,7 +1011,7 @@ How do I report a Facebook username?
 
 What is Facebook trademark infringement?
 
-How do I contact a username owner?
+How do I contact a Facebook user?
 
 I have a different question
 
@@ -1383,7 +1370,9 @@ Copy link
 
 How do I report a third-party app?
 
-How do I contact a Facebook app developer?
+What is a third-party app?
+
+How do I contact an app developer?
 
 What are Facebook Terms of Service?
 
@@ -1996,11 +1985,13 @@ How can I make sure the content I post to Facebook doesn't violate copyright law
 
 Copy link
 
-How do I avoid Facebook copyright?
-
 What is Facebook copyright law?
 
+How do I avoid Facebook copyright?
+
 What is Facebook fair use?
+
+How do I get content permission?
 
 I have a different question
 
@@ -2172,13 +2163,13 @@ Unintentional actions can still violate copyright on Facebook
 
 Copy link
 
-What is Facebook copyright infringement?
+What is copyright infringement?
 
-What is fair use on Facebook?
+What is fair use?
 
 What happens if I infringe copyright?
 
-How do I avoid Facebook copyright issues?
+How do I avoid copyright infringement?
 
 I have a different question
 
@@ -2846,11 +2837,13 @@ Tools Facebook provides to help protect your intellectual property
 
 Copy link
 
-How do I protect my intellectual property?
+What are Facebook copyright tools?
 
 How does Rights Manager work?
 
 How does content protection work?
+
+How do I report copyrighted content?
 
 I have a different question
 
