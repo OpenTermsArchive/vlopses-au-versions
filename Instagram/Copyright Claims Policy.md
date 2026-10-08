@@ -202,6 +202,14 @@ How do I know if I own the copyright in a work?
 
 Copy link
 
+What is copyright ownership?
+
+What is an original work?
+
+What if I appear in a photo?
+
+I have a different question
+
 In general, the person who creates an original work owns the copyright. For example, if you create a painting, you likely own the copyright for that painting. Similarly, if you take a photo, you likely own the copyright for that photo.
 
 There may be situations where you might think you have a copyright in a creative work, but you may not. For example:
@@ -439,6 +447,16 @@ What happens if you repeatedly post content on Instagram or Threads that violate
 
 Copy link
 
+What happens to my Instagram account?
+
+How does Instagram repeat infringer policy work?
+
+How do I avoid Instagram copyright infringement?
+
+What if my Instagram account was disabled by mistake?
+
+I have a different question
+
 By using Instagram or Threads, you have agreed to our [Terms of Use](https://help.instagram.com/581066165581870?helpref=faq_content), which prohibit people from taking any action on Instagram or Threads that infringes or violates someone else's intellectual property rights or otherwise violates the law.
 
 Repeat Infringer Policy
@@ -675,6 +693,16 @@ What happens when you submit a copyright report to Instagram or Threads
 =======================================================================
 
 Copy link
+
+What happens after I report?
+
+How do I check report status?
+
+What information is shared?
+
+How do I appeal a copyright report?
+
+I have a different question
 
 If you submitted a copyright report to us through our [online form](https://help.instagram.com/contact/372592039493026) or via email, you'll receive an automated email that contains information about your report, including a unique report number. You should save this number in case you need to contact us about your report.
 
@@ -942,6 +970,16 @@ What happens if you repeatedly post content on Instagram or Threads that violate
 =============================================================================================================================
 
 Copy link
+
+What happens to my Instagram account?
+
+How does Instagram repeat infringer policy work?
+
+How do I avoid Instagram copyright infringement?
+
+What if my Instagram account was disabled by mistake?
+
+I have a different question
 
 By using Instagram or Threads, you have agreed to our [Terms of Use](https://help.instagram.com/581066165581870?helpref=faq_content), which prohibit people from taking any action on Instagram or Threads that infringes or violates someone else's intellectual property rights or otherwise violates the law.
 
