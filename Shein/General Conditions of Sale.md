@@ -24,28 +24,28 @@ We gladly accept, under certain conditions, returns within **45 days of receipt*
 
 2\. What Items Can I Return?
 
-| ![](https://img.ltwebstatic.com/images3_ach/2024/09/10/e4/1725956456114362647537af5bf069fb298d29a35b.png) Non-Returnable Items |
+| ![image](//img.ltwebstatic.com/images3_ach/2024/09/10/e4/1725956456114362647537af5bf069fb298d29a35b.avif) Non-Returnable Items |
 | --- |
 | • **Bodysuits, swimwear, lingerie, jewelry, beauty, underwear, Event & Party Supplies, DIY Supplies, Pet Supplies and accessories** (except scarves, bags, and mermaid blankets).<br><br>• **Cosmetics** if the seal has been broken.<br><br>• **Items marked as non-returnable.**<br><br>• **Free gifts** (This depends on the status of the item at the time of payment).<br><br>• **Customized items.** In addition, order cancellation for customized items is not supported. |
 
 Return requirements for returnable items：
 
-| ![](https://img.ltwebstatic.com/images3_ach/2024/09/10/c4/1725956463fda8ca1c288d2b3c875280c5796ea0bf.png) Wedding Dresses, Suits and other Apparel |
+| ![image](//img.ltwebstatic.com/images3_ach/2024/09/10/c4/1725956463fda8ca1c288d2b3c875280c5796ea0bf.avif) Wedding Dresses, Suits and other Apparel |
 | --- |
 | Items must be in new, unworn, unwashed, undamaged, and unaltered condition and have the original tags attached and the hygiene sticker (if applicable) intact. |
-| ![](https://img.ltwebstatic.com/images3_ach/2024/09/10/3c/1725956467f0c8518ef0253e32db91f0d68ed2f87c.png) Human Hair Wigs |
+| ![image](//img.ltwebstatic.com/images3_ach/2024/09/10/3c/1725956467f0c8518ef0253e32db91f0d68ed2f87c.avif) Human Hair Wigs |
 | --- |
 | Items must be in new, unworn, unwashed, undamaged, and unaltered condition and have the original tags attached. Specifically, items will be inspected for evidence of washing, bleaching, cutting, or other alteration or damage. |
-| ![](https://img.ltwebstatic.com/images3_ach/2024/09/10/ed/172595647281aa2a5ec981edf3c67197398083c04d.png) Shoes, Bags and Luggage |
+| ![image](//img.ltwebstatic.com/images3_ach/2024/09/10/ed/172595647281aa2a5ec981edf3c67197398083c04d.avif) Shoes, Bags and Luggage |
 | --- |
 | Items must be returned in new, unworn, undamaged condition with the original branded boxes and all accessories (shoe-buckles, shoe laces, and dust bags, etc). Shoes must have been tried only on a soft, clean surface. |
-| ![](https://img.ltwebstatic.com/images3_ach/2024/09/10/fc/17259564768c7c3234fa11d3c8182c71cc36e81cae.png) Furniture |
+| ![image](//img.ltwebstatic.com/images3_ach/2024/09/10/fc/17259564768c7c3234fa11d3c8182c71cc36e81cae.avif) Furniture |
 | --- |
 | Items must be new, unused, undamaged and in the original packaging (including all accessories, manuals, and parts included). |
-| ![](https://img.ltwebstatic.com/images3_ach/2024/09/10/03/1725956480f6d1d191fd8c6feb165fe14f21f058c7.png) Cell Phones, laptops, projectors, tablets and other electronics |
+| ![image](//img.ltwebstatic.com/images3_ach/2024/09/10/03/1725956480f6d1d191fd8c6feb165fe14f21f058c7.avif) Cell Phones, laptops, projectors, tablets and other electronics |
 | --- |
 | Items must be returned in their original sealed and non-activated condition. Please erase all personal information from the product and place it in the original packaging along with any manuals, accessories, and any "free" gifts supplied with the product. If the product has missing parts or is in unsellable condition when returned, we cannot provide you with a refund. If you want to claim a manufacturer's warranty, we will help you contact the manufacturer. |
-| ![](https://img.ltwebstatic.com/images3_ach/2024/09/10/92/1725956484d9d39e8fcf42e9d3d2e8ea8fc8eb6508.png) Other categories |
+| Other categories |
 | --- |
 | The items must be returned in brand new condition with the original packaging. |
 | Bundled Products |
@@ -54,7 +54,7 @@ Return requirements for returnable items：
 
 3\. How Can I Return Items?
 
-![img](https://img.ltwebstatic.com/v4/p/ccc/2025/08/11/3d/1754896942ecf0e61809794be3763533ac37863f67.png)  
+  
 
 1\. Sign into your SHEIN User Account.
 
@@ -85,6 +85,7 @@ NOTE:
 | Return Method | Return Documentation | Printer Required | Return Fees |
 | --- | --- | --- | --- |
 | Hubbed  <br>Store drop-off | Return Label | Yes | **Return shipping is free on your first return** of one or multiple returnable items for **EVERY order** within the Voluntary Return Window.  <br>  <br>For the second and subsequent refunds from the same order, a **1.00 AUD** shipping fee will be deducted from your refund for each return. |
+| Return Code | No  |
 | Aupost  <br>Store drop-off | Return Label | Yes | **Return shipping is free on your first return** of one or multiple returnable items for **EVERY order** within the Voluntary Return Window.  <br>  <br>For the second and subsequent refunds from the same order, a **10.52 AUD** shipping fee will be deducted from your refund for each return. |
 | Self-Return | Depends on your logistics provider |     | You need to pay the return fee directly to your logistics provider, and we Do Not reimburse the costs. |
 
