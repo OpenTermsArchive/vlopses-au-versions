@@ -109,13 +109,6 @@ Facebook removed content as a result of my trademark report. What information is
 
 What tools does Facebook provide to help me enforce my intellectual property rights in advertisements and sale posts?
 
-Other ways to get help
-----------------------
-
-Chat with Meta AI support assistant
-
-Resolve issues, make changes and get support in real time
-
 - - -
 
 *   [Policies](https://www.facebook.com/help/463972400461409/?helpref=breadcrumb)
@@ -892,11 +885,11 @@ How do I report trademark infringement on Facebook?
 
 Copy link
 
-How do I report trademark infringement?
+How do I report Facebook trademark?
 
 What is Facebook trademark infringement?
 
-What are the legal consequences?
+How do I contact Facebook about trademark?
 
 I have a different question
 
@@ -1581,6 +1574,16 @@ What tools does Facebook provide to help me enforce my intellectual property rig
 
 Copy link
 
+What are Facebook IP tools?
+
+How do I report IP infringement?
+
+What is Brand Rights Protection?
+
+How do I apply for Brand Rights Protection?
+
+I have a different question
+
 If you own a registered trademark, you may be eligible to use Brand Rights Protection. This tool allows you to identify trademark violations, counterfeit products and copyright infringement across many of our platforms. Learn more about [Brand Rights Protection](https://www.facebook.com/business/help/828925381043253?helpref=faq_content), including how to apply.
 
 Related Articles
@@ -1988,11 +1991,13 @@ How can I make sure the content I post to Facebook doesn't violate copyright law
 
 Copy link
 
-How do I avoid Facebook copyright?
-
 What is Facebook copyright law?
 
+How do I avoid Facebook copyright?
+
 What is Facebook fair use?
+
+How do I get content permission?
 
 I have a different question
 
@@ -2618,11 +2623,13 @@ What information you need to include in a copyright report to Meta
 
 Copy link
 
-What info to include in a Facebook copyright report?
+What information do I include?
 
-How do I submit a Facebook copyright report?
+What is a copyright report?
 
-What happens after a Facebook copyright report?
+How do I submit a copyright report?
+
+What happens after I report?
 
 I have a different question
 
@@ -2764,11 +2771,11 @@ What happens when you submit a copyright report to Meta
 
 Copy link
 
-What happens after copyright report?
+What happens after I submit?
 
-What information is shared?
+What information does Meta share?
 
-How do I respond to a report?
+How do I contact Meta about a report?
 
 I have a different question
 
@@ -2836,13 +2843,11 @@ Tools Facebook provides to help protect your intellectual property
 
 Copy link
 
-What are Facebook copyright tools?
+How do I protect my intellectual property?
 
 How does Rights Manager work?
 
 How does content protection work?
-
-How do I report copyrighted content?
 
 I have a different question
 
