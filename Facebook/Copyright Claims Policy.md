@@ -277,7 +277,7 @@ What is a registered trademark?
 
 How do I register a trademark?
 
-What are trademark rights?
+What are common law trademark rights?
 
 I have a different question
 
@@ -337,6 +337,14 @@ What is the difference between a trademark registration and a business registrat
 
 Copy link
 
+What is a trademark registration?
+
+What is a business registration?
+
+What is the USPTO?
+
+I have a different question
+
 In some states in the U.S. and in some countries outside the U.S., a company might be able to register with a government office, or obtain a permit or license to do business in that country or state. These registrations, such as ones issued by a state’s Secretary of State, generally aren’t the same as a trademark registration, and may not create trademark rights for the company.
 
 In the U.S., a [trademark](https://www.facebook.com/help/1378807958858854?helpref=faq_content) can be registered with the United States Patent and Trademark Office (USPTO). In the European Union, a trademark can be registered with the European Union Intellectual Property Office (EUIPO) or with the national intellectual property offices within the Member States.
@@ -374,6 +382,13 @@ Related Articles
 
 [What’s the difference between copyright and trademark?](https://www.facebook.com/help/339026683156879/?helpref=related_articles)
 
+Other ways to get help
+----------------------
+
+Chat with Meta AI support assistant
+
+Resolve issues, make changes and get support in real time
+
 - - -
 
 *   [Policies](https://www.facebook.com/help/463972400461409/?helpref=breadcrumb)
@@ -389,6 +404,8 @@ How long do trademark rights last?
 How do I lose trademark rights?
 
 How do I renew trademark rights?
+
+What is USPTO trademark registration?
 
 I have a different question
 
@@ -943,13 +960,11 @@ Can I report an infringement of someone else’s intellectual property on Facebo
 
 Copy link
 
-How do I report an infringement?
+How do I report Facebook copyright?
 
-What is intellectual property?
+How do I report Facebook trademark?
 
-How do I report a copyright infringement?
-
-How do I report a trademark infringement?
+What is Facebook intellectual property?
 
 I have a different question
 
@@ -1005,6 +1020,14 @@ Can I report a Facebook username for infringing my trademark?
 
 Copy link
 
+How do I report a Facebook username?
+
+What is Facebook trademark infringement?
+
+How do I contact a Facebook user?
+
+I have a different question
+
 [Usernames](https://www.facebook.com/help/105399436216001?helpref=faq_content) are generally claimed on a first-come, first-served basis. This means that you may see a Facebook Page or profile with a username that includes your trademark.
 
 While there may be cases where this type of use can be reported for trademark infringement based on the context of its use, please note that not every use of your trademark in a username is necessarily a trademark infringement. A word or phrase that is used in a different context may not violate your trademark. Learn more about [trademark infringement](https://www.facebook.com/help/349534658401968?helpref=faq_content) in our Help Center.
@@ -1043,6 +1066,13 @@ Related Articles
 * * *](https://www.facebook.com/help/325058084212425/?helpref=related_articles)
 
 [What information do I need to include in a trademark report to Meta?](https://www.facebook.com/help/303715969677454/?helpref=related_articles)
+
+Other ways to get help
+----------------------
+
+Chat with Meta AI support assistant
+
+Resolve issues, make changes and get support in real time
 
 - - -
 
@@ -1483,7 +1513,9 @@ What information is sent?
 
 What is a trademark report?
 
-How do I appeal removed content?
+How do I appeal a removal?
+
+What is a report number?
 
 I have a different question
 
@@ -1900,11 +1932,11 @@ How long does copyright protection last?
 
 Copy link
 
-What is public domain?
+What is copyright protection?
 
-How does copyright protection work?
+What is the public domain?
 
-When does copyright expire?
+How long does copyright last?
 
 I have a different question
 
@@ -2046,13 +2078,11 @@ What are fair use and other exceptions to copyright
 
 Copy link
 
-What is fair use copyright?
+What is fair use?
 
 What are copyright exceptions?
 
 How does fair use apply?
-
-What is copyright infringement?
 
 I have a different question
 
@@ -2309,11 +2339,11 @@ Facebook Lite App Help
 
 More
 
-How do I appeal removed content?
-
 What is intellectual property infringement?
 
-What happens to removed content?
+How do I appeal content removal?
+
+What is a DMCA counter-notification?
 
 I have a different question
 
@@ -2452,13 +2482,13 @@ How do I report copyright infringement on Facebook?
 
 Copy link
 
-How do I report Facebook copyright?
-
-What is Facebook copyright infringement?
-
-How do I contact Facebook designated agent?
+How do I report copyright infringement?
 
 What happens after I report copyright?
+
+How do I contact a designated agent?
+
+How do I message content owner?
 
 I have a different question
 
@@ -2594,11 +2624,13 @@ What information you need to include in a copyright report to Meta
 
 Copy link
 
-What info to include in a Facebook copyright report?
+What information do I include?
 
-How do I submit a Facebook copyright report?
+What is a copyright report?
 
-What happens after a Facebook copyright report?
+How do I submit a copyright report?
+
+What happens after I report?
 
 I have a different question
 
@@ -2668,11 +2700,13 @@ Facebook removed content as a result of my copyright report. What information is
 
 Copy link
 
-What information is provided?
+What information is shared?
 
-What is a copyright claim?
+What is a copyright report?
 
-How do I appeal a copyright claim?
+How do I appeal a copyright report?
+
+What if I provide a business email?
 
 I have a different question
 
