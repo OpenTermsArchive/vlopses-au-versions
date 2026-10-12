@@ -126,13 +126,13 @@ What are trademarks and what they protect
 
 Copy link
 
-What is a trademark?
+What are trademarks?
 
 What do trademarks protect?
 
 How do trademarks work?
 
-How do I report a trademark violation?
+How do I report trademark infringement?
 
 I have a different question
 
@@ -525,11 +525,11 @@ Are there any limits to trademark rights?
 
 Copy link
 
-What are trademark rights limits?
+What are trademark rights?
+
+What is trademark infringement?
 
 What is nominative fair use?
-
-What is trademark geographic limit?
 
 I have a different question
 
@@ -960,11 +960,13 @@ Can I report an infringement of someone else’s intellectual property on Facebo
 
 Copy link
 
-How do I report Facebook copyright?
+How do I report an infringement?
 
-How do I report Facebook trademark?
+What is intellectual property?
 
-What is Facebook intellectual property?
+How do I report a copyright infringement?
+
+How do I report a trademark infringement?
 
 I have a different question
 
@@ -1309,8 +1311,6 @@ How do I report Facebook copyright?
 
 How do I report Facebook trademark?
 
-How do I report Facebook counterfeit?
-
 I have a different question
 
 If you own a registered trademark, you may be eligible to use Brand Rights Protection. This tool allows you to identify trademark violations, counterfeit products and copyright infringement across Meta technologies such as Facebook and Instagram. Learn more about [Brand Rights Protection](https://www.facebook.com/business/help/828925381043253?helpref=faq_content), including how to apply.
@@ -1581,7 +1581,9 @@ What tools does Facebook provide to help me enforce my intellectual property rig
 
 Copy link
 
-How do I report intellectual property?
+What are Facebook IP tools?
+
+How do I report IP infringement?
 
 What is Brand Rights Protection?
 
@@ -1996,11 +1998,13 @@ How can I make sure the content I post to Facebook doesn't violate copyright law
 
 Copy link
 
-How do I avoid Facebook copyright?
-
 What is Facebook copyright law?
 
+How do I avoid Facebook copyright?
+
 What is Facebook fair use?
+
+How do I get content permission?
 
 I have a different question
 
@@ -2078,11 +2082,13 @@ What are fair use and other exceptions to copyright
 
 Copy link
 
-What is fair use?
+What is fair use copyright?
 
 What are copyright exceptions?
 
 How does fair use apply?
+
+What is copyright infringement?
 
 I have a different question
 
@@ -2170,13 +2176,13 @@ Unintentional actions can still violate copyright on Facebook
 
 Copy link
 
-What is Facebook copyright infringement?
+What is copyright infringement?
 
-What is fair use on Facebook?
+What is fair use?
 
 What happens if I infringe copyright?
 
-How do I avoid Facebook copyright issues?
+How do I avoid copyright infringement?
 
 I have a different question
 
@@ -2553,11 +2559,11 @@ How do I contact Meta's Digital Millennium Copyright Act (DMCA) designated agent
 
 Copy link
 
+How do I contact Meta DMCA?
+
 What is a DMCA claim?
 
-How do I report copyright infringement?
-
-How do I contact Meta's DMCA agent?
+How do I report copyright?
 
 I have a different question
 
@@ -2772,14 +2778,6 @@ What happens when you submit a copyright report to Meta
 
 Copy link
 
-What happens after I submit?
-
-What information does Meta share?
-
-How do I contact Meta about a report?
-
-I have a different question
-
 If you submit a [copyright report](https://www.facebook.com/help/325058084212425?helpref=faq_content) to us through our form or via email, you'll receive an automated message that contains information about your report, including a unique report number. You should save this number in case you need to contact us about your report.
 
 Sometimes, we might respond to your report and ask for more information. If you receive a message from our team you should respond directly to that message. Your response will be received by our team so they can continue to look into your report.
@@ -2826,13 +2824,6 @@ Related Articles
 * * *](https://www.facebook.com/help/350712395302528/?helpref=related_articles)
 
 [What information do I need to include in a trademark report to Meta?](https://www.facebook.com/help/303715969677454/?helpref=related_articles)
-
-Other ways to get help
-----------------------
-
-Chat with Meta AI support assistant
-
-Resolve issues, make changes and get support in real time
 
 - - -
 
