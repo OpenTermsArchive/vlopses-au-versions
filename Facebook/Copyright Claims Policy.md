@@ -126,13 +126,13 @@ What are trademarks and what they protect
 
 Copy link
 
-What are trademarks?
+What is a trademark?
 
 What do trademarks protect?
 
 How do trademarks work?
 
-How do I report trademark infringement?
+How do I report a trademark violation?
 
 I have a different question
 
@@ -525,11 +525,11 @@ Are there any limits to trademark rights?
 
 Copy link
 
-What are trademark rights?
-
-What is trademark infringement?
+What are trademark rights limits?
 
 What is nominative fair use?
+
+What is trademark geographic limit?
 
 I have a different question
 
@@ -960,13 +960,11 @@ Can I report an infringement of someone else’s intellectual property on Facebo
 
 Copy link
 
-How do I report an infringement?
+How do I report Facebook copyright?
 
-What is intellectual property?
+How do I report Facebook trademark?
 
-How do I report a copyright infringement?
-
-How do I report a trademark infringement?
+What is Facebook intellectual property?
 
 I have a different question
 
@@ -1091,8 +1089,6 @@ What is intellectual property?
 What is copyright infringement?
 
 What is trademark infringement?
-
-What is fair use?
 
 I have a different question
 
@@ -1310,6 +1306,8 @@ How do I report an ad?
 How do I report Facebook copyright?
 
 How do I report Facebook trademark?
+
+How do I report Facebook counterfeit?
 
 I have a different question
 
@@ -1808,6 +1806,8 @@ What is an original work?
 
 What if I appear in a photo?
 
+What if I create work for my job?
+
 I have a different question
 
 In general, the person who creates an original work owns the copyright. For example, if you create a painting, you likely own the copyright in that painting. Similarly, if you take a photo, you likely own the copyright in that photo.
@@ -2176,13 +2176,13 @@ Unintentional actions can still violate copyright on Facebook
 
 Copy link
 
-What is copyright infringement?
+What is Facebook copyright infringement?
 
-What is fair use?
+What is fair use on Facebook?
 
 What happens if I infringe copyright?
 
-How do I avoid copyright infringement?
+How do I avoid Facebook copyright issues?
 
 I have a different question
 
@@ -2488,13 +2488,13 @@ How do I report copyright infringement on Facebook?
 
 Copy link
 
-How do I report copyright infringement?
+How do I report Facebook copyright?
+
+What is Facebook copyright infringement?
+
+How do I contact Facebook designated agent?
 
 What happens after I report copyright?
-
-How do I contact a designated agent?
-
-How do I message content owner?
 
 I have a different question
 
@@ -2778,6 +2778,14 @@ What happens when you submit a copyright report to Meta
 
 Copy link
 
+What happens after I submit?
+
+What information does Meta share?
+
+How do I contact Meta about a report?
+
+I have a different question
+
 If you submit a [copyright report](https://www.facebook.com/help/325058084212425?helpref=faq_content) to us through our form or via email, you'll receive an automated message that contains information about your report, including a unique report number. You should save this number in case you need to contact us about your report.
 
 Sometimes, we might respond to your report and ask for more information. If you receive a message from our team you should respond directly to that message. Your response will be received by our team so they can continue to look into your report.
@@ -2824,6 +2832,13 @@ Related Articles
 * * *](https://www.facebook.com/help/350712395302528/?helpref=related_articles)
 
 [What information do I need to include in a trademark report to Meta?](https://www.facebook.com/help/303715969677454/?helpref=related_articles)
+
+Other ways to get help
+----------------------
+
+Chat with Meta AI support assistant
+
+Resolve issues, make changes and get support in real time
 
 - - -
 
