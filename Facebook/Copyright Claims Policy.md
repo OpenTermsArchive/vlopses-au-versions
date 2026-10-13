@@ -2488,6 +2488,16 @@ How do I report copyright infringement on Facebook?
 
 Copy link
 
+How do I report Facebook copyright?
+
+What is Facebook copyright infringement?
+
+How do I contact Facebook designated agent?
+
+What happens after I report copyright?
+
+I have a different question
+
 If you believe content on Facebook is infringing on your copyright, you can take one or more of the following actions:
 
 *   You can report copyright infringement to us by [filling out this form](https://www.facebook.com/help/ipreporting/report/copyright).
@@ -2531,6 +2541,13 @@ Related Articles
 * * *](https://www.facebook.com/help/364993690187480/?helpref=related_articles)
 
 [Facebook removed content as a result of my copyright report. What information is sent to the person who posted that content?](https://www.facebook.com/help/297270237338088/?helpref=related_articles)
+
+Other ways to get help
+----------------------
+
+Chat with Meta AI support assistant
+
+Resolve issues, make changes and get support in real time
 
 - - -
 
@@ -2833,14 +2850,6 @@ Tools Facebook provides to help protect your intellectual property
 
 Copy link
 
-How do I protect my intellectual property?
-
-How does Rights Manager work?
-
-How does content protection work?
-
-I have a different question
-
 In addition to our other measures, including our online reporting forms and our repeat infringer policy, we provide rights holders with tools to identify and enforce on content posted to Facebook that may contain their copyrighted work. We provide tailored tooling specific to a content owner’s demonstrated needs.
 
 Rights Manager
@@ -2902,10 +2911,3 @@ Related Articles
 * * *](https://www.facebook.com/help/225191540826940/?helpref=related_articles)
 
 [Content I posted on Facebook was removed because it was reported for intellectual property infringement. What are my next steps?](https://www.facebook.com/help/365111110185763/?helpref=related_articles)
-
-Other ways to get help
-----------------------
-
-Chat with Meta AI support assistant
-
-Resolve issues, make changes and get support in real time
