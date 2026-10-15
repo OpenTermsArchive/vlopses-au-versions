@@ -795,16 +795,6 @@ Repeated intellectual property infringement on Facebook
 
 Copy link
 
-What is Facebook repeat infringer policy?
-
-What happens to my Facebook account?
-
-What happens to my Facebook Page?
-
-How do I appeal a Facebook decision?
-
-I have a different question
-
 By using Facebook, you agree to our [Terms of Service](https://www.facebook.com/terms). Our Terms prohibit people from taking any action on Facebook that infringes or violates someone else's intellectual property rights or otherwise violates the law.
 
 Learn more about [intellectual property and what it protects](https://www.facebook.com/help/399224883474207?helpref=faq_content).
@@ -1296,7 +1286,7 @@ Resolve issues, make changes and get support in real time
 - - -
 
 *   [Policies](https://www.facebook.com/help/463972400461409/?helpref=breadcrumb)
-*   [Intellectual property](https://www.facebook.com/help/399224883474207/?helpref=breadcrumb)
+*   [Intellectual Property](https://www.facebook.com/help/399224883474207/?helpref=breadcrumb)
 
 Report an advertisement for intellectual property infringement on Facebook
 ==========================================================================
@@ -1305,33 +1295,33 @@ Copy link
 
 How do I report an ad?
 
-What is Brand Rights Protection?
+How do I report Facebook copyright?
 
-How do I report copyright infringement?
+How do I report Facebook trademark?
 
-How do I report trademark infringement?
+How do I report Facebook counterfeit?
 
 I have a different question
 
 If you own a registered trademark, you may be eligible to use Brand Rights Protection. This tool allows you to identify trademark violations, counterfeit products and copyright infringement across Meta technologies such as Facebook and Instagram. Learn more about [Brand Rights Protection](https://www.facebook.com/business/help/828925381043253?helpref=faq_content), including how to apply.
 
-If you don't have access to Brand Rights Protection, and you believe that content on Facebook is infringing your intellectual property rights, you can report it to us through one of the following forms:
+If you don’t have access to Brand Rights Protection, and you believe content on Facebook is infringing your intellectual property rights, you can report it to us through one of the following forms:
 
 *   [Copyright](https://www.facebook.com/help/ipreporting/report/copyright)
 *   [Trademark](https://www.facebook.com/help/ipreporting/report/trademark)
 *   [Counterfeit](https://www.facebook.com/help/ipreporting/report/counterfeit)
 
-If you use business manager, you can also [report intellectual property infringement](https://business.facebook.com/help/ipreporting). If not, you can use the [Intellectual Property Reporting Centre](https://www.facebook.com/help/ipreporting).
+If you use business manager, you can also [report intellectual property infringement](https://business.facebook.com/help/ipreporting). If not, you can use the [Intellectual Property Reporting Center](https://www.facebook.com/help/ipreporting).
 
-Reported content will be reviewed by our IP operations team. If you submit a report, please include a direct link to the ad. If you don't have a direct link to the ad, you can attach a screenshot to your report.
+Reported content will be reviewed by our IP operations team. If you submit a report, please include a direct link to the ad. If you don’t have a direct link to the ad, you can attach a screenshot to your report.
 
 Report an advertisement on Facebook
 -----------------------------------
 
-1.  Click ![](https://static.xx.fbcdn.net/assets/?set=che_icons&name=comet-threedot-desktop&density=1) **Options** next to the ad that you want to report.
+1.  Click ![](https://static.xx.fbcdn.net/assets/?set=che_icons&name=comet-threedot-desktop&density=1) **Options** next to the ad you want to report.
 2.  Click **Report ad** and follow the on-screen instructions.
 
-Related articles
+Related Articles
 ----------------
 
 [What you should consider before submitting a report of intellectual property infringement to Facebook](https://www.facebook.com/help/1703586166530507/?helpref=related_articles)
@@ -1340,11 +1330,11 @@ Related articles
 
 [Retract an intellectual property report that you've submitted to Facebook](https://www.facebook.com/help/1206218382801108/?helpref=related_articles)
 
+[What information you need to include in a copyright report to Meta](https://www.facebook.com/help/231463960277847/?helpref=related_articles)
+
 [How do I report trademark infringement on Facebook?](https://www.facebook.com/help/191999230901156/?helpref=related_articles)
 
-[How do I report copyright infringement on Facebook?](https://www.facebook.com/help/325058084212425/?helpref=related_articles)
-
-Related articles
+Related Articles
 
 [What you should consider before submitting a report of intellectual property infringement to Facebook
 
@@ -1358,11 +1348,11 @@ Related articles
 
 * * *](https://www.facebook.com/help/1206218382801108/?helpref=related_articles)
 
-[How do I report trademark infringement on Facebook?
+[What information you need to include in a copyright report to Meta
 
-* * *](https://www.facebook.com/help/191999230901156/?helpref=related_articles)
+* * *](https://www.facebook.com/help/231463960277847/?helpref=related_articles)
 
-[How do I report copyright infringement on Facebook?](https://www.facebook.com/help/325058084212425/?helpref=related_articles)
+[How do I report trademark infringement on Facebook?](https://www.facebook.com/help/191999230901156/?helpref=related_articles)
 
 Other ways to get help
 ----------------------
