@@ -795,6 +795,16 @@ Repeated intellectual property infringement on Facebook
 
 Copy link
 
+What is Facebook repeat infringer policy?
+
+What happens to my Facebook account?
+
+What happens to my Facebook Page?
+
+How do I appeal a Facebook decision?
+
+I have a different question
+
 By using Facebook, you agree to our [Terms of Service](https://www.facebook.com/terms). Our Terms prohibit people from taking any action on Facebook that infringes or violates someone else's intellectual property rights or otherwise violates the law.
 
 Learn more about [intellectual property and what it protects](https://www.facebook.com/help/399224883474207?helpref=faq_content).
@@ -1631,7 +1641,7 @@ Copyright
 
 How do I report copyright infringement?
 
-What is Facebook copyright policy?
+What is Facebook copyright?
 
 How do I protect my copyrighted work?
 
@@ -2168,9 +2178,7 @@ What is Facebook copyright infringement?
 
 What is fair use on Facebook?
 
-What happens if I infringe copyright?
-
-How do I avoid Facebook copyright issues?
+What is a copyright violation?
 
 I have a different question
 
