@@ -14,6 +14,16 @@ Intellectual Property
 
 Copy link
 
+What is Facebook copyright?
+
+What is Facebook trademark?
+
+How do I report copyright violation?
+
+How do I report trademark violation?
+
+I have a different question
+
 Facebook is committed to helping people and organizations protect their intellectual property rights. The Facebook [Terms of Service](https://www.facebook.com/legal/terms) do not allow posting content that violates someone else’s intellectual property rights, including copyright and trademark.
 
 Copyright
@@ -451,14 +461,6 @@ What is a counterfeit?
 
 Copy link
 
-What is a counterfeit good?
-
-How do I report counterfeits?
-
-What is trademark infringement?
-
-I have a different question
-
 A counterfeit good is a knockoff or replica version of another company’s product. It usually copies the trademark (name or logo) and/or distinctive features of that other company’s product to imitate a genuine product. The manufacture, promotion or sale of a counterfeit goods is a type of trademark infringement that is illegal in most countries, and is recognized as being harmful to consumers, trademark owners and honest sellers. Please note that counterfeit goods may be unlawful even if the seller explicitly says that the goods are counterfeit, or otherwise disclaims authenticity of the goods.
 
 If you believe content on Facebook is selling or promoting counterfeit goods, you can report it by [filling out this form](https://www.facebook.com/help/ipreporting/report/counterfeit).
@@ -495,13 +497,6 @@ Related Articles
 * * *](https://www.facebook.com/help/2069235856423257/?helpref=related_articles)
 
 [What is copyright and what does it protect?](https://www.facebook.com/help/116772962146447/?helpref=related_articles)
-
-Other ways to get help
-----------------------
-
-Chat with Meta AI support assistant
-
-Resolve issues, make changes and get support in real time
 
 - - -
 
@@ -1293,6 +1288,16 @@ Report an advertisement for intellectual property infringement on Facebook
 
 Copy link
 
+How do I report an ad?
+
+How do I report Facebook copyright?
+
+How do I report Facebook trademark?
+
+How do I report Facebook counterfeit?
+
+I have a different question
+
 If you own a registered trademark, you may be eligible to use Brand Rights Protection. This tool allows you to identify trademark violations, counterfeit products and copyright infringement across Meta technologies such as Facebook and Instagram. Learn more about [Brand Rights Protection](https://www.facebook.com/business/help/828925381043253?helpref=faq_content), including how to apply.
 
 If you don’t have access to Brand Rights Protection, and you believe content on Facebook is infringing your intellectual property rights, you can report it to us through one of the following forms:
@@ -1343,6 +1348,13 @@ Related Articles
 * * *](https://www.facebook.com/help/231463960277847/?helpref=related_articles)
 
 [How do I report trademark infringement on Facebook?](https://www.facebook.com/help/191999230901156/?helpref=related_articles)
+
+Other ways to get help
+----------------------
+
+Chat with Meta AI support assistant
+
+Resolve issues, make changes and get support in real time
 
 - - -
 
@@ -2151,7 +2163,9 @@ What is Facebook copyright infringement?
 
 What is fair use on Facebook?
 
-What is a copyright violation?
+What happens if I infringe copyright?
+
+How do I avoid Facebook copyright issues?
 
 I have a different question
 
