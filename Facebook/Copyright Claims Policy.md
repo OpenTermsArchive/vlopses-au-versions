@@ -14,16 +14,6 @@ Intellectual Property
 
 Copy link
 
-What is Facebook copyright?
-
-What is Facebook trademark?
-
-How do I report copyright violation?
-
-How do I report trademark violation?
-
-I have a different question
-
 Facebook is committed to helping people and organizations protect their intellectual property rights. The Facebook [Terms of Service](https://www.facebook.com/legal/terms) do not allow posting content that violates someone else’s intellectual property rights, including copyright and trademark.
 
 Copyright
@@ -1509,14 +1499,6 @@ Facebook removed content as a result of my trademark report. What information is
 
 Copy link
 
-What information is sent?
-
-What is a trademark report?
-
-How do I appeal removed content?
-
-I have a different question
-
 When we receive [trademark reports](https://www.facebook.com/help/191999230901156?helpref=faq_content) and remove the reported content, we typically provide the person who posted the content with the following information:
 
 *   Report number
@@ -1578,6 +1560,16 @@ What tools does Facebook provide to help me enforce my intellectual property rig
 =====================================================================================================================
 
 Copy link
+
+What are Facebook IP tools?
+
+How do I report IP infringement?
+
+What is Brand Rights Protection?
+
+How do I apply for Brand Rights Protection?
+
+I have a different question
 
 If you own a registered trademark, you may be eligible to use Brand Rights Protection. This tool allows you to identify trademark violations, counterfeit products and copyright infringement across many of our platforms. Learn more about [Brand Rights Protection](https://www.facebook.com/business/help/828925381043253?helpref=faq_content), including how to apply.
 
@@ -1986,13 +1978,13 @@ How can I make sure the content I post to Facebook doesn't violate copyright law
 
 Copy link
 
-What is Facebook copyright law?
+How do I avoid Facebook copyright?
 
-How do I get permission to post?
+What is Facebook intellectual property?
 
 What is Facebook fair use?
 
-What is public domain content?
+What is Facebook public domain?
 
 I have a different question
 
@@ -2168,7 +2160,9 @@ What is Facebook copyright infringement?
 
 What is fair use on Facebook?
 
-What is a copyright violation?
+What happens if I infringe copyright?
+
+How do I avoid Facebook copyright issues?
 
 I have a different question
 
@@ -2478,11 +2472,11 @@ How do I report copyright infringement on Facebook?
 
 Copy link
 
-How do I report copyright?
+How do I report copyright infringement?
 
-How do I contact Facebook agent?
+What happens after I report copyright?
 
-What is copyright infringement?
+How do I contact a designated agent?
 
 I have a different question
 
@@ -2693,14 +2687,6 @@ Facebook removed content as a result of my copyright report. What information is
 ============================================================================================================================
 
 Copy link
-
-What information is shared?
-
-What is a copyright report?
-
-How do I appeal a removal?
-
-I have a different question
 
 When we receive a [copyright report](https://www.facebook.com/help/325058084212425?helpref=faq_content) through our online form and remove the reported content, we regularly provide the person who posted the content with the following information:
 
