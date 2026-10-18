@@ -461,6 +461,14 @@ What is a counterfeit?
 
 Copy link
 
+What is a counterfeit good?
+
+How do I report counterfeits?
+
+What is trademark infringement?
+
+I have a different question
+
 A counterfeit good is a knockoff or replica version of another company’s product. It usually copies the trademark (name or logo) and/or distinctive features of that other company’s product to imitate a genuine product. The manufacture, promotion or sale of a counterfeit goods is a type of trademark infringement that is illegal in most countries, and is recognized as being harmful to consumers, trademark owners and honest sellers. Please note that counterfeit goods may be unlawful even if the seller explicitly says that the goods are counterfeit, or otherwise disclaims authenticity of the goods.
 
 If you believe content on Facebook is selling or promoting counterfeit goods, you can report it by [filling out this form](https://www.facebook.com/help/ipreporting/report/counterfeit).
@@ -497,6 +505,13 @@ Related Articles
 * * *](https://www.facebook.com/help/2069235856423257/?helpref=related_articles)
 
 [What is copyright and what does it protect?](https://www.facebook.com/help/116772962146447/?helpref=related_articles)
+
+Other ways to get help
+----------------------
+
+Chat with Meta AI support assistant
+
+Resolve issues, make changes and get support in real time
 
 - - -
 
@@ -1564,16 +1579,6 @@ What tools does Facebook provide to help me enforce my intellectual property rig
 
 Copy link
 
-What are Facebook IP tools?
-
-How do I report IP infringement?
-
-What is Brand Rights Protection?
-
-How do I apply for Brand Rights Protection?
-
-I have a different question
-
 If you own a registered trademark, you may be eligible to use Brand Rights Protection. This tool allows you to identify trademark violations, counterfeit products and copyright infringement across many of our platforms. Learn more about [Brand Rights Protection](https://www.facebook.com/business/help/828925381043253?helpref=faq_content), including how to apply.
 
 Related Articles
@@ -2163,9 +2168,7 @@ What is Facebook copyright infringement?
 
 What is fair use on Facebook?
 
-What happens if I infringe copyright?
-
-How do I avoid Facebook copyright issues?
+What is a copyright violation?
 
 I have a different question
 
