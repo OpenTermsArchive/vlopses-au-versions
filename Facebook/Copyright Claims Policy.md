@@ -271,6 +271,14 @@ Does a trademark need to be registered to be protected?
 
 Copy link
 
+What is a registered trademark?
+
+How do I register a trademark?
+
+What are common law trademark rights?
+
+I have a different question
+
 In the U.S., a trademark can be registered with the United States Patent and Trademark Office (USPTO). Federal registrations with the USPTO establish trademark rights as of a certain date and provide a presumption that the registrant owns a valid trademark, among other things. For these reasons, trademark owners often obtain USPTO registrations.
 
 Many other countries outside the U.S. have adopted similar systems, including the ability for trademark owners to register their trademarks. For example, in the European Union, a trademark can be registered with the European Union Intellectual Property Office (EUIPO) or with the national intellectual property offices within the Member States.
@@ -327,13 +335,13 @@ What is the difference between a trademark registration and a business registrat
 
 Copy link
 
-What is a trademark registration?
-
 What is a business registration?
 
-How do I register a trademark?
+What is a trademark registration?
 
-How do I register a business?
+What is the USPTO?
+
+What is the EUIPO?
 
 I have a different question
 
@@ -648,6 +656,16 @@ How can I make sure the content I post to Facebook doesn’t violate trademark l
 =================================================================================
 
 Copy link
+
+What is Facebook trademark law?
+
+How do I avoid Facebook trademark issues?
+
+What happens if I violate trademark?
+
+How do I get legal advice?
+
+I have a different question
 
 Under Facebook’s [Terms of Service](https://www.facebook.com/terms) and [Community Standards](https://l.facebook.com/l.php?u=https%3A%2F%2Ftransparency.meta.com%2Fpolicies%2Fcommunity-standards%2F), you can only post content to Facebook if it doesn’t violate someone else’s intellectual property rights, including trademarks. Please note that as a Facebook user, you are responsible for the content you post. If your content violates Facebook’s policies or is reported to Meta as infringing the intellectual property rights of another party, Facebook may remove that content.
 
@@ -1213,6 +1231,14 @@ What happens when I submit a trademark report to Meta?
 
 Copy link
 
+What happens after I report?
+
+What is a trademark report?
+
+How do I respond to Meta?
+
+I have a different question
+
 If you submitted a [trademark report](https://www.facebook.com/help/191999230901156?helpref=faq_content) to us through our online form or via email, you’ll receive an automated message that contains information about your report, including a unique report number. You should save this number in case you need to contact us about your report.
 
 Sometimes, we might respond to your report and ask for more information. If you receive a message from our team you should respond directly to that message. Your response will be received by our team so they can continue to look into your report.
@@ -1357,11 +1383,9 @@ Copy link
 
 How do I report a third-party app?
 
-What is a third-party app?
+How do I report app intellectual property?
 
 How do I contact an app developer?
-
-What is intellectual property infringement?
 
 I have a different question
 
@@ -1423,7 +1447,7 @@ How do I withdraw an IP report?
 
 How do I cancel a copyright report?
 
-What happens after I withdraw a report?
+How do I cancel a trademark report?
 
 I have a different question
 
@@ -1553,9 +1577,7 @@ What tools does Facebook provide to help me enforce my intellectual property rig
 
 Copy link
 
-What are Facebook IP tools?
-
-How do I report IP infringement?
+How do I report intellectual property?
 
 What is Brand Rights Protection?
 
@@ -1701,6 +1723,14 @@ What is copyright and what does it protect?
 ===========================================
 
 Copy link
+
+What is copyright protection?
+
+What does copyright protect?
+
+What is not protected by copyright?
+
+I have a different question
 
 In most countries, copyright is a legal right that protects original works of authorship. Typically, if you create an original work, you have a copyright from the moment you create it.
 
@@ -2740,11 +2770,13 @@ What happens when you submit a copyright report to Meta
 
 Copy link
 
-What happens after copyright report?
+What happens to my copyright report?
 
 What is a copyright report number?
 
-What information is shared?
+What information does Meta share?
+
+How do I respond to Meta about a report?
 
 I have a different question
 
@@ -2812,14 +2844,6 @@ Tools Facebook provides to help protect your intellectual property
 
 Copy link
 
-How do I protect my intellectual property?
-
-How does Rights Manager work?
-
-How does content protection work?
-
-I have a different question
-
 In addition to our other measures, including our online reporting forms and our repeat infringer policy, we provide rights holders with tools to identify and enforce on content posted to Facebook that may contain their copyrighted work. We provide tailored tooling specific to a content owner’s demonstrated needs.
 
 Rights Manager
@@ -2881,10 +2905,3 @@ Related Articles
 * * *](https://www.facebook.com/help/225191540826940/?helpref=related_articles)
 
 [Content I posted on Facebook was removed because it was reported for intellectual property infringement. What are my next steps?](https://www.facebook.com/help/365111110185763/?helpref=related_articles)
-
-Other ways to get help
-----------------------
-
-Chat with Meta AI support assistant
-
-Resolve issues, make changes and get support in real time
