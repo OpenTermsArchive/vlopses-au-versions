@@ -2,7 +2,7 @@
 
 Support
 
-![](https://aimg.kwcdn.com/upload_aimg/openingemail/flags/6b2eadb7-8219-4571-90bb-81740c4f3926.png.slim.png?imageMogr2/thumbnail/48x9999%3E/quality/70/format/avif)
+![](https://aimg.kwcdn.com/upload_aimg/openingemail/flags/6b2eadb7-8219-4571-90bb-81740c4f3926.png.slim.png?imageMogr2/thumbnail/48x9999\>/quality/70/format/avif)
 
 English
 
@@ -146,7 +146,7 @@ For more information about Temu credits, please visit: About credit balance.
 
 Once the refund is processed, your financial institution will need additional time to have it reflected in your account. Refer to the following table for more details.
 
-![](https://mktimg.kwcdn.com/fancy-image-combine/0cbd3d/EV_1YuIo3S/3bf6925f0e9948619f061500bda7de1f.png?imageMogr2/quality/70/format/avif)
+![](https://mktimg.kwcdn.com/fancy-image-combine/0cbd3d/EV_1YuIo3S/eab75c37cc134927a18d97b42671393c.png?imageMogr2/quality/70/format/avif)
 
 7\. Important Notice
 
