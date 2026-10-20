@@ -126,13 +126,11 @@ What are trademarks and what they protect
 
 Copy link
 
-What is a trademark?
+What are trademarks?
 
 What do trademarks protect?
 
-How do trademarks work?
-
-How do I report a trademark violation?
+How do I report trademark infringement?
 
 I have a different question
 
@@ -275,7 +273,9 @@ What is a registered trademark?
 
 How do I register a trademark?
 
-What are common law trademark rights?
+What are trademark common law rights?
+
+How do I protect my trademark?
 
 I have a different question
 
@@ -335,13 +335,13 @@ What is the difference between a trademark registration and a business registrat
 
 Copy link
 
-What is a business registration?
-
 What is a trademark registration?
 
-What is the USPTO?
+What is a business registration?
 
-What is the EUIPO?
+How do I register a trademark?
+
+How do I register a business?
 
 I have a different question
 
@@ -399,11 +399,11 @@ How long does trademark protection last?
 
 Copy link
 
-What is trademark protection?
-
 How long do trademark rights last?
 
 How do I lose trademark rights?
+
+How do I renew trademark rights?
 
 I have a different question
 
@@ -890,11 +890,11 @@ How do I report trademark infringement on Facebook?
 
 Copy link
 
-How do I report Facebook trademark infringement?
+How do I report trademark infringement?
 
-What happens after I report trademark infringement?
+What is Facebook trademark infringement?
 
-How do I contact the person infringing?
+How do I resolve a trademark issue?
 
 I have a different question
 
@@ -1082,8 +1082,6 @@ What you should consider before submitting a report of intellectual property inf
 
 Copy link
 
-What is intellectual property?
-
 What is copyright infringement?
 
 What is trademark infringement?
@@ -1231,11 +1229,13 @@ What happens when I submit a trademark report to Meta?
 
 Copy link
 
-What happens after I report?
+What happens after I submit?
 
 What is a trademark report?
 
-How do I respond to Meta?
+How do I respond to a message?
+
+What information is shared?
 
 I have a different question
 
@@ -1383,9 +1383,11 @@ Copy link
 
 How do I report a third-party app?
 
-How do I report app intellectual property?
+What is a third-party app?
 
 How do I contact an app developer?
+
+What is intellectual property infringement?
 
 I have a different question
 
@@ -1577,7 +1579,9 @@ What tools does Facebook provide to help me enforce my intellectual property rig
 
 Copy link
 
-How do I report intellectual property?
+What are Facebook IP tools?
+
+How do I report IP infringement?
 
 What is Brand Rights Protection?
 
@@ -1637,9 +1641,11 @@ Copyright
 
 How do I report copyright infringement?
 
-What is Facebook copyright policy?
-
 How do I protect my copyrighted work?
+
+How does Facebook address copyright?
+
+What are intellectual property tools?
 
 I have a different question
 
@@ -1724,9 +1730,9 @@ What is copyright and what does it protect?
 
 Copy link
 
-What is copyright protection?
-
 What does copyright protect?
+
+What is an original work?
 
 What is not protected by copyright?
 
@@ -2624,13 +2630,11 @@ What information you need to include in a copyright report to Meta
 
 Copy link
 
-What to include in a copyright report?
+What info to include in a Facebook copyright report?
 
-What is a copyright report?
+How do I report copyright infringement on Facebook?
 
-How do I report copyright infringement?
-
-What happens after a copyright report?
+What happens after I report copyright?
 
 I have a different question
 
@@ -2844,6 +2848,14 @@ Tools Facebook provides to help protect your intellectual property
 
 Copy link
 
+How do I protect my intellectual property?
+
+How does Rights Manager work?
+
+How does content protection work?
+
+I have a different question
+
 In addition to our other measures, including our online reporting forms and our repeat infringer policy, we provide rights holders with tools to identify and enforce on content posted to Facebook that may contain their copyrighted work. We provide tailored tooling specific to a content owner’s demonstrated needs.
 
 Rights Manager
@@ -2905,3 +2917,10 @@ Related Articles
 * * *](https://www.facebook.com/help/225191540826940/?helpref=related_articles)
 
 [Content I posted on Facebook was removed because it was reported for intellectual property infringement. What are my next steps?](https://www.facebook.com/help/365111110185763/?helpref=related_articles)
+
+Other ways to get help
+----------------------
+
+Chat with Meta AI support assistant
+
+Resolve issues, make changes and get support in real time
