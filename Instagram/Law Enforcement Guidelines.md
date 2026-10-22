@@ -3,16 +3,6 @@ Information for law enforcement
 
 Copy link
 
-What are Instagram operational guidelines?
-
-What Instagram data is available?
-
-How do I make an emergency request?
-
-What is Instagram data retention?
-
-I have a different question
-
 These operational guidelines are for law enforcement officials seeking Instagram account records. This information may change at any time.
 
 Requests for user information
