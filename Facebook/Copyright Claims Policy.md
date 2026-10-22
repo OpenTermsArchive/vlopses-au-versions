@@ -14,6 +14,16 @@ Intellectual Property
 
 Copy link
 
+What is Facebook copyright?
+
+What is Facebook trademark?
+
+How do I report copyright violation?
+
+How do I report trademark violation?
+
+I have a different question
+
 Facebook is committed to helping people and organizations protect their intellectual property rights. The Facebook [Terms of Service](https://www.facebook.com/legal/terms) do not allow posting content that violates someone else’s intellectual property rights, including copyright and trademark.
 
 Copyright
@@ -950,14 +960,6 @@ Can I report an infringement of someone else’s intellectual property on Facebo
 
 Copy link
 
-How do I report Facebook copyright?
-
-How do I report Facebook trademark?
-
-What is Facebook intellectual property?
-
-I have a different question
-
 Only an intellectual property rights owner or their authorized representative may report a suspected infringement. If you believe content on Facebook infringes someone else’s copyright or trademark rights, you may want to let the rights owner know.
 
 Related Articles
@@ -992,13 +994,6 @@ Related Articles
 * * *](https://www.facebook.com/help/258317347704209/?helpref=related_articles)
 
 [What you should consider before submitting a report of intellectual property infringement to Facebook](https://www.facebook.com/help/1703586166530507/?helpref=related_articles)
-
-Other ways to get help
-----------------------
-
-Chat with Meta AI support assistant
-
-Resolve issues, make changes and get support in real time
 
 - - -
 
@@ -1629,9 +1624,9 @@ Copyright
 
 How do I report copyright infringement?
 
-What is Facebook copyright policy?
-
 How do I protect my copyrighted work?
+
+What is Facebook copyright policy?
 
 I have a different question
 
@@ -1862,8 +1857,6 @@ What is copyright infringement?
 
 How do I grant copyright permission?
 
-How do I prevent copyright use?
-
 I have a different question
 
 As a copyright owner, you have certain rights under the law. These include the right to stop others from copying or distributing your work, or from creating new works based on your work. Copyright infringement generally occurs when a person engages in one of these activities without the copyright owner’s permission.
@@ -1986,6 +1979,16 @@ How can I make sure the content I post to Facebook doesn't violate copyright law
 
 Copy link
 
+What is Facebook copyright law?
+
+How does Facebook fair use work?
+
+How do I get content permission?
+
+What is Facebook public domain?
+
+I have a different question
+
 Under Facebook's [Terms of Service](https://www.facebook.com/terms.php) and [Community Standards](https://l.facebook.com/l.php?u=https%3A%2F%2Ftransparency.meta.com%2Fpolicies%2Fcommunity-standards%2F), you can only post content to Facebook that doesn’t violate someone else's intellectual property rights. The best way to help make sure that what you post to Facebook doesn’t violate copyright law is to only post content that you’ve created yourself. It's possible to infringe someone else's copyright when you post their content on Facebook, even if you:
 
 *   Bought or downloaded the content (for example, a song from iTunes)
@@ -2042,6 +2045,13 @@ Related Articles
 * * *](https://www.facebook.com/help/325058084212425/?helpref=related_articles)
 
 [Repeated intellectual property infringement on Facebook](https://www.facebook.com/help/350712395302528/?helpref=related_articles)
+
+Other ways to get help
+----------------------
+
+Chat with Meta AI support assistant
+
+Resolve issues, make changes and get support in real time
 
 - - -
 
@@ -2147,14 +2157,6 @@ Unintentional actions can still violate copyright on Facebook
 
 Copy link
 
-What is Facebook copyright infringement?
-
-What is fair use on Facebook?
-
-What is a copyright violation?
-
-I have a different question
-
 It's possible to infringe someone else's copyright, even if you don't intend to do so. In most cases, you shouldn’t use someone else’s copyrighted work if you don’t have permission. Posting content that facilitates copyright infringement through unauthorized devices or services is also not allowed on Facebook.
 
 Keep in mind that your use of someone else’s content may infringe their copyright or facilitate copyright infringement, even if you:
@@ -2205,13 +2207,6 @@ Related Articles
 
 [How do I appeal the removal of content on Facebook for copyright reasons?](https://www.facebook.com/help/194353905193770/?helpref=related_articles)
 
-Other ways to get help
-----------------------
-
-Chat with Meta AI support assistant
-
-Resolve issues, make changes and get support in real time
-
 - - -
 
 *   [Policies](https://www.facebook.com/help/463972400461409/?helpref=breadcrumb)
@@ -2224,11 +2219,11 @@ Copy link
 
 What is Facebook copyright content?
 
-What happens to removed videos?
+What happens to removed Facebook videos?
 
-How do I check my email settings?
+How do I appeal Facebook video removal?
 
-How do I check my notification settings?
+What are Facebook notification settings?
 
 I have a different question
 
@@ -2393,9 +2388,9 @@ What is a DMCA counter-notification?
 
 How do I file a DMCA counter-notification?
 
-What happens after I file a DMCA counter-notification?
+What happens after a counter-notification?
 
-How long does a DMCA counter-notification take?
+How long does a DMCA process take?
 
 I have a different question
 
