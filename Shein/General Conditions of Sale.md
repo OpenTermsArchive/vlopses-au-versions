@@ -2,6 +2,8 @@ Return Policy
 
   
 
+Your return is also subject to the Fair Use Policy. (See our [SHEIN Fair Use Returns Policy](https://au.shein.com/shein-fair-use-policy-for-returns-a-3642.html).)
+
 Table of Contents
 
 [**1\. How Long Do I Have to Make a Return?**](javascript:;)
@@ -86,10 +88,10 @@ NOTE:
 
 | Return Method | Return Documentation | Printer Required | Return Fees |
 | --- | --- | --- | --- |
-| Hubbed  <br>Store drop-off | Return Label | Yes | **Return shipping is free on your first return** of one or multiple returnable items for **EVERY order** within the Voluntary Return Window.  <br>  <br>For the second and subsequent refunds from the same order, a **1.00 AUD** shipping fee will be deducted from your refund for each return. |
+| Hubbed  <br>Store drop-off | Return Label | Yes | Returns are free for your first return of one or more eligible items from any order within the voluntary return period, but are subject to our Fair Use Policy (see our [SHEIN Fair Use Returns Policy](https://au.shein.com/shein-fair-use-policy-for-returns-a-3642.html)).  <br>  <br>For the second and any subsequent returns from the same order, a shipping fee of **10.00 AUD** will be deducted from your refund. |
 | Return Code | No  |
-| Aupost  <br>Store drop-off | Return Label | Yes | **Return shipping is free on your first return** of one or multiple returnable items for **EVERY order** within the Voluntary Return Window.  <br>  <br>For the second and subsequent refunds from the same order, a **10.52 AUD** shipping fee will be deducted from your refund for each return. |
-| IMILE  <br>Pick-up Service | Return Label | NO  | **Return shipping is free on your first return** of one or multiple returnable items for **EVERY order** within the Voluntary Return Window.  <br>  <br>For the second and subsequent refunds from the same order, a **10.00 AUD** shipping fee will be deducted from your refund for each return. |
+| Aupost  <br>Store drop-off | Return Label | Yes |
+| IMILE  <br>Pick-up Service | Return Label | NO  |
 | Self-Return | Depends on your logistics provider |     | You need to pay the return fee directly to your logistics provider, and we Do Not reimburse the costs. |
 
 NOTE:
