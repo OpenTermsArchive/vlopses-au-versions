@@ -463,7 +463,7 @@ Copy link
 
 What is a counterfeit good?
 
-How do I report counterfeit goods?
+How do I report counterfeits?
 
 What is trademark infringement?
 
@@ -527,7 +527,7 @@ What are trademark rights limits?
 
 What is nominative fair use?
 
-What is consumer confusion?
+What is trademark geographic limit?
 
 I have a different question
 
@@ -552,9 +552,9 @@ Related Articles
 
 [What are trademarks and what they protect](https://www.facebook.com/help/1378807958858854/?helpref=related_articles)
 
-[Does a trademark need to be registered to be protected?](https://www.facebook.com/help/1430594943641002/?helpref=related_articles)
-
 [Trademark](https://www.facebook.com/help/507663689427413/?helpref=related_articles)
+
+[What is the difference between a trademark registration and a business registration?](https://www.facebook.com/help/1378621128898663/?helpref=related_articles)
 
 Related Articles
 
@@ -570,11 +570,11 @@ Related Articles
 
 * * *](https://www.facebook.com/help/1378807958858854/?helpref=related_articles)
 
-[Does a trademark need to be registered to be protected?
+[Trademark
 
-* * *](https://www.facebook.com/help/1430594943641002/?helpref=related_articles)
+* * *](https://www.facebook.com/help/507663689427413/?helpref=related_articles)
 
-[Trademark](https://www.facebook.com/help/507663689427413/?helpref=related_articles)
+[What is the difference between a trademark registration and a business registration?](https://www.facebook.com/help/1378621128898663/?helpref=related_articles)
 
 Other ways to get help
 ----------------------
@@ -593,13 +593,11 @@ What’s the difference between copyright and trademark?
 
 Copy link
 
-What is copyright protection?
+What is copyright?
 
-What is trademark protection?
+What is trademark?
 
 What is intellectual property?
-
-What is the DMCA?
 
 I have a different question
 
@@ -661,11 +659,11 @@ Copy link
 
 What is Facebook trademark law?
 
-How do I avoid trademark infringement?
+How do I avoid Facebook trademark issues?
 
-What happens if I violate trademark law?
+What happens if I violate trademark?
 
-How do I protect my content?
+How do I get legal advice?
 
 I have a different question
 
@@ -728,11 +726,11 @@ Content I posted on Facebook was removed because it was reported for intellectua
 
 Copy link
 
-What is intellectual property infringement?
+How do I appeal Facebook content removal?
 
-How do I appeal content removal?
+What is a Facebook trademark report?
 
-What happens after content removal?
+How do I appeal a Facebook trademark report?
 
 I have a different question
 
@@ -797,13 +795,13 @@ Repeated intellectual property infringement on Facebook
 
 Copy link
 
-What is repeat infringer policy?
+What is Facebook repeat infringer policy?
 
-What happens to my account?
+What happens to my Facebook account?
 
-What happens to my Page?
+What happens to my Facebook Page?
 
-What are Facebook feature limits?
+How do I appeal a Facebook decision?
 
 I have a different question
 
@@ -892,11 +890,11 @@ How do I report trademark infringement on Facebook?
 
 Copy link
 
-How do I report trademark infringement?
+How do I report Facebook trademark infringement?
 
-What happens after I report infringement?
+What happens after I report trademark infringement?
 
-What are the legal consequences?
+How do I contact the person infringing?
 
 I have a different question
 
@@ -1022,7 +1020,7 @@ Copy link
 
 How do I report a Facebook username?
 
-What is a Facebook trademark infringement?
+What is Facebook trademark infringement?
 
 How do I contact a Facebook user?
 
@@ -1090,7 +1088,7 @@ What is copyright infringement?
 
 What is trademark infringement?
 
-What are legal consequences?
+What is fair use?
 
 I have a different question
 
@@ -1154,9 +1152,9 @@ What to include in a trademark report?
 
 How do I submit a trademark report?
 
-What is a trademark infringement?
+What is trademark infringement?
 
-How do I find a URL?
+What is intellectual property?
 
 I have a different question
 
@@ -1233,9 +1231,9 @@ What happens when I submit a trademark report to Meta?
 
 Copy link
 
-What happens after I submit?
+What happens after I report?
 
-What information is shared?
+What is a trademark report?
 
 How do I respond to Meta?
 
@@ -1305,11 +1303,13 @@ Report an advertisement for intellectual property infringement on Facebook
 
 Copy link
 
-How do I report a Facebook ad?
+How do I report an ad?
 
 How do I report Facebook copyright?
 
 How do I report Facebook trademark?
+
+How do I report Facebook counterfeit?
 
 I have a different question
 
@@ -1383,11 +1383,11 @@ Copy link
 
 How do I report a third-party app?
 
-What is intellectual property infringement?
+What is a third-party app?
 
 How do I contact an app developer?
 
-What are Facebook Terms of Service?
+What is intellectual property infringement?
 
 I have a different question
 
@@ -1449,7 +1449,7 @@ How do I withdraw an IP report?
 
 How do I cancel a copyright report?
 
-How do I retract a trademark report?
+How do I cancel a trademark report?
 
 I have a different question
 
@@ -1728,9 +1728,9 @@ What is copyright and what does it protect?
 
 Copy link
 
-What is copyright protection?
-
 What does copyright protect?
+
+What is an original work?
 
 What is not protected by copyright?
 
@@ -1932,11 +1932,11 @@ How long does copyright protection last?
 
 Copy link
 
-What is copyright protection?
-
-What is the public domain?
-
 How long does copyright last?
+
+What is public domain content?
+
+How does copyright law work?
 
 I have a different question
 
@@ -1998,11 +1998,11 @@ Copy link
 
 What is Facebook copyright law?
 
-How does Facebook fair use work?
+How do I get permission to post?
 
-How do I get content permission?
+What is Facebook fair use?
 
-What is Facebook public domain?
+What is public domain content?
 
 I have a different question
 
@@ -2178,7 +2178,7 @@ What is Facebook copyright infringement?
 
 What is fair use on Facebook?
 
-How do I avoid Facebook copyright?
+What is a copyright violation?
 
 I have a different question
 
@@ -2251,11 +2251,11 @@ Copy link
 
 What is Facebook copyright content?
 
-What happens to removed videos?
+What happens to removed Facebook videos?
 
-How do I check my email settings?
+How do I appeal Facebook video removal?
 
-How do I check my notification settings?
+What are Facebook notification settings?
 
 I have a different question
 
@@ -2340,6 +2340,8 @@ Mobile Browser Help
 iPad App Help
 
 Facebook Lite App Help
+
+More
 
 How do I appeal content removal?
 
@@ -2553,11 +2555,11 @@ How do I contact Meta's Digital Millennium Copyright Act (DMCA) designated agent
 
 Copy link
 
-How do I contact Meta DMCA?
+What is a DMCA claim?
 
-How do I report copyright?
+How do I report copyright infringement?
 
-What is Meta's DMCA agent?
+How do I contact Meta's DMCA agent?
 
 I have a different question
 
@@ -2626,9 +2628,11 @@ Copy link
 
 What to include in a copyright report?
 
-What is a copyrighted work?
+What is a copyright report?
 
-How to report copyright infringement?
+How do I report copyright infringement?
+
+What happens after a copyright report?
 
 I have a different question
 
@@ -2698,11 +2702,11 @@ Facebook removed content as a result of my copyright report. What information is
 
 Copy link
 
-What information is sent?
+What information is shared?
 
 What is a copyright report?
 
-How do I appeal a copyright removal?
+How do I appeal a removal?
 
 I have a different question
 
@@ -2768,11 +2772,13 @@ What happens when you submit a copyright report to Meta
 
 Copy link
 
-What happens after I report?
+What happens to my copyright report?
 
-What information is shared?
+What is a copyright report number?
 
-How do I respond to Meta?
+What information does Meta share?
+
+How do I respond to Meta about a report?
 
 I have a different question
 
@@ -2840,13 +2846,11 @@ Tools Facebook provides to help protect your intellectual property
 
 Copy link
 
-How do Facebook Rights Manager tools work?
+How do I protect my intellectual property?
 
-How does Facebook content protection work?
+How does Rights Manager work?
 
-How do I apply for Facebook tools?
-
-How do I report Facebook copyright?
+How does content protection work?
 
 I have a different question
 
