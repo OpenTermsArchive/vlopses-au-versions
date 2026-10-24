@@ -552,9 +552,9 @@ Related Articles
 
 [What are trademarks and what they protect](https://www.facebook.com/help/1378807958858854/?helpref=related_articles)
 
-[Trademark](https://www.facebook.com/help/507663689427413/?helpref=related_articles)
+[Does a trademark need to be registered to be protected?](https://www.facebook.com/help/1430594943641002/?helpref=related_articles)
 
-[What is the difference between a trademark registration and a business registration?](https://www.facebook.com/help/1378621128898663/?helpref=related_articles)
+[Trademark](https://www.facebook.com/help/507663689427413/?helpref=related_articles)
 
 Related Articles
 
@@ -570,11 +570,11 @@ Related Articles
 
 * * *](https://www.facebook.com/help/1378807958858854/?helpref=related_articles)
 
-[Trademark
+[Does a trademark need to be registered to be protected?
 
-* * *](https://www.facebook.com/help/507663689427413/?helpref=related_articles)
+* * *](https://www.facebook.com/help/1430594943641002/?helpref=related_articles)
 
-[What is the difference between a trademark registration and a business registration?](https://www.facebook.com/help/1378621128898663/?helpref=related_articles)
+[Trademark](https://www.facebook.com/help/507663689427413/?helpref=related_articles)
 
 Other ways to get help
 ----------------------
@@ -958,11 +958,11 @@ Can I report an infringement of someone else’s intellectual property on Facebo
 
 Copy link
 
-How do I report Facebook copyright?
+How do I report Facebook IP infringement?
 
-How do I report Facebook trademark?
+What is Facebook copyright infringement?
 
-What is Facebook intellectual property?
+What is Facebook trademark infringement?
 
 I have a different question
 
@@ -2343,11 +2343,13 @@ Facebook Lite App Help
 
 More
 
-How do I appeal content removal?
+What happens to removed content?
+
+How do I appeal removed content?
+
+How do I contact the rights owner?
 
 What is intellectual property infringement?
-
-What happens to my content?
 
 I have a different question
 
