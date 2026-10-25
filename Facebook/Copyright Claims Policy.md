@@ -593,14 +593,6 @@ What’s the difference between copyright and trademark?
 
 Copy link
 
-What is copyright?
-
-What is trademark?
-
-What is intellectual property?
-
-I have a different question
-
 The law in most countries recognizes copyrights as well as trademarks. Copyright law and trademark law serve two different purposes.
 
 [Copyright](https://www.facebook.com/help/116772962146447?helpref=faq_content) is meant to foster creativity and to provide incentives to create original works of authorship for the benefit of the public. Copyright protects original works like photos, videos, movies and music. It’s also important to note that, in the U.S., the Digital Millennium Copyright Act (DMCA) applies only to copyrights and doesn’t apply to trademarks.
@@ -639,13 +631,6 @@ Related Articles
 * * *](https://www.facebook.com/help/116772962146447/?helpref=related_articles)
 
 [Does a trademark need to be registered to be protected?](https://www.facebook.com/help/1430594943641002/?helpref=related_articles)
-
-Other ways to get help
-----------------------
-
-Chat with Meta AI support assistant
-
-Resolve issues, make changes and get support in real time
 
 - - -
 
@@ -726,14 +711,6 @@ Content I posted on Facebook was removed because it was reported for intellectua
 
 Copy link
 
-How do I appeal Facebook content removal?
-
-What is a Facebook trademark report?
-
-How do I appeal a Facebook trademark report?
-
-I have a different question
-
 When we receive a report from a rights owner claiming that content you posted on Facebook infringes their intellectual property rights, we may need to promptly remove that content from Facebook without contacting you first.
 
 If we remove content you posted because of an intellectual property report submitted through our online form, you’ll receive a notification from Facebook that may include the name and email address of the rights owner who made the report and/or other details of the report. If you believe the content shouldn’t have been removed, you can follow up with the rights owner directly to try to resolve the issue.
@@ -777,13 +754,6 @@ Related Articles
 * * *](https://www.facebook.com/help/561080341172839/?helpref=related_articles)
 
 [What happens when Facebook removes my content?](https://www.facebook.com/help/260743102021762/?helpref=related_articles)
-
-Other ways to get help
-----------------------
-
-Chat with Meta AI support assistant
-
-Resolve issues, make changes and get support in real time
 
 - - -
 
@@ -958,11 +928,11 @@ Can I report an infringement of someone else’s intellectual property on Facebo
 
 Copy link
 
-How do I report Facebook IP infringement?
+How do I report Facebook copyright?
 
-What is Facebook copyright infringement?
+How do I report Facebook trademark?
 
-What is Facebook trademark infringement?
+What is Facebook intellectual property?
 
 I have a different question
 
@@ -1303,6 +1273,16 @@ Report an advertisement for intellectual property infringement on Facebook
 
 Copy link
 
+How do I report an ad?
+
+How do I report Facebook copyright?
+
+How do I report Facebook trademark?
+
+How do I report Facebook counterfeit?
+
+I have a different question
+
 If you own a registered trademark, you may be eligible to use Brand Rights Protection. This tool allows you to identify trademark violations, counterfeit products and copyright infringement across Meta technologies such as Facebook and Instagram. Learn more about [Brand Rights Protection](https://www.facebook.com/business/help/828925381043253?helpref=faq_content), including how to apply.
 
 If you don’t have access to Brand Rights Protection, and you believe content on Facebook is infringing your intellectual property rights, you can report it to us through one of the following forms:
@@ -1631,9 +1611,9 @@ Copyright
 
 How do I report copyright infringement?
 
-What is Facebook copyright policy?
-
 How do I protect my copyrighted work?
+
+What is Facebook copyright policy?
 
 I have a different question
 
@@ -1986,13 +1966,13 @@ How can I make sure the content I post to Facebook doesn't violate copyright law
 
 Copy link
 
-What is Facebook copyright law?
+How do I avoid Facebook copyright?
 
-How do I get permission to post?
+What is Facebook intellectual property?
 
 What is Facebook fair use?
 
-What is public domain content?
+What is Facebook public domain?
 
 I have a different question
 
@@ -2333,13 +2313,11 @@ Facebook Lite App Help
 
 More
 
-What happens to removed content?
-
-How do I appeal removed content?
-
-How do I contact the rights owner?
+How do I appeal content removal?
 
 What is intellectual property infringement?
+
+What happens to my content?
 
 I have a different question
 
@@ -2547,11 +2525,11 @@ How do I contact Meta's Digital Millennium Copyright Act (DMCA) designated agent
 
 Copy link
 
-What is a DMCA claim?
+How do I contact Meta DMCA?
 
-How do I report copyright infringement?
+How do I report copyright?
 
-How do I contact Meta's DMCA agent?
+What is Meta's DMCA agent?
 
 I have a different question
 
