@@ -52,8 +52,8 @@ You may complain directly to eSafety about possible non-compliance through its [
 
 If online content or an experience online has affected you, independent support is available:
 
-*   Lifeline — crisis support on 13 11 14, with online contact options on its website.
-*   1800RESPECT — counselling, information and support for domestic, family and sexual violence on 1800 737 732, with online contact options on its website.
+*   [Lifeline](https://www.lifeline.org.au/) — crisis support on 13 11 14, with online contact options on its website.
+*   [1800RESPECT](https://www.1800respect.org.au/) — counselling, information and support for domestic, family and sexual violence on 1800 737 732, with online contact options on its website.
 
 For further options, including support for young people and other specialist services, visit [eSafety’s counselling and support directory](https://www.esafety.gov.au/about-us/counselling-support-services).
 
