@@ -1024,6 +1024,8 @@ What is Facebook trademark infringement?
 
 How do I contact a Facebook user?
 
+What are Facebook username rules?
+
 I have a different question
 
 [Usernames](https://www.facebook.com/help/105399436216001?helpref=faq_content) are generally claimed on a first-come, first-served basis. This means that you may see a Facebook Page or profile with a username that includes your trademark.
