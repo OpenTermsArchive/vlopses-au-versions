@@ -14,16 +14,6 @@ Intellectual Property
 
 Copy link
 
-What is Facebook copyright?
-
-What is Facebook trademark?
-
-How do I report copyright violation?
-
-How do I report trademark violation?
-
-I have a different question
-
 Facebook is committed to helping people and organizations protect their intellectual property rights. The Facebook [Terms of Service](https://www.facebook.com/legal/terms) do not allow posting content that violates someone else’s intellectual property rights, including copyright and trademark.
 
 Copyright
@@ -131,8 +121,6 @@ What is a trademark?
 What do trademarks protect?
 
 How do trademarks work?
-
-How do I report a trademark violation?
 
 I have a different question
 
@@ -399,6 +387,14 @@ How long does trademark protection last?
 
 Copy link
 
+What is trademark protection?
+
+How long do trademark rights last?
+
+How do I lose trademark rights?
+
+I have a different question
+
 Trademark rights may last indefinitely, but only if the trademark owner continues to use the trademark in commerce to identify their products or services. If a trademark owner stops using the trademark, or if it isn’t used properly, they might lose their trademark rights.
 
 For trademarks that are registered with the United States Patent and Trademark Office (USPTO), registrations must be renewed periodically. For trademarks that are registered with the European Union Intellectual Property Office (EUIPO), registration lasts for 10 years and may be renewed indefinitely. The laws in other jurisdictions may vary.
@@ -435,6 +431,13 @@ Related Articles
 * * *](https://www.facebook.com/help/507663689427413/?helpref=related_articles)
 
 [Reporting Trademark Infringements](https://www.facebook.com/help/440684869305015/?helpref=related_articles)
+
+Other ways to get help
+----------------------
+
+Chat with Meta AI support assistant
+
+Resolve issues, make changes and get support in real time
 
 - - -
 
@@ -537,9 +540,9 @@ Related Articles
 
 [What are trademarks and what they protect](https://www.facebook.com/help/1378807958858854/?helpref=related_articles)
 
-[Trademark](https://www.facebook.com/help/507663689427413/?helpref=related_articles)
+[Does a trademark need to be registered to be protected?](https://www.facebook.com/help/1430594943641002/?helpref=related_articles)
 
-[What is the difference between a trademark registration and a business registration?](https://www.facebook.com/help/1378621128898663/?helpref=related_articles)
+[Trademark](https://www.facebook.com/help/507663689427413/?helpref=related_articles)
 
 Related Articles
 
@@ -555,11 +558,11 @@ Related Articles
 
 * * *](https://www.facebook.com/help/1378807958858854/?helpref=related_articles)
 
-[Trademark
+[Does a trademark need to be registered to be protected?
 
-* * *](https://www.facebook.com/help/507663689427413/?helpref=related_articles)
+* * *](https://www.facebook.com/help/1430594943641002/?helpref=related_articles)
 
-[What is the difference between a trademark registration and a business registration?](https://www.facebook.com/help/1378621128898663/?helpref=related_articles)
+[Trademark](https://www.facebook.com/help/507663689427413/?helpref=related_articles)
 
 Other ways to get help
 ----------------------
@@ -2236,16 +2239,6 @@ A video I posted on Facebook was removed immediately. What happened, and what ar
 
 Copy link
 
-What is Facebook copyright content?
-
-What happens to removed Facebook videos?
-
-How do I appeal Facebook video removal?
-
-What are Facebook notification settings?
-
-I have a different question
-
 If you tried to post a video and it was immediately removed, it may have been identified as potentially containing someone else’s copyrighted content. This could include video, audio or both.
 
 If your video was removed for copyright reasons, you'll receive an email and a notification about the removal. Please use the information you receive to learn more about your options, such as confirming that you have the right to use the copyrighted work and you still wish to post the content.
@@ -2330,13 +2323,11 @@ Facebook Lite App Help
 
 More
 
-What happens to removed content?
-
-How do I appeal removed content?
-
-How do I contact the rights owner?
+How do I appeal content removal?
 
 What is intellectual property infringement?
+
+What happens to my content?
 
 I have a different question
 
@@ -2409,9 +2400,9 @@ What is a DMCA counter-notification?
 
 How do I file a DMCA counter-notification?
 
-What happens after a counter-notification?
+What happens after I file a DMCA counter-notification?
 
-How long does a DMCA process take?
+How long does a DMCA counter-notification take?
 
 I have a different question
 
