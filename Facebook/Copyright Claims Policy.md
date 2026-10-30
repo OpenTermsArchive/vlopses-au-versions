@@ -2082,16 +2082,6 @@ What are fair use and other exceptions to copyright
 
 Copy link
 
-What is fair use?
-
-What are copyright exceptions?
-
-How does fair use apply?
-
-What is copyright infringement?
-
-I have a different question
-
 Laws across the globe recognize that strict application of copyright laws in certain cases may be unfair or may inappropriately stifle creativity or stop people from creating original works, which would harm the public. These laws allow people to use, under certain circumstances, someone else's copyrighted work. Common examples include use for the purpose of criticism, commentary, parody, satire, news reporting, teaching, education and research.
 
 The United States and some other countries follow the “fair use” doctrine, while other countries, including those in the European Union, provide other exceptions or limitations to copyright. These exceptions or limitations permit users to use copyrighted material where appropriate. You may want to seek legal advice if you have questions about the possibility to use someone else’s copyrighted work within the limits set by the law.
@@ -2158,13 +2148,6 @@ Related Articles
 * * *](https://www.facebook.com/help/1796523567227660/?helpref=related_articles)
 
 [How long does copyright protection last?](https://www.facebook.com/help/697921770376427/?helpref=related_articles)
-
-Other ways to get help
-----------------------
-
-Chat with Meta AI support assistant
-
-Resolve issues, make changes and get support in real time
 
 - - -
 
@@ -2552,48 +2535,50 @@ Resolve issues, make changes and get support in real time
 - - -
 
 *   [Policies](https://www.facebook.com/help/463972400461409/?helpref=breadcrumb)
-*   [Intellectual Property](https://www.facebook.com/help/399224883474207/?helpref=breadcrumb)
+*   [Intellectual property](https://www.facebook.com/help/399224883474207/?helpref=breadcrumb)
 
 How do I contact Meta's Digital Millennium Copyright Act (DMCA) designated agent?
 =================================================================================
 
 Copy link
 
-What is a DMCA claim?
+How do I contact Meta DMCA?
 
-How do I report copyright infringement?
+How do I send a DMCA claim?
 
-How do I contact Meta's DMCA agent?
+What is Meta's DMCA agent address?
+
+How do I submit a complete copyright claim?
 
 I have a different question
 
 The fastest and easiest way to send a DMCA report of copyright infringement to our designated agent is to [contact Meta](https://www.facebook.com/help/325058084212425?helpref=faq_content).
 
-If you wish to reach our designated agent through other (and slower) methods, you can contact:
+If you wish to contact out designated agent via other (and slower) methods, you can contact:
 
 Meta Platforms, Inc.  
-Attn: Meta Designated Agent  
+FAO: Meta Designated Agent  
 1601 Willow Road  
-Menlo Park, California 94025  
-650.543.4800 (phone)  
+Menlo Park, California 94025, USA  
++1 650 543 4800 (phone)  
 ip@fb.com
 
-Please keep in mind that if you submit a report to our designated agent by any means other than through our online form, you must include a [complete copyright claim](https://www.facebook.com/help/231463960277847?helpref=faq_content).
+Please bear in mind that if you submit a report to our designated agent by any means other than through our online form, you must include a [complete copyright claim](https://www.facebook.com/help/231463960277847?helpref=faq_content).
 
-Related Articles
+Related articles
 ----------------
 
 [How does Meta process United States Digital Millennium Copyright Act (DMCA) counter-notifications?](https://www.facebook.com/help/265723950293778/?helpref=related_articles)
 
 [How dispute settlement bodies work in the EU for Facebook](https://www.facebook.com/help/2345573922310411/?helpref=related_articles)
 
+[About charity registries](https://www.facebook.com/help/1160346577807826/?helpref=related_articles)
+
 [Japan Information Distribution Platform (Measurement) Act](https://www.facebook.com/help/1269666141338507/?helpref=related_articles)
 
 [Telecommunications Business Act (TBA)](https://www.facebook.com/help/390717618710100/?helpref=related_articles)
 
-[Copyright](https://www.facebook.com/help/1020633957973118/?helpref=related_articles)
-
-Related Articles
+Related articles
 
 [How does Meta process United States Digital Millennium Copyright Act (DMCA) counter-notifications?
 
@@ -2603,15 +2588,15 @@ Related Articles
 
 * * *](https://www.facebook.com/help/2345573922310411/?helpref=related_articles)
 
+[About charity registries
+
+* * *](https://www.facebook.com/help/1160346577807826/?helpref=related_articles)
+
 [Japan Information Distribution Platform (Measurement) Act
 
 * * *](https://www.facebook.com/help/1269666141338507/?helpref=related_articles)
 
-[Telecommunications Business Act (TBA)
-
-* * *](https://www.facebook.com/help/390717618710100/?helpref=related_articles)
-
-[Copyright](https://www.facebook.com/help/1020633957973118/?helpref=related_articles)
+[Telecommunications Business Act (TBA)](https://www.facebook.com/help/390717618710100/?helpref=related_articles)
 
 Other ways to get help
 ----------------------
