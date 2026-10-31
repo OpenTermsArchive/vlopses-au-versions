@@ -126,6 +126,16 @@ What are trademarks and what they protect
 
 Copy link
 
+What is a trademark?
+
+What do trademarks protect?
+
+How do trademarks work?
+
+How do I report a trademark violation?
+
+I have a different question
+
 A trademark is a word, slogan, symbol or design (example: a brand name or logo) that a person or company uses to distinguish their products or services from those offered by others. A trademark is protectable when it’s used in a distinctive way to identify a product or service. Whether you know it or not, you see trademarks all day long, whether shopping in stores or online, watching commercials on TV and so on.
 
 Generally, trademark law seeks to prevent consumers from being confused about who provides, endorses or is affiliated with a particular product or service. To prevent this situation, a trademark owner may be able to stop others from using their trademark (or a similar trademark) without permission if that use may cause confusion.
@@ -260,14 +270,6 @@ Does a trademark need to be registered to be protected?
 =======================================================
 
 Copy link
-
-What is a registered trademark?
-
-How do I register a trademark?
-
-What are common law trademark rights?
-
-I have a different question
 
 In the U.S., a trademark can be registered with the United States Patent and Trademark Office (USPTO). Federal registrations with the USPTO establish trademark rights as of a certain date and provide a presumption that the registrant owns a valid trademark, among other things. For these reasons, trademark owners often obtain USPTO registrations.
 
@@ -450,14 +452,6 @@ What is a counterfeit?
 ======================
 
 Copy link
-
-What is a counterfeit good?
-
-How do I report counterfeits?
-
-What is trademark infringement?
-
-I have a different question
 
 A counterfeit good is a knockoff or replica version of another company’s product. It usually copies the trademark (name or logo) and/or distinctive features of that other company’s product to imitate a genuine product. The manufacture, promotion or sale of a counterfeit goods is a type of trademark infringement that is illegal in most countries, and is recognized as being harmful to consumers, trademark owners and honest sellers. Please note that counterfeit goods may be unlawful even if the seller explicitly says that the goods are counterfeit, or otherwise disclaims authenticity of the goods.
 
@@ -715,14 +709,6 @@ Content I posted on Facebook was removed because it was reported for intellectua
 ================================================================================================================================
 
 Copy link
-
-How do I appeal Facebook content removal?
-
-What is a Facebook trademark report?
-
-How do I appeal a Facebook trademark report?
-
-I have a different question
 
 When we receive a report from a rights owner claiming that content you posted on Facebook infringes their intellectual property rights, we may need to promptly remove that content from Facebook without contacting you first.
 
@@ -2613,40 +2599,40 @@ Resolve issues, make changes and get support in real time
 - - -
 
 *   [Policies](https://www.facebook.com/help/463972400461409/?helpref=breadcrumb)
-*   [Intellectual Property](https://www.facebook.com/help/399224883474207/?helpref=breadcrumb)
+*   [Intellectual property](https://www.facebook.com/help/399224883474207/?helpref=breadcrumb)
 
 What information you need to include in a copyright report to Meta
 ==================================================================
 
 Copy link
 
-What to include in a copyright report?
+What information do I need?
 
-What is a copyright report?
+How do I submit a copyright report?
 
-How do I report copyright infringement?
+What happens after I report?
 
-What happens after a copyright report?
+What is copyright infringement?
 
 I have a different question
 
 The fastest and easiest way to submit a claim of copyright infringement on Facebook to us is to [report it](https://www.facebook.com/help/325058084212425?helpref=faq_content). Whether you submit your report through our online form or another method, Facebook needs the following information to be able to process your report:
 
-*   Your complete contact information (full name, mailing address and phone number)\*.
+*   Your complete contact information (full name, postal address and phone number)\*.
 *   A description of the copyrighted work that you claim has been infringed.
 *   A description of the content on our site that you claim infringes your copyright.
-*   Information reasonably sufficient to permit us to locate the material on our site. The easiest way to do this is by providing web addresses (URLs) leading directly to the allegedly infringing content.
+*   Information reasonably sufficient to permit us to locate the material on our site. The easiest way to do this is by providing web addresses (URLs) that lead directly to the allegedly infringing content.
 *   A declaration that:
     
-    1.  You have a good faith belief that use of the copyrighted content described above, in the manner you have complained of, is not authorized by the copyright owner, its agent, or the law.
-    2.  The information in your notice is accurate.
-    3.  Under penalty of perjury, you are the owner or authorized to act on behalf of the owner of an exclusive copyright that is allegedly infringed.
+    1.  you have a belief, based on good faith, that use of the copyrighted content described above, in the manner you have complained of, is not authorised by the copyright owner, its agent or the law;
+    2.  The information in your notice is accurate;
+    3.  under penalty of perjury, you are the owner or authorised to act on behalf of the owner of an exclusive copyright that has been allegedly infringed.
     
 *   Your electronic signature or physical signature.
 
-\*Please note that we regularly provide your name, contact information and the contents of your report to the person who posted the content you are reporting. If you are an authorized representative submitting a report, we provide the name of the organization or client that owns the right in question. For this reason, you may wish to provide a professional or business email address.
+\*Please note that we regularly provide your name, contact information and the contents of your report to the person who posted the content you are reporting. If you are an authorised representative submitting a report, we provide the name of the organisation or client that owns the right in question. For this reason, you may wish to provide a professional or business email address.
 
-Related Articles
+Related articles
 ----------------
 
 [What happens when you submit a copyright report to Meta](https://www.facebook.com/help/364993690187480/?helpref=related_articles)
@@ -2655,11 +2641,11 @@ Related Articles
 
 [What happens when I submit a trademark report to Meta?](https://www.facebook.com/help/493458120789098/?helpref=related_articles)
 
+[What is copyright and what does it protect?](https://www.facebook.com/help/116772962146447/?helpref=related_articles)
+
 [Report an advertisement for intellectual property infringement on Facebook](https://www.facebook.com/help/258317347704209/?helpref=related_articles)
 
-[How do you know if you own the copyright in a work](https://www.facebook.com/help/1145592148881382/?helpref=related_articles)
-
-Related Articles
+Related articles
 
 [What happens when you submit a copyright report to Meta
 
@@ -2673,11 +2659,11 @@ Related Articles
 
 * * *](https://www.facebook.com/help/493458120789098/?helpref=related_articles)
 
-[Report an advertisement for intellectual property infringement on Facebook
+[What is copyright and what does it protect?
 
-* * *](https://www.facebook.com/help/258317347704209/?helpref=related_articles)
+* * *](https://www.facebook.com/help/116772962146447/?helpref=related_articles)
 
-[How do you know if you own the copyright in a work](https://www.facebook.com/help/1145592148881382/?helpref=related_articles)
+[Report an advertisement for intellectual property infringement on Facebook](https://www.facebook.com/help/258317347704209/?helpref=related_articles)
 
 Other ways to get help
 ----------------------
