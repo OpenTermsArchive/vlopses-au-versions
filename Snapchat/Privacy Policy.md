@@ -12,51 +12,6 @@ We’ve created this notice specifically for users in Australia to explain how w
 
 Our Privacy Principles and the privacy controls we offer to all users are in line with these laws. For example, all users can request a copy of their data, request deletion, and control their privacy settings in the app. For all other rights and obligations, check out our [Privacy Policy](https://values.snap.com/privacy/privacy-policy).
 
-### 
-
-**Rights of access, deletion, correction and portability**
-
-You can exercise your rights of access and correction as described in the [Control Over Your Information](https://values.snap.com/privacy/privacy-policy#control-over-your-information) section of the Privacy Policy.
-
-### 
-
-International Data Transfers
-
-We may collect your personal information from, transfer it to and store and process it in the United States and other countries outside of where you live. We take reasonable steps to ensure that overseas recipients do not breach Australian privacy laws in relation to your personal information. You can find more information on the categories of third parties we share information with [here](https://help.snapchat.com/hc/articles/7012351145364?lang=en-GB).
-
-### 
-
-Age Verification in Accordance with the SMMA
-
-Under the SMMA, Australian users under 16 years of age must not hold accounts on certain services.
-
-We will take steps to assess whether you are based in Australia and under the age of 16, based on existing information we have of you. This includes your:
-
-*   birthday
-    
-*   IP address 
-    
-*   usage information (behavioural information about how you interact with Snapchat - for example, which Lenses you view and apply, your premium subscriptions, Stories you watch and how often you interact with other Snapchatters) 
-    
-*   content information (information about content you created or provide your engagement with the camera and creative tools, your interactions with My AI and metadata - for example, information about the content itself, like the date and time it was posted, and who viewed it)
-    
-*   friending information, including the ages of your Snapchat friends.
-    
-
-If you are based in Australia, we may also require you to undertake additional age verification measures with our third-party provider, [k-ID](https://www.k-id.com/privacy-policy), to continue accessing Snapchat. For more information on these measures, please refer to our [Help page](https://help.snapchat.com/hc/articles/42550358600084-Account-Restrictions-for-Australia-Users?lang=en-GB).
-
-To minimise the collection of personal information, Snap will only receive a binary "yes/no" result on whether you are above 16 and will use this result to provide you continued access to Snapchat if appropriate. If the result indicates that you are below 16, your account will be locked. We will not receive your facial scans, bank account details or any other personal information you provide during the k-ID verification process. 
-
-We may update this notice to reflect changes to the applicable laws.
-
-### 
-
-Complaints or Questions?
-
-We want you to know that you can submit any enquiries to our [privacy support team](https://help.snapchat.com/?lang=en-GB) or Data Protection Officer at dpo \[at\] snap \[dot\] com.
-
-You may also contact the [Office of the Australian Information Commissioner (OAIC)](https://www.oaic.gov.au/) to make a privacy complaint.
-
 - - -
 
 ### 
@@ -70,6 +25,68 @@ Effective: March 31, 2024
 As a privacy-centric visual communication platform for free expression, Snap is not in the business of or interested in learning the details about your health. However, certain U.S. states have enacted laws that broadly define “consumer health data” to include data that would typically not be considered health data. We’ve created this notice as a supplement to Snap’s [Privacy Policy](https://values.snap.com/privacy/privacy-policy) to address those laws, and this Policy only applies to you if you live in a state with one of these laws (like Washington state, for example). We collect some of this broadly defined consumer health data and we’ll refer to it as “CHD” in this Policy. If you are looking for specific product privacy information — for example, about Chats and Snaps — take a look at our [Privacy by Product](https://values.snap.com/privacy/privacy-by-product) page. 
 
 We provide you control over your information, see the [Control of Your Information](https://values.snap.com/privacy/privacy-policy#control-over-your-information) Section of our Privacy Policy to learn more.
+
+### 
+
+CHD We Collect
+
+_Some of the information that we collect could be considered CHD, like photographs and location. However, we don’t use that information to make inferences about your specific health status._
+
+As described in the [Information We Collect](https://values.snap.com/privacy/privacy-policy) section of the Privacy Policy, we collect personal information directly from you, from your interactions with our Services, and from third parties. The data we collect depends on how you interact with us, the Services you use, and the choices you make. Because CHD is defined in these laws very broadly, many of the categories of data we collect are or could be considered CHD. For example:
+
+*   Photographs, videos, and audio may be considered CHD;
+    
+*   Precise location information, including where it could reveal your attempt to acquire health services or supplies — like if your location on Snap Map shows that you’re at a hospital; and
+    
+*   Information that could identify your attempt to seek health care services or information, like your search history, interaction with our Services and other webpages, certain conversations with My AI, or how you configure your Bitmoji.
+    
+
+### 
+
+How We Use CHD
+
+_We use the information we collect to provide you with Services, and where required, we’ll collect your consent to use information for other purposes._
+
+Since CHD is defined so broadly, we do collect and use CHD for the purposes described in the [How We Use Information](https://values.snap.com/privacy/privacy-policy#how-we-use-information) section of the Privacy Policy. Primarily, we collect and use CHD to operate, deliver, and maintain our Services. This may include personalization, ensuring the secure and reliable operation of the Services, troubleshooting, and other essential business operations that support the provision of the Services (such as analyzing our performance and meeting our legal obligations).
+
+We may use CHD for other purposes for which we give you choices and/or obtain your consent as required by law. See the How to Exercise Your Rights section below for more details on the controls and choices you may have.
+
+### 
+
+How We Share CHD
+
+_We generally share information when you ask us to do so or as necessary to provide the Services. We also, in rare cases, share information for other reasons. This section provides details about who we share information with and the reasons why._
+
+We may share each of the categories of CHD described above for the purposes described in the [How We Share Information](https://values.snap.com/privacy/privacy-policy#how-we-share-information) section of our Privacy Policy. For example, we share your content with third parties when you tell us to do so, such as when you post a Snap to your Story or Spotlight. And we may disclose data when we believe that doing so is necessary to comply with applicable law or respond to valid legal process.
+
+**Recipients and Reasons for Sharing**
+
+As necessary for the purposes described above, we share CHD with the following categories of third parties:
+
+*   **Service providers.** Vendors or agents (“processors”) working on our behalf may access CHD for the purposes described above. We maintain a list of categories of service providers [here](https://help.snapchat.com/hc/articles/7012351145364?lang=en-GB) (although not all of those service providers necessarily process data that could be considered CHD).
+    
+*   **Parties to a corporate transaction.** If we were to sell or negotiate to sell our business to a buyer or possible buyer, we may transfer your personal information, which may include CHD, to a successor or affiliate as part of that transaction.
+    
+*   **With our affiliates.** We may share personal information, which may include CHD, with entities within the [Snap Inc. family of companies](https://help.snapchat.com/hc/articles/7047492876308?lang=en-GB) where necessary to provide our Services.
+    
+*   **Third-Party Apps.** Sometimes we provide features that allow you to connect with third-party apps. If you decide to connect your Snapchat account with a third-party app, we will share any additional information you direct us to.
+    
+*   **Other third parties, like legal, safety, and security partners.** In certain circumstances, it may be necessary to provide CHD to other third parties, for example, to secure our Service, comply with the law or to protect our rights or those of other users. We will also disclose CHD to law enforcement or other government agencies only when we believe doing so is necessary to comply with applicable law or respond to valid legal process.
+    
+*   **Snapchat.** You may use our Services to share certain information with any Snapchat user (whether to all users of the app or selected recipients), such as your pictures, content, or geolocation data, which may be considered CHD.
+    
+
+### 
+
+Your Rights
+
+_Depending on where you live, you may have additional rights._
+
+Depending on the state in which you reside, you may have certain rights with respect to CHD. You can request to exercise such rights using the various tools and mechanisms described in the [Your Rights](https://values.snap.com/privacy/privacy-policy/us-state-privacy-notice#rights) section of the [U.S. State Privacy Notice](https://values.snap.com/privacy/privacy-policy/us-state-privacy-notice). For example, depending on the specific Services you use, you can access and make choices about your data through the self-service tools we offer. You can also obtain a copy of your data, including any CHD, by using [Download My Data](https://help.snapchat.com/hc/articles/7012305371156?lang=en-GB).
+
+If we obtain your consent for a particular processing purpose, you may withdraw your consent at any time. You may also opt out of location sharing at any time though the settings on your mobile device. 
+
+If your request to exercise a right is denied, you may appeal that decision by [contacting us](https://help.snapchat.com/hc/requests/new?lang=en-GB). If your appeal is unsuccessful and you are a Washington State resident, you can raise a concern or lodge a complaint with the [Washington Attorney General](https://www.atg.wa.gov/file-complaint).
 
 - - -
 
