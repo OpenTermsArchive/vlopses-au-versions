@@ -657,6 +657,16 @@ How can I make sure the content I post to Facebook doesn’t violate trademark l
 
 Copy link
 
+What is Facebook trademark law?
+
+How do I avoid Facebook trademark issues?
+
+What happens if I violate trademark?
+
+How do I get legal advice?
+
+I have a different question
+
 Under Facebook’s [Terms of Service](https://www.facebook.com/terms) and [Community Standards](https://l.facebook.com/l.php?u=https%3A%2F%2Ftransparency.meta.com%2Fpolicies%2Fcommunity-standards%2F), you can only post content to Facebook if it doesn’t violate someone else’s intellectual property rights, including trademarks. Please note that as a Facebook user, you are responsible for the content you post. If your content violates Facebook’s policies or is reported to Meta as infringing the intellectual property rights of another party, Facebook may remove that content.
 
 Before you post content, you might want to ask:
@@ -698,6 +708,13 @@ Related Articles
 * * *](https://www.facebook.com/help/191999230901156/?helpref=related_articles)
 
 [How do I appeal the removal of content on Facebook for trademark reasons?](https://www.facebook.com/help/561080341172839/?helpref=related_articles)
+
+Other ways to get help
+----------------------
+
+Chat with Meta AI support assistant
+
+Resolve issues, make changes and get support in real time
 
 - - -
 
@@ -778,16 +795,6 @@ Repeated intellectual property infringement on Facebook
 
 Copy link
 
-What is Facebook repeat infringer policy?
-
-What happens to my Facebook account?
-
-What happens to my Facebook Page?
-
-How do I appeal a Facebook decision?
-
-I have a different question
-
 By using Facebook, you agree to our [Terms of Service](https://www.facebook.com/terms). Our Terms prohibit people from taking any action on Facebook that infringes or violates someone else's intellectual property rights or otherwise violates the law.
 
 Learn more about [intellectual property and what it protects](https://www.facebook.com/help/399224883474207?helpref=faq_content).
@@ -855,13 +862,6 @@ Related Articles
 * * *](https://www.facebook.com/help/258317347704209/?helpref=related_articles)
 
 [Content I posted on Facebook was removed because it was reported for intellectual property infringement. What are my next steps?](https://www.facebook.com/help/1900735080058381/?helpref=related_articles)
-
-Other ways to get help
-----------------------
-
-Chat with Meta AI support assistant
-
-Resolve issues, make changes and get support in real time
 
 - - -
 
