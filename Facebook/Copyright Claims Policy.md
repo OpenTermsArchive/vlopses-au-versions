@@ -659,6 +659,14 @@ How can I make sure that the content I post to Facebook doesn't violate trademar
 
 Copy link
 
+What is trademark infringement?
+
+What are Facebook's trademark policies?
+
+How do I avoid trademark issues?
+
+I have a different question
+
 Under Facebook's [Terms of Service](https://www.facebook.com/terms) and [Community Standards](https://l.facebook.com/l.php?u=https%3A%2F%2Ftransparency.meta.com%2Fpolicies%2Fcommunity-standards%2F), you can only post content to Facebook if it doesn't violate someone else's intellectual property rights, including trademarks. Please note that as a Facebook user, you are responsible for the content you post. If your content violates Facebook's policies or is reported to Meta as infringing the intellectual property rights of another party, Facebook may remove that content.
 
 Before you post content, you might want to ask:
@@ -2627,6 +2635,16 @@ What information you need to include in a copyright report to Meta
 ==================================================================
 
 Copy link
+
+What information do I need?
+
+How do I submit a copyright report?
+
+What happens after I report?
+
+What is copyright infringement?
+
+I have a different question
 
 The fastest and easiest way to submit a claim of copyright infringement on Facebook to us is to [report it](https://www.facebook.com/help/325058084212425?helpref=faq_content). Whether you submit your report through our online form or another method, Facebook needs the following information to be able to process your report:
 
