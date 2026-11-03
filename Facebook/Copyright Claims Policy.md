@@ -2712,14 +2712,6 @@ Facebook removed content as a result of my copyright report. What information is
 
 Copy link
 
-What information is shared?
-
-What is a copyright report?
-
-How do I appeal content removal?
-
-I have a different question
-
 When we receive a [copyright report](https://www.facebook.com/help/325058084212425?helpref=faq_content) through our online form and remove the reported content, we regularly provide the person who posted the content with the following information:
 
 *   Report number
@@ -2764,13 +2756,6 @@ Related articles
 * * *](https://www.facebook.com/help/365111110185763/?helpref=related_articles)
 
 [How do I report copyright infringement on Facebook?](https://www.facebook.com/help/325058084212425/?helpref=related_articles)
-
-Other ways to get help
-----------------------
-
-Chat with Meta AI support assistant
-
-Resolve issues, make changes and get support in real time
 
 - - -
 
