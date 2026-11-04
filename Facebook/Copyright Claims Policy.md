@@ -2854,13 +2854,13 @@ Tools Facebook provides to protect your intellectual property
 
 Copy link
 
-What are Facebook intellectual property tools?
+Apply for Rights Manager
 
-How does Facebook Rights Manager work?
+Report copyright infringement
 
-How does Facebook content protection work?
+Claim earnings from video
 
-How do I apply for Facebook tools?
+How does content protection work?
 
 I have a different question
 
