@@ -1020,6 +1020,14 @@ Can I report a Facebook username for infringing my trademark?
 
 Copy link
 
+How do I report a Facebook username?
+
+What is Facebook trademark infringement?
+
+How do I contact the username owner?
+
+I have a different question
+
 [Usernames](https://www.facebook.com/help/105399436216001?helpref=faq_content) are generally claimed on a first-come, first-served basis. This means that you may see a Facebook Page or profile with a username that includes your trademark.
 
 While there may be cases where this type of use can be reported for trademark infringement based on the context of its use, please note that not every use of your trademark in a username is necessarily a trademark infringement. A word or phrase that is used in a different context may not violate your trademark. Learn more about [trademark infringement](https://www.facebook.com/help/349534658401968?helpref=faq_content) in our Help Centre.
@@ -1033,7 +1041,7 @@ Related articles
 
 [What happens when I submit a trademark report to Meta?](https://www.facebook.com/help/493458120789098/?helpref=related_articles)
 
-[Create a username for your Facebook Page](https://www.facebook.com/help/121237621291199/?helpref=related_articles)
+[How to create a username for your Facebook Page](https://www.facebook.com/help/121237621291199/?helpref=related_articles)
 
 [How do I report copyright infringement on Facebook?](https://www.facebook.com/help/325058084212425/?helpref=related_articles)
 
@@ -1049,7 +1057,7 @@ Related articles
 
 * * *](https://www.facebook.com/help/493458120789098/?helpref=related_articles)
 
-[Create a username for your Facebook Page
+[How to create a username for your Facebook Page
 
 * * *](https://www.facebook.com/help/121237621291199/?helpref=related_articles)
 
@@ -1058,6 +1066,13 @@ Related articles
 * * *](https://www.facebook.com/help/325058084212425/?helpref=related_articles)
 
 [What information do I need to include in a trademark report to Meta?](https://www.facebook.com/help/303715969677454/?helpref=related_articles)
+
+Other ways to get help
+----------------------
+
+Chat with Meta AI support assistant
+
+Resolve issues, make changes and get support in real time
 
 - - -
 
@@ -1428,6 +1443,14 @@ Retract an intellectual property report that you've submitted to Facebook
 
 Copy link
 
+How do I withdraw an IP report?
+
+How do I withdraw a copyright report?
+
+What happens after I withdraw a report?
+
+I have a different question
+
 If you submitted an intellectual property report, but then reached an agreement with the person who posted the content, or if you reported content by mistake, you can withdraw your intellectual property report.
 
 The best way to do this is to complete the retraction form provided to you in the email that you received when you filed your report. Alternatively, you can submit [this form.](https://www.facebook.com/help/contact/237593160842825)
@@ -1466,6 +1489,13 @@ Related articles
 * * *](https://www.facebook.com/help/258317347704209/?helpref=related_articles)
 
 [Content that I posted on Facebook was removed because it was reported for intellectual property infringement. What are my next steps?](https://www.facebook.com/help/365111110185763/?helpref=related_articles)
+
+Other ways to get help
+----------------------
+
+Chat with Meta AI support assistant
+
+Resolve issues, make changes and get support in real time
 
 - - -
 
