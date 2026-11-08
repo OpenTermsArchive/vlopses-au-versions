@@ -326,31 +326,31 @@ Updated: March 2026
 
 - - -
 
-公司
+Company
 
 *   [Snap Inc.](https://www.snap.com/?utm_source=values_snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
-*   [職業](https://careers.snap.com/?utm_source=values_snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
-*   [新聞](https://newsroom.snap.com/?utm_source=values_snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
-*   [隱私和安全](https://values.snap.com/?utm_source=values_snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link)
+*   [Careers](https://careers.snap.com/?utm_source=values_snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
+*   [News](https://newsroom.snap.com/?utm_source=values_snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
+*   [Privacy and Safety](https://values.snap.com/?utm_source=values_snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link)
 
-社群
+Community
 
-*   [Snapchat 支援](https://help.snapchat.com/hc?utm_source=values_snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
-*   [Spectacles 支援](https://support.spectacles.com/?utm_source=values_snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
-*   [社群規範](https://values.snap.com/privacy/transparency/community-guidelines?utm_source=values_snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link)
+*   [Snapchat Support](https://help.snapchat.com/hc?utm_source=values_snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
+*   [Spectacles Support](https://support.spectacles.com/?utm_source=values_snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
+*   [Community Guidelines](https://values.snap.com/privacy/transparency/community-guidelines?utm_source=values_snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link)
 
-廣告宣傳
+Advertising
 
-*   [Snapchat 廣告](https://forbusiness.snapchat.com/?utm_source=values_snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
-*   [廣告政策](https://www.snap.com/ad-policies?utm_source=values_snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
-*   [政治廣告庫](https://www.snap.com/political-ads?utm_source=values_snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
-*   [品牌規範](https://www.snap.com/brand-guidelines?utm_source=values_snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
-*   [推廣規則](https://help.snapchat.com/hc/articles/7047502545044?utm_source=values_snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
+*   [Snapchat Ads](https://forbusiness.snapchat.com/?utm_source=values_snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
+*   [Advertising Policies](https://www.snap.com/ad-policies?utm_source=values_snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
+*   [Political Ads Library](https://www.snap.com/political-ads?utm_source=values_snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
+*   [Brand Guidelines](https://www.snap.com/brand-guidelines?utm_source=values_snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
+*   [Promotions Rules](https://help.snapchat.com/hc/articles/7047502545044?utm_source=values_snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
 
-法律
+Legal
 
-*   [其他條款和政策](https://www.snap.com/policies?utm_source=values_snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
-*   [執法機關](https://values.snap.com/safety/safety-enforcement?utm_source=values_snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link)
-*   [Cookie 政策](https://www.snap.com/cookie-policy?utm_source=values_snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
-*   [Cookie 設定](https://snap.com/cookie-settings?utm_source=values_snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
-*   [檢舉侵權](https://help.snapchat.com/hc/articles/7012332110996?utm_source=values_snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
+*   [Other Terms & Policies](https://www.snap.com/policies?utm_source=values_snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
+*   [Law enforcement](https://values.snap.com/safety/safety-enforcement?utm_source=values_snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link)
+*   [Cookie Policy](https://www.snap.com/cookie-policy?utm_source=values_snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
+*   [Cookie Settings](https://snap.com/cookie-settings?utm_source=values_snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
+*   [Report Infringement](https://help.snapchat.com/hc/articles/7012332110996?utm_source=values_snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
