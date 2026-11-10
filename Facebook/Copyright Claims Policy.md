@@ -14,16 +14,6 @@ Intellectual property
 
 Copy link
 
-What is Facebook copyright?
-
-What is Facebook trademark?
-
-How do I report copyright violations?
-
-How do I report trademark violations?
-
-I have a different question
-
 Facebook is committed to helping people and organisations protect their intellectual property rights. The Facebook [Terms of Service](https://www.facebook.com/legal/terms) do not allow posting content that violates someone else's intellectual property rights, including copyright and trademark.
 
 Copyright
@@ -399,6 +389,14 @@ How long does trademark protection last?
 
 Copy link
 
+What is trademark protection?
+
+How do I lose trademark rights?
+
+How long do trademark rights last?
+
+I have a different question
+
 Trademark rights may last indefinitely, but only if the trademark owner continues to use the trademark in commerce to identify their products or services. If a trademark owner stops using the trademark, or if it isn't used properly, they might lose their trademark rights.
 
 For trademarks that are registered with the United States Patent and Trademark Office (USPTO), registrations must be renewed periodically. For trademarks that are registered with the European Union Intellectual Property Office (EUIPO), registration lasts for ten years and may be renewed indefinitely. The laws in other jurisdictions may vary.
@@ -435,6 +433,13 @@ Related articles
 * * *](https://www.facebook.com/help/507663689427413/?helpref=related_articles)
 
 [Reporting Trademark Infringements](https://www.facebook.com/help/440684869305015/?helpref=related_articles)
+
+Other ways to get help
+----------------------
+
+Chat with Meta AI support assistant
+
+Resolve issues, make changes and get support in real time
 
 - - -
 
@@ -1923,6 +1928,14 @@ How long does copyright protection last?
 
 Copy link
 
+What is copyright protection?
+
+What is the public domain?
+
+How long does copyright last?
+
+I have a different question
+
 Copyright protection doesn't last forever. Eventually, a work loses copyright protection and becomes part of the "public domain". Once a work is in the public domain, it's freely available for anyone to use.
 
 A central purpose of copyright law is to encourage people to make creative works. For this reason, the public domain ensures that copyright owners obtain certain rights only for a limited amount of time. This balance between copyright law and the public domain gives the author an incentive to create, but also gives other people the ability to use the work without permission after the copyright has expired.
@@ -2470,6 +2483,14 @@ How do I report copyright infringement on Facebook?
 ===================================================
 
 Copy link
+
+How do I report copyright?
+
+What is copyright infringement?
+
+How do I contact Facebook agent?
+
+I have a different question
 
 If you believe that content on Facebook is infringing on your copyright, you can take one or more of the following actions:
 
