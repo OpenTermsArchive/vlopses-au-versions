@@ -461,14 +461,6 @@ What is a counterfeit?
 
 Copy link
 
-What is a counterfeit good?
-
-How do I report counterfeit goods?
-
-What is trademark infringement?
-
-I have a different question
-
 A counterfeit good is a knock-off or replica version of another company's product. It usually copies the trademark (name or logo) and/or distinctive features of that other company's product to imitate a genuine product. The manufacture, promotion or sale of counterfeit goods is a type of trademark infringement that is illegal in most countries, and is recognised as being harmful to consumers, trademark owners and honest sellers. Please note that counterfeit goods may be unlawful even if the seller explicitly says that the goods are counterfeit, or otherwise disclaims authenticity of the goods.
 
 If you believe that content on Facebook is selling or promoting counterfeit goods, you can report it by [filling in this form](https://www.facebook.com/help/ipreporting/report/counterfeit).
@@ -889,14 +881,6 @@ How do I report trademark infringement on Facebook?
 ===================================================
 
 Copy link
-
-How do I report trademark infringement?
-
-What happens after I report trademark infringement?
-
-What are the legal consequences?
-
-I have a different question
 
 Meta can't adjudicate disputes between third parties, and so we wouldn't be in a position to act on trademark reports that require an in-depth trademark analysis or a real-world dispute outside Facebook. In these situations, rather than contacting Meta, you may want to contact the party that you believe is infringing your rights directly, or seek any resolution in court or by other judicial means.
 
@@ -1381,6 +1365,14 @@ Report a third-party app on Facebook that you think infringes your intellectual 
 
 Copy link
 
+How do I report a third-party app?
+
+What is intellectual property infringement?
+
+How do I contact an app developer?
+
+I have a different question
+
 Some apps you may find on Facebook are created and operated by third-party developers. Meta doesn't control the content made available through these apps.
 
 If you believe that an app developer isn't following the Facebook [Terms of Service](https://www.facebook.com/terms.php), we suggest contacting the developer directly with your concerns.
@@ -1417,6 +1409,13 @@ Related articles
 * * *](https://www.facebook.com/help/348831205149904/?helpref=related_articles)
 
 [Report an advertisement for intellectual property infringement on Facebook](https://www.facebook.com/help/258317347704209/?helpref=related_articles)
+
+Other ways to get help
+----------------------
+
+Chat with Meta AI support assistant
+
+Resolve issues, make changes and get support in real time
 
 - - -
 
