@@ -2002,16 +2002,6 @@ How can I make sure that the content I post to Facebook doesn't violate copyrigh
 
 Copy link
 
-What is Facebook copyright law?
-
-How do I avoid Facebook copyright?
-
-What is Facebook fair use?
-
-What is Facebook public domain?
-
-I have a different question
-
 Under Facebook's [Terms of Service](https://www.facebook.com/terms.php) and [Community Standards](https://l.facebook.com/l.php?u=https%3A%2F%2Ftransparency.meta.com%2Fpolicies%2Fcommunity-standards%2F), you can only post content to Facebook that doesn't violate someone else's intellectual property rights. The best way to help make sure that what you post to Facebook doesn't violate copyright law is to only post content that you've created yourself. It's possible to infringe someone else's copyright when you post their content on Facebook, even if you:
 
 *   Bought or downloaded the content (for example, a song from iTunes)
@@ -2085,16 +2075,6 @@ What are fair use and other exceptions to copyright?
 ====================================================
 
 Copy link
-
-What is fair use copyright?
-
-What are copyright exceptions?
-
-How does fair use apply?
-
-What is copyright infringement?
-
-I have a different question
 
 Laws across the globe recognise that strict application of copyright laws in certain cases may be unfair or may inappropriately stifle creativity or stop people from creating original works, which would harm the public. These laws allow people to use, under certain circumstances, someone else's copyrighted work. Common examples include use for the purpose of criticism, commentary, parody, satire, news reporting, teaching, education and research.
 
@@ -2257,16 +2237,6 @@ A video that I posted on Facebook was removed immediately. What happened, and wh
 
 Copy link
 
-What happens if my video is removed?
-
-What is Facebook copyright content?
-
-How do I check my email settings?
-
-How do I check my notification settings?
-
-I have a different question
-
 If you tried to post a video and it was immediately removed, it may have been identified as potentially containing someone else's copyrighted content. This could include video, audio or both.
 
 If your video was removed for copyright reasons, you'll receive an email and a notification about the removal. Please use the information that you receive to learn more about your options, such as confirming that you have the right to use the copyrighted work and you still wish to post the content.
@@ -2348,8 +2318,6 @@ Mobile Browser Help
 iPad App Help
 
 Facebook Lite App Help
-
-More
 
 What happens to removed content?
 
@@ -2636,16 +2604,6 @@ What information you need to include in a copyright report to Meta
 
 Copy link
 
-What information do I need?
-
-How do I submit a copyright report?
-
-What happens after I report?
-
-What is copyright infringement?
-
-I have a different question
-
 The fastest and easiest way to submit a claim of copyright infringement on Facebook to us is to [report it](https://www.facebook.com/help/325058084212425?helpref=faq_content). Whether you submit your report through our online form or another method, Facebook needs the following information to be able to process your report:
 
 *   Your complete contact information (full name, postal address and phone number)\*.
@@ -2711,14 +2669,6 @@ Facebook removed content as a result of my copyright report. What information is
 ============================================================================================================================
 
 Copy link
-
-What information is shared?
-
-What is a copyright report?
-
-How do I appeal content removal?
-
-I have a different question
 
 When we receive a [copyright report](https://www.facebook.com/help/325058084212425?helpref=faq_content) through our online form and remove the reported content, we regularly provide the person who posted the content with the following information:
 
