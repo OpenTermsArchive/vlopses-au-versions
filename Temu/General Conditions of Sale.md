@@ -140,7 +140,7 @@ Refunds to Temu credit typically cannot be reversed once they are processed.
 
 Typically, Temu credits cannot be redeemed for cash and can only be used for purchases on Temu.
 
-For more information about Temu credits, please visit: About credit balance.
+For more information about Temu credit, please visit: About credit balance.
 
 6\. Refund timeline
 
