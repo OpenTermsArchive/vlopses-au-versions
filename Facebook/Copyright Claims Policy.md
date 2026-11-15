@@ -194,16 +194,6 @@ What is trademark infringement?
 
 Copy link
 
-What is trademark infringement?
-
-What is trademark dilution?
-
-What is a protected trademark?
-
-How does trademark law work?
-
-I have a different question
-
 Generally, trademark infringement occurs when all three of the following requirements are met:
 
 1.  A company or person uses a trademark owner's trademark (or similar trademark) without permission
@@ -253,13 +243,6 @@ Related articles
 * * *](https://www.facebook.com/help/507663689427413/?helpref=related_articles)
 
 [What's the difference between copyright and trademark?](https://www.facebook.com/help/339026683156879/?helpref=related_articles)
-
-Other ways to get help
-----------------------
-
-Chat with Meta AI support assistant
-
-Resolve issues, make changes and get support in real time
 
 - - -
 
@@ -1083,6 +1066,16 @@ What you should consider before submitting a report of intellectual property inf
 =====================================================================================================
 
 Copy link
+
+What is intellectual property?
+
+What is copyright infringement?
+
+What is trademark infringement?
+
+What is fair use?
+
+I have a different question
 
 Before you submit a report, please consider whether the content you want to report may be a permissible use of your [copyright](https://www.facebook.com/help/337995452911154?helpref=faq_content) or [trademark](https://www.facebook.com/help/719682678205946?helpref=faq_content). If you're not sure whether the content you're reporting infringes your intellectual property rights (e.g. because it may be a fair use), you may want to seek legal guidance.
 
