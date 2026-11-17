@@ -405,7 +405,7 @@ By using our Platform in the UAE, this Privacy Policy will be governed by and in
 
 If you are using our services in Vietnam, the following additional terms apply. In the event of any conflict between the following additional terms and the provisions of the main body of this policy, the following terms shall prevail.
 
-_Methods of processing your personal data_. We may process your personal data by manual or automated methods.
+_Methods of processing your personal data._ We may process your personal data by manual or automated methods. We may also share certain Usage Information with sellers and creators, for example, to help them identify their most engaged customers.
 
 _Data subject's rights and obligations._ Subject to certain exceptions, you have statutory rights and obligations under applicable laws. In particular, you have the following statutory rights:
 
