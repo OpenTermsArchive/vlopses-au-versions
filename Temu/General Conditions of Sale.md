@@ -284,7 +284,7 @@ In most cases, your order will be delivered within the estimated time of deliver
 Minimum Order Value
 -------------------
 
-(1) Non-local warehouse orders: The minimum order value required for a customer to complete an order is as follows: for the first order by a customer, the minimum order value is AU$15; and AU$40 for subsequent orders, with the following exceptions for returning users shipping to: QLD, TAS, NT (AU$50 order min.) (2) Local warehouse orders: There is no minimum order value required.
+(1) Non-local warehouse orders: To complete an order, customers must meet the following minimum order value after any applicable coupons and discounts have been applied: for the first order by a customer, the minimum order value is AU$15; and AU$40 for subsequent orders, with the following exceptions for returning users shipping to: QLD, TAS, NT (AU$50 order min.) (2) Local warehouse orders: There is no minimum order value required.
 
 Issues regarding delivery
 -------------------------
