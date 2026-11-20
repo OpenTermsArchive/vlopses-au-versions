@@ -255,15 +255,15 @@ We accept
 Temu | Shipping Info
 ====================
 
-Free standard shipping and Click & Collect
-------------------------------------------
+Free standard shipping
+----------------------
 
-For most of the products (excluding products shipped from local warehouses, which have no minimum order value), standard shipping and Click & Collect are free over applicable minimum order requirements. Please refer to product detail pages for available shipping methods and applicable minimum order requirements.
+For most of the products (excluding products shipped from local warehouses, which have no minimum order value), standard shipping is free over applicable minimum order requirements. Please refer to product detail pages for available shipping methods and applicable minimum order requirements.
 
 Shipping options
 ----------------
 
-You may choose standard shipping, express shipping or Click & Collect depending on the items in your order and your location. As your orders may be handed over to local carriers for the final leg of delivery, tracking may not be available every step of the way.
+You may choose standard shipping or express shipping depending on the items in your order and your location. As your orders may be handed over to local carriers for the final leg of delivery, tracking may not be available every step of the way.
 
 Shipping address
 ----------------
