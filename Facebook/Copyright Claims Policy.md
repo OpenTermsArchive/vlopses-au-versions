@@ -14,16 +14,6 @@ Intellectual property
 
 Copy link
 
-What is Facebook copyright?
-
-What is Facebook trademark?
-
-How do I report copyright violations?
-
-How do I report trademark violations?
-
-I have a different question
-
 Facebook is committed to helping people and organisations protect their intellectual property rights. The Facebook [Terms of Service](https://www.facebook.com/legal/terms) do not allow posting content that violates someone else's intellectual property rights, including copyright and trademark.
 
 Copyright
@@ -193,16 +183,6 @@ What is trademark infringement?
 ===============================
 
 Copy link
-
-What is trademark infringement?
-
-What is trademark dilution?
-
-What is a protected trademark?
-
-How does trademark law work?
-
-I have a different question
 
 Generally, trademark infringement occurs when all three of the following requirements are met:
 
@@ -461,14 +441,6 @@ What is a counterfeit?
 
 Copy link
 
-What is a counterfeit good?
-
-How do I report counterfeit goods?
-
-What is trademark infringement?
-
-I have a different question
-
 A counterfeit good is a knock-off or replica version of another company's product. It usually copies the trademark (name or logo) and/or distinctive features of that other company's product to imitate a genuine product. The manufacture, promotion or sale of counterfeit goods is a type of trademark infringement that is illegal in most countries, and is recognised as being harmful to consumers, trademark owners and honest sellers. Please note that counterfeit goods may be unlawful even if the seller explicitly says that the goods are counterfeit, or otherwise disclaims authenticity of the goods.
 
 If you believe that content on Facebook is selling or promoting counterfeit goods, you can report it by [filling in this form](https://www.facebook.com/help/ipreporting/report/counterfeit).
@@ -659,14 +631,6 @@ How can I make sure that the content I post to Facebook doesn't violate trademar
 
 Copy link
 
-What is trademark infringement?
-
-What are Facebook's trademark policies?
-
-How do I avoid trademark issues?
-
-I have a different question
-
 Under Facebook's [Terms of Service](https://www.facebook.com/terms) and [Community Standards](https://l.facebook.com/l.php?u=https%3A%2F%2Ftransparency.meta.com%2Fpolicies%2Fcommunity-standards%2F), you can only post content to Facebook if it doesn't violate someone else's intellectual property rights, including trademarks. Please note that as a Facebook user, you are responsible for the content you post. If your content violates Facebook's policies or is reported to Meta as infringing the intellectual property rights of another party, Facebook may remove that content.
 
 Before you post content, you might want to ask:
@@ -794,16 +758,6 @@ Repeated intellectual property infringement on Facebook
 =======================================================
 
 Copy link
-
-What happens if I repeatedly infringe?
-
-What is intellectual property?
-
-What happens to my Facebook account?
-
-What are Facebook feature limits?
-
-I have a different question
 
 By using Facebook, you agree to our [Terms of Service](https://www.facebook.com/terms). Our terms prohibit people from taking any action on Facebook that infringes or violates someone else's intellectual property rights or otherwise violates the law.
 
@@ -957,16 +911,6 @@ Can I report an infringement of someone else's intellectual property on Facebook
 =================================================================================
 
 Copy link
-
-How do I report intellectual property?
-
-What is intellectual property?
-
-What is a copyright infringement?
-
-What is a trademark infringement?
-
-I have a different question
 
 Only an intellectual property rights owner or their authorised representative may report a suspected infringement. If you believe that content on Facebook infringes someone else's copyright or trademark rights, you may want to let the rights owner know.
 
@@ -2257,16 +2201,6 @@ A video that I posted on Facebook was removed immediately. What happened, and wh
 
 Copy link
 
-What happens if my video is removed?
-
-What is Facebook copyright content?
-
-How do I check my email settings?
-
-How do I check my notification settings?
-
-I have a different question
-
 If you tried to post a video and it was immediately removed, it may have been identified as potentially containing someone else's copyrighted content. This could include video, audio or both.
 
 If your video was removed for copyright reasons, you'll receive an email and a notification about the removal. Please use the information that you receive to learn more about your options, such as confirming that you have the right to use the copyrighted work and you still wish to post the content.
@@ -2635,16 +2569,6 @@ What information you need to include in a copyright report to Meta
 ==================================================================
 
 Copy link
-
-What information do I need?
-
-How do I submit a copyright report?
-
-What happens after I report?
-
-What is copyright infringement?
-
-I have a different question
 
 The fastest and easiest way to submit a claim of copyright infringement on Facebook to us is to [report it](https://www.facebook.com/help/325058084212425?helpref=faq_content). Whether you submit your report through our online form or another method, Facebook needs the following information to be able to process your report:
 
