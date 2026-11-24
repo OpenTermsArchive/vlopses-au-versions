@@ -186,8 +186,80 @@ Resolve issues, make changes and get support in real time
 
 - - -
 
-Sorry! Something went wrong :(
-------------------------------
+*   [Policies](https://www.facebook.com/help/463972400461409/?helpref=breadcrumb)
+*   [Intellectual property](https://www.facebook.com/help/399224883474207/?helpref=breadcrumb)
+
+What is trademark infringement?
+===============================
+
+Copy link
+
+What is trademark infringement?
+
+What is trademark dilution?
+
+What is a protected trademark?
+
+How does trademark law work?
+
+I have a different question
+
+Generally, trademark infringement occurs when all three of the following requirements are met:
+
+1.  A company or person uses a trademark owner's trademark (or similar trademark) without permission
+2.  That use is in commerce, meaning that it's done in connection with the sale or promotion of goods or services
+3.  That use is likely to confuse consumers about the source, endorsement or affiliation of the goods or services
+
+The touchstone of trademark infringement is often "likelihood of confusion", and there are many factors that determine whether a use of a trademark is likely to cause confusion. For example, when a person's trademark is also used by someone else, but on unrelated goods or services, that use may not be infringement because it may not cause confusion. Which party used the trademark first can often be an important consideration as well.
+
+There are also many limits to trademark rights that can preclude a trademark infringement claim. These include, amongst other things, geographic limitations, as well as the ability for someone to use your trademark to lawfully comment on or criticise your goods or services.
+
+Please note that the law in different countries relating to trademark rights and trademark infringement can vary. If you're not sure whether a particular use of a trademark would be considered infringement, you may want to seek legal advice.
+
+Trademark dilution
+------------------
+
+Trademark dilution may also be unlawful in certain countries. Dilution, which applies to famous trademarks, may occur in certain circumstances when a trademark is used without permission in commerce. Examples of dilution can include blurring (using the mark for unrelated goods or services in a way that weakens the distinctiveness of the mark) or tarnishment (using the mark in an unflattering or offensive way).
+
+Related articles
+----------------
+
+[Are there any limits to trademark rights?](https://www.facebook.com/help/719682678205946/?helpref=related_articles)
+
+[What information do I need to include in a trademark report to Meta?](https://www.facebook.com/help/303715969677454/?helpref=related_articles)
+
+[What are trademarks and what they protect](https://www.facebook.com/help/1378807958858854/?helpref=related_articles)
+
+[Trademark](https://www.facebook.com/help/507663689427413/?helpref=related_articles)
+
+[What's the difference between copyright and trademark?](https://www.facebook.com/help/339026683156879/?helpref=related_articles)
+
+Related articles
+
+[Are there any limits to trademark rights?
+
+* * *](https://www.facebook.com/help/719682678205946/?helpref=related_articles)
+
+[What information do I need to include in a trademark report to Meta?
+
+* * *](https://www.facebook.com/help/303715969677454/?helpref=related_articles)
+
+[What are trademarks and what they protect
+
+* * *](https://www.facebook.com/help/1378807958858854/?helpref=related_articles)
+
+[Trademark
+
+* * *](https://www.facebook.com/help/507663689427413/?helpref=related_articles)
+
+[What's the difference between copyright and trademark?](https://www.facebook.com/help/339026683156879/?helpref=related_articles)
+
+Other ways to get help
+----------------------
+
+Chat with Meta AI support assistant
+
+Resolve issues, make changes and get support in real time
 
 - - -
 
@@ -2282,14 +2354,6 @@ Facebook Lite App Help
 
 More
 
-What happens to removed content?
-
-How do I appeal content removal?
-
-What is intellectual property infringement?
-
-I have a different question
-
 When we receive a report from a rights owner claiming that content you posted on Facebook infringes their intellectual property rights, we may need to promptly remove that content from Facebook without contacting you first.
 
 If we remove content that you posted because of an intellectual property report submitted through our online form, you'll receive a notification from Meta that may include the name and email address of the rights owner who made the report and/or other details of the report. If you believe the content shouldn't have been removed, you can follow up with the rights owner directly to try to resolve the issue.
@@ -2337,13 +2401,6 @@ Related articles
 * * *](https://www.facebook.com/help/134552198624586/?helpref=related_articles)
 
 [How to request a review of removed Facebook content](https://www.facebook.com/help/2090856331203011/?helpref=related_articles)
-
-Other ways to get help
-----------------------
-
-Chat with Meta AI support assistant
-
-Resolve issues, make changes and get support in real time
 
 - - -
 
