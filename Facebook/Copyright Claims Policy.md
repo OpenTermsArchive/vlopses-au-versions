@@ -1443,6 +1443,14 @@ Retract an intellectual property report that you've submitted to Facebook
 
 Copy link
 
+How do I withdraw an IP report?
+
+How do I withdraw a copyright report?
+
+What happens after I withdraw a report?
+
+I have a different question
+
 If you submitted an intellectual property report, but then reached an agreement with the person who posted the content, or if you reported content by mistake, you can withdraw your intellectual property report.
 
 The best way to do this is to complete the retraction form provided to you in the email that you received when you filed your report. Alternatively, you can submit [this form.](https://www.facebook.com/help/contact/237593160842825)
@@ -1499,6 +1507,14 @@ Facebook removed content as a result of my trademark report. What information is
 
 Copy link
 
+What information is sent?
+
+What is a trademark report?
+
+How do I appeal removed content?
+
+I have a different question
+
 When we receive [trademark reports](https://www.facebook.com/help/191999230901156?helpref=faq_content) and remove the reported content, we typically provide the person who posted the content with the following information:
 
 *   Report number
@@ -1543,6 +1559,13 @@ Related articles
 * * *](https://www.facebook.com/help/303715969677454/?helpref=related_articles)
 
 [How can I make sure that the content I post to Facebook doesn't violate trademark law?](https://www.facebook.com/help/189778307789711/?helpref=related_articles)
+
+Other ways to get help
+----------------------
+
+Chat with Meta AI support assistant
+
+Resolve issues, make changes and get support in real time
 
 - - -
 
