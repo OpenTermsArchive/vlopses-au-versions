@@ -399,14 +399,6 @@ How long does trademark protection last?
 
 Copy link
 
-What is trademark protection?
-
-How do I lose trademark rights?
-
-How long do trademark rights last?
-
-I have a different question
-
 Trademark rights may last indefinitely, but only if the trademark owner continues to use the trademark in commerce to identify their products or services. If a trademark owner stops using the trademark, or if it isn't used properly, they might lose their trademark rights.
 
 For trademarks that are registered with the United States Patent and Trademark Office (USPTO), registrations must be renewed periodically. For trademarks that are registered with the European Union Intellectual Property Office (EUIPO), registration lasts for ten years and may be renewed indefinitely. The laws in other jurisdictions may vary.
@@ -443,13 +435,6 @@ Related articles
 * * *](https://www.facebook.com/help/507663689427413/?helpref=related_articles)
 
 [Reporting Trademark Infringements](https://www.facebook.com/help/440684869305015/?helpref=related_articles)
-
-Other ways to get help
-----------------------
-
-Chat with Meta AI support assistant
-
-Resolve issues, make changes and get support in real time
 
 - - -
 
@@ -1381,14 +1366,6 @@ Report a third-party app on Facebook that you think infringes your intellectual 
 
 Copy link
 
-How do I report a third-party app?
-
-What is intellectual property infringement?
-
-How do I contact an app developer?
-
-I have a different question
-
 Some apps you may find on Facebook are created and operated by third-party developers. Meta doesn't control the content made available through these apps.
 
 If you believe that an app developer isn't following the Facebook [Terms of Service](https://www.facebook.com/terms.php), we suggest contacting the developer directly with your concerns.
@@ -1425,13 +1402,6 @@ Related articles
 * * *](https://www.facebook.com/help/1380418588640631/?helpref=related_articles)
 
 [Tools Facebook provides to protect your intellectual property](https://www.facebook.com/help/348831205149904/?helpref=related_articles)
-
-Other ways to get help
-----------------------
-
-Chat with Meta AI support assistant
-
-Resolve issues, make changes and get support in real time
 
 - - -
 
@@ -2142,9 +2112,9 @@ Related articles
 
 [Where can I learn more about copyright?](https://www.facebook.com/help/1796523567227660/?helpref=related_articles)
 
-[How do you know if you own the copyright in a work](https://www.facebook.com/help/1145592148881382/?helpref=related_articles)
-
 [About how long copyright protection lasts](https://www.facebook.com/help/697921770376427/?helpref=related_articles)
+
+[How do you know if you own the copyright in a work](https://www.facebook.com/help/1145592148881382/?helpref=related_articles)
 
 Related articles
 
@@ -2160,11 +2130,11 @@ Related articles
 
 * * *](https://www.facebook.com/help/1796523567227660/?helpref=related_articles)
 
-[How do you know if you own the copyright in a work
+[About how long copyright protection lasts
 
-* * *](https://www.facebook.com/help/1145592148881382/?helpref=related_articles)
+* * *](https://www.facebook.com/help/697921770376427/?helpref=related_articles)
 
-[About how long copyright protection lasts](https://www.facebook.com/help/697921770376427/?helpref=related_articles)
+[How do you know if you own the copyright in a work](https://www.facebook.com/help/1145592148881382/?helpref=related_articles)
 
 Other ways to get help
 ----------------------
@@ -2213,9 +2183,9 @@ Learn more about [copyright and what copyright laws protect](https://www.faceboo
 Related articles
 ----------------
 
-[How do I report copyright infringement on Facebook?](https://www.facebook.com/help/325058084212425/?helpref=related_articles)
-
 [How to avoid copyright infringement when you post on Facebook](https://www.facebook.com/help/308895412492789/?helpref=related_articles)
+
+[How do I report copyright infringement on Facebook?](https://www.facebook.com/help/325058084212425/?helpref=related_articles)
 
 [Repeated intellectual property infringement on Facebook](https://www.facebook.com/help/350712395302528/?helpref=related_articles)
 
@@ -2225,13 +2195,13 @@ Related articles
 
 Related articles
 
-[How do I report copyright infringement on Facebook?
-
-* * *](https://www.facebook.com/help/325058084212425/?helpref=related_articles)
-
 [How to avoid copyright infringement when you post on Facebook
 
 * * *](https://www.facebook.com/help/308895412492789/?helpref=related_articles)
+
+[How do I report copyright infringement on Facebook?
+
+* * *](https://www.facebook.com/help/325058084212425/?helpref=related_articles)
 
 [Repeated intellectual property infringement on Facebook
 
