@@ -396,31 +396,31 @@ Up Next: Threats, Violence, & Harm
 
 - - -
 
-Company
+Дружество
 
 *   [Snap Inc.](https://www.snap.com/?utm_source=values_snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
-*   [Careers](https://careers.snap.com/?utm_source=values_snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
-*   [News](https://newsroom.snap.com/?utm_source=values_snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
-*   [Privacy and Safety](https://values.snap.com/)
+*   [Кариери](https://careers.snap.com/?utm_source=values_snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
+*   [Новини](https://newsroom.snap.com/?utm_source=values_snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
+*   [Поверителност и безопасност](https://values.snap.com/)
 
-Community
+Общност
 
-*   [Snapchat Support](https://help.snapchat.com/hc?utm_source=values_snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
-*   [Spectacles Support](https://support.spectacles.com/?utm_source=values_snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
-*   [Community Guidelines](https://values.snap.com/privacy/transparency/community-guidelines)
+*   [Поддръжка на Snapchat](https://help.snapchat.com/hc?utm_source=values_snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
+*   [Поддръжка на Spectacles](https://support.spectacles.com/?utm_source=values_snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
+*   [Насоки на Общността](https://values.snap.com/privacy/transparency/community-guidelines)
 
-Advertising
+Реклама
 
-*   [Snapchat Ads](https://forbusiness.snapchat.com/?utm_source=values_snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
-*   [Advertising Policies](https://www.snap.com/ad-policies?utm_source=values_snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
-*   [Political Ads Library](https://www.snap.com/political-ads?utm_source=values_snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
-*   [Brand Guidelines](https://www.snap.com/brand-guidelines?utm_source=values_snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
-*   [Promotions Rules](https://help.snapchat.com/hc/articles/7047502545044?utm_source=values_snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
+*   [Реклами за Snapchat](https://forbusiness.snapchat.com/?utm_source=values_snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
+*   [Политики за реклама](https://www.snap.com/ad-policies?utm_source=values_snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
+*   [Библиотека за политически реклами](https://www.snap.com/political-ads?utm_source=values_snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
+*   [Насоки за марката](https://www.snap.com/brand-guidelines?utm_source=values_snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
+*   [Правила за промоции](https://help.snapchat.com/hc/articles/7047502545044?utm_source=values_snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
 
-Legal
+Правен
 
-*   [Other Terms & Policies](https://www.snap.com/policies?utm_source=values_snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
-*   [Law enforcement](https://values.snap.com/safety/safety-enforcement)
-*   [Cookie Policy](https://www.snap.com/cookie-policy?utm_source=values_snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
-*   [Cookie Settings](https://snap.com/cookie-settings?utm_source=values_snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
-*   [Report Infringement](https://help.snapchat.com/hc/articles/7012332110996?utm_source=values_snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
+*   [Други Условия и политики](https://www.snap.com/policies?utm_source=values_snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
+*   [Правоприлагане](https://values.snap.com/safety/safety-enforcement)
+*   [Политика за бисквитки](https://www.snap.com/cookie-policy?utm_source=values_snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
+*   [Настройки за бисквитки](https://snap.com/cookie-settings?utm_source=values_snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
+*   [Докладвайте за нарушение](https://help.snapchat.com/hc/articles/7012332110996?utm_source=values_snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
