@@ -171,79 +171,6 @@ Community Guidelines Explainer Series
 
 Updated: March 2026
 
-### 
-
-Overview
-
-Bullying and harassment are counter to Snapchat’s values. These harms can take many forms, so we use a multifaceted approach to help combat them. Along with our policy and enforcement, we use product safety mitigations and provide resources to users.
-
-As a baseline, our policies prohibit content and conduct that mocks, shames, or demeans a person based on their physical appearance, personality, intelligence, or personal characteristics, as well as repeated mistreatment or unwanted contact. We also prohibit sharing private information or imagery of people without their knowledge or consent-- especially of members of vulnerable populations including minors, unhoused people, or those in medical or assisted-living facilities or nursing homes.
-
-In addition to enforcing these policies consistently, we use our product design to help limit harmful behaviour that may violate these rules. For example, we use default settings that require both friends to accept a connection before they can chat with each other.
-
-  
-
-### 
-
-Prohibited Conduct
-
-Violations of our harassment and bullying policies include any unwanted behaviour that could cause an ordinary person to experience emotional distress. We prohibit the following: 
-
-*   Posting content that mocks, shames, degrades, stigmatises, or demeans a person based on their physical appearance, personality, intelligence, or personal characteristics, including aggressive or profane name-calling.
-    
-*   Rumour-spreading, including accounts dedicated to anonymously bullying or shaming individuals. 
-    
-*   Mocking victims of violence, death, or tragedy or wishing violence, death, or tragedy upon another party. 
-    
-*   Inviting harassment of another person by sharing personal or identifiable information together with encouraging harassment of that person (e.g., “doxxing”). 
-    
-*   Sharing manipulated imagery of another person (including AI-generated, digitally-created, manipulated, illustrated imagery (such as cartoons or edited stickers) for the purpose of humiliation. 
-    
-*   Repeated, unwanted contact, including using a new account to contact someone after previously being blocked or asked not to contact them. 
-    
-
-Snap does allow for commentary and criticism of public figures who are 18 years or older, provided that such content does not include discrimination, harassment, or calls for violence or harm. 
-
-We expect users to respect others’ personal privacy. Snap prohibits the following:
-
-*   Sharing another person’s private or personally identifiable information (PII). 
-    
-*   Sharing private content, including screenshots or recordings of private imagery or conversations. 
-    
-*   Sharing content featuring vulnerable people who may not be able to consent to their content being captured or shared, including minors, unhoused people, people with diminished mental capacity, and those in a medical facility, nursing home, or assisted living facility.  
-    
-
-### 
-
-Our efforts to protect users
-
-  
-
-We aim to balance safety and privacy in our approach to protecting users. We use a combination of automated tools and human review to prevent users from being exposed to harassment or bullying on public surfaces (such as Spotlight, Public Stories and Maps). 
-
-We built Snapchat to connect real friends and limit unwanted exposure. By default, users can receive messages only from people they’ve added as friends. Users can also make their profiles private and block users from seeing or contacting them. For users under the age of 18, profiles are private by default, and for users under the age of 16, profiles can only be set to private. 
-
-We encourage users to report when they experience or observe violations of these rules. We take a victim-centric approach when evaluating harassment and bullying by considering whether a user perceives a situation as bullying or harassment when they are the target of such conduct. Our moderation teams aim to ensure that each user feels safe and comfortable using Snapchat.
-
-### 
-
-Takeaway
-
-We prohibit harassment and bullying. We want our users to feel safe while using Snapchat. If you ever feel uncomfortable, please do not hesitate to send us a report and block the other user—these features are provided for your safety. Through our [Here For You](https://help.snapchat.com/hc/en-us/articles/7012398974612-Wellbeing-Features-on-Snapchat?lang=en-GB#:~:text=Here%20For%20You%20provides%20proactive,are%20at%20risk%20for%20self%2Dharm.) portal, we help ensure users have access to in-app resources and information to help recognise and address bullying and harassment. We also provide tools to facilitate easy reporting of any violating behaviour on Snapchat.
-
-Please be considerate of people’s dignity and privacy—if they express discomfort, respect their boundaries. If they ask you to remove content about them, please do, and generally refrain from sharing images of people or information about them without their permission.
-
-  
-
-Up Next:
-
-Illegal or Regulated Activities
-
-
------------------------------------
-
-[Read Next](https://values.snap.com/policy/policy-community-guidelines/illegal-regulated-activities)
-
 - - -
 
 Community Guidelines
@@ -330,31 +257,31 @@ Up Next: Threats, Violence, & Harm
 
 - - -
 
-Дружество
+Company
 
 *   [Snap Inc.](https://www.snap.com/?utm_source=values_snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
-*   [Кариери](https://careers.snap.com/?utm_source=values_snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
-*   [Новини](https://newsroom.snap.com/?utm_source=values_snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
-*   [Поверителност и безопасност](https://values.snap.com/)
+*   [Careers](https://careers.snap.com/?utm_source=values_snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
+*   [News](https://newsroom.snap.com/?utm_source=values_snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
+*   [Privacy and Safety](https://values.snap.com/)
 
-Общност
+Community
 
-*   [Поддръжка на Snapchat](https://help.snapchat.com/hc?utm_source=values_snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
-*   [Поддръжка на Spectacles](https://support.spectacles.com/?utm_source=values_snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
-*   [Насоки на Общността](https://values.snap.com/privacy/transparency/community-guidelines)
+*   [Snapchat Support](https://help.snapchat.com/hc?utm_source=values_snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
+*   [Spectacles Support](https://support.spectacles.com/?utm_source=values_snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
+*   [Community Guidelines](https://values.snap.com/privacy/transparency/community-guidelines)
 
-Реклама
+Advertising
 
-*   [Реклами за Snapchat](https://forbusiness.snapchat.com/?utm_source=values_snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
-*   [Политики за реклама](https://www.snap.com/ad-policies?utm_source=values_snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
-*   [Библиотека за политически реклами](https://www.snap.com/political-ads?utm_source=values_snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
-*   [Насоки за марката](https://www.snap.com/brand-guidelines?utm_source=values_snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
-*   [Правила за промоции](https://help.snapchat.com/hc/articles/7047502545044?utm_source=values_snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
+*   [Snapchat Ads](https://forbusiness.snapchat.com/?utm_source=values_snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
+*   [Advertising Policies](https://www.snap.com/ad-policies?utm_source=values_snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
+*   [Political Ads Library](https://www.snap.com/political-ads?utm_source=values_snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
+*   [Brand Guidelines](https://www.snap.com/brand-guidelines?utm_source=values_snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
+*   [Promotions Rules](https://help.snapchat.com/hc/articles/7047502545044?utm_source=values_snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
 
-Правен
+Legal
 
-*   [Други Условия и политики](https://www.snap.com/policies?utm_source=values_snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
-*   [Правоприлагане](https://values.snap.com/safety/safety-enforcement)
-*   [Политика за бисквитки](https://www.snap.com/cookie-policy?utm_source=values_snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
-*   [Настройки за бисквитки](https://snap.com/cookie-settings?utm_source=values_snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
-*   [Докладвайте за нарушение](https://help.snapchat.com/hc/articles/7012332110996?utm_source=values_snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
+*   [Other Terms & Policies](https://www.snap.com/policies?utm_source=values_snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
+*   [Law enforcement](https://values.snap.com/safety/safety-enforcement)
+*   [Cookie Policy](https://www.snap.com/cookie-policy?utm_source=values_snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
+*   [Cookie Settings](https://snap.com/cookie-settings?utm_source=values_snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
+*   [Report Infringement](https://help.snapchat.com/hc/articles/7012332110996?utm_source=values_snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
